@@ -1,7 +1,7 @@
 # INFTWebToon
 ## Summary
 
-<img align="right" height="180" src="https://github.com/heartexlabs/label-studio/blob/master/images/heartex_icon_opossum_green@2x.png?raw=true" />
+<img align="right" height="180" src="https://inft.github.io/INFT_Lyric/logo.png?raw=true" />
 
 - Nama Kelompok 	  	: INFT
 - Manager		          : Akhmad Bakharun
