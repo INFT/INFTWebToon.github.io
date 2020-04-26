@@ -14,7 +14,6 @@
    - Fachri Muhammad Bandang Haq - 191524042
 
 ## Pendahuluan
-```
 Semakin banyak orang yang gemar membaca webtoon, dan semakin banyak juga webtoon yang dibuat. 
 
 terdapat klasifikasi genre dalam webtoon, namun klasifikasi genrenya masih belum lengkap.  
@@ -26,4 +25,4 @@ kekerasan seperti adegan perkelahian hingga pembunuhan, atau kata-kata kasar yan
 sebagai dialog para character dalam webtoon , maka dari itu perlu dibuatjuga klasifikasi 
 
 genre berdasarkan batas umurnya juga.
-```
+
