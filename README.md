@@ -14,6 +14,6 @@
    - Fachri Muhammad Bandang Haq - 191524042
 
 ## Pendahuluan
-Semakin banyak orang yang gemar membaca webtoon, dan semakin banyak juga webtoon yang dibuat. terdapat klasifikasi genre dalam webtoon, namun klasifikasi genrenya masih belum lengkap.  Tidak hanya adegan dewasa, komik untuk usia 17 tahun ke atas, biasanya juga terdapat unsur kekerasan seperti adegan perkelahian hingga pembunuhan, atau kata-kata kasar yang diucapkan sebagai dialog para character dalam webtoon , maka dari itu perlu dibuatjuga klasifikasi 
+Semakin banyak orang yang gemar membaca webtoon, dan semakin banyak juga webtoon yang dibuat. terdapat klasifikasi genre dalam webtoon, namun klasifikasi genrenya masih belum lengkap.  Tidak hanya adegan dewasa, komik untuk usia 17 tahun ke atas, biasanya juga terdapat unsur kekerasan seperti adegan perkelahian hingga pembunuhan, atau kata-kata kasar yang diucapkan sebagai dialog para character dalam webtoon , maka dari itu perlu dibuat juga klasifikasi 
 genre berdasarkan batas umurnya juga.
 
