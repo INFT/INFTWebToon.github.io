@@ -5,7 +5,8 @@
 
 - Nama Kelompok 	  	: INFT
 - Manager		          : Akhmad Bakharun
-- Leader			     		: Fachri Muhammad Bandang Haq – 191524042
+- Leader			     		: 
+--Fachri Muhammad Bandang Haq – 191524042
 - Analyst		          : 
                      -	Putri Syalwa - 191524054
                      -	Shinta Nurkaafi - 191524061
