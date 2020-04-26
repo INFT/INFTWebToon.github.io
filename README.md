@@ -1,7 +1,7 @@
 # INFTWebToon
 ## Summary
 
-<img align="right" height="180" src="https://inft.github.io/INFT_Lyric/logo.png?raw=true" />
+<img align="right" height="180" src="https://github.com/INFT/INFTWebToon/blob/master/LogoINFTWebToon.PNG?raw=true" />
 
 - Nama Kelompok 	  	: INFT
 - Manager		          : Akhmad Bakharun
