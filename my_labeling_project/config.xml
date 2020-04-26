@@ -1,0 +1,7 @@
+<View>
+  <Image name="img" value="$image_url"/>
+  <Choices name="choice" toName="img" showInLine="true">
+    <Choice value="Ketakutan" background="blue"/>
+    <Choice value="Fantasy" background="green" />
+  </Choices>
+</View>
