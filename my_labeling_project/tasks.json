@@ -1,1 +1,14 @@
-{}
+{
+    "0": {
+        "id": 0,
+        "data": {
+            "image_url": "https://labelstud.io/opossum.jpg"
+        }
+    },
+    "1": {
+        "id": 1,
+        "data": {
+            "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/MageAndDemonQueen-pisode1/MageAndDemonQueen-pisode1-1.PNG"
+        }
+    }
+}
