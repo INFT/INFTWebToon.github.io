@@ -1,0 +1,25 @@
+{
+    "completions": [
+        {
+            "id": 2001,
+            "lead_time": 4.652,
+            "result": [
+                {
+                    "from_name": "choice",
+                    "id": "YDME3KOFD_",
+                    "to_name": "img",
+                    "type": "choices",
+                    "value": {
+                        "choices": [
+                            "Aksi"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "image_url": "https://inft.github.io/INFTWebToon/komik/Arma//Arma-episode%201/Arma-episode%201-1.PNG"
+    },
+    "id": 2
+}

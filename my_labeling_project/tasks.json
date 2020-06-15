@@ -10,5 +10,17 @@
         "data": {
             "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/MageAndDemonQueen-pisode1/MageAndDemonQueen-pisode1-1.PNG"
         }
+    },
+    "2": {
+        "id": 2,
+        "data": {
+            "image_url": "https://inft.github.io/INFTWebToon/komik/Arma//Arma-episode%201/Arma-episode%201-1.PNG"
+        }
+    },
+    "3": {
+        "id": 3,
+        "data": {
+            "image_url": "https://www.google.com/maps/uv?hl=en&pb=!1s0x2e68e420abc30acf%3A0x10569255865460a5!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNS_U4XkgKAH0945kxEeB_yJXoateMFuHT3AUO0%3Dw213-h160-k-no!5spolban%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipNS_U4XkgKAH0945kxEeB_yJXoateMFuHT3AUO0&sa=X&ved=2ahUKEwiOyYPk54LqAhWQXCsKHYZ5CcMQoiowE3oECBQQBg#"
+        }
     }
 }
