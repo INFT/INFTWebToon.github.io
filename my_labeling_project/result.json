@@ -2,533 +2,37 @@
   {
     "completions": [
       {
+        "id": 1,
+        "lead_time": 2.932,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "7VK3g-VaqJ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode/0.jpg"
+    },
+    "id": 0
+  },
+  {
+    "completions": [
+      {
         "id": 1001,
-        "lead_time": 21.836,
+        "lead_time": 3.387,
         "result": [
           {
             "from_name": "choice",
-            "id": "VhohzQ9pmu",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "Menyerang"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1002,
-        "result": [],
-        "skipped": true
-      },
-      {
-        "id": 1003,
-        "result": [],
-        "skipped": true
-      },
-      {
-        "id": 1004,
-        "result": [],
-        "skipped": true
-      },
-      {
-        "id": 1005,
-        "result": [],
-        "skipped": true
-      },
-      {
-        "id": 1006,
-        "result": [],
-        "skipped": true
-      },
-      {
-        "id": 1007,
-        "result": [],
-        "skipped": true
-      },
-      {
-        "id": 1008,
-        "lead_time": 5.591,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "P-7xrYaacR",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "Perkelahian"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1009,
-        "lead_time": 12.736,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "_EmrSYXrqY",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "Perkelahian"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1010,
-        "lead_time": 7.531,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "JL3w_LKxvW",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "lainnya"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1011,
-        "lead_time": 2.465,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "4KuQZE4c9j",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "lainnya"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1012,
-        "lead_time": 9.15,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "bxSg9rg1ro",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "lainnya"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1013,
-        "lead_time": 12.754,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "ijSPoZoNKr",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "lainnya"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1014,
-        "lead_time": 9.953,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "zUdW3Rk8T0",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "lainnya"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1015,
-        "lead_time": 7.053,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "f0J6_Yoz9u",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "lainnya"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1016,
-        "lead_time": 5.238,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "AD7p1l2Zs3",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "lainnya"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1017,
-        "lead_time": 6.708,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "wTKSwnPOU6",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "lainnya"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1018,
-        "lead_time": 4.39,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "Ra8FTS5MMD",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "lainnya"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1019,
-        "lead_time": 4.792,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "QmTYz6mJjW",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "Lucu"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1020,
-        "lead_time": 5.857,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "kEJG57IRUr",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "Lucu"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1021,
-        "lead_time": 5.179,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "0tuvLm5Wow",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "lainnya"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1022,
-        "lead_time": 10.322,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "IvVfIRez--",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "Lebay"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1023,
-        "lead_time": 8.69,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "_Xykc6QDri",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "Perkelahian"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1024,
-        "lead_time": 4.918,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "cvWhKMT6i9",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "lainnya"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1025,
-        "lead_time": 6.041,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "qIAj8fkKRl",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "Lucu"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1026,
-        "lead_time": 8.507,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "JSe42DFCFj",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "lainnya"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1027,
-        "lead_time": 5.752,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "OlsNIsGweW",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "Lucu"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1028,
-        "lead_time": 8.766,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "BzSvc7CBB-",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "Lucu"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1029,
-        "lead_time": 5.859,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "Ad2XdzA7LY",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "Lucu"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1030,
-        "lead_time": 4.897,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "qFBSK0tG9k",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "lainnya"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1031,
-        "lead_time": 3.279,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "2GmOgcvvkv",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "lainnya"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1032,
-        "lead_time": 12.452,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "MWsdnCS7DK",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "Perkelahian"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1033,
-        "lead_time": 30.935,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "0tuvLm5Wow",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "lainnya"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1034,
-        "lead_time": 9.571,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "3OKIDV85N4",
-            "to_name": "img",
-            "type": "choices",
-            "value": {
-              "choices": [
-                "Perkelahian"
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 1035,
-        "result": [],
-        "skipped": true
-      },
-      {
-        "id": 1036,
-        "result": [],
-        "skipped": true
-      },
-      {
-        "id": 1037,
-        "result": [],
-        "skipped": true
-      },
-      {
-        "id": 1038,
-        "lead_time": 17.947,
-        "result": [
-          {
-            "from_name": "choice",
-            "id": "Ur8MThKUCX",
+            "id": "6aKPmpZXPi",
             "to_name": "img",
             "type": "choices",
             "value": {
@@ -544,5 +48,605 @@
       "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/1.jpg"
     },
     "id": 1
+  },
+  {
+    "completions": [
+      {
+        "id": 10001,
+        "lead_time": 3.383,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "i-ibof-NHG",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/10.jpg"
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "id": 11001,
+        "lead_time": 3.15,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "43h2rW_ppe",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/11.jpg"
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "id": 12001,
+        "lead_time": 6.174,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "MEKkScbOYz",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/12.jpg"
+    },
+    "id": 12
+  },
+  {
+    "completions": [
+      {
+        "id": 13001,
+        "lead_time": 3.417,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "MEIRf50TJN",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/13.jpg"
+    },
+    "id": 13
+  },
+  {
+    "completions": [
+      {
+        "id": 14001,
+        "lead_time": 3.915,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "LYyD7k2lac",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/14.jpg"
+    },
+    "id": 14
+  },
+  {
+    "completions": [
+      {
+        "id": 15001,
+        "lead_time": 6.502,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "LqQHap4h3K",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/15.jpg"
+    },
+    "id": 15
+  },
+  {
+    "completions": [
+      {
+        "id": 16001,
+        "lead_time": 8.007,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "mQ82_8K0Jm",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/16.jpg"
+    },
+    "id": 16
+  },
+  {
+    "completions": [
+      {
+        "id": 17001,
+        "lead_time": 3.427,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Yo5L448rcH",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/17.jpg"
+    },
+    "id": 17
+  },
+  {
+    "completions": [
+      {
+        "id": 18001,
+        "lead_time": 4.196,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "3WLkTFPUfy",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/18.jpg"
+    },
+    "id": 18
+  },
+  {
+    "completions": [
+      {
+        "id": 19001,
+        "lead_time": 5.337,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ujJqMNbJcH",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/19.jpg"
+    },
+    "id": 19
+  },
+  {
+    "completions": [
+      {
+        "id": 2001,
+        "lead_time": 3.106,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "mmU0pJXwgM",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/2.jpg"
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "id": 20001,
+        "lead_time": 4.048,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "sFdcLyrpz-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/20.jpg"
+    },
+    "id": 20
+  },
+  {
+    "completions": [
+      {
+        "id": 21001,
+        "lead_time": 3.041,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "-XANEejyf0",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/21.jpg"
+    },
+    "id": 21
+  },
+  {
+    "completions": [
+      {
+        "id": 22001,
+        "lead_time": 3.116,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "aLKOYomWRj",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/22.jpg"
+    },
+    "id": 22
+  },
+  {
+    "completions": [
+      {
+        "id": 23001,
+        "lead_time": 3.4,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "5oYtNWCevE",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/23.jpg"
+    },
+    "id": 23
+  },
+  {
+    "completions": [
+      {
+        "id": 24001,
+        "lead_time": 4.903,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "spWfMx9RxC",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/24.jpg"
+    },
+    "id": 24
+  },
+  {
+    "completions": [
+      {
+        "id": 25001,
+        "lead_time": 3.961,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "JjuFrMxUMj",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/25.jpg"
+    },
+    "id": 25
+  },
+  {
+    "completions": [
+      {
+        "id": 3001,
+        "lead_time": 4.157,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_8DvoFwfJK",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/3.jpg"
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "id": 4001,
+        "lead_time": 5.539,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "G0RDsyLHRD",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/4.jpg"
+    },
+    "id": 4
+  },
+  {
+    "completions": [
+      {
+        "id": 5001,
+        "lead_time": 3.497,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ZpZ8d_xRtt",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/5.jpg"
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "id": 6001,
+        "lead_time": 5.212,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "EI9Ti5beiP",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/6.jpg"
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "id": 7001,
+        "lead_time": 5.286,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "DsFTsf3OaW",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/7.jpg"
+    },
+    "id": 7
+  },
+  {
+    "completions": [
+      {
+        "id": 8001,
+        "lead_time": 5.297,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "v-CpyS3s9f",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/8.jpg"
+    },
+    "id": 8
+  },
+  {
+    "completions": [
+      {
+        "id": 9001,
+        "lead_time": 3.948,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "zL24lHtOKS",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/Episode%201/9.jpg"
+    },
+    "id": 9
   }
 ]
