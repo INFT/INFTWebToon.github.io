@@ -9,7 +9,7 @@
 <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script>
     $(document).ready(function(){
-        var scene=10;
+        var scene=0;
          //Membaca dn mengambil data dari file headline.txt
         $.getJSON('result.json',function(data){
             //Mengambil Line dari tiap judul
@@ -25,14 +25,13 @@
                 headline_data += '<td>'+value.data.image_url+'</td>'
                 headline_data += '</tr>';
                 i = i + 1;
-                        
-
+                scene++;
+             document.getElementById("demo").innerHTML =scene;
             });
             $('#headline').append(headline_data);
            
         });
-        
-        document.getElementById("demo").innerHTML = scene;
+;
     });
     //$.each(value.completions, function(key2,value2){
    // }
