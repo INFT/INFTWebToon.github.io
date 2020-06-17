@@ -18,7 +18,7 @@
             $.each(data, function(key, value) {
                 headline_data += '<tr>';
                 headline_data += '<td>'+ i + '</td>';
-                headline_data += '<td>'+value.choices+'</td>'
+                headline_data += '<td>'+value.completions.result.type+'</td>'
                 headline_data += '<td>'+value.Judul+'</td>'
                 headline_data += '<td>'+value.Waktu+'</td>'
                 headline_data += '<td>'+value.pegnambilan+'</td>'
