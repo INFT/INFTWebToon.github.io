@@ -1,5 +1,57 @@
 <!DOCTYPE html>
-<html xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en"><head>
+<html xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en">
+<head>
+    <script>
+        function myFunction() {
+
+var chart = new CanvasJS.Chart("chartContainer", {
+	exportEnabled: true,
+	animationEnabled: true,
+    theme: "dark2",
+	title:{
+		text: "Scene Percentage"
+	},
+	legend:{
+		cursor: "pointer",
+		itemclick: explodePie
+	},
+	data: [{
+		type: "pie",
+		showInLegend: true,
+		toolTipContent: "{name}: <strong>{y}</strong> ",
+		dataPoints: [
+			{ y: Number(localStorage.getItem('Ketakutan')), name: " Ketakutan"},
+			{ y: Number(localStorage.getItem('Perkelahian')), name: "Perkelahian",},
+			{ y: Number(localStorage.getItem('Lucu')), name: "Lucu" },
+			{ y: Number(localStorage.getItem('Bahagia')), name: "Bahagia" },
+			{ y: Number(localStorage.getItem('Menggombal')), name: "Menggombal" },
+			{ y: Number(localStorage.getItem('Sedih')), name: "Sedih" },
+			{ y: Number(localStorage.getItem('Lebay')), name: "Lebay"},
+			{ y: Number(localStorage.getItem('Tragedy')), name: "Tragedy"},
+			{ y: Number(localStorage.getItem('Kaget')), name: "Kaget" },
+			{ y: Number(localStorage.getItem('Berfikir')), name: "Berfikir" },
+			{ y: Number(localStorage.getItem('game')), name: "game" },
+			{ y: Number(localStorage.getItem('Belajar')), name: "Belajar" },
+			{ y: Number(localStorage.getItem('menyerang')), name: "menyerang" },
+			{ y: Number(localStorage.getItem('Fantasy')), name: "Fantasy"},
+			{ y: Number(localStorage.getItem('Romantis')), name: "Romantis"},
+			{ y: Number(localStorage.getItem('Lainnya')), name: "Lainnya"}
+		]
+	}]
+});
+chart.render();
+}
+       
+       function explodePie (e) {
+           if(typeof (e.dataSeries.dataPoints[e.dataPointIndex].exploded) === "undefined" || !e.dataSeries.dataPoints[e.dataPointIndex].exploded) {
+               e.dataSeries.dataPoints[e.dataPointIndex].exploded = true;
+           } else {
+               e.dataSeries.dataPoints[e.dataPointIndex].exploded = false;
+           }
+           e.chart.render();
+       
+       }
+       </script>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1, shrink-to-fit=no">
 <title>Mage And Demon Queen</title>
@@ -268,7 +320,7 @@
 <div data-gets="" data-type="hdr"></div>
 <div class="ui grid">
 <div class="left floated sixteen wide tablet eight wide computer column">
-<a href="https://readm.org/manga/7631" data-navigo=""><h1 class="page-title">MageAndDemonQueen</h1></a>
+<a href="MageAndDemonQueen.html" data-navigo=""><h1 class="page-title">MageAndDemonQueen</h1></a>
 <div class="sub-title pt-sm">MageAndDemonQueen</div> </div>
 <div class="right aligned floated sixteen wide tablet eight wide computer column" id="series-action-buttons">
 
@@ -276,8 +328,6 @@
 </div>
 <div id="series-tabs" class="ui pointing secondary menu">
 <a class="item active" data-tab="first">SUMMARY</a>
-<a href="javascript:;" class="item" id="comments-scroll">Comments</a>
-<a class="item" id="share-dialog" data-url="https://readm.org/manga/7631">Share</a>
 </div>
 <div class="ui tab tab-segment active" data-tab="first">
 <div class="ui items">
@@ -517,7 +567,25 @@ Artist
 </table>
 </div>
 <!--            list link per chapter            -->
-
+<div id="headline" class="tengah"></div>
+<p id="List"></p>
+<p id="Scene1"></p>
+<p id="Scene2"></p>
+<p id="Scene3"></p>
+<p id="Scene4"></p>
+<p id="Scene5"></p>
+<p id="Scene6"></p>
+<p id="Scene7"></p>
+<p id="Scene8"></p>
+<p id="Scene9"></p>
+<p id="Scene10"></p>
+<p id="Scene11"></p>
+<p id="Scene12"></p>
+<p id="Scene13"></p>
+<p id="Scene14"></p>
+<p id="Scene15"></p>
+<p id="Scene16"></p>
+<button onclick="myFunction()">Click The Button to Show Scene Percentage</button>
 </section>
 <div class="copyright">
 <p>Copyrights </p>
@@ -548,4 +616,138 @@ Artist
 </script>
 <script async="" id="dsq-count-scr" src="Tower%20of%20God%20Manga_files/count.js" type="text/javascript"></script>
 
-<div style="display: none;"></div><iframe style="display: none;" __idm_frm__="2147483665"></iframe></body></html>
+<div style="display: none;"></div><iframe style="display: none;" __idm_frm__="2147483665"></iframe>
+
+
+<p id="demo"></p>
+<div id="chartContainer" style="height: 370px; width: 100%;"></div>
+
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+
+
+</body>
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+<script>
+    $(document).ready(function(){
+        var scene=0;
+        var Ketakutan=0,
+Perkelahian=0,
+Lucu=0,
+Bahagia=0,
+Menggombal=0,
+Sedih=0,
+Lebay=0,
+Tragedy=0,
+Kaget=0,
+Berfikir=0,
+game=0,
+Belajar =0,
+menyerang=0,
+Fantasy=0,
+Lainnya=0,
+Romantis=0;
+         //Membaca dn mengambil data dari file headline.txt
+        $.getJSON('result.json',function(data){
+            //Mengambil Line dari tiap judul
+            var headline_data = '';
+            //Membuat header tabel
+            var i = 1;
+            headline_data="<table border='1'><tr><td>No</td><td>Judul Headline</td><td>choices</td>";
+            $.each(data, function(key, value) {
+
+                headline_data += '<tr>';
+                headline_data += '<td>'+ i + '</td>';
+                headline_data += '<td>'+value.completions[0].result[0].value.choices+'</td>'
+                headline_data += '<td>'+value.data.image_url+'</td>'
+                headline_data += '</tr>';
+                i = i + 1;
+                if(value.completions[0].result[0].value.choices=="Ketakutan") Ketakutan++;
+                if(value.completions[0].result[0].value.choices=="Perkelahian") Perkelahian++;
+                if(value.completions[0].result[0].value.choices=="Lucu") Lucu++;
+                if(value.completions[0].result[0].value.choices=="Bahagia") Bahagia++;
+                if(value.completions[0].result[0].value.choices=="Menggombal") Menggombal++;
+                if(value.completions[0].result[0].value.choices=="Sedih") Sedih++;
+                if(value.completions[0].result[0].value.choices=="Lebay") Lebay++;
+                if(value.completions[0].result[0].value.choices=="Tragedy") Tragedy++;
+                if(value.completions[0].result[0].value.choices=="Kaget") Kaget++;
+                if(value.completions[0].result[0].value.choices=="Berfikir") Berfikir++;
+                if(value.completions[0].result[0].value.choices=="game") game++;
+                if(value.completions[0].result[0].value.choices=="Belajar") Belajar++;
+                if(value.completions[0].result[0].value.choices=="menyerang") menyerang++;
+                if(value.completions[0].result[0].value.choices=="Fantasy") Fantasy++;
+                if(value.completions[0].result[0].value.choices=="Romantis") Romantis++;
+                if(value.completions[0].result[0].value.choices=="lainnya") Lainnya++;
+            // document.getElementById("List").innerHTML ="Rekap Jumlah Scene: ";
+            // document.getElementById("Scene1").innerHTML =" Ketakutan\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Ketakutan;
+            // document.getElementById("Scene2").innerHTML =" Perkelahian\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Perkelahian;
+            // document.getElementById("Scene3").innerHTML =" Lucu\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Lucu;
+            // document.getElementById("Scene4").innerHTML =" Bahagia\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Bahagia;
+            // document.getElementById("Scene5").innerHTML =" Menggombal\xa0\xa0\xa0\xa0\xa0= " + Menggombal;
+            // document.getElementById("Scene6").innerHTML =" Sedih\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Sedih;
+            // document.getElementById("Scene7").innerHTML =" Lebay\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Lebay;
+            // document.getElementById("Scene8").innerHTML =" Tragedy\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Tragedy;
+            // document.getElementById("Scene9").innerHTML =" Kaget\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Kaget;
+            // document.getElementById("Scene10").innerHTML =" Berfikir \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Berfikir;
+            // document.getElementById("Scene11").innerHTML =" game\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + game;
+            // document.getElementById("Scene12").innerHTML =" Belajar\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 = " + Belajar;
+            // document.getElementById("Scene13").innerHTML =" menyerang\xa0\xa0\xa0\xa0\xa0\xa0= " + menyerang;
+            // document.getElementById("Scene14").innerHTML =" Fantasy\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Fantasy;
+            // document.getElementById("Scene15").innerHTML =" Romantis\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Romantis;
+            // document.getElementById("Scene16").innerHTML =" Lainnya\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Lainnya;
+
+            localStorage.setItem('Ketakutan', Ketakutan);
+            localStorage.setItem('Perkelahian', Perkelahian);
+            localStorage.setItem('Lucu', Lucu);
+            localStorage.setItem('Bahagia', Bahagia);
+            localStorage.setItem('Menggombal', Menggombal);
+            localStorage.setItem('Sedih', Sedih);
+            localStorage.setItem('Lebay', Lebay);
+            localStorage.setItem('Tragedy', Tragedy);
+            localStorage.setItem('Kaget', Kaget);
+            localStorage.setItem('Berfikir', Berfikir);
+            localStorage.setItem('game', game);
+            localStorage.setItem('Belajar', Belajar);
+            localStorage.setItem('menyerang', menyerang);
+            localStorage.setItem('Fantasy', Fantasy);
+            localStorage.setItem('Romantis', Romantis);
+            localStorage.setItem('Lainnya', Lainnya); 
+            localStorage.setItem('Total', i); 
+            });
+            $('#headline').append(headline_data);
+           
+        });
+;
+    });
+    //$.each(value.completions, function(key2,value2){
+   // }
+    $(document).ready(function(){
+
+        var userMenu = $('.header-user-dropdown .header-user-menu');
+
+        userMenu.on('touchend', function(e){
+
+            userMenu.addClass('show');
+
+            e.preventDefault();
+            e.stopPropagation();
+
+        });
+
+        // This code makes the user dropdown work on mobile devices
+
+        $(document).on('touchend', function(e){
+
+            // If the page is touched anywhere outside the user menu, close it
+            userMenu.removeClass('show');
+
+        });
+
+    });
+
+
+
+</script>
+</html>
