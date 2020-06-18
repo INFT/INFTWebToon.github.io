@@ -1,0 +1,25 @@
+{
+    "completions": [
+        {
+            "id": 1,
+            "lead_time": 29.289,
+            "result": [
+                {
+                    "from_name": "choice",
+                    "id": "ThzEZzQfRO",
+                    "to_name": "img",
+                    "type": "choices",
+                    "value": {
+                        "choices": [
+                            "Fantasy"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "image_url": "https://inft.github.io/INFTWebToon/komik/MageAndDemonQueen/MageAndDemonQueen-pisode1/MageAndDemonQueen-pisode1-1.PNG"
+    },
+    "id": 0
+}

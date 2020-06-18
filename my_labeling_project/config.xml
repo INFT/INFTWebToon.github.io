@@ -1,0 +1,40 @@
+<View>
+
+  <Image name="img" value="$image_url"/>
+
+  <Choices name="choice" toName="img" showInLine="true">
+
+    <Choice value="Ketakutan" background="blue"/>
+
+    <Choice value="Perkelahian" background="green" />
+
+    <Choice value="Lucu" background="blue"/>
+
+    <Choice value="Bahagia" background="green" />
+
+    <Choice value="Menggombal" background="blue"/>
+
+    <Choice value="Sedih" background="green" />
+
+    <Choice value="Lebay" background="blue"/>
+
+    <Choice value="Targedy" background="green" />
+
+    <Choice value="Kaget" background="blue"/>
+
+    <Choice value="Berfikir" background="green" />
+
+    <Choice value="Bermain Game" background="blue"/>
+
+    <Choice value="Belajar" background="green" />
+
+    <Choice value="Menyerang" background="blue"/>
+
+    <Choice value="Fantasy" background="green" />
+
+    <Choice value="Romantis" background="blue"/>
+
+  </Choices>
+
+</View>
+
