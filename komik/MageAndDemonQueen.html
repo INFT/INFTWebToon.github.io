@@ -19,6 +19,7 @@ var chart = new CanvasJS.Chart("chartContainer", {
 		type: "pie",
 		showInLegend: true,
 		toolTipContent: "{name}: <strong>{y}</strong> ",
+        indexLabel: "{name} - {y}",
 		dataPoints: [
 			{ y: Number(localStorage.getItem('Ketakutan')), name: " Ketakutan"},
 			{ y: Number(localStorage.getItem('Perkelahian')), name: "Perkelahian",},
@@ -655,14 +656,14 @@ Romantis=0;
             var headline_data = '';
             //Membuat header tabel
             var i = 1;
-            headline_data="<table border='1'><tr><td>No</td><td>Judul Headline</td><td>choices</td>";
+            // headline_data="<table border='1'><tr><td>No</td><td>Judul Headline</td><td>choices</td>";
             $.each(data, function(key, value) {
 
-                headline_data += '<tr>';
-                headline_data += '<td>'+ i + '</td>';
-                headline_data += '<td>'+value.completions[0].result[0].value.choices+'</td>'
-                headline_data += '<td>'+value.data.image_url+'</td>'
-                headline_data += '</tr>';
+                // headline_data += '<tr>';
+                // headline_data += '<td>'+ i + '</td>';
+                // headline_data += '<td>'+value.completions[0].result[0].value.choices+'</td>'
+                // headline_data += '<td>'+value.data.image_url+'</td>'
+                // headline_data += '</tr>';
                 i = i + 1;
                 if(value.completions[0].result[0].value.choices=="Ketakutan") Ketakutan++;
                 if(value.completions[0].result[0].value.choices=="Perkelahian") Perkelahian++;
