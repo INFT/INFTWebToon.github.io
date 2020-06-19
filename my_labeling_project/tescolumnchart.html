@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html>
+<head>  
+<script>
+window.onload = function () {
+
+var chart = new CanvasJS.Chart("chartContainer", {
+    animationEnabled: true,
+	theme: "dark1", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: "Scene percentage"
+	},
+	axisY: {
+		title: "Scene from 131 scene "
+	},
+	data: [{        
+		type: "column",  
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		legendText: "Scene name ",
+		dataPoints: [
+			{ y: Number(localStorage.getItem('Ketakutan')), label: " Ketakutan"},
+			{ y: Number(localStorage.getItem('Perkelahian')), label: "Perkelahian",},
+			{ y: Number(localStorage.getItem('Lucu')), label: "Lucu" },
+			{ y: Number(localStorage.getItem('Bahagia')), label: "Bahagia" },
+			{ y: Number(localStorage.getItem('Menggombal')), label: "Menggombal" },
+			{ y: Number(localStorage.getItem('Sedih')), label: "Sedih" },
+			{ y: Number(localStorage.getItem('Lebay')), label: "Lebay"},
+			{ y: Number(localStorage.getItem('Tragedy')), label: "Tragedy"},
+			{ y: Number(localStorage.getItem('Kaget')), label: "Kaget" },
+			{ y: Number(localStorage.getItem('Berfikir')), label: "Berfikir" },
+			{ y: Number(localStorage.getItem('game')), label: "game" },
+			{ y: Number(localStorage.getItem('Belajar')), label: "Belajar" },
+			{ y: Number(localStorage.getItem('menyerang')), label: "menyerang" },
+			{ y: Number(localStorage.getItem('Fantasy')), label: "Fantasy"},
+			{ y: Number(localStorage.getItem('Romantis')), label: "Romantis"},
+			{ y: Number(localStorage.getItem('Lainnya')), label: "Lainnya"}
+		]
+	}]
+});
+chart.render();
+
+}
+</script>
+</head>
+<body>
+<div id="chartContainer" style="height: 370px; width: 100%;"></div>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+</body>
+</html>
