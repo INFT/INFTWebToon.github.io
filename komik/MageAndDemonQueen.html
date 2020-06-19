@@ -92,6 +92,7 @@ chart.render();
            e.chart.render();
        
        }
+       
        </script>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1, shrink-to-fit=no">
@@ -629,10 +630,16 @@ Artist
 
 <button onclick="myFunction()">Show in Pie chart </button>
 <button onclick="myFunction2()">Show in column chart</button>
+<button onclick="generateTable(table, localStorage.getItem(ArrPerkelahian))">Show perkelahian</button>
 <h1 id="Scene17"></h1>
+<table class="tablecontent">
+    <!-- here goes our data! -->
+</table>
+
 </section>
 <div class="copyright">
 <p>Copyrights </p>
+
 </div>
 </div>
 </footer>
@@ -671,13 +678,14 @@ Artist
 
 </body>
 
-
+<script src="build-table.js"></script>
 <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 <script>
     $(document).ready(function(){
         var scene=0;
-        var Ketakutan=0,
+        var 
+Ketakutan=0,
 Perkelahian=0,
 Lucu=0,
 Bahagia=0,
@@ -693,6 +701,23 @@ menyerang=0,
 Fantasy=0,
 Lainnya=0,
 Romantis=0;
+var 
+ArrKetakutan=[],
+ArrPerkelahian=[],
+ArrLucu=[],
+ArrBahagia=[],
+ArrMenggombal=[],
+ArrSedih=[],
+ArrLebay=[],
+ArrTragedy=[],
+ArrKaget=[],
+ArrBerfikir=[],
+Arrgame=[],
+ArrBelajar =[],
+Arrmenyerang=[],
+ArrFantasy=[],
+ArrLainnya=[],
+ArrRomantis=[];
          //Membaca dn mengambil data dari file headline.txt
         $.getJSON('MageAndDemonQueen_Labeling_result.json',function(data){
             //Mengambil Line dari tiap judul
@@ -708,9 +733,9 @@ Romantis=0;
                 // headline_data += '<td>'+value.data.image_url+'</td>'
                 // headline_data += '</tr>';
                 i = i + 1;
-                if(value.completions[0].result[0].value.choices=="Ketakutan") Ketakutan++;
-                if(value.completions[0].result[0].value.choices=="Perkelahian") Perkelahian++;
-                if(value.completions[0].result[0].value.choices=="Lucu") Lucu++;
+                if(value.completions[0].result[0].value.choices=="Ketakutan") {Ketakutan++; ArrKetakutan.push(value.data.image_url);}
+                if(value.completions[0].result[0].value.choices=="Perkelahian") {Perkelahian++; ArrPerkelahian.push(value.data.image_url);}
+                if(value.completions[0].result[0].value.choices=="Lucu") {Lucu++; ArrLucu.push(value.data.image_url);}
                 if(value.completions[0].result[0].value.choices=="Bahagia") Bahagia++;
                 if(value.completions[0].result[0].value.choices=="Menggombal") Menggombal++;
                 if(value.completions[0].result[0].value.choices=="Sedih") Sedih++;
@@ -758,7 +783,9 @@ Romantis=0;
             localStorage.setItem('Fantasy', Fantasy);
             localStorage.setItem('Romantis', Romantis);
             localStorage.setItem('Lainnya', Lainnya); 
-            localStorage.setItem('Total', i); 
+            localStorage.setItem('Total', i);
+            localStorage.setItem('ArrPerkelahian', ArrPerkelahian); 
+            localStorage.setItem('ArrLucu', ArrLucu); 
             });
             $('#headline').append(headline_data);
            
@@ -792,6 +819,40 @@ Romantis=0;
 
     });
 
+let mountains = [
+  { name: "Monte Falco", height: 1658, place: "Parco Foreste Casentinesi" },
+  { name: "Monte Falterona", height: 1654, place: "Parco Foreste Casentinesi" },
+  { name: "Poggio Scali", height: 1520, place: "Parco Foreste Casentinesi" },
+  { name: "Pratomagno", height: 1592, place: "Parco Foreste Casentinesi" },
+  { name: "Monte Amiata", height: 1738, }
+];
+
+function generateTableHead(table, data) {
+  let thead = table.createTHead();
+  let row = thead.insertRow();
+  for (let key of data) {
+    let th = document.createElement("th");
+    let text = document.createTextNode(key);
+    th.appendChild(text);
+    row.appendChild(th);
+  }
+}
+
+function generateTable(table, data) {
+  for (let element of data) {
+    let row = table.insertRow();
+    for (key in element) {
+      let cell = row.insertCell();
+      let text = document.createTextNode(element[key]);
+      cell.appendChild(text);
+    }
+  }
+}
+
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(mountains[0]);
+generateTableHead(table, data);
+generateTable(table, mountains);
 
 
 </script>
