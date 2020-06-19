@@ -7,7 +7,7 @@
 var chart = new CanvasJS.Chart("chartContainer", {
 	exportEnabled: true,
 	animationEnabled: true,
-    theme: "dark2",
+    theme: "dark1",
 	title:{
 		text: "Scene Percentage"
 	},
@@ -96,8 +96,8 @@ chart.render();
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1, shrink-to-fit=no">
 <title>Mage And Demon Queen</title>
-<meta name="description" content="All details about Tower of God manga. Free chapters of Tower of God Manga.">
-<meta name="keywords" content="Tower of God, Tower of God manga, Tower of God chapter, Tower of God manga online, read Tower of God manga online">
+<meta name="description" content="All details about Mage Anad Demon Queen manga. Free chapters of Mage Anad Demon Queen Manga.">
+<meta name="keywords" content="Mage Anad Demon Queen, Mage Anad Demon Queen manga, Mage Anad Demon Queen chapter, Mage Anad Demon Queen manga online, read Mage Anad Demon Queen manga online">
 <meta http-equiv="robots" content="index,follow">
 <meta name="robots" content="ALL">
 <link rel="stylesheet" href="styleforchapterpage\styles.css">
@@ -627,8 +627,8 @@ Artist
 <p id="Scene15"></p>
 <p id="Scene16"></p>
 
-<button onclick="myFunction()">Click The Button to Show Scene Percentage ,pie chart </button>
-<button onclick="myFunction2()">Click The Button to Show Scene Percentage,column chart</button>
+<button onclick="myFunction()">Show in Pie chart </button>
+<button onclick="myFunction2()">Show in column chart</button>
 <h1 id="Scene17"></h1>
 </section>
 <div class="copyright">
@@ -664,7 +664,7 @@ Artist
 
 
 <p id="demo"></p>
-<div id="chartContainer" style="height: 370px; width: 100%;"></div>
+<div id="chartContainer" style="height: 370px; width: 100%;" ></div>
 
 <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 
@@ -763,7 +763,8 @@ Romantis=0;
             $('#headline').append(headline_data);
            
         });
-;
+        myFunction();
+        myFunction2();
     });
     //$.each(value.completions, function(key2,value2){
    // }
