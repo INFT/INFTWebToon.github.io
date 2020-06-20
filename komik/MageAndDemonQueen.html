@@ -635,7 +635,7 @@ Artist
 <table class="tablecontent">
     <!-- here goes our data! -->
 </table>
-
+<p id="demaa"></p>
 </section>
 <div class="copyright">
 <p>Copyrights </p>
@@ -717,7 +717,8 @@ ArrBelajar =[],
 Arrmenyerang=[],
 ArrFantasy=[],
 ArrLainnya=[],
-ArrRomantis=[];
+ArrRomantis=[],
+percobaan=[];
          //Membaca dn mengambil data dari file headline.txt
         $.getJSON('MageAndDemonQueen_Labeling_result.json',function(data){
             //Mengambil Line dari tiap judul
@@ -734,7 +735,8 @@ ArrRomantis=[];
                 // headline_data += '</tr>';
                 i = i + 1;
                 if(value.completions[0].result[0].value.choices=="Ketakutan") {Ketakutan++; ArrKetakutan.push(value.data.image_url);}
-                if(value.completions[0].result[0].value.choices=="Perkelahian") {Perkelahian++; ArrPerkelahian.push(value.data.image_url);}
+                if(value.completions[0].result[0].value.choices=="Perkelahian") {Perkelahian++; ArrPerkelahian.push(value.data.image_url);
+                                                                                var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);percobaan.push(ss);}
                 if(value.completions[0].result[0].value.choices=="Lucu") {Lucu++; ArrLucu.push(value.data.image_url);}
                 if(value.completions[0].result[0].value.choices=="Bahagia") Bahagia++;
                 if(value.completions[0].result[0].value.choices=="Menggombal") Menggombal++;
@@ -765,8 +767,9 @@ ArrRomantis=[];
             // document.getElementById("Scene13").innerHTML =" menyerang\xa0\xa0\xa0\xa0\xa0\xa0= " + menyerang;
             // document.getElementById("Scene14").innerHTML =" Fantasy\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Fantasy;
             // document.getElementById("Scene15").innerHTML =" Romantis\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Romantis;
-            // document.getElementById("Scene16").innerHTML =" Lainnya\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Lainnya;
-             document.getElementById("Scene17").innerHTML =" Total data yang dilabeling \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + i;
+            //document.getElementById("Scene16").innerHTML =" Lainnya\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " +  retrievedObject);
+            //document.getElementById("Scene17").innerHTML =" Total data yang dilabeling \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + i;
+            
             localStorage.setItem('Ketakutan', Ketakutan);
             localStorage.setItem('Perkelahian', Perkelahian);
             localStorage.setItem('Lucu', Lucu);
@@ -785,7 +788,11 @@ ArrRomantis=[];
             localStorage.setItem('Lainnya', Lainnya); 
             localStorage.setItem('Total', i);
             localStorage.setItem('ArrPerkelahian', ArrPerkelahian); 
+
+            localStorage.setItem('percobaan', JSON.stringify(percobaan)); 
+
             localStorage.setItem('ArrLucu', ArrLucu); 
+
             });
             $('#headline').append(headline_data);
            
@@ -795,6 +802,9 @@ ArrRomantis=[];
     });
     //$.each(value.completions, function(key2,value2){
    // }
+
+
+//CHEKKED----------------------------------------------------------------------------------------------------
     $(document).ready(function(){
 
         var userMenu = $('.header-user-dropdown .header-user-menu');
@@ -819,14 +829,25 @@ ArrRomantis=[];
 
     });
 
-let mountains = [
-  { name: "Monte Falco", height: 1658, place: "Parco Foreste Casentinesi" },
-  { name: "Monte Falterona", height: 1654, place: "Parco Foreste Casentinesi" },
-  { name: "Poggio Scali", height: 1520, place: "Parco Foreste Casentinesi" },
-  { name: "Pratomagno", height: 1592, place: "Parco Foreste Casentinesi" },
-  { name: "Monte Amiata", height: 1738, }
-];
 
+
+
+//CHEKKED----------------------------------------------------------------------------------------------------
+function Scene(sScene, simg) {
+  this.Scene = sScene;
+  this.img = simg;
+}
+
+
+//CHEKKED----------------------------------------------------------------------------------------------------
+var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('percobaan'));
+ document.getElementById("demaa").innerHTML = retrievedObject[0].Scene;
+// document.getElementById("demaa").innerHTML = mmcar[0].make +"   "+mmcar[1].make;
+
+
+
+//CHEKKED----------------------------------------------------------------------------------------------------
 function generateTableHead(table, data) {
   let thead = table.createTHead();
   let row = thead.insertRow();
@@ -834,25 +855,37 @@ function generateTableHead(table, data) {
     let th = document.createElement("th");
     let text = document.createTextNode(key);
     th.appendChild(text);
+
     row.appendChild(th);
   }
 }
-
+//CHEKKED----------------------------------------------------------------------------------------------------
 function generateTable(table, data) {
   for (let element of data) {
     let row = table.insertRow();
     for (key in element) {
+
+      
       let cell = row.insertCell();
+      let a =document.createElement("a");
+
       let text = document.createTextNode(element[key]);
-      cell.appendChild(text);
+      let link = document.createTextNode(element[key]);
+      a.appendChild(text);
+      a.href=element[key];
+      cell.appendChild(a);
+
     }
   }
 }
 
 let table = document.querySelector(".tablecontent");
-let data = Object.keys(mountains[0]);
+let data = Object.keys(retrievedObject[0]);
 generateTableHead(table, data);
-generateTable(table, mountains);
+generateTable(table, retrievedObject);
+
+
+
 
 
 </script>
