@@ -23,6 +23,12 @@
           background-color: #555555;
           box-shadow: 0 5px #666;
           transform: translateY(4px);
+        }    
+         #chartContainer{
+            float: left;
+        }
+        #chartContainer2{
+            float: right;
         }
         </style>
     <script>
@@ -70,6 +76,7 @@ chart.render();
 function myFunction2() {
 
 var chart = new CanvasJS.Chart("chartContainer2", {
+    exportEnabled: true,
     animationEnabled: true,
 	theme: "dark1", // "light1", "light2", "dark1", "dark2"
 	title:{
@@ -431,8 +438,7 @@ Artist
 </div>
 </div>
 </div>
-<div id="chartContainer" style="height: 370px; width: 50%;" ></div>
-<div id="chartContainer2" style="height: 370px; width: 50%;" ></div>
+
 <div class="common-lists pt-sm">
 <div class="ui column grid">
 <div class="sixteen wide tablet five wide computer column" id="common-cast-list">
@@ -636,7 +642,9 @@ Artist
 </table>
 </div>
 <!--            list link per chapter            -->
+
 <div id="headline" class="tengah"></div>
+
 <p id="List"></p>
 <p id="Scene1"></p>
 <p id="Scene2"></p>
@@ -659,6 +667,12 @@ Artist
 
 <p id="demaa"></p>
 </section>
+<h1>Data Labeling</h1>
+<div class="chartbox">
+    <div class="split left" id="chartContainer" style="height: 370px; width: 500px;" ></div>
+
+    <div class="split right" id="chartContainer2" style="height: 370px; width: 500px;" ></div>
+    </div>
 <div class="copyright">
     <h1 id="Scene17"></h1> 
     <p>Tekan CTRL + click mouse ( ke link gambar) untuk membuka gambar di halaman baru</p>
@@ -682,10 +696,6 @@ Artist
 <div class="tableSpot">
       <table class="tablecontent"></table>
 </div>  
-<h1>Percentage Scene Chart </h1>
-
-<button class="buttontabel"  onclick="myFunction()">Show in Pie chart </button>
-<button class="buttontabel"  onclick="myFunction2()">Show in column chart</button>
 </div>
 </div>
 </footer>
@@ -922,6 +932,7 @@ ArrTotal=[];
             $('#headline').append(headline_data);
            
         });
+        show_table3()
         myFunction();
         myFunction2();
     });
