@@ -7,10 +7,11 @@
 <meta name="keywords" content="manga, read manga online, free manga online, English manga, manga scans, naruto manga, bleach manga, one piece manga, read free manga, manga chapter, manga viewers, manhwa, manhua">
 <meta http-equiv="robots" content="index,follow">
 <meta name="robots" content="ALL">
-<link rel="stylesheet" href="manga\Tower of God Manga_files/styles.css">
-<link rel="stylesheet" href="manga\Tower of God Manga_files/fontello.css">
-<link rel="stylesheet" href="manga\Tower of God Manga_files/owl.css">
-<link rel="stylesheet" href="manga\Tower of God Manga_files/owl_002.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="komik\styleforchapterpage\styles.css">
+<link rel="stylesheet" href="komik\styleforchapterpage\fontello.css">
+<link rel="stylesheet" href="komik\styleforchapterpage\owl_002.css">
+<link rel="stylesheet" href="komik\styleforchapterpage\owl.css">
 
 <script type="text/javascript" async="" src="manga\Tower of God Manga_files/analytics.js"></script><script async="" src="manga\Tower of God Manga_files/js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -20,8 +21,48 @@
         gtag('config', 'UA-152952116-1');
     </script>
 <script src="https://kit.fontawesome.com/12c63ced89.js" crossorigin="anonymous"></script>    
+<!--
+<style>
+    .poster-media{
+        border-radius: 50%;
+    }
+    * {
+  box-sizing: border-box;
+}
+
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#myUL {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+a
+#myUL li a {
+  border: 1px solid #ddd;
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  display: block
+}
+
+#myUL li a:hover:not(.header) {
+  background-color: #eee;
+}
+</style>-->
 </head>
-<body class="fluid"><iframe id="df27170020000246670777018" src="manga\Tower of God Manga_files/id.html" style="z-index: 2147483647; position: fixed; inset: auto 0px 0px auto;" width="75px" height="30px" frameborder="0"></iframe>
 <main id="wrapper">
 <header id="header">
 <button class="mobile-menu-trigger"><span></span></button>
@@ -33,7 +74,10 @@
 <div>
 <span class="deleteicon"></span>
 <label for="tvSearch">
-<input type="search" name="search" class="form-control deletable" autocomplete="off" id="tvSearch" placeholder="Live Search">
+<!--<input type="search" onkeyup="myFunctionsearch()" name="search" class="form-control deletable" autocomplete="off" id="tvSearch" placeholder="Live Search">
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">-->
+
+
 </label>
 <button type="button" aria-label="Live Search">
 <i class="fas fa-search"></i>
@@ -87,8 +131,7 @@
 <a href="komik\MageAndDemonQueen.html" data-navigo="">
 <img class="lazy-wide loaded" alt="Mage And Demon Queen" src="komik\MageAndDemonQueen\mage.jfif" data-src="komik\MageAndDemonQueen\mage.jfif" data-was-processed="true">
 <div class="poster-overlay">
-<span class="item rating"><i class="icon-bookmark"></i> 8</span>
-<span class="item year"><i class="icon-heart-empty"></i> 9</span>
+
 </div>
 </a>
 </div>
@@ -104,8 +147,6 @@
     <a href="komik\Flawless.html" data-navigo="">
     <img class="lazy-wide loaded" alt="Flawless" src="komik\Flawless\cover.jpg" data-src="komik\Flawless\cover.jpg" data-was-processed="true">
     <div class="poster-overlay">
-    <span class="item rating"><i class="icon-bookmark"></i> 7</span>
-    <span class="item year"><i class="icon-heart-empty"></i> 10</span>
     </div>
     </a>
     </div>
@@ -121,8 +162,7 @@
     <a href="komik\PasutriGaje.html" data-navigo="">
     <img class="lazy-wide loaded" alt="PasutriGaje" src="komik\Pasutri Gaje\cover.jpg" data-src="komik\Pasutri Gaje\cover.jpg" data-was-processed="true">
     <div class="poster-overlay">
-    <span class="item rating"><i class="icon-bookmark"></i> 8</span>
-    <span class="item year"><i class="icon-heart-empty"></i> 8</span>
+
     </div>
     </a>
     </div>
@@ -138,8 +178,7 @@
     <a href="komik\Ghost Teller.html" data-navigo="">
     <img class="lazy-wide loaded" alt="Ghost Teller" src="komik\Ghost Teller\Ghost Teller.jpg" data-src="komik\Ghost Teller\Ghost Teller.jpg" data-was-processed="true">
     <div class="poster-overlay">
-    <span class="item rating"><i class="icon-bookmark"></i> 6</span>
-    <span class="item year"><i class="icon-heart-empty"></i> 8</span>
+
     </div>
     </a>
     </div>
@@ -155,8 +194,7 @@
     <a href="komik\Purple Hyacinth.html" data-navigo="">
     <img class="lazy-wide loaded" alt="Purple Hyacinth" src="komik\Purple Hyacinth\Purple Hyacinth.jpg" data-src="komik\Purple Hyacinth\Purple Hyacinth.jpg" data-was-processed="true">
     <div class="poster-overlay">
-    <span class="item rating"><i class="icon-bookmark"></i> 6</span>
-    <span class="item year"><i class="icon-heart-empty"></i> 8</span>
+
     </div>
     </a>
     </div>
@@ -176,89 +214,54 @@
 </div>
 </div>
 </div>
-
 <footer class="footer">
 
 <div class="container">
 <div class="ui four column doubling grid">
+
+    <div class="column">
+        <h6>Menu</h6>
+        <div class="ui link list">
+        </div>
+    </div>
+
+
 <div class="column">
-<h6>Menu</h6>
-<div class="ui link list">
-<a class="item" href="https://readm.org/" data-navigo="">Home</a>
-<a class="item" href="https://readm.org/popular-manga" data-navigo="">Popular Manga</a>
-<a class="item" href="https://readm.org/manga-list" data-navigo="">Manga List</a>
-<a class="item" href="https://readm.org/latest-releases" data-navigo="">Latest Releases</a>
-<a class="item" href="https://readm.org/advanced-search" data-navigo="">Advanced Search</a>
+    <h6>Webtoon</h6>
+    <div class="ui two column doubling grid">
+        <div class="column">
+            <div class="ui link list">
+
+            </div>
+        </div>
+        <div class="column">
+            <div class="ui link list">
+
+            </div>
+        </div>
+    </div>
 </div>
-</div>
+
 <div class="column">
-<h6>HELPFUL LINKS</h6>
-<div class="ui two column doubling grid">
-<div class="column">
-<div class="ui link list">
-<a class="item" href="https://readm.org/pages/privacy-policy" data-navigo="">Privacy &amp; Policy</a>
-<a class="item" href="https://readm.org/pages/terms-of-usage" data-navigo="">Terms of Usage</a>
+    <h6>&nbsp;</h6>
+    <div class="ui two column doubling grid">
+        <div class="column">
+            <div class="ui link list">
+            </div>
+        </div>
+        <div class="column">
+            <div class="ui link list">
+
+            </div>
+        </div>
+    </div>
 </div>
 </div>
-<div class="column">
-<div class="ui link list">
-<a class="item" href="https://readm.org/pages/contact" data-navigo="">Contact Us</a>
-<a class="item" href="https://readm.org/pages/dmca" data-navigo="">DMCA</a>
-</div>
-</div>
-</div>
-</div>
-<div class="column">
-<h6>Popular Manga</h6>
-<div class="ui two column doubling grid">
-<div class="column">
-<div class="ui link list">
-<a class="item" href="https://readm.org/manga/15514" title="Tales of Demons and Gods" data-navigo="">Tales of Demons and Gods</a>
-<a class="item" href="https://readm.org/manga/5084" title="Nanatsu no Taizai" data-navigo="">Nanatsu no Taizai</a>
-<a class="item" href="https://readm.org/manga/7316" title="The Ravages of Time" data-navigo="">The Ravages of Time</a>
-<a class="item" href="https://readm.org/manga/15657" title="Spirit Blade Mountain" data-navigo="">Spirit Blade Mountain</a>
-</div>
-</div>
-<div class="column">
-<div class="ui link list">
-<a class="item" href="https://readm.org/manga/1676" title="Denma" data-navigo="">Denma</a>
-<a class="item" href="https://readm.org/manga/1381" title="Clover (TETSUHIRO Hirakawa)" data-navigo="">Clover (TETSUHIRO Hirakawa)</a>
-<a class="item" href="https://readm.org/manga/2538" title="Haikyuu!!" data-navigo="">Haikyuu!!</a>
-<a class="item" href="https://readm.org/manga/14775" title="Soul Land" data-navigo="">Soul Land</a>
-</div>
-</div>
-</div>
-</div>
-<div class="column">
-<h6>&nbsp;</h6>
-<div class="ui two column doubling grid">
-<div class="column">
-<div class="ui link list">
- <a class="item" href="https://readm.org/manga/5404" title="One Piece" data-navigo="">One Piece</a>
-<a class="item" href="https://readm.org/manga/7236" title="The Gamer" data-navigo="">The Gamer</a>
-<a class="item" href="https://readm.org/manga/701" title="Baby Steps" data-navigo="">Baby Steps</a>
-<a class="item" href="https://readm.org/manga/4082" title="Kubera" data-navigo="">Kubera</a>
-<a class="item" href="https://readm.org/manga/15647" title="Helck" data-navigo="">Helck</a>
-<a class="item" href="https://readm.org/manga/15296" title="Shen Yin Wang Zuo" data-navigo="">Shen Yin Wang Zuo</a>
-</div>
-</div>
-<div class="column">
-<div class="ui link list">
-<a class="item" href="https://readm.org/manga/15395" title="Black Clover" data-navigo="">Black Clover</a>
-<a class="item" href="https://readm.org/manga/15810" title="Wo Jia Dashi Xiong Naozi You Keng" data-navigo="">Wo Jia Dashi Xiong Naozi You Keng</a>
-<a class="item" href="https://readm.org/manga/7631" title="Tower of God" data-navigo="">Tower of God</a>
-<a class="item" href="https://readm.org/manga/3846" title="Kingdom" data-navigo="">Kingdom</a>
-<a class="item" href="https://readm.org/manga/15995" title="Star Martial God Technique" data-navigo="">Star Martial God Technique</a>
-</div>
-</div>
-</div>
-</div>
-</div>
+
 <div class="copyright">
-<p>Copyrights and trademarks for the manga, and other promotional 
-materials are held by their respective owners and their use is allowed 
-under the fair use clause of the Copyright Law. © 2019 Readm.org</p>
+<p>INFT.Webtoon Polban 2020</p>
 </div>
+
 </div>
 </footer>
 
@@ -284,5 +287,22 @@ under the fair use clause of the Copyright Law. © 2019 Readm.org</p>
     });
 </script>
 <script async="" id="dsq-count-scr" src="manga\Tower of God Manga_files/count.js" type="text/javascript"></script>
-
+<script>
+    function myFunctionsearch() {
+    var input, filter, ul, li, a, i, txtValue;
+    input = document.getElementById("myInput");
+    filter = input.value.toUpperCase();
+    ul = document.getElementById("myUL");
+    li = ul.getElementsByTagName("li");
+    for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName("a")[0];
+        txtValue = a.textContent || a.innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+        } else {
+            li[i].style.display = "none";
+        }
+    }
+}
+</script>
 <div style="display: none;"></div></body></html>
