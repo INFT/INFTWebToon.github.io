@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en">
+<head>
+    <style>
+        .buttontabel {
+          display: inline-block;
+          padding: 5px 5px;
+          font-size: 20px;
+          cursor: pointer;
+          text-align: center;
+          text-decoration: none;
+          outline: none;
+          color: #fff;
+          background-color: #555555 ;
+          border: none;
+          border-radius: 10px;
+          box-shadow: 0 4px #999;
+        }
+        
+        .buttontabel:hover {background-color: #101010}
+        
+        .buttontabel:active {
+          background-color: #555555;
+          box-shadow: 0 5px #666;
+          transform: translateY(4px);
+        }
+        </style>
+    <script>
+        function myFunction() {
+
+var chart = new CanvasJS.Chart("chartContainer", {
+	exportEnabled: true,
+	animationEnabled: true,
+    theme: "dark1",
+	title:{
+		text: "Scene Percentage"
+	},
+	legend:{
+		cursor: "pointer",
+		itemclick: explodePie
+	},
+	data: [{
+		type: "pie",
+		showInLegend: true,
+		toolTipContent: "{name}: <strong>{y}</strong> ",
+        indexLabel: "{name} - {y}",
+		dataPoints: [
+            { y: Number(localStorage.getItem('Romantis')), name: "Romantis"},
+			{ y: Number(localStorage.getItem('Lucu')), name: "Lucu" },
+			{ y: Number(localStorage.getItem('Perkelahian')), name: "Perkelahian",},
+            { y: Number(localStorage.getItem('Takut')), name: " Takut"},
+			{ y: Number(localStorage.getItem('Bahagia')), name: "Bahagia" },
+			{ y: Number(localStorage.getItem('Sedih')), name: "Sedih" },	
+			{ y: Number(localStorage.getItem('Bingung')), name: "Bingung"},
+			{ y: Number(localStorage.getItem('Drama')), name: "Drama" },
+			{ y: Number(localStorage.getItem('Fantasi')), name: "Fantasi"},
+            { y: Number(localStorage.getItem('Kaget')), name: "Kaget" },
+			{ y: Number(localStorage.getItem('Marah')), name: "Marah"},
+			{ y: Number(localStorage.getItem('Lainnya')), name: "Lainnya"}
+		]
+	}]
+});
+chart.render();
+}
+
+function myFunction2() {
+
+var chart = new CanvasJS.Chart("chartContainer", {
+    animationEnabled: true,
+	theme: "dark1", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: "Scene percentage"
+	},
+	axisY: {
+		title: "From 107 scene "
+	},
+	data: [{        
+		type: "column",  
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		legendText: "Scene name ",
+		dataPoints: [
+            { y: Number(localStorage.getItem('Romantis')), label: "Romantis"},
+            { y: Number(localStorage.getItem('Lucu')), label: "Lucu" },
+			{ y: Number(localStorage.getItem('Perkelahian')), label: "Perkelahian",},
+            { y: Number(localStorage.getItem('Takut')), label: " Takut"},
+			{ y: Number(localStorage.getItem('Bahagia')), label: "Bahagia" },
+			{ y: Number(localStorage.getItem('Sedih')), label: "Sedih" },
+			{ y: Number(localStorage.getItem('Bingung')), label: "Bingung"},
+			{ y: Number(localStorage.getItem('Drama')), label: "Drama" },
+			{ y: Number(localStorage.getItem('Fantasi')), label: "Fantasi"},
+			{ y: Number(localStorage.getItem('Kaget')), label: "Kaget" },
+            { y: Number(localStorage.getItem('Marah')), label: "Marah"},
+			{ y: Number(localStorage.getItem('Lainnya')), label: "Lainnya"}
+		]
+	}]
+});
+chart.render();
+
+}
+       
+       function explodePie (e) {
+           if(typeof (e.dataSeries.dataPoints[e.dataPointIndex].exploded) === "undefined" || !e.dataSeries.dataPoints[e.dataPointIndex].exploded) {
+               e.dataSeries.dataPoints[e.dataPointIndex].exploded = true;
+           } else {
+               e.dataSeries.dataPoints[e.dataPointIndex].exploded = false;
+           }
+           e.chart.render();
+       
+       }
+       
+       </script>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1, shrink-to-fit=no">
+<title>Flawless</title>
+<meta name="description" content="All details about Mage Anad Demon Queen manga. Free chapters of Mage Anad Demon Queen Manga.">
+<meta name="keywords" content="Mage Anad Demon Queen, Mage Anad Demon Queen manga, Mage Anad Demon Queen chapter, Mage Anad Demon Queen manga online, read Mage Anad Demon Queen manga online">
+<meta http-equiv="robots" content="index,follow">
+<meta name="robots" content="ALL">
+<link rel="stylesheet" href="styleforchapterpage\styles.css">
+<link rel="stylesheet" href="styleforchapterpage\fontello.css">
+<link rel="stylesheet" href="styleforchapterpage\owl_002.css">
+<link rel="stylesheet" href="styleforchapterpage\owl.css">
+
+<script src="Tower%20of%20God%20Manga_files/embed.js" data-timestamp="1587887409264"></script><link rel="prefetch" as="style" href="Tower%20of%20God%20Manga_files/a_data/lounge.css"><link rel="prefetch" as="script" href="Tower%20of%20God%20Manga_files/a_data/common.js"><link rel="prefetch" as="script" href="Tower%20of%20God%20Manga_files/a_data/lounge.js"><link rel="prefetch" as="script" href="Tower%20of%20God%20Manga_files/a_data/config.js"><script src="Tower%20of%20God%20Manga_files/alfalfalfa.js" async="" charset="UTF-8"></script>
+<script src="https://kit.fontawesome.com/12c63ced89.js" crossorigin="anonymous"></script>    
+</head>
+<body class="fluid"><main id="wrapper">
+<header id="header">
+<button class="mobile-menu-trigger"><span></span></button>
+<div id="logo">
+webtoon<a href="https://www.webtoons.com/" data-navigo=""></a>
+</div>
+<div id="header-middle">
+<div id="search">
+<div>
+<span class="deleteicon"></span>
+<label for="tvSearch">
+<input type="search" name="search" class="form-control deletable" autocomplete="off" id="tvSearch" placeholder="Live Search">
+</label>
+<button type="button" aria-label="Live Search">
+<i class="fas fa-search"></i>
+</button>
+</div>
+<div id="search-results" style="display: none;">
+<div class="section-heading">Best Results</div>
+<div id="search-response"></div>
+</div>
+</div>
+<div id="user">
+<div class="left floated author">
+<a class="ui button secondary" onlyusers=""><i class="fas fa-user"></i> Sign In</a>
+<a class="ui button secondary hidden-xs signup"><i class="fas fa-user"></i> Sign Up</a>
+</div>
+</div>
+</div>
+</header>
+<div id="wrapper-inner">
+<div class="triggered-overlay"></div>
+<aside id="primary-sidebar" class="">
+    <div id="sidebar-inner" class="scrollbar-macosx">
+    <section class="guide-menu fluid">
+    <h5 class="section-heading">MENU</h5>
+    <ul class="guide-icon-menu">
+    <li class="active">
+    <a href="https://www.webtoons.com/" data-navigo=""><i class="fas fa-home"></i> Home</a>
+    </li>
+    <li>
+    <a href="https://www.webtoons.com/id/dailySchedule" data-navigo=""><i class="fas fa-list"></i> Manga List</a>
+    </li>
+
+    </ul>
+    </section>
+    <section class="guide-menu">
+    <h5 class="section-heading">CATEGORIES</h5>
+
+    </section>
+    </div>
+    </aside>
+
+<div id="content">
+<div class="inner-content container" id="page-index">
+<div id="router-view">
+<div class="bg-cover-faker">
+<div data-gets="" data-type="hdr"></div>
+<div class="ui grid">
+<div class="left floated sixteen wide tablet eight wide computer column">
+<a href="Flawless.html" data-navigo=""><h1 class="page-title">Flawless</h1></a>
+<div class="sub-title pt-sm">Shinshinhye</div> </div>
+<div class="right aligned floated sixteen wide tablet eight wide computer column" id="series-action-buttons">
+
+</div>
+</div>
+<div id="series-tabs" class="ui pointing secondary menu">
+<a class="item active" data-tab="first">SUMMARY</a>
+</div>
+<div class="ui tab tab-segment active" data-tab="first">
+<div class="ui items">
+<div class="item" id="series-profile-wrapper">
+<a class="ui image" id="series-profile-image-wrapper">
+<img class="series-profile-thumb" src="Flawless\cover.jpg" alt="Flawless">
+</a>
+<div class="content" id="series-profile-content-wrapper">
+<article class="series-summary">
+<div class="series-summary-wrapper">
+<h2 class="section-heading">SUMMARY</h2>
+<p id="tv-series-desc"></p><p>Sarah, si cewek tangguh tidak sengaja bertemu
+    Elios pemuda tunanetra seusianya. Elios begitu misterius, bikin Sarah penasaran.
+    Apakah Sarah jatuh cinta? Mungkin ada sesuatu di balik ini semua?</p><p></p>
+<div class="ui list">
+<div class="item"><span class="label">Genres:</span></div>
+</div>
+<div class="media-meta">
+ 
+</div>
+<div class="first_and_last">
+<span id="first_episode">
+
+Author
+<a href="https://www.webtoons.com/id/romance/flawless/list?title_no=595&page=1" data-navigo=""><small>Shinshinhye</small></a>
+</span>
+<span id="last_episode">
+Artist
+<a href="https://www.webtoons.com/id/romance/flawless/list?title_no=595&page=1" data-navigo=""><small>Shinshinhye</small></a>
+
+</span>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div class="common-lists pt-sm">
+<div class="ui column grid">
+<div class="sixteen wide tablet five wide computer column" id="common-cast-list">
+<div class="ui middle aligned divided list">
+<div class="box box-orange box-example-1to10">
+<div class="box-body">
+
+</select><div class="br-widget"><a href="#" data-rating-value="1" data-rating-text="1" class="br-selected"></a><a href="#" data-rating-value="2" data-rating-text="2" class="br-selected"></a><a href="#" data-rating-value="3" data-rating-text="3" class="br-selected"></a><a href="#" data-rating-value="4" data-rating-text="4" class="br-selected"></a><a href="#" data-rating-value="5" data-rating-text="5" class="br-selected br-current"></a><a href="#" data-rating-value="6" data-rating-text="6" class=""></a><a href="#" data-rating-value="7" data-rating-text="7" class=""></a><a href="#" data-rating-value="8" data-rating-text="8"></a><a href="#" data-rating-value="9" data-rating-text="9"></a><a href="#" data-rating-value="10" data-rating-text="10"></a><div class="br-current-rating"></div></div></div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="sixteen wide tablet eleven wide computer column">
+<div style="float: right;">
+<div class="ui master checkbox ordi mark-all-read" data-type="read" data-manga-id="7631" onlyusers="">
+<input type="checkbox" name="all-episodes" disabled="disabled" tabindex="0" class="hidden">
+
+</div>
+</div>
+<h4 class="sidebar-heading" id="season-episode-list-title">Episode List</h4>
+<section class="episodes-box">
+<div class="ui grid">
+<div class="sixteen wide tablet three wide computer column" id="seasons-menu">
+
+</div>
+<div class="sixteen wide tablet thirteen wide stretched computer column season-list-column">
+<div class="ui tab  active" data-tab="chapters_0">
+<div class="tabular-content">
+<div class="episodes-list">
+<div class="ui list">
+<div class="item season_start">
+<table class="ui basic unstackable table">
+<tbody>
+<tr>
+<td class="collapsing table-episode-check">
+<div class="ui checkbox ordi mark-read " data-manga-id="7631" data-chapter-id="434550" onlyusers="">
+ <input type="checkbox" disabled="disabled" tabindex="0" class="hidden">
+<label></label>
+</div>
+</td>
+
+<td id="table-episodes-title" class="table-episodes-title">
+    <h6 class="truncate"><a href="Flawless\Flawless-eps0.html" data-navigo="">PROLOG </a></h6></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--            list link per Episode            -->
+<div class="item season_start">
+<table class="ui basic unstackable table">
+<tbody>
+<tr>
+<td class="collapsing table-episode-check">
+<div class="ui checkbox ordi mark-read " data-manga-id="7631" data-chapter-id="428475" onlyusers="">
+<input type="checkbox" disabled="disabled" tabindex="0" class="hidden">
+<label></label>
+</div>
+</td>
+<td id="table-episodes-title" class="table-episodes-title">
+    <h6 class="truncate"><a href="Flawless\Flawless-eps1.html" data-navigo="">Episode 1 </a></h6></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--            list link per Episode            -->
+<div class="item season_start">
+<table class="ui basic unstackable table">
+<tbody>
+<tr>
+<td class="collapsing table-episode-check">
+<div class="ui checkbox ordi mark-read " data-manga-id="7631" data-chapter-id="428475" onlyusers="">
+<input type="checkbox" disabled="disabled" tabindex="0" class="hidden">
+<label></label>
+</div>
+</td>
+<td id="table-episodes-title" class="table-episodes-title">
+    <h6 class="truncate"><a href="Flawless\Flawless-eps2.html" data-navigo="">Episode 2 </a></h6></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--            list link per Episode            -->
+<div class="item season_start">
+<table class="ui basic unstackable table">
+<tbody>
+<tr>
+<td class="collapsing table-episode-check">
+<div class="ui checkbox ordi mark-read " data-manga-id="7631" data-chapter-id="428475" onlyusers="">
+<input type="checkbox" disabled="disabled" tabindex="0" class="hidden">
+<label></label>
+</div>
+</td>
+<td id="table-episodes-title" class="table-episodes-title">
+    <h6 class="truncate"><a href="Flawless\Flawless-eps3.html" data-navigo="">Episode 3 </a></h6></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--            list link per Episode            -->
+<div id="headline" class="tengah"></div>
+<p id="List"></p>
+<p id="Scene1"></p>
+<p id="Scene2"></p>
+<p id="Scene3"></p>
+<p id="Scene4"></p>
+<p id="Scene5"></p>
+<p id="Scene6"></p>
+<p id="Scene7"></p>
+<p id="Scene8"></p>
+<p id="Scene9"></p>
+<p id="Scene10"></p>
+<p id="Scene11"></p>
+<p id="Scene12"></p>
+<p id="Scene13"></p>
+<p id="Scene14"></p>
+<p id="Scene15"></p>
+<p id="Scene16"></p>
+
+
+
+<p id="demaa"></p>
+</section>
+<div class="copyright">
+    <h1 id="Scene17"></h1> 
+    <p>Tekan CTRL + click mouse ( ke link gambar) untuk membuka gambar di halaman baru</p>
+    <button class="buttontabel" onclick="show_table1()">Romantis</button>
+    <button class="buttontabel" onclick="show_table2()">Lucu</button>
+    <button class="buttontabel" onclick="show_table3()">Perkelahian</button>
+    <button class="buttontabel" onclick="show_table4()">Takut</button>
+    <button class="buttontabel" onclick="show_table5()">Bahagia</button>
+    <button class="buttontabel" onclick="show_table6()">Sedih</button>
+    <button class="buttontabel" onclick="show_table7()">Bingung</button>
+    <button class="buttontabel" onclick="show_table8()">Drama</button>
+    <button class="buttontabel" onclick="show_table9()">Fantasi</button>
+    <button class="buttontabel" onclick="show_table10()">Kaget</button>
+    <button class="buttontabel" onclick="show_table11()">Marah</button>
+    <button class="buttontabel" onclick="show_table12()">Lainnya</button>
+    
+<div class="tableSpot">
+      <table class="tablecontent"></table>
+</div>  
+<h1>Percentage Scene Chart </h1>
+
+<button class="buttontabel"  onclick="myFunction()">Show in Pie chart </button>
+<button class="buttontabel"  onclick="myFunction2()">Show in column chart</button>
+</div>
+</div>
+</footer>
+
+</main>
+<div id="router" data-page="index" data-meth="" data-homepage="https://www.webtoons.com/"></div>
+<div id="jump-up" class="mobile hidden hide"></div>
+<script id="cid0020000246670777018_" data-cfasync="false" async="" src="Tower%20of%20God%20Manga_files/emb.js" style="width: 300px;height: 400px;">{"handle":"webtoons","arch":"js","styles":{"a":"14161d","b":100,"c":"FFFFFF","d":"FFFFFF","k":"14161d","l":"14161d","m":"14161d","n":"FFFFFF","p":"10","q":"14161d","r":100,"t":0,"pos":"br","cv":1,"cvbg":"CC0000","cvw":75,"cvh":30}}</script>
+<script src="Tower%20of%20God%20Manga_files/jquery_002.js" type="text/javascript"></script>
+<script src="Tower%20of%20God%20Manga_files/jquery-ui.js" type="text/javascript"></script>
+<script src="Tower%20of%20God%20Manga_files/lazyload.js" type="text/javascript"></script>
+<script src="Tower%20of%20God%20Manga_files/navigo.js" type="text/javascript"></script>
+<script src="Tower%20of%20God%20Manga_files/semantic.js" type="text/javascript"></script>
+<script src="Tower%20of%20God%20Manga_files/emojionearea.js" type="text/javascript"></script>
+<script src="Tower%20of%20God%20Manga_files/owl.js" type="text/javascript"></script>
+<script src="Tower%20of%20God%20Manga_files/sweetalert.js" type="text/javascript"></script>
+<script src="Tower%20of%20God%20Manga_files/humane.js" type="text/javascript"></script>
+<script src="Tower%20of%20God%20Manga_files/jquery.js" type="text/javascript"></script>
+<script src="Tower%20of%20God%20Manga_files/app.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+    $( ".ch-image-container .lazy-wide" ).on( "click", function() {
+        $('html, body').animate({scrollTop: '+=250px'}, 300);
+    });
+</script>
+<script async="" id="dsq-count-scr" src="Tower%20of%20God%20Manga_files/count.js" type="text/javascript"></script>
+
+<div style="display: none;"></div><iframe style="display: none;" __idm_frm__="2147483665"></iframe>
+
+
+<p id="demo"></p>
+<div id="chartContainer" style="height: 370px; width: 100%;" ></div>
+
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+
+
+</body>
+
+<script src="build-table.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+<script>
+
+    $(document).ready(function(){
+
+        var scene=0;
+        var 
+        Romantis=0,
+        Lucu=0,
+        Perkelahian=0,
+        Takut=0,
+        Bahagia=0,
+        Sedih=0,
+        Bingung=0,
+        Drama=0,
+        Fantasi=0,
+        Kaget=0,
+        Marah=0,
+        Lainnya=0;
+        var 
+        ArrRomantis=[],
+        ArrLucu=[],
+        ArrPerkelahian=[],
+        ArrTakut=[],
+        ArrBahagia=[],
+        ArrSedih=[],
+        ArrBingung=[],
+        ArrDrama=[],
+        ArrFantasi=[],
+        ArrKaget=[],
+        ArrMarah=[],
+        ArrLainnya=[],
+        ArrTotal=[];
+         //Membaca dn mengambil data
+        $.getJSON('Flawless_Labeling_result.json',function(data){
+            var headline_data = '';
+            var i = 0;
+            $.each(data, function(key, value) {
+                i = i + 1;  
+                     var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);ArrTotal.push(ss);
+                if(value.completions[0].result[0].value.polygonlabels=="Romantis")  {
+                    Romantis++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrRomantis.push(ss);}
+
+                if(value.completions[0].result[0].value.polygonlabels=="Lucu") {
+                    Lucu++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrLucu.push(ss);}
+
+                if(value.completions[0].result[0].value.polygonlabels=="Perkelahian") {
+                    Perkelahian++; 
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrPerkelahian.push(ss);}
+
+                if(value.completions[0].result[0].value.polygonlabels=="Takut") {
+                    Takut++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrTakut.push(ss)}
+
+                if(value.completions[0].result[0].value.polygonlabels=="Bahagia") {
+                    Bahagia++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrBahagia.push(ss);}
+
+                if(value.completions[0].result[0].value.polygonlabels=="Sedih"){
+                    Sedih++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrSedih.push(ss);}
+
+                if(value.completions[0].result[0].value.polygonlabels=="Bingung"){
+                    Bingung++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrBingung.push(ss);}
+
+                if(value.completions[0].result[0].value.polygonlabels=="Drama"){
+                    Drama++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrDrama.push(ss);}
+
+                if(value.completions[0].result[0].value.polygonlabels=="Fantasi") {
+                    Fantasi++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrFantasi.push(ss);}
+
+                if(value.completions[0].result[0].value.polygonlabels=="Kaget")  {
+                    Kaget++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrKaget.push(ss);}
+                
+                if(value.completions[0].result[0].value.polygonlabels=="Marah")  {
+                    Marah++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrMarah.push(ss);}
+
+                if(value.completions[0].result[0].value.polygonlabels=="Lainnya")   {
+                    Lainnya++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrLainnya.push(ss);}
+
+            document.getElementById("Scene17").innerHTML =" Total data yang dilabeling \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + i;
+
+            localStorage.setItem('Romantis', Romantis);
+            localStorage.setItem('Lucu', Lucu);
+            localStorage.setItem('Perkelahian', Perkelahian);
+            localStorage.setItem('Takut', Takut);
+            localStorage.setItem('Bahagia', Bahagia);
+            localStorage.setItem('Sedih', Sedih);
+            localStorage.setItem('Bingung', Bingung);
+            localStorage.setItem('Drama', Drama);
+            localStorage.setItem('Fantasi', Fantasi);
+            localStorage.setItem('Kaget', Kaget);
+            localStorage.setItem('Marah', Marah);
+            localStorage.setItem('Lainnya', Lainnya); 
+            localStorage.setItem('Total', i);
+
+            localStorage.setItem('ArrRomantis'      , JSON.stringify(ArrRomantis));
+            localStorage.setItem('ArrLucu'          , JSON.stringify(ArrLucu));
+            localStorage.setItem('ArrPerkelahian'   , JSON.stringify(ArrPerkelahian));
+            localStorage.setItem('ArrTakut'     , JSON.stringify(ArrTakut)); 
+            localStorage.setItem('ArrBahagia'       , JSON.stringify(ArrBahagia)); 
+            localStorage.setItem('ArrSedih'         , JSON.stringify(ArrSedih));  
+            localStorage.setItem('ArrBingung'       , JSON.stringify(ArrBingung));   
+            localStorage.setItem('ArrDrama'      , JSON.stringify(ArrDrama)); 
+            localStorage.setItem('ArrFantasi'       , JSON.stringify(ArrFantasi));
+            localStorage.setItem('ArrKaget'         , JSON.stringify(ArrKaget));
+            localStorage.setItem('ArrMarah'         , JSON.stringify(ArrMarah));
+            localStorage.setItem('ArrLainnya'       , JSON.stringify(ArrLainnya)); 
+            localStorage.setItem('ArrTotal'         , JSON.stringify(ArrTotal)); 
+            });
+            $('#headline').append(headline_data);
+           
+        });
+        myFunction();
+        myFunction2();
+    });
+
+
+//CHEKKED----------------------------------------------------------------------------------------------------
+    $(document).ready(function(){
+
+        var userMenu = $('.header-user-dropdown .header-user-menu');
+
+        userMenu.on('touchend', function(e){
+
+            userMenu.addClass('show');
+
+            e.preventDefault();
+            e.stopPropagation();
+
+        });
+
+        // This code makes the user dropdown work on mobile devices
+
+        $(document).on('touchend', function(e){
+
+            // If the page is touched anywhere outside the user menu, close it
+            userMenu.removeClass('show');
+
+        });
+
+    });
+
+
+
+
+//CHEKKED----------------------------------------------------------------------------------------------------
+function Scene(sScene, simg) {
+  this.Scene = sScene;
+  this.img = simg;
+}
+
+
+//CHEKKED----------------------------------------------------------------------------------------------------
+function show_table1(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrRomantis'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+function show_table2(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrLucu'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+function show_table3(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrPerkelahian'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+function show_table4(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrTakut'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+function show_table5(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrBahagia'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+function show_table6(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrSedih'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+function show_table7(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrBingung'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+function show_table8(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrDrama'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+function show_table9(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrFantasi'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+function show_table10(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrKaget'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+function show_table11(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrMarah'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+function show_table12(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrLainnya'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+
+//CHEKKED----------------------------------------------------------------------------------------------------
+function generateTableHead(table, data) {
+  let thead = table.createTHead();
+  let row = thead.insertRow();
+  for (let key of data) {
+    let th = document.createElement("th");
+    let text = document.createTextNode(key);
+    th.appendChild(text);
+
+    row.appendChild(th);
+  }
+}
+//CHEKKED----------------------------------------------------------------------------------------------------
+function generateTable(table, data) {
+  for (let element of data) {
+    let row = table.insertRow();
+    for (key in element) {
+
+      
+      let cell = row.insertCell();
+      let a =document.createElement("a");
+
+      let text = document.createTextNode(element[key]);
+      let link = document.createTextNode(element[key]);
+      a.appendChild(text);
+      a.href=element[key];
+      cell.appendChild(a);
+
+    }
+  }
+}
+function Geeks() { 
+            $('.tablecontent').detach(); 
+        } 
+function resotre(){
+
+            $( '<table class="tablecontent"></table>"' ).prependTo( $( ".tableSpot" ) );
+        }
+        function showTable(){
+document.getElementById('table').style.visibility = "visible";
+}
+function hideTable(){
+document.getElementById('table').style.visibility = "hidden";
+}
+
+
+
+
+
+</script>
+</html>
