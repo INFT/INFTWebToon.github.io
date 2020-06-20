@@ -718,7 +718,8 @@ Arrmenyerang=[],
 ArrFantasy=[],
 ArrLainnya=[],
 ArrRomantis=[],
-percobaan=[];
+percobaan=[],
+ArrTotal=[];
          //Membaca dn mengambil data dari file headline.txt
         $.getJSON('MageAndDemonQueen_Labeling_result.json',function(data){
             //Mengambil Line dari tiap judul
@@ -733,27 +734,56 @@ percobaan=[];
                 // headline_data += '<td>'+value.completions[0].result[0].value.choices+'</td>'
                 // headline_data += '<td>'+value.data.image_url+'</td>'
                 // headline_data += '</tr>';
-                i = i + 1;
+                i = i + 1;  
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrTotal.push(ss);
                 if(value.completions[0].result[0].value.choices=="Ketakutan") {Ketakutan++; 
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrKetakutan.push(ss)}
+
                 if(value.completions[0].result[0].value.choices=="Perkelahian") {Perkelahian++; 
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrPerkelahian.push(ss);}
+
                 if(value.completions[0].result[0].value.choices=="Lucu") {Lucu++;
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrLucu.push(ss);}
+
                 if(value.completions[0].result[0].value.choices=="Bahagia") {Bahagia++;
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrBahagia.push(ss);}
-                if(value.completions[0].result[0].value.choices=="Menggombal") Menggombal++;
-                if(value.completions[0].result[0].value.choices=="Sedih") Sedih++;
-                if(value.completions[0].result[0].value.choices=="Lebay") Lebay++;
-                if(value.completions[0].result[0].value.choices=="Tragedy") Tragedy++;
-                if(value.completions[0].result[0].value.choices=="Kaget") Kaget++;
-                if(value.completions[0].result[0].value.choices=="Berfikir") Berfikir++;
-                if(value.completions[0].result[0].value.choices=="game") game++;
-                if(value.completions[0].result[0].value.choices=="Belajar") Belajar++;
-                if(value.completions[0].result[0].value.choices=="menyerang") menyerang++;
-                if(value.completions[0].result[0].value.choices=="Fantasy") Fantasy++;
-                if(value.completions[0].result[0].value.choices=="Romantis") Romantis++;
-                if(value.completions[0].result[0].value.choices=="lainnya") Lainnya++;
+
+                if(value.completions[0].result[0].value.choices=="Menggombal") {Menggombal++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrMenggombal.push(ss);}
+
+                if(value.completions[0].result[0].value.choices=="Sedih"){Sedih++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrSedih.push(ss);}
+
+                if(value.completions[0].result[0].value.choices=="Lebay") {Lebay++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrLebay.push(ss);}
+
+                if(value.completions[0].result[0].value.choices=="Tragedy") {Tragedy++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrTragedy.push(ss);}
+
+                if(value.completions[0].result[0].value.choices=="Kaget")  {Kaget++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrKaget.push(ss);}
+
+                if(value.completions[0].result[0].value.choices=="Berfikir"){Berfikir++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrBerfikir.push(ss);}
+
+                if(value.completions[0].result[0].value.choices=="game"){game++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);Arrgame.push(ss);}
+
+                if(value.completions[0].result[0].value.choices=="Belajar") {Belajar++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrBelajar.push(ss);}
+
+                if(value.completions[0].result[0].value.choices=="menyerang") {menyerang++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);Arrmenyerang.push(ss);}
+
+                if(value.completions[0].result[0].value.choices=="Fantasy") {Fantasy++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrFantasy.push(ss);}
+
+                if(value.completions[0].result[0].value.choices=="Romantis")  {Romantis++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrRomantis.push(ss);}
+
+                if(value.completions[0].result[0].value.choices=="lainnya")   {lainnya++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);Arrlainnya.push(ss);}
+
             // document.getElementById("List").innerHTML ="Rekap Jumlah Scene: ";
             // document.getElementById("Scene1").innerHTML =" Ketakutan\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Ketakutan;
             // document.getElementById("Scene2").innerHTML =" Perkelahian\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Perkelahian;
@@ -796,7 +826,19 @@ percobaan=[];
             localStorage.setItem('ArrPerkelahian', JSON.stringify(ArrPerkelahian)); 
             localStorage.setItem('ArrLucu', JSON.stringify(ArrLucu)); 
             localStorage.setItem('ArrBahagia', JSON.stringify(ArrBahagia)); 
-
+            localStorage.setItem('ArrMenggombal', JSON.stringify(ArrMenggombal)); 
+            localStorage.setItem('ArrSedih', JSON.stringify(ArrSedih)); 
+            localStorage.setItem('ArrLebay', JSON.stringify(ArrLebay)); 
+            localStorage.setItem('ArrTragedy', JSON.stringify(ArrTragedy)); 
+            localStorage.setItem('ArrKaget', JSON.stringify(ArrKaget)); 
+            localStorage.setItem('ArrBerfikir', JSON.stringify(ArrBerfikir)); 
+            localStorage.setItem('Arrgame', JSON.stringify(Arrgame)); 
+            localStorage.setItem('ArrBelajar', JSON.stringify(ArrBelajar)); 
+            localStorage.setItem('Arrmenyerang', JSON.stringify(Arrmenyerang)); 
+            localStorage.setItem('ArrFantasy', JSON.stringify(ArrFantasy)); 
+            localStorage.setItem('ArrRomantis', JSON.stringify(ArrRomantis)); 
+            localStorage.setItem('Lainnya', JSON.stringify(Lainnya)); 
+            localStorage.setItem('Total', i);
             });
             $('#headline').append(headline_data);
            
