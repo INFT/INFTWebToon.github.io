@@ -683,6 +683,7 @@ Artist
 <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 <script>
     $(document).ready(function(){
+
         var scene=0;
         var 
 Ketakutan=0,
@@ -888,7 +889,7 @@ function Scene(sScene, simg) {
 //CHEKKED----------------------------------------------------------------------------------------------------
 var retrievedObject =[];
  retrievedObject= JSON.parse(localStorage.getItem('ArrLainnya'));
-// document.getElementById("demaa").innerHTML = mmcar[0].make +"   "+mmcar[1].make;
+ document.getElementById("demaa").innerHTML = retrievedObject;
 
 
 
