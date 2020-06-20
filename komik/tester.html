@@ -1,30 +1,6 @@
 <!DOCTYPE html>
 <html xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en">
 <head>
-    <style>
-        .buttontabel {
-          display: inline-block;
-          padding: 5px 5px;
-          font-size: 20px;
-          cursor: pointer;
-          text-align: center;
-          text-decoration: none;
-          outline: none;
-          color: #fff;
-          background-color: #555555 ;
-          border: none;
-          border-radius: 10px;
-          box-shadow: 0 4px #999;
-        }
-        
-        .buttontabel:hover {background-color: #101010}
-        
-        .buttontabel:active {
-          background-color: #555555;
-          box-shadow: 0 5px #666;
-          transform: translateY(4px);
-        }
-        </style>
     <script>
         function myFunction() {
 
@@ -652,36 +628,18 @@ Artist
 <p id="Scene15"></p>
 <p id="Scene16"></p>
 
-
-
+<button onclick="myFunction()">Show in Pie chart </button>
+<button onclick="myFunction2()">Show in column chart</button>
+<button onclick="generateTable(table, localStorage.getItem(ArrPerkelahian))">Show perkelahian</button>
+<h1 id="Scene17"></h1>
+<table class="tablecontent">
+    <!-- here goes our data! -->
+</table>
 <p id="demaa"></p>
 </section>
 <div class="copyright">
-    <h1 id="Scene17"></h1> 
-    <button class="buttontabel" onclick="show_table1()">Ketakutan</button>
-    <button class="buttontabel" onclick="show_table2()">Perkelahian</button>
-    <button class="buttontabel" onclick="show_table3()">Lucu</button>
-    <button class="buttontabel" onclick="show_table4()">Bahagia</button>
-    <button class="buttontabel" onclick="show_table5()">Menggombal</button>
-    <button class="buttontabel" onclick="show_table6()">Sedih</button>
-    <button class="buttontabel" onclick="show_table7()">Lebay</button>
-    <button class="buttontabel" onclick="show_table8()">Tragedy</button>
-    <button class="buttontabel" onclick="show_table9()">Kaget</button>
-    <button class="buttontabel" onclick="show_table10()">Berfikir</button>
-    <button class="buttontabel" onclick="show_table11()">game</button>
-    <button class="buttontabel" onclick="show_table12()">Belajar </button>
-    <button class="buttontabel" onclick="show_table13()">menyerang</button>
-    <button class="buttontabel" onclick="show_table14()">Fantasy</button>
-    <button class="buttontabel" onclick="show_table15()">Lainnya</button>
-    <button class="buttontabel" onclick="show_table16()">Romantis</button>
-    
-<div class="tableSpot">
-      <table class="tablecontent"></table>
-</div>  
-<h1>Percentage Scene Chart </h1>
+<p>Copyrights </p>
 
-<button class="buttontabel"  onclick="myFunction()">Show in Pie chart </button>
-<button class="buttontabel"  onclick="myFunction2()">Show in column chart</button>
 </div>
 </div>
 </footer>
@@ -745,7 +703,7 @@ menyerang=0,
 Fantasy=0,
 Lainnya=0,
 Romantis=0;
-var 
+        var 
 ArrKetakutan=[],
 ArrPerkelahian=[],
 ArrLucu=[],
@@ -778,87 +736,103 @@ ArrTotal=[];
                 // headline_data += '<td>'+value.data.image_url+'</td>'
                 // headline_data += '</tr>';
                 i = i + 1;  
-                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrTotal.push(ss);
+                    // var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrTotal.push(ss);
 
                 if(value.completions[0].result[0].value.choices=="Ketakutan") {
                     Ketakutan++;
-                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrKetakutan.push(ss)}
+                    // var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    // ArrKetakutan.push(ss);
+                }
 
                 if(value.completions[0].result[0].value.choices=="Perkelahian") {
                     Perkelahian++; 
-                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrPerkelahian.push(ss);}
+                    // var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    // ArrPerkelahian.push(ss);
+                }
 
                 if(value.completions[0].result[0].value.choices=="Lucu") {
                     Lucu++;
-                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrLucu.push(ss);}
+                    // var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    // ArrLucu.push(ss);
+                }
 
                 if(value.completions[0].result[0].value.choices=="Bahagia") {
                     Bahagia++;
-                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrBahagia.push(ss);}
+                    // var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    // ArrBahagia.push(ss);
+                }
 
                 if(value.completions[0].result[0].value.choices=="Menggombal") {
                     Menggombal++;
-                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrMenggombal.push(ss);}
+                    // var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    // ArrMenggombal.push(ss);
+                }
 
                 if(value.completions[0].result[0].value.choices=="Sedih"){
                     Sedih++;
-                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrSedih.push(ss);}
+                    // var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    // ArrSedih.push(ss);
+                }
 
                 if(value.completions[0].result[0].value.choices=="Lebay") {
                     Lebay++;
-                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrLebay.push(ss);}
+                    // var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    // ArrLebay.push(ss);
+                }
 
                 if(value.completions[0].result[0].value.choices=="Tragedy") {
                     Tragedy++;
-                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrTragedy.push(ss);}
+                    // var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    // ArrTragedy.push(ss);
+                }
 
                 if(value.completions[0].result[0].value.choices=="Kaget")  {
                     Kaget++;
-                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrKaget.push(ss);}
+                    // var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    // ArrKaget.push(ss);
+                }
 
                 if(value.completions[0].result[0].value.choices=="Berfikir"){
                     Berfikir++;
-                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrBerfikir.push(ss);}
+                    // var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    // ArrBerfikir.push(ss);
+                }
 
                 if(value.completions[0].result[0].value.choices=="game"){
                     game++;
-                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    Arrgame.push(ss);}
+                    // var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    // Arrgame.push(ss);
+                }
 
                 if(value.completions[0].result[0].value.choices=="Belajar") {
                     Belajar++;
-                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrBelajar.push(ss);}
+                    // var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    // ArrBelajar.push(ss);
+                }
 
                 if(value.completions[0].result[0].value.choices=="menyerang") {
                     menyerang++;
-                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    Arrmenyerang.push(ss);}
+                    // var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    // Arrmenyerang.push(ss);
+                }
 
                 if(value.completions[0].result[0].value.choices=="Fantasy") {
                     Fantasy++;
-                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrFantasy.push(ss);}
+                    // var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    // ArrFantasy.push(ss);
+                }
 
                 if(value.completions[0].result[0].value.choices=="Romantis")  {
                     Romantis++;
-                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrRomantis.push(ss);}
+                    // var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    // ArrRomantis.push(ss);
+                }
 
-                if(value.completions[0].result[0].value.choices=="Lainnya")   {
-                    Lainnya++;
-                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrLainnya.push(ss);}
+                if(value.completions[0].result[0].value.choices=="lainnya")   {
+                    lainnya++;
+                    // var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    // Arrlainnya.push(ss);
+                }
 
             // document.getElementById("List").innerHTML ="Rekap Jumlah Scene: ";
             // document.getElementById("Scene1").innerHTML =" Ketakutan\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Ketakutan;
@@ -876,16 +850,16 @@ ArrTotal=[];
             // document.getElementById("Scene13").innerHTML =" menyerang\xa0\xa0\xa0\xa0\xa0\xa0= " + menyerang;
             // document.getElementById("Scene14").innerHTML =" Fantasy\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Fantasy;
             // document.getElementById("Scene15").innerHTML =" Romantis\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Romantis;
-            // //document.getElementById("Scene16").innerHTML =" Lainnya\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " +  retrievedObject);
-            document.getElementById("Scene17").innerHTML =" Total data yang dilabeling \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + i;
+            //document.getElementById("Scene16").innerHTML =" Lainnya\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " +  retrievedObject);
+            //document.getElementById("Scene17").innerHTML =" Total data yang dilabeling \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + i;
             
-            localStorage.setItem('Ketakutan', Ketakutan);
-            localStorage.setItem('Perkelahian', Perkelahian);
-            localStorage.setItem('Lucu', Lucu);
-            localStorage.setItem('Bahagia', Bahagia);
-            localStorage.setItem('Menggombal', Menggombal);
-            localStorage.setItem('Sedih', Sedih);
-            localStorage.setItem('Lebay', Lebay);
+            localStorage.setItem('Ketakutan',       Ketakutan);
+            localStorage.setItem('Perkelahian',     Perkelahian);
+            localStorage.setItem('Lucu',            Lucu);
+            localStorage.setItem('Bahagia',         Bahagia);
+            localStorage.setItem('Menggombal',       Menggombal);
+            localStorage.setItem('Sedih',        Sedih);
+            localStorage.setItem('Lebay',        Lebay);
             localStorage.setItem('Tragedy', Tragedy);
             localStorage.setItem('Kaget', Kaget);
             localStorage.setItem('Berfikir', Berfikir);
@@ -898,23 +872,23 @@ ArrTotal=[];
             localStorage.setItem('Total', i);
 
 
-            localStorage.setItem('ArrKetakutan'     , JSON.stringify(ArrKetakutan)); 
-            localStorage.setItem('ArrPerkelahian'   , JSON.stringify(ArrPerkelahian)); 
-            localStorage.setItem('ArrLucu'          , JSON.stringify(ArrLucu)); 
-            localStorage.setItem('ArrBahagia'       , JSON.stringify(ArrBahagia)); 
-            localStorage.setItem('ArrMenggombal'    , JSON.stringify(ArrMenggombal)); 
-            localStorage.setItem('ArrSedih'         , JSON.stringify(ArrSedih)); 
-            localStorage.setItem('ArrLebay'         , JSON.stringify(ArrLebay)); 
-            localStorage.setItem('ArrTragedy'       , JSON.stringify(ArrTragedy)); 
-            localStorage.setItem('ArrKaget'         , JSON.stringify(ArrKaget)); 
-            localStorage.setItem('ArrBerfikir'      , JSON.stringify(ArrBerfikir)); 
-            localStorage.setItem('Arrgame'          , JSON.stringify(Arrgame)); 
-            localStorage.setItem('ArrBelajar'       , JSON.stringify(ArrBelajar)); 
-            localStorage.setItem('Arrmenyerang'     , JSON.stringify(Arrmenyerang)); 
-            localStorage.setItem('ArrFantasy'       , JSON.stringify(ArrFantasy)); 
-            localStorage.setItem('ArrRomantis'      , JSON.stringify(ArrRomantis)); 
-            localStorage.setItem('ArrLainnya'       , JSON.stringify(ArrLainnya)); 
-             localStorage.setItem('ArrTotal'         , JSON.stringify(ArrTotal)); 
+            // localStorage.setItem('ArrKetakutan'     , JSON.stringify(ArrKetakutan)); 
+            // localStorage.setItem('ArrPerkelahian'   , JSON.stringify(ArrPerkelahian)); 
+            // localStorage.setItem('ArrLucu'          , JSON.stringify(ArrLucu)); 
+            // localStorage.setItem('ArrBahagia'       , JSON.stringify(ArrBahagia)); 
+            // localStorage.setItem('ArrMenggombal'    , JSON.stringify(ArrMenggombal)); 
+            // localStorage.setItem('ArrSedih'         , JSON.stringify(ArrSedih)); 
+            // localStorage.setItem('ArrLebay'         , JSON.stringify(ArrLebay)); 
+            // localStorage.setItem('ArrTragedy'       , JSON.stringify(ArrTragedy)); 
+            // localStorage.setItem('ArrKaget'         , JSON.stringify(ArrKaget)); 
+            // localStorage.setItem('ArrBerfikir'      , JSON.stringify(ArrBerfikir)); 
+            // localStorage.setItem('Arrgame'          , JSON.stringify(Arrgame)); 
+            // localStorage.setItem('ArrBelajar'       , JSON.stringify(ArrBelajar)); 
+            // localStorage.setItem('Arrmenyerang'     , JSON.stringify(Arrmenyerang)); 
+            // localStorage.setItem('ArrFantasy'       , JSON.stringify(ArrFantasy)); 
+            // localStorage.setItem('ArrRomantis'      , JSON.stringify(ArrRomantis)); 
+            // localStorage.setItem('ArrLainnya'       , JSON.stringify(ArrLainnya)); 
+            // localStorage.setItem('ArrTotal'         , JSON.stringify(ArrTotal)); 
             });
             $('#headline').append(headline_data);
            
@@ -962,176 +936,11 @@ function Scene(sScene, simg) {
 
 
 //CHEKKED----------------------------------------------------------------------------------------------------
-function show_table(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrPerkelahian'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table1(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrKetakutan'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table2(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrPerkelahian'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table3(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrLucu'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table4(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrBahagia'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table5(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrMenggombal'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table6(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrSedih'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table7(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrLebay'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table8(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrTragedy'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table9(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrKaget'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table10(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrBerfikir'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table11(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('Arrgame'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table12(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrBelajar'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table13(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('Arrmenyerang'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table14(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrFantasy'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table15(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
+var retrievedObject =[];
  retrievedObject= JSON.parse(localStorage.getItem('ArrLainnya'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table16(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrRomantis'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
+ document.getElementById("demaa").innerHTML = retrievedObject;
+
+
 
 //CHEKKED----------------------------------------------------------------------------------------------------
 function generateTableHead(table, data) {
@@ -1164,19 +973,11 @@ function generateTable(table, data) {
     }
   }
 }
-function Geeks() { 
-            $('.tablecontent').detach(); 
-        } 
-function resotre(){
 
-            $( '<table class="tablecontent"></table>"' ).prependTo( $( ".tableSpot" ) );
-        }
-        function showTable(){
-document.getElementById('table').style.visibility = "visible";
-}
-function hideTable(){
-document.getElementById('table').style.visibility = "hidden";
-}
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
 
 
 
