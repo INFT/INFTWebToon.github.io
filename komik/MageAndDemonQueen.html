@@ -734,11 +734,14 @@ percobaan=[];
                 // headline_data += '<td>'+value.data.image_url+'</td>'
                 // headline_data += '</tr>';
                 i = i + 1;
-                if(value.completions[0].result[0].value.choices=="Ketakutan") {Ketakutan++; ArrKetakutan.push(value.data.image_url);}
-                if(value.completions[0].result[0].value.choices=="Perkelahian") {Perkelahian++; ArrPerkelahian.push(value.data.image_url);
-                                                                                var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);percobaan.push(ss);}
-                if(value.completions[0].result[0].value.choices=="Lucu") {Lucu++; ArrLucu.push(value.data.image_url);}
-                if(value.completions[0].result[0].value.choices=="Bahagia") Bahagia++;
+                if(value.completions[0].result[0].value.choices=="Ketakutan") {Ketakutan++; 
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrKetakutan.push(ss)}
+                if(value.completions[0].result[0].value.choices=="Perkelahian") {Perkelahian++; 
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrPerkelahian.push(ss);}
+                if(value.completions[0].result[0].value.choices=="Lucu") {Lucu++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrLucu.push(ss);}
+                if(value.completions[0].result[0].value.choices=="Bahagia") {Bahagia++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrBahagia.push(ss);}
                 if(value.completions[0].result[0].value.choices=="Menggombal") Menggombal++;
                 if(value.completions[0].result[0].value.choices=="Sedih") Sedih++;
                 if(value.completions[0].result[0].value.choices=="Lebay") Lebay++;
@@ -787,11 +790,12 @@ percobaan=[];
             localStorage.setItem('Romantis', Romantis);
             localStorage.setItem('Lainnya', Lainnya); 
             localStorage.setItem('Total', i);
-            localStorage.setItem('ArrPerkelahian', ArrPerkelahian); 
 
-            localStorage.setItem('percobaan', JSON.stringify(percobaan)); 
 
-            localStorage.setItem('ArrLucu', ArrLucu); 
+            localStorage.setItem('ArrKetakutan', JSON.stringify(ArrKetakutan)); 
+            localStorage.setItem('ArrPerkelahian', JSON.stringify(ArrPerkelahian)); 
+            localStorage.setItem('ArrLucu', JSON.stringify(ArrLucu)); 
+            localStorage.setItem('ArrBahagia', JSON.stringify(ArrBahagia)); 
 
             });
             $('#headline').append(headline_data);
@@ -841,8 +845,7 @@ function Scene(sScene, simg) {
 
 //CHEKKED----------------------------------------------------------------------------------------------------
 var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('percobaan'));
- document.getElementById("demaa").innerHTML = retrievedObject[0].Scene;
+ retrievedObject= JSON.parse(localStorage.getItem('ArrLucu'));
 // document.getElementById("demaa").innerHTML = mmcar[0].make +"   "+mmcar[1].make;
 
 
