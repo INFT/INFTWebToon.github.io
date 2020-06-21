@@ -24,6 +24,12 @@
           box-shadow: 0 5px #666;
           transform: translateY(4px);
         }
+        #chartContainer{
+            float: left;
+        }
+        #chartContainer2{
+            float: right;
+        }
         </style>
     <script>
         function myFunction() {
@@ -65,7 +71,7 @@ chart.render();
 
 function myFunction2() {
 
-var chart = new CanvasJS.Chart("chartContainer", {
+var chart = new CanvasJS.Chart("chartContainer2", {
     animationEnabled: true,
 	theme: "dark1", // "light1", "light2", "dark1", "dark2"
 	title:{
@@ -88,7 +94,6 @@ var chart = new CanvasJS.Chart("chartContainer", {
 			{ y: Number(localStorage.getItem('Sedih')), label: "Sedih" },
 			{ y: Number(localStorage.getItem('Bingung')), label: "Bingung"},
 			{ y: Number(localStorage.getItem('Drama')), label: "Drama" },
-			{ y: Number(localStorage.getItem('Fantasi')), label: "Fantasi"},
 			{ y: Number(localStorage.getItem('Kaget')), label: "Kaget" },
             { y: Number(localStorage.getItem('Marah')), label: "Marah"},
 			{ y: Number(localStorage.getItem('Lainnya')), label: "Lainnya"}
@@ -352,6 +357,12 @@ Artist
 
 <p id="demaa"></p>
 </section>
+<h1>Data Labeling</h1>
+<div class="chartbox">
+    <div class="split left" id="chartContainer" style="height: 370px; width: 500px;" ></div>
+
+    <div class="split right" id="chartContainer2" style="height: 370px; width: 500px;" ></div>
+</div>
 <div class="copyright">
     <h1 id="Scene17"></h1> 
     <p>Tekan CTRL + click mouse ( ke link gambar) untuk membuka gambar di halaman baru</p>
@@ -371,10 +382,6 @@ Artist
 <div class="tableSpot">
       <table class="tablecontent"></table>
 </div>  
-<h1>Percentage Scene Chart </h1>
-
-<button class="buttontabel"  onclick="myFunction()">Show in Pie chart </button>
-<button class="buttontabel"  onclick="myFunction2()">Show in column chart</button>
 </div>
 </div>
 </footer>
