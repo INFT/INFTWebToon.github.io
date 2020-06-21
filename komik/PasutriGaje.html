@@ -56,9 +56,9 @@ var chart = new CanvasJS.Chart("chartContainer", {
 			{ y: Number(localStorage.getItem('Action')), name: "Action",},
             { y: Number(localStorage.getItem('Fantasy')), name: " Fantasy"},
 			{ y: Number(localStorage.getItem('Slice Of Life')), name: "Slice Of Life" },
-			{ y: Number(localStorage.getItem('Sci-Fi')), name: "Sci-Fi" },	
-			{ y: Number(localStorage.getItem('Drama')), name: "Drama" },
-			{ y: Number(localStorage.getItem('Others')), name: "Others"}
+			{ y: Number(localStorage.getItem('SciFi')), name: "SciFi" },	
+			{ y: Number(localStorage.getItem('Drama')), name: "Drama"},
+			{ y: Number(localStorage.getItem('Others')), name: "Others" }
 		]
 	}]
 });
@@ -87,9 +87,9 @@ var chart = new CanvasJS.Chart("chartContainer2", {
 			{ y: Number(localStorage.getItem('Action')), label: "Action",},
             { y: Number(localStorage.getItem('Fantasy')), label: " Fantasy"},
 			{ y: Number(localStorage.getItem('Slice Of Life')), label: "Slice Of Life" },
-			{ y: Number(localStorage.getItem('Sci-Fi')), label: "Sci-Fi" },
-			{ y: Number(localStorage.getItem('Drama')), label: "Drama" },
-			{ y: Number(localStorage.getItem('Others')), label: "Others"}
+			{ y: Number(localStorage.getItem('SciFi')), label: "SciFi" },
+			{ y: Number(localStorage.getItem('Drama')), label: "Drama"},
+			{ y: Number(localStorage.getItem('Others')), label: "Others" }
 		]
 	}]
 });
@@ -127,14 +127,14 @@ chart.render();
 <header id="header">
 <button class="mobile-menu-trigger"><span></span></button>
 <div id="logo">
-<a href="https://www.webtoons.com/" data-navigo=""></a>
+webtoon<a href="../INFTWebtoon.html" data-navigo=""></a>
 </div>
 <div id="header-middle">
 <div id="search">
 <div>
 <span class="deleteicon"></span>
 <label for="tvSearch">
-<input type="search" name="search" class="form-control deletable" autocomplete="off" id="tvSearch" placeholder="Live Search">
+    
 </label>
 <button type="button" aria-label="Live Search">
 <i class="fas fa-search"></i>
@@ -147,8 +147,8 @@ chart.render();
 </div>
 <div id="user">
 <div class="left floated author">
-<a class="ui button secondary" onlyusers=""><i class="fas fa-user"></i> Sign In</a>
-<a class="ui button secondary hidden-xs signup"><i class="fas fa-user"></i> Sign Up</a>
+   
+  
 </div>
 </div>
 </div>
@@ -161,10 +161,10 @@ chart.render();
     <h5 class="section-heading">MENU</h5>
     <ul class="guide-icon-menu">
     <li class="active">
-    <a href="https://www.webtoons.com/" data-navigo=""><i class="fas fa-home"></i> Home</a>
+    <a href="../INFTWebtoon.html" data-navigo=""><i class="fas fa-home"></i> Home</a>
     </li>
     <li>
-    <a href="https://www.webtoons.com/id/dailySchedule" data-navigo=""><i class="fas fa-list"></i> Manga List</a>
+    <a href="../INFTWebtoon.htmlid/dailySchedule" data-navigo=""><i class="fas fa-list"></i> Manga List</a>
     </li>
 
     </ul>
@@ -184,7 +184,7 @@ chart.render();
 <div class="ui grid">
 <div class="left floated sixteen wide tablet eight wide computer column">
 <a href="PasutriGaje.html" data-navigo=""><h1 class="page-title">Pasutri Gaje</h1></a>
-<div class="sub-title pt-sm">Annisa Nisfihani</div> </div>
+<div class="sub-title pt-sm">Shinshinhye</div> </div>
 <div class="right aligned floated sixteen wide tablet eight wide computer column" id="series-action-buttons">
 
 </div>
@@ -196,14 +196,15 @@ chart.render();
 <div class="ui items">
 <div class="item" id="series-profile-wrapper">
 <a class="ui image" id="series-profile-image-wrapper">
-<img class="series-profile-thumb" src="Pasutri Gaje\cover.jpg" alt="PasutriGaje">
+<img class="series-profile-thumb" src="Pasutri Gaje\cover.jpg" alt="Pasutri Gaje">
 </a>
 <div class="content" id="series-profile-content-wrapper">
 <article class="series-summary">
 <div class="series-summary-wrapper">
 <h2 class="section-heading">SUMMARY</h2>
-<p id="tv-series-desc"></p><p>Mas dan Adek sudah menikah!
-    Tapi siapa yang bilang pernikahan itu mudah?</p><p></p>
+<p id="tv-series-desc"></p><p>Sarah, si cewek tangguh tidak sengaja bertemu
+    Elios pemuda tunanetra seusianya. Elios begitu misterius, bikin Sarah penasaran.
+    Apakah Sarah jatuh cinta? Mungkin ada sesuatu di balik ini semua?</p><p></p>
 <div class="ui list">
 <div class="item"><span class="label">Genres:</span></div>
 </div>
@@ -214,11 +215,11 @@ chart.render();
 <span id="first_episode">
 
 Author
-<a href="https://www.webtoons.com/id/romance/pasturi-gaje/list?title_no=790&page=1" data-navigo=""><small>Annisa Nisfihani</small></a>
+<a href="../INFTWebtoon.htmlid/romance/Pasutri Gaje/list?title_no=595&page=1" data-navigo=""><small>Shinshinhye</small></a>
 </span>
 <span id="last_episode">
 Artist
-<a href="https://www.webtoons.com/id/romance/pasturi-gaje/list?title_no=790&page=1" data-navigo=""><small>Annisa Nisfihani</small></a>
+<a href="../INFTWebtoon.htmlid/romance/Pasutri Gaje/list?title_no=595&page=1" data-navigo=""><small>Shinshinhye</small></a>
 
 </span>
 </div>
@@ -257,6 +258,23 @@ Artist
 <div class="tabular-content">
 <div class="episodes-list">
 <div class="ui list">
+<div class="item season_start">
+<table class="ui basic unstackable table">
+<tbody>
+<tr>
+<td class="collapsing table-episode-check">
+<div class="ui checkbox ordi mark-read " data-manga-id="7631" data-chapter-id="434550" onlyusers="">
+ <input type="checkbox" disabled="disabled" tabindex="0" class="hidden">
+<label></label>
+</div>
+</td>
+
+<td id="table-episodes-title" class="table-episodes-title">
+    <h6 class="truncate"><a href="Pasutri Gaje\PasutriGaje-eps0.html" data-navigo="">PROLOG </a></h6></td>
+</tr>
+</tbody>
+</table>
+</div>
 <!--            list link per Episode            -->
 <div class="item season_start">
 <table class="ui basic unstackable table">
@@ -327,6 +345,9 @@ Artist
 <p id="Scene14"></p>
 <p id="Scene15"></p>
 <p id="Scene16"></p>
+
+
+
 <p id="demaa"></p>
 </section>
 <h1>Data Labeling</h1>
@@ -342,19 +363,18 @@ Artist
     <button class="buttontabel" onclick="show_table3()">Action</button>
     <button class="buttontabel" onclick="show_table4()">Fantasy</button>
     <button class="buttontabel" onclick="show_table5()">Slice Of Life</button>
-    <button class="buttontabel" onclick="show_table6()">Sci-Fi</button>
+    <button class="buttontabel" onclick="show_table6()">SciFi</button>
     <button class="buttontabel" onclick="show_table7()">Drama</button>
     <button class="buttontabel" onclick="show_table8()">Others</button>
-    
-<div class="tableSpot">
-      <table class="tablecontent"></table>
+    <div class="tableSpot">
+        <table class="tablecontent"></table>
 </div>  
 </div>
 </div>
 </footer>
 
 </main>
-<div id="router" data-page="index" data-meth="" data-homepage="https://www.webtoons.com/"></div>
+<div id="router" data-page="index" data-meth="" data-homepage="../INFTWebtoon.html"></div>
 <div id="jump-up" class="mobile hidden hide"></div>
 <script id="cid0020000246670777018_" data-cfasync="false" async="" src="Tower%20of%20God%20Manga_files/emb.js" style="width: 300px;height: 400px;">{"handle":"webtoons","arch":"js","styles":{"a":"14161d","b":100,"c":"FFFFFF","d":"FFFFFF","k":"14161d","l":"14161d","m":"14161d","n":"FFFFFF","p":"10","q":"14161d","r":100,"t":0,"pos":"br","cv":1,"cvbg":"CC0000","cvw":75,"cvh":30}}</script>
 <script src="Tower%20of%20God%20Manga_files/jquery_002.js" type="text/javascript"></script>
@@ -380,7 +400,6 @@ Artist
 
 
 <p id="demo"></p>
-<div id="chartContainer" style="height: 370px; width: 100%;" ></div>
 
 <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 
@@ -401,7 +420,7 @@ Artist
         Action=0,
         Fantasy=0,
         Slice Of Life=0,
-        Sci-Fi=0,
+        SciFi=0,
         Drama=0,
         Others=0;
         var 
@@ -410,7 +429,7 @@ Artist
         ArrAction=[],
         ArrFantasy=[],
         ArrSlice Of Life=[],
-        ArrSci-Fi=[],
+        ArrSciFi=[],
         ArrDrama=[],
         ArrOthers=[],
         ArrTotal=[];
@@ -420,8 +439,7 @@ Artist
             var i = 0;
             $.each(data, function(key, value) {
                 i = i + 1;  
-                var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrTotal.push(ss);
+                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrTotal.push(ss);
                 if(value.completions[0].result[0].value.choices=="Romance")  {
                     Romance++;
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
@@ -447,17 +465,17 @@ Artist
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrSlice Of Life.push(ss);}
 
-                if(value.completions[0].result[0].value.choices=="Sci-Fi"){
-                    Sci-Fi++;
+                if(value.completions[0].result[0].value.choices=="SciFi"){
+                    SciFi++;
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrSci-Fi.push(ss);}
+                    ArrSciFi.push(ss);}
 
                 if(value.completions[0].result[0].value.choices=="Drama"){
                     Drama++;
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrDrama.push(ss);}
 
-                if(value.completions[0].result[0].value.choices=="Others")   {
+                if(value.completions[0].result[0].value.choices=="Others"){
                     Others++;
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrOthers.push(ss);}
@@ -469,9 +487,9 @@ Artist
             localStorage.setItem('Action', Action);
             localStorage.setItem('Fantasy', Fantasy);
             localStorage.setItem('Slice Of Life', Slice Of Life);
-            localStorage.setItem('Sci-Fi', Sci-Fi);
+            localStorage.setItem('SciFi', SciFi);
             localStorage.setItem('Drama', Drama);
-            localStorage.setItem('Others', Others); 
+            localStorage.setItem('Others', Others);
             localStorage.setItem('Total', i);
 
             localStorage.setItem('ArrRomance'      , JSON.stringify(ArrRomance));
@@ -479,9 +497,9 @@ Artist
             localStorage.setItem('ArrAction'   , JSON.stringify(ArrAction));
             localStorage.setItem('ArrFantasy'     , JSON.stringify(ArrFantasy)); 
             localStorage.setItem('ArrSlice Of Life'       , JSON.stringify(ArrSlice Of Life)); 
-            localStorage.setItem('ArrSci-Fi'         , JSON.stringify(ArrSci-Fi));    
-            localStorage.setItem('ArrDrama'      , JSON.stringify(ArrDrama)); 
-            localStorage.setItem('ArrOthers'       , JSON.stringify(ArrOthers)); 
+            localStorage.setItem('ArrSciFi'         , JSON.stringify(ArrSciFi));  
+            localStorage.setItem('ArrDrama'       , JSON.stringify(ArrDrama));   
+            localStorage.setItem('ArrOthers'      , JSON.stringify(ArrOthers)); 
             localStorage.setItem('ArrTotal'         , JSON.stringify(ArrTotal)); 
             });
             $('#headline').append(headline_data);
@@ -582,7 +600,7 @@ function show_table6(TableChoice){
     Geeks();
     resotre();
     var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrSci-Fi'));
+ retrievedObject= JSON.parse(localStorage.getItem('ArrSciFi'));
 let table = document.querySelector(".tablecontent");
 let data = Object.keys(retrievedObject[0]);
 generateTableHead(table, data);
