@@ -55,8 +55,7 @@ var chart = new CanvasJS.Chart("chartContainer", {
 			{ y: Number(localStorage.getItem('Comedy')), name: "Comedy" },
 			{ y: Number(localStorage.getItem('Action')), name: "Action",},
             { y: Number(localStorage.getItem('Fantasy')), name: " Fantasy"},
-			{ y: Number(localStorage.getItem('SliceOfLife')), name: "SliceOfLife" },
-			{ y: Number(localStorage.getItem('SciFi')), name: "SciFi" },	
+			{ y: Number(localStorage.getItem('SliceOfLife')), name: "SliceOfLife" },	
 			{ y: Number(localStorage.getItem('Drama')), name: "Drama"},
 			{ y: Number(localStorage.getItem('Others')), name: "Others" }
 		]
@@ -87,7 +86,6 @@ var chart = new CanvasJS.Chart("chartContainer2", {
 			{ y: Number(localStorage.getItem('Action')), label: "Action",},
             { y: Number(localStorage.getItem('Fantasy')), label: " Fantasy"},
 			{ y: Number(localStorage.getItem('SliceOfLife')), label: "SliceOfLife" },
-			{ y: Number(localStorage.getItem('SciFi')), label: "SciFi" },
 			{ y: Number(localStorage.getItem('Drama')), label: "Drama"},
 			{ y: Number(localStorage.getItem('Others')), label: "Others" }
 		]
@@ -344,9 +342,8 @@ Artist
     <button class="buttontabel" onclick="show_table3()">Action</button>
     <button class="buttontabel" onclick="show_table4()">Fantasy</button>
     <button class="buttontabel" onclick="show_table5()">SliceOfLife</button>
-    <button class="buttontabel" onclick="show_table6()">SciFi</button>
-    <button class="buttontabel" onclick="show_table7()">Drama</button>
-    <button class="buttontabel" onclick="show_table8()">Others</button>
+    <button class="buttontabel" onclick="show_table6()">Drama</button>
+    <button class="buttontabel" onclick="show_table7()">Others</button>
     
 <div class="tableSpot">
       <table class="tablecontent"></table>
@@ -403,7 +400,6 @@ Artist
         Action=0,
         Fantasy=0,
         SliceOfLife=0,
-        SciFi=0,
         Drama=0,
         Others=0;
         var 
@@ -412,7 +408,6 @@ Artist
         ArrAction=[],
         ArrFantasy=[],
         ArrSliceOfLife=[],
-        ArrSciFi=[],
         ArrDrama=[],
         ArrOthers=[],
         ArrTotal=[];
@@ -422,46 +417,41 @@ Artist
             var i = 0;
             $.each(data, function(key, value) {
                 i = i + 1;  
-                var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrTotal.push(ss);
-                if(value.completions[0].result[0].value.polygonlabels=="Romance")  {
+                if(value.completions[0].result[0].value.choices=="Romance")  {
                     Romance++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrRomance.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Comedy") {
+                if(value.completions[0].result[0].value.choices=="Comedy") {
                     Comedy++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrComedy.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Action") {
+                if(value.completions[0].result[0].value.choices=="Action") {
                     Action++; 
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrAction.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Fantasy") {
+                if(value.completions[0].result[0].value.choices=="Fantasy") {
                     Fantasy++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrFantasy.push(ss)}
 
-                if(value.completions[0].result[0].value.polygonlabels=="SliceOfLife") {
+                if(value.completions[0].result[0].value.choices=="SliceOfLife") {
                     SliceOfLife++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrSliceOfLife.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="SciFi"){
-                    SciFi++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrSciFi.push(ss);}
-
-                if(value.completions[0].result[0].value.polygonlabels=="Drama"){
+                if(value.completions[0].result[0].value.choices=="Drama"){
                     Drama++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrDrama.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Others"){
+                if(value.completions[0].result[0].value.choices=="Others"){
                     Others++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrOthers.push(ss);}
 
             document.getElementById("Scene17").innerHTML =" Total data yang dilabeling \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + i;
@@ -471,7 +461,6 @@ Artist
             localStorage.setItem('Action', Action);
             localStorage.setItem('Fantasy', Fantasy);
             localStorage.setItem('SliceOfLife', SliceOfLife);
-            localStorage.setItem('SciFi', SciFi);
             localStorage.setItem('Drama', Drama);
             localStorage.setItem('Others', Others);
             localStorage.setItem('Total', i);
@@ -480,8 +469,7 @@ Artist
             localStorage.setItem('ArrComedy'          , JSON.stringify(ArrComedy));
             localStorage.setItem('ArrAction'   , JSON.stringify(ArrAction));
             localStorage.setItem('ArrFantasy'     , JSON.stringify(ArrFantasy)); 
-            localStorage.setItem('ArrSliceOfLife'       , JSON.stringify(ArrSliceOfLife)); 
-            localStorage.setItem('ArrSciFi'         , JSON.stringify(ArrSciFi));  
+            localStorage.setItem('ArrSliceOfLife'       , JSON.stringify(ArrSliceOfLife));  
             localStorage.setItem('ArrDrama'       , JSON.stringify(ArrDrama));   
             localStorage.setItem('ArrOthers'      , JSON.stringify(ArrOthers)); 
             localStorage.setItem('ArrTotal'         , JSON.stringify(ArrTotal)); 
@@ -584,23 +572,13 @@ function show_table6(TableChoice){
     Geeks();
     resotre();
     var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrSciFi'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table7(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
  retrievedObject= JSON.parse(localStorage.getItem('ArrDrama'));
 let table = document.querySelector(".tablecontent");
 let data = Object.keys(retrievedObject[0]);
 generateTableHead(table, data);
 generateTable(table, retrievedObject);
 }
-function show_table8(TableChoice){
+function show_table7(TableChoice){
     Geeks();
     resotre();
     var retrievedObject =[];
