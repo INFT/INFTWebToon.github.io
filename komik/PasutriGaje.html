@@ -24,6 +24,12 @@
           box-shadow: 0 5px #666;
           transform: translateY(4px);
         }
+        #chartContainer{
+            float: left;
+        }
+        #chartContainer2{
+            float: right;
+        }
         </style>
     <script>
         function myFunction() {
@@ -45,18 +51,14 @@ var chart = new CanvasJS.Chart("chartContainer", {
 		toolTipContent: "{name}: <strong>{y}</strong> ",
         indexLabel: "{name} - {y}",
 		dataPoints: [
-            { y: Number(localStorage.getItem('Romantis')), name: "Romantis"},
-			{ y: Number(localStorage.getItem('Lucu')), name: "Lucu" },
-			{ y: Number(localStorage.getItem('Perkelahian')), name: "Perkelahian",},
-            { y: Number(localStorage.getItem('Takut')), name: " Takut"},
-			{ y: Number(localStorage.getItem('Bahagia')), name: "Bahagia" },
-			{ y: Number(localStorage.getItem('Sedih')), name: "Sedih" },	
-			{ y: Number(localStorage.getItem('Bingung')), name: "Bingung"},
+            { y: Number(localStorage.getItem('Romance')), name: "Romance"},
+			{ y: Number(localStorage.getItem('Comedy')), name: "Comedy" },
+			{ y: Number(localStorage.getItem('Action')), name: "Action",},
+            { y: Number(localStorage.getItem('Fantasy')), name: " Fantasy"},
+			{ y: Number(localStorage.getItem('Slice Of Life')), name: "Slice Of Life" },
+			{ y: Number(localStorage.getItem('Sci-Fi')), name: "Sci-Fi" },	
 			{ y: Number(localStorage.getItem('Drama')), name: "Drama" },
-			{ y: Number(localStorage.getItem('Fantasi')), name: "Fantasi"},
-            { y: Number(localStorage.getItem('Kaget')), name: "Kaget" },
-			{ y: Number(localStorage.getItem('Marah')), name: "Marah"},
-			{ y: Number(localStorage.getItem('Lainnya')), name: "Lainnya"}
+			{ y: Number(localStorage.getItem('Others')), name: "Others"}
 		]
 	}]
 });
@@ -65,14 +67,14 @@ chart.render();
 
 function myFunction2() {
 
-var chart = new CanvasJS.Chart("chartContainer", {
+var chart = new CanvasJS.Chart("chartContainer2", {
     animationEnabled: true,
 	theme: "dark1", // "light1", "light2", "dark1", "dark2"
 	title:{
 		text: "Scene percentage"
 	},
 	axisY: {
-		title: "From 115 scene "
+		title: "From 74 scene "
 	},
 	data: [{        
 		type: "column",  
@@ -80,18 +82,14 @@ var chart = new CanvasJS.Chart("chartContainer", {
 		legendMarkerColor: "grey",
 		legendText: "Scene name ",
 		dataPoints: [
-            { y: Number(localStorage.getItem('Romantis')), label: "Romantis"},
-            { y: Number(localStorage.getItem('Lucu')), label: "Lucu" },
-			{ y: Number(localStorage.getItem('Perkelahian')), label: "Perkelahian",},
-            { y: Number(localStorage.getItem('Takut')), label: " Takut"},
-			{ y: Number(localStorage.getItem('Bahagia')), label: "Bahagia" },
-			{ y: Number(localStorage.getItem('Sedih')), label: "Sedih" },
-			{ y: Number(localStorage.getItem('Bingung')), label: "Bingung"},
+            { y: Number(localStorage.getItem('Romance')), label: "Romance"},
+            { y: Number(localStorage.getItem('Comedy')), label: "Comedy" },
+			{ y: Number(localStorage.getItem('Action')), label: "Action",},
+            { y: Number(localStorage.getItem('Fantasy')), label: " Fantasy"},
+			{ y: Number(localStorage.getItem('Slice Of Life')), label: "Slice Of Life" },
+			{ y: Number(localStorage.getItem('Sci-Fi')), label: "Sci-Fi" },
 			{ y: Number(localStorage.getItem('Drama')), label: "Drama" },
-			{ y: Number(localStorage.getItem('Fantasi')), label: "Fantasi"},
-			{ y: Number(localStorage.getItem('Kaget')), label: "Kaget" },
-            { y: Number(localStorage.getItem('Marah')), label: "Marah"},
-			{ y: Number(localStorage.getItem('Lainnya')), label: "Lainnya"}
+			{ y: Number(localStorage.getItem('Others')), label: "Others"}
 		]
 	}]
 });
@@ -329,34 +327,28 @@ Artist
 <p id="Scene14"></p>
 <p id="Scene15"></p>
 <p id="Scene16"></p>
-
-
-
 <p id="demaa"></p>
 </section>
+<h1>Data Labeling</h1>
+<div class="chartbox">
+    <div class="split left" id="chartContainer" style="height: 370px; width: 500px;" ></div>
+    <div class="split right" id="chartContainer2" style="height: 370px; width: 500px;" ></div>
+</div>
 <div class="copyright">
     <h1 id="Scene17"></h1> 
     <p>Tekan CTRL + click mouse ( ke link gambar) untuk membuka gambar di halaman baru</p>
-    <button class="buttontabel" onclick="show_table1()">Romantis</button>
-    <button class="buttontabel" onclick="show_table2()">Lucu</button>
-    <button class="buttontabel" onclick="show_table3()">Perkelahian</button>
-    <button class="buttontabel" onclick="show_table4()">Takut</button>
-    <button class="buttontabel" onclick="show_table5()">Bahagia</button>
-    <button class="buttontabel" onclick="show_table6()">Sedih</button>
-    <button class="buttontabel" onclick="show_table7()">Bingung</button>
-    <button class="buttontabel" onclick="show_table8()">Drama</button>
-    <button class="buttontabel" onclick="show_table9()">Fantasi</button>
-    <button class="buttontabel" onclick="show_table10()">Kaget</button>
-    <button class="buttontabel" onclick="show_table11()">Marah</button>
-    <button class="buttontabel" onclick="show_table12()">Lainnya</button>
+    <button class="buttontabel" onclick="show_table1()">Romance</button>
+    <button class="buttontabel" onclick="show_table2()">Comedy</button>
+    <button class="buttontabel" onclick="show_table3()">Action</button>
+    <button class="buttontabel" onclick="show_table4()">Fantasy</button>
+    <button class="buttontabel" onclick="show_table5()">Slice Of Life</button>
+    <button class="buttontabel" onclick="show_table6()">Sci-Fi</button>
+    <button class="buttontabel" onclick="show_table7()">Drama</button>
+    <button class="buttontabel" onclick="show_table8()">Others</button>
     
 <div class="tableSpot">
       <table class="tablecontent"></table>
 </div>  
-<h1>Percentage Scene Chart </h1>
-
-<button class="buttontabel"  onclick="myFunction()">Show in Pie chart </button>
-<button class="buttontabel"  onclick="myFunction2()">Show in column chart</button>
 </div>
 </div>
 </footer>
@@ -404,128 +396,92 @@ Artist
 
         var scene=0;
         var 
-        Romantis=0,
-        Lucu=0,
-        Perkelahian=0,
-        Takut=0,
-        Bahagia=0,
-        Sedih=0,
-        Bingung=0,
+        Romance=0,
+        Comedy=0,
+        Action=0,
+        Fantasy=0,
+        Slice Of Life=0,
+        Sci-Fi=0,
         Drama=0,
-        Fantasi=0,
-        Kaget=0,
-        Marah=0,
-        Lainnya=0;
+        Others=0;
         var 
-        ArrRomantis=[],
-        ArrLucu=[],
-        ArrPerkelahian=[],
-        ArrTakut=[],
-        ArrBahagia=[],
-        ArrSedih=[],
-        ArrBingung=[],
+        ArrRomance=[],
+        ArrComedy=[],
+        ArrAction=[],
+        ArrFantasy=[],
+        ArrSlice Of Life=[],
+        ArrSci-Fi=[],
         ArrDrama=[],
-        ArrFantasi=[],
-        ArrKaget=[],
-        ArrMarah=[],
-        ArrLainnya=[],
+        ArrOthers=[],
         ArrTotal=[];
          //Membaca dn mengambil data
-         PasutriGaje_Labeling_result.json
         $.getJSON('PasutriGaje_Labeling_result.json',function(data){
             var headline_data = '';
             var i = 0;
             $.each(data, function(key, value) {
                 i = i + 1;  
-                     var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);ArrTotal.push(ss);
-                if(value.completions[0].result[0].value.polygonlabels=="Romantis")  {
-                    Romantis++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrRomantis.push(ss);}
+                var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    ArrTotal.push(ss);
+                if(value.completions[0].result[0].value.choices=="Romance")  {
+                    Romance++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    ArrRomance.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Lucu") {
-                    Lucu++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrLucu.push(ss);}
+                if(value.completions[0].result[0].value.choices=="Comedy") {
+                    Comedy++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    ArrComedy.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Perkelahian") {
-                    Perkelahian++; 
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrPerkelahian.push(ss);}
+                if(value.completions[0].result[0].value.choices=="Action") {
+                    Action++; 
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    ArrAction.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Takut") {
-                    Takut++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrTakut.push(ss)}
+                if(value.completions[0].result[0].value.choices=="Fantasy") {
+                    Fantasy++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    ArrFantasy.push(ss)}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Bahagia") {
-                    Bahagia++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrBahagia.push(ss);}
+                if(value.completions[0].result[0].value.choices=="Slice Of Life") {
+                    Slice Of Life++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    ArrSlice Of Life.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Sedih"){
-                    Sedih++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrSedih.push(ss);}
+                if(value.completions[0].result[0].value.choices=="Sci-Fi"){
+                    Sci-Fi++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    ArrSci-Fi.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Bingung"){
-                    Bingung++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrBingung.push(ss);}
-
-                if(value.completions[0].result[0].value.polygonlabels=="Drama"){
+                if(value.completions[0].result[0].value.choices=="Drama"){
                     Drama++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrDrama.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Fantasi") {
-                    Fantasi++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrFantasi.push(ss);}
-
-                if(value.completions[0].result[0].value.polygonlabels=="Kaget")  {
-                    Kaget++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrKaget.push(ss);}
-                
-                if(value.completions[0].result[0].value.polygonlabels=="Marah")  {
-                    Marah++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrMarah.push(ss);}
-
-                if(value.completions[0].result[0].value.polygonlabels=="Lainnya")   {
-                    Lainnya++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrLainnya.push(ss);}
+                if(value.completions[0].result[0].value.choices=="Others")   {
+                    Others++;
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
+                    ArrOthers.push(ss);}
 
             document.getElementById("Scene17").innerHTML =" Total data yang dilabeling \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + i;
 
-            localStorage.setItem('Romantis', Romantis);
-            localStorage.setItem('Lucu', Lucu);
-            localStorage.setItem('Perkelahian', Perkelahian);
-            localStorage.setItem('Takut', Takut);
-            localStorage.setItem('Bahagia', Bahagia);
-            localStorage.setItem('Sedih', Sedih);
-            localStorage.setItem('Bingung', Bingung);
+            localStorage.setItem('Romance', Romance);
+            localStorage.setItem('Comedy', Comedy);
+            localStorage.setItem('Action', Action);
+            localStorage.setItem('Fantasy', Fantasy);
+            localStorage.setItem('Slice Of Life', Slice Of Life);
+            localStorage.setItem('Sci-Fi', Sci-Fi);
             localStorage.setItem('Drama', Drama);
-            localStorage.setItem('Fantasi', Fantasi);
-            localStorage.setItem('Kaget', Kaget);
-            localStorage.setItem('Marah', Marah);
-            localStorage.setItem('Lainnya', Lainnya); 
+            localStorage.setItem('Others', Others); 
             localStorage.setItem('Total', i);
 
-            localStorage.setItem('ArrRomantis'      , JSON.stringify(ArrRomantis));
-            localStorage.setItem('ArrLucu'          , JSON.stringify(ArrLucu));
-            localStorage.setItem('ArrPerkelahian'   , JSON.stringify(ArrPerkelahian));
-            localStorage.setItem('ArrTakut'     , JSON.stringify(ArrTakut)); 
-            localStorage.setItem('ArrBahagia'       , JSON.stringify(ArrBahagia)); 
-            localStorage.setItem('ArrSedih'         , JSON.stringify(ArrSedih));  
-            localStorage.setItem('ArrBingung'       , JSON.stringify(ArrBingung));   
+            localStorage.setItem('ArrRomance'      , JSON.stringify(ArrRomance));
+            localStorage.setItem('ArrComedy'          , JSON.stringify(ArrComedy));
+            localStorage.setItem('ArrAction'   , JSON.stringify(ArrAction));
+            localStorage.setItem('ArrFantasy'     , JSON.stringify(ArrFantasy)); 
+            localStorage.setItem('ArrSlice Of Life'       , JSON.stringify(ArrSlice Of Life)); 
+            localStorage.setItem('ArrSci-Fi'         , JSON.stringify(ArrSci-Fi));    
             localStorage.setItem('ArrDrama'      , JSON.stringify(ArrDrama)); 
-            localStorage.setItem('ArrFantasi'       , JSON.stringify(ArrFantasi));
-            localStorage.setItem('ArrKaget'         , JSON.stringify(ArrKaget));
-            localStorage.setItem('ArrMarah'         , JSON.stringify(ArrMarah));
-            localStorage.setItem('ArrLainnya'       , JSON.stringify(ArrLainnya)); 
+            localStorage.setItem('ArrOthers'       , JSON.stringify(ArrOthers)); 
             localStorage.setItem('ArrTotal'         , JSON.stringify(ArrTotal)); 
             });
             $('#headline').append(headline_data);
@@ -576,7 +532,7 @@ function show_table1(TableChoice){
     Geeks();
     resotre();
     var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrRomantis'));
+ retrievedObject= JSON.parse(localStorage.getItem('ArrRomance'));
 let table = document.querySelector(".tablecontent");
 let data = Object.keys(retrievedObject[0]);
 generateTableHead(table, data);
@@ -586,7 +542,7 @@ function show_table2(TableChoice){
     Geeks();
     resotre();
     var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrLucu'));
+ retrievedObject= JSON.parse(localStorage.getItem('ArrComedy'));
 let table = document.querySelector(".tablecontent");
 let data = Object.keys(retrievedObject[0]);
 generateTableHead(table, data);
@@ -596,7 +552,7 @@ function show_table3(TableChoice){
     Geeks();
     resotre();
     var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrPerkelahian'));
+ retrievedObject= JSON.parse(localStorage.getItem('ArrAction'));
 let table = document.querySelector(".tablecontent");
 let data = Object.keys(retrievedObject[0]);
 generateTableHead(table, data);
@@ -606,7 +562,7 @@ function show_table4(TableChoice){
     Geeks();
     resotre();
     var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrTakut'));
+ retrievedObject= JSON.parse(localStorage.getItem('ArrFantasy'));
 let table = document.querySelector(".tablecontent");
 let data = Object.keys(retrievedObject[0]);
 generateTableHead(table, data);
@@ -616,7 +572,7 @@ function show_table5(TableChoice){
     Geeks();
     resotre();
     var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrBahagia'));
+ retrievedObject= JSON.parse(localStorage.getItem('ArrSlice Of Life'));
 let table = document.querySelector(".tablecontent");
 let data = Object.keys(retrievedObject[0]);
 generateTableHead(table, data);
@@ -626,7 +582,7 @@ function show_table6(TableChoice){
     Geeks();
     resotre();
     var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrSedih'));
+ retrievedObject= JSON.parse(localStorage.getItem('ArrSci-Fi'));
 let table = document.querySelector(".tablecontent");
 let data = Object.keys(retrievedObject[0]);
 generateTableHead(table, data);
@@ -636,7 +592,7 @@ function show_table7(TableChoice){
     Geeks();
     resotre();
     var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrBingung'));
+ retrievedObject= JSON.parse(localStorage.getItem('ArrDrama'));
 let table = document.querySelector(".tablecontent");
 let data = Object.keys(retrievedObject[0]);
 generateTableHead(table, data);
@@ -646,47 +602,7 @@ function show_table8(TableChoice){
     Geeks();
     resotre();
     var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrDrama'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table9(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrFantasi'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table10(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrKaget'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table11(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrMarah'));
-let table = document.querySelector(".tablecontent");
-let data = Object.keys(retrievedObject[0]);
-generateTableHead(table, data);
-generateTable(table, retrievedObject);
-}
-function show_table12(TableChoice){
-    Geeks();
-    resotre();
-    var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrLainnya'));
+ retrievedObject= JSON.parse(localStorage.getItem('ArrOthers'));
 let table = document.querySelector(".tablecontent");
 let data = Object.keys(retrievedObject[0]);
 generateTableHead(table, data);
