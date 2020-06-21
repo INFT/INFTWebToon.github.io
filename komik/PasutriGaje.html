@@ -55,7 +55,7 @@ var chart = new CanvasJS.Chart("chartContainer", {
 			{ y: Number(localStorage.getItem('Comedy')), name: "Comedy" },
 			{ y: Number(localStorage.getItem('Action')), name: "Action",},
             { y: Number(localStorage.getItem('Fantasy')), name: " Fantasy"},
-			{ y: Number(localStorage.getItem('Slice Of Life')), name: "Slice Of Life" },
+			{ y: Number(localStorage.getItem('SliceOfLife')), name: "SliceOfLife" },
 			{ y: Number(localStorage.getItem('SciFi')), name: "SciFi" },	
 			{ y: Number(localStorage.getItem('Drama')), name: "Drama"},
 			{ y: Number(localStorage.getItem('Others')), name: "Others" }
@@ -86,7 +86,7 @@ var chart = new CanvasJS.Chart("chartContainer2", {
             { y: Number(localStorage.getItem('Comedy')), label: "Comedy" },
 			{ y: Number(localStorage.getItem('Action')), label: "Action",},
             { y: Number(localStorage.getItem('Fantasy')), label: " Fantasy"},
-			{ y: Number(localStorage.getItem('Slice Of Life')), label: "Slice Of Life" },
+			{ y: Number(localStorage.getItem('SliceOfLife')), label: "SliceOfLife" },
 			{ y: Number(localStorage.getItem('SciFi')), label: "SciFi" },
 			{ y: Number(localStorage.getItem('Drama')), label: "Drama"},
 			{ y: Number(localStorage.getItem('Others')), label: "Others" }
@@ -344,7 +344,7 @@ Artist
     <button class="buttontabel" onclick="show_table2()">Comedy</button>
     <button class="buttontabel" onclick="show_table3()">Action</button>
     <button class="buttontabel" onclick="show_table4()">Fantasy</button>
-    <button class="buttontabel" onclick="show_table5()">Slice Of Life</button>
+    <button class="buttontabel" onclick="show_table5()">SliceOfLife</button>
     <button class="buttontabel" onclick="show_table6()">SciFi</button>
     <button class="buttontabel" onclick="show_table7()">Drama</button>
     <button class="buttontabel" onclick="show_table8()">Others</button>
@@ -401,7 +401,7 @@ Artist
         Comedy=0,
         Action=0,
         Fantasy=0,
-        Slice Of Life=0,
+        SliceOfLife=0,
         SciFi=0,
         Drama=0,
         Others=0;
@@ -410,7 +410,7 @@ Artist
         ArrComedy=[],
         ArrAction=[],
         ArrFantasy=[],
-        ArrSlice Of Life=[],
+        ArrSliceOfLife=[],
         ArrSciFi=[],
         ArrDrama=[],
         ArrOthers=[],
@@ -442,10 +442,10 @@ Artist
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrFantasy.push(ss)}
 
-                if(value.completions[0].result[0].value.choices=="Slice Of Life") {
-                    Slice Of Life++;
+                if(value.completions[0].result[0].value.choices=="SliceOfLife") {
+                    SliceOfLife++;
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrSlice Of Life.push(ss);}
+                    ArrSliceOfLife.push(ss);}
 
                 if(value.completions[0].result[0].value.choices=="SciFi"){
                     SciFi++;
@@ -468,7 +468,7 @@ Artist
             localStorage.setItem('Comedy', Comedy);
             localStorage.setItem('Action', Action);
             localStorage.setItem('Fantasy', Fantasy);
-            localStorage.setItem('Slice Of Life', Slice Of Life);
+            localStorage.setItem('SliceOfLife', SliceOfLife);
             localStorage.setItem('SciFi', SciFi);
             localStorage.setItem('Drama', Drama);
             localStorage.setItem('Others', Others);
@@ -478,7 +478,7 @@ Artist
             localStorage.setItem('ArrComedy'          , JSON.stringify(ArrComedy));
             localStorage.setItem('ArrAction'   , JSON.stringify(ArrAction));
             localStorage.setItem('ArrFantasy'     , JSON.stringify(ArrFantasy)); 
-            localStorage.setItem('ArrSlice Of Life'       , JSON.stringify(ArrSlice Of Life)); 
+            localStorage.setItem('ArrSliceOfLife'       , JSON.stringify(ArrSliceOfLife)); 
             localStorage.setItem('ArrSciFi'         , JSON.stringify(ArrSciFi));  
             localStorage.setItem('ArrDrama'       , JSON.stringify(ArrDrama));   
             localStorage.setItem('ArrOthers'      , JSON.stringify(ArrOthers)); 
@@ -572,7 +572,7 @@ function show_table5(TableChoice){
     Geeks();
     resotre();
     var retrievedObject =[];
- retrievedObject= JSON.parse(localStorage.getItem('ArrSlice Of Life'));
+ retrievedObject= JSON.parse(localStorage.getItem('ArrSliceOfLife'));
 let table = document.querySelector(".tablecontent");
 let data = Object.keys(retrievedObject[0]);
 generateTableHead(table, data);
@@ -653,10 +653,6 @@ document.getElementById('table').style.visibility = "visible";
 function hideTable(){
 document.getElementById('table').style.visibility = "hidden";
 }
-
-
-
-
 
 </script>
 </html>
