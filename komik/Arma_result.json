@@ -1,0 +1,2365 @@
+[
+  {
+    "completions": [
+      {
+        "id": 1,
+        "lead_time": 31.959,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "kDjfnbjyYx",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-1.PNG"
+    },
+    "id": 0
+  },
+  {
+    "completions": [
+      {
+        "id": 1001,
+        "lead_time": 6.123,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Qk2V0ZZsP8",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-2.PNG"
+    },
+    "id": 1
+  },
+  {
+    "completions": [
+      {
+        "id": 2001,
+        "lead_time": 10.091,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "c2sqhQz3bO",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-3.PNG"
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "id": 3001,
+        "lead_time": 21.169,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "7uR6t3EusC",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-4.PNG"
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "id": 4001,
+        "lead_time": 11.276,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "UEdv7MstpS",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-5.PNG"
+    },
+    "id": 4
+  },
+  {
+    "completions": [
+      {
+        "id": 5001,
+        "lead_time": 12.661,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "c5TcCROBmm",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-6.PNG"
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "id": 6001,
+        "lead_time": 8.597,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "TVBKijJ4AA",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-7.PNG"
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "id": 7001,
+        "lead_time": 7.325,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "P2frEtjZfG",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-8.PNG"
+    },
+    "id": 7
+  },
+  {
+    "completions": [
+      {
+        "id": 8001,
+        "lead_time": 6.994,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "3skUU4CK-l",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-9.PNG"
+    },
+    "id": 8
+  },
+  {
+    "completions": [
+      {
+        "id": 9001,
+        "lead_time": 10.275,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "b0uYoBuR_K",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-10.PNG"
+    },
+    "id": 9
+  },
+  {
+    "completions": [
+      {
+        "id": 10001,
+        "lead_time": 5.591,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "neb17vUMDA",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-11.PNG"
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "id": 11001,
+        "lead_time": 6.468,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "7rMBrhKFxG",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-12.PNG"
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "id": 12001,
+        "lead_time": 5.937,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "FTxqNWC2dN",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-13.PNG"
+    },
+    "id": 12
+  },
+  {
+    "completions": [
+      {
+        "id": 13001,
+        "lead_time": 4.218,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "giSnFaXxmh",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-14.PNG"
+    },
+    "id": 13
+  },
+  {
+    "completions": [
+      {
+        "id": 14001,
+        "lead_time": 5.336,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "0vQy1FdeEt",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-15.PNG"
+    },
+    "id": 14
+  },
+  {
+    "completions": [
+      {
+        "id": 15001,
+        "lead_time": 5.6,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "K3pdpYl3RR",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-16.PNG"
+    },
+    "id": 15
+  },
+  {
+    "completions": [
+      {
+        "id": 16001,
+        "lead_time": 6.222,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "dihQqFWgwz",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-17.PNG"
+    },
+    "id": 16
+  },
+  {
+    "completions": [
+      {
+        "id": 17001,
+        "lead_time": 7.323,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "MWBloVw4A1",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-18.PNG"
+    },
+    "id": 17
+  },
+  {
+    "completions": [
+      {
+        "id": 18001,
+        "lead_time": 4.846,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Z5vZmhA2E3",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-19.PNG"
+    },
+    "id": 18
+  },
+  {
+    "completions": [
+      {
+        "id": 19001,
+        "lead_time": 4.183,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "sd6Lgn3b5m",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-20.PNG"
+    },
+    "id": 19
+  },
+  {
+    "completions": [
+      {
+        "id": 20001,
+        "lead_time": 3.477,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "yQUkrtRzli",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-21.PNG"
+    },
+    "id": 20
+  },
+  {
+    "completions": [
+      {
+        "id": 21001,
+        "lead_time": 4.566,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Gw_3TIB2Nz",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-22.PNG"
+    },
+    "id": 21
+  },
+  {
+    "completions": [
+      {
+        "id": 22001,
+        "lead_time": 6.519,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ouKc7CdWmx",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-23.PNG"
+    },
+    "id": 22
+  },
+  {
+    "completions": [
+      {
+        "id": 23001,
+        "lead_time": 8.029,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "UJdbgc2shc",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-24.PNG"
+    },
+    "id": 23
+  },
+  {
+    "completions": [
+      {
+        "id": 24001,
+        "lead_time": 15.661,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qtTGCX4BUU",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-25.PNG"
+    },
+    "id": 24
+  },
+  {
+    "completions": [
+      {
+        "id": 25001,
+        "lead_time": 7.31,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "amFt0rS2-l",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-26.PNG"
+    },
+    "id": 25
+  },
+  {
+    "completions": [
+      {
+        "id": 26001,
+        "lead_time": 5.1,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "pYQWjzxkr5",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Takut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-27.PNG"
+    },
+    "id": 26
+  },
+  {
+    "completions": [
+      {
+        "id": 27001,
+        "lead_time": 5.17,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "VURNEizhYz",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Takut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-28.PNG"
+    },
+    "id": 27
+  },
+  {
+    "completions": [
+      {
+        "id": 28001,
+        "lead_time": 9.046,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "lmGLtZBuoZ",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-29.PNG"
+    },
+    "id": 28
+  },
+  {
+    "completions": [
+      {
+        "id": 29001,
+        "lead_time": 6.115,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "0DWY1jjgbL",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-30.PNG"
+    },
+    "id": 29
+  },
+  {
+    "completions": [
+      {
+        "id": 30001,
+        "lead_time": 5.864,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "2jgvr6-ZiX",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%201/Arma-episode%201-31.PNG"
+    },
+    "id": 30
+  },
+  {
+    "completions": [
+      {
+        "id": 31001,
+        "lead_time": 8.04,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "YYU1K4Ndam",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-1.PNG"
+    },
+    "id": 31
+  },
+  {
+    "completions": [
+      {
+        "id": 32001,
+        "lead_time": 5.674,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_Neg51JGsO",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-2.PNG"
+    },
+    "id": 32
+  },
+  {
+    "completions": [
+      {
+        "id": 33001,
+        "lead_time": 4.332,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "kmPxrsGlnN",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Takut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-3.PNG"
+    },
+    "id": 33
+  },
+  {
+    "completions": [
+      {
+        "id": 34001,
+        "lead_time": 10.421,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "cy6GLt_VW6",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Marah"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-4.PNG"
+    },
+    "id": 34
+  },
+  {
+    "completions": [
+      {
+        "id": 35001,
+        "lead_time": 4.056,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "BzpekLxq9n",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-5.PNG"
+    },
+    "id": 35
+  },
+  {
+    "completions": [
+      {
+        "id": 36001,
+        "lead_time": 10.097,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "rENbW3oYO0",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-6.PNG"
+    },
+    "id": 36
+  },
+  {
+    "completions": [
+      {
+        "id": 37001,
+        "lead_time": 12.246,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "5U8Myt4GlK",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-7.PNG"
+    },
+    "id": 37
+  },
+  {
+    "completions": [
+      {
+        "id": 38001,
+        "lead_time": 8.328,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Gd4-Mp2Gbo",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-8.PNG"
+    },
+    "id": 38
+  },
+  {
+    "completions": [
+      {
+        "id": 39001,
+        "lead_time": 8.09,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "8xVeQfBeaJ",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-9.PNG"
+    },
+    "id": 39
+  },
+  {
+    "completions": [
+      {
+        "id": 40001,
+        "lead_time": 6.34,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "JTIaUzyFOF",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-10.PNG"
+    },
+    "id": 40
+  },
+  {
+    "completions": [
+      {
+        "id": 41001,
+        "lead_time": 6.177,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "CcqTlJOKH_",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-11.PNG"
+    },
+    "id": 41
+  },
+  {
+    "completions": [
+      {
+        "id": 42001,
+        "lead_time": 5.655,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "IxjB-JuKmK",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-12.PNG"
+    },
+    "id": 42
+  },
+  {
+    "completions": [
+      {
+        "id": 43001,
+        "lead_time": 13.842,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "y7_D_YO1as",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-13.PNG"
+    },
+    "id": 43
+  },
+  {
+    "completions": [
+      {
+        "id": 44001,
+        "lead_time": 5.887,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qDfsTisgES",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-14.PNG"
+    },
+    "id": 44
+  },
+  {
+    "completions": [
+      {
+        "id": 45001,
+        "lead_time": 5.878,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fNZfO5p6VX",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Takut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-15.PNG"
+    },
+    "id": 45
+  },
+  {
+    "completions": [
+      {
+        "id": 46001,
+        "lead_time": 5.184,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "KAG-8wbAol",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Takut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-16.PNG"
+    },
+    "id": 46
+  },
+  {
+    "completions": [
+      {
+        "id": 47001,
+        "lead_time": 10.201,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "z_xsVPS3JD",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Takut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-17.PNG"
+    },
+    "id": 47
+  },
+  {
+    "completions": [
+      {
+        "id": 48001,
+        "lead_time": 8.012,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ESWKWtBwiA",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Takut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-18.PNG"
+    },
+    "id": 48
+  },
+  {
+    "completions": [
+      {
+        "id": 49001,
+        "lead_time": 8.352,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fFRZyv84zJ",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Takut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-19.PNG"
+    },
+    "id": 49
+  },
+  {
+    "completions": [
+      {
+        "id": 50001,
+        "lead_time": 5.896,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ZsX52ga831",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-20.PNG"
+    },
+    "id": 50
+  },
+  {
+    "completions": [
+      {
+        "id": 51001,
+        "lead_time": 5.424,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "crSLxpD_BB",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-21.PNG"
+    },
+    "id": 51
+  },
+  {
+    "completions": [
+      {
+        "id": 52001,
+        "lead_time": 8.003,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xIpJX2u1Y6",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-22.PNG"
+    },
+    "id": 52
+  },
+  {
+    "completions": [
+      {
+        "id": 53001,
+        "lead_time": 5.197,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Yzt2__hR2o",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-23.PNG"
+    },
+    "id": 53
+  },
+  {
+    "completions": [
+      {
+        "id": 54001,
+        "lead_time": 7.391,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xG1Z0iCTgc",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-24.PNG"
+    },
+    "id": 54
+  },
+  {
+    "completions": [
+      {
+        "id": 55001,
+        "lead_time": 8.887,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_s1BpleIc4",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-25.PNG"
+    },
+    "id": 55
+  },
+  {
+    "completions": [
+      {
+        "id": 56001,
+        "lead_time": 9.323,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "VXsrVNRKwx",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-26.PNG"
+    },
+    "id": 56
+  },
+  {
+    "completions": [
+      {
+        "id": 57001,
+        "lead_time": 10.247,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "53toTjAcso",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-27.PNG"
+    },
+    "id": 57
+  },
+  {
+    "completions": [
+      {
+        "id": 58001,
+        "lead_time": 24.848,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "NPY1xiy2d4",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Takut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-28.PNG"
+    },
+    "id": 58
+  },
+  {
+    "completions": [
+      {
+        "id": 59001,
+        "lead_time": 16.227,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Nk1tnacGd0",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Takut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-29.PNG"
+    },
+    "id": 59
+  },
+  {
+    "completions": [
+      {
+        "id": 60001,
+        "lead_time": 8.335,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4KlF9V1Baw",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-30.PNG"
+    },
+    "id": 60
+  },
+  {
+    "completions": [
+      {
+        "id": 61001,
+        "lead_time": 6.578,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "BLrBHCtbZe",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Takut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%202/Arma-episode%202-31.PNG"
+    },
+    "id": 61
+  },
+  {
+    "completions": [
+      {
+        "id": 62001,
+        "lead_time": 11.737,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xpzKS8mSrH",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Takut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-1.PNG"
+    },
+    "id": 62
+  },
+  {
+    "completions": [
+      {
+        "id": 63001,
+        "lead_time": 5.286,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "8LtTo388j0",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-2.PNG"
+    },
+    "id": 63
+  },
+  {
+    "completions": [
+      {
+        "id": 64001,
+        "lead_time": 3.821,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "MqyyeJJr0o",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-3.PNG"
+    },
+    "id": 64
+  },
+  {
+    "completions": [
+      {
+        "id": 65001,
+        "lead_time": 24.222,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "VqYf2UnVu3",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-4.PNG"
+    },
+    "id": 65
+  },
+  {
+    "completions": [
+      {
+        "id": 66001,
+        "lead_time": 7.255,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "wht-5RlAat",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Takut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-5.PNG"
+    },
+    "id": 66
+  },
+  {
+    "completions": [
+      {
+        "id": 67001,
+        "lead_time": 10.749,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "UqoI5NwAc1",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-6.PNG"
+    },
+    "id": 67
+  },
+  {
+    "completions": [
+      {
+        "id": 68001,
+        "lead_time": 3.808,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "adaeftt8pM",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-7.PNG"
+    },
+    "id": 68
+  },
+  {
+    "completions": [
+      {
+        "id": 69001,
+        "lead_time": 3.577,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Q4fx0tTX_a",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-8.PNG"
+    },
+    "id": 69
+  },
+  {
+    "completions": [
+      {
+        "id": 70001,
+        "lead_time": 6.233,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "zuUp6deOwT",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-9.PNG"
+    },
+    "id": 70
+  },
+  {
+    "completions": [
+      {
+        "id": 71001,
+        "lead_time": 15.966,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "SySBC7Ra-V",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-10.PNG"
+    },
+    "id": 71
+  },
+  {
+    "completions": [
+      {
+        "id": 72001,
+        "lead_time": 13.508,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "6LQOo5bVba",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-11.PNG"
+    },
+    "id": 72
+  },
+  {
+    "completions": [
+      {
+        "id": 73001,
+        "lead_time": 8.509,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "z1VfGppsrp",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-12.PNG"
+    },
+    "id": 73
+  },
+  {
+    "completions": [
+      {
+        "id": 74001,
+        "lead_time": 7.619,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "3ZbgpSIwad",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-13.PNG"
+    },
+    "id": 74
+  },
+  {
+    "completions": [
+      {
+        "id": 75001,
+        "lead_time": 6.749,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "cIxYvlf2Sz",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-14.PNG"
+    },
+    "id": 75
+  },
+  {
+    "completions": [
+      {
+        "id": 76001,
+        "lead_time": 6.02,
+        "result": []
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-15.PNG"
+    },
+    "id": 76
+  },
+  {
+    "completions": [
+      {
+        "id": 77001,
+        "lead_time": 4.171,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "P50uKvGi5Z",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-16.PNG"
+    },
+    "id": 77
+  },
+  {
+    "completions": [
+      {
+        "id": 78001,
+        "lead_time": 6.872,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "h0oXPXdsJg",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-17.PNG"
+    },
+    "id": 78
+  },
+  {
+    "completions": [
+      {
+        "id": 79001,
+        "lead_time": 19.909,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "w_KHsNJEmT",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-18.PNG"
+    },
+    "id": 79
+  },
+  {
+    "completions": [
+      {
+        "id": 80001,
+        "lead_time": 9.272,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "n8d-Tmbyh1",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-19.PNG"
+    },
+    "id": 80
+  },
+  {
+    "completions": [
+      {
+        "id": 81001,
+        "lead_time": 9.084,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "CPisSAm22p",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-20.PNG"
+    },
+    "id": 81
+  },
+  {
+    "completions": [
+      {
+        "id": 82001,
+        "lead_time": 12.445,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "UQB6-qjsmO",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-21.PNG"
+    },
+    "id": 82
+  },
+  {
+    "completions": [
+      {
+        "id": 83001,
+        "lead_time": 21.702,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "syxXWf1rfW",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-22.PNG"
+    },
+    "id": 83
+  },
+  {
+    "completions": [
+      {
+        "id": 84001,
+        "lead_time": 8.313,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "cXJjKXZGDB",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-23.PNG"
+    },
+    "id": 84
+  },
+  {
+    "completions": [
+      {
+        "id": 85001,
+        "lead_time": 70.316,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "tXLrhvSIpZ",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-24.PNG"
+    },
+    "id": 85
+  },
+  {
+    "completions": [
+      {
+        "id": 86001,
+        "lead_time": 5.852,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "erTRHNjRVv",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-25.PNG"
+    },
+    "id": 86
+  },
+  {
+    "completions": [
+      {
+        "id": 87001,
+        "lead_time": 6.646,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "XJu_Lb5ojY",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-26.PNG"
+    },
+    "id": 87
+  },
+  {
+    "completions": [
+      {
+        "id": 88001,
+        "lead_time": 6.398,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "YSbqBm9I2y",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-27.PNG"
+    },
+    "id": 88
+  },
+  {
+    "completions": [
+      {
+        "id": 89001,
+        "lead_time": 7.136,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "MwyRE2WRNA",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-28.PNG"
+    },
+    "id": 89
+  },
+  {
+    "completions": [
+      {
+        "id": 90001,
+        "lead_time": 5.675,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "wovKiyMUED",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-29.PNG"
+    },
+    "id": 90
+  },
+  {
+    "completions": [
+      {
+        "id": 91001,
+        "lead_time": 16.996,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "u3ZBBzNnC2",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-30.PNG"
+    },
+    "id": 91
+  },
+  {
+    "completions": [
+      {
+        "id": 92001,
+        "lead_time": 5.791,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "29r5iWWAJz",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-31.PNG"
+    },
+    "id": 92
+  },
+  {
+    "completions": [
+      {
+        "id": 93001,
+        "lead_time": 6.075,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "kxUwJj8aUq",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-32.PNG"
+    },
+    "id": 93
+  },
+  {
+    "completions": [
+      {
+        "id": 94001,
+        "lead_time": 3.44,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "-CRxQesKV_",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Arma/Arma-episode%203/Arma-episode%203-33.PNG"
+    },
+    "id": 94
+  }
+]
