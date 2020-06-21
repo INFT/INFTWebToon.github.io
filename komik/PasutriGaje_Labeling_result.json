@@ -112,7 +112,7 @@
             "type": "choices",
             "value": {
               "choices": [
-                "Slice Of Life"
+                "SliceOfLife"
               ]
             }
           }
@@ -462,7 +462,7 @@
             "type": "choices",
             "value": {
               "choices": [
-                "Slice Of Life"
+                "SliceOfLife"
               ]
             }
           }
@@ -862,7 +862,7 @@
             "type": "choices",
             "value": {
               "choices": [
-                "Slice Of Life"
+                "SliceOfLife"
               ]
             }
           }
@@ -1037,7 +1037,7 @@
             "type": "choices",
             "value": {
               "choices": [
-                "Slice Of Life"
+                "SliceOfLife"
               ]
             }
           }
@@ -1612,7 +1612,7 @@
             "type": "choices",
             "value": {
               "choices": [
-                "Slice Of Life"
+                "SliceOfLife"
               ]
             }
           }
