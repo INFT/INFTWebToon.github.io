@@ -58,22 +58,13 @@ var chart = new CanvasJS.Chart("chartContainer", {
 		toolTipContent: "{name}: <strong>{y}</strong> ",
         indexLabel: "{name} - {y}",
 		dataPoints: [
-			{ y: Number(localStorage.getItem('Ketakutan')), name: " Ketakutan"},
 			{ y: Number(localStorage.getItem('Perkelahian')), name: "Perkelahian",},
 			{ y: Number(localStorage.getItem('Lucu')), name: "Lucu" },
 			{ y: Number(localStorage.getItem('Bahagia')), name: "Bahagia" },
 			{ y: Number(localStorage.getItem('Menggombal')), name: "Menggombal" },
-			{ y: Number(localStorage.getItem('Sedih')), name: "Sedih" },
-			{ y: Number(localStorage.getItem('Lebay')), name: "Lebay"},
-			{ y: Number(localStorage.getItem('Tragedy')), name: "Tragedy"},
-			{ y: Number(localStorage.getItem('Kaget')), name: "Kaget" },
 			{ y: Number(localStorage.getItem('Berfikir')), name: "Berfikir" },
-			{ y: Number(localStorage.getItem('game')), name: "game" },
-			{ y: Number(localStorage.getItem('Belajar')), name: "Belajar" },
-			{ y: Number(localStorage.getItem('menyerang')), name: "menyerang" },
 			{ y: Number(localStorage.getItem('Fantasy')), name: "Fantasy"},
-			{ y: Number(localStorage.getItem('Romantis')), name: "Romantis"},
-			{ y: Number(localStorage.getItem('Lainnya')), name: "Lainnya"}
+			{ y: Number(localStorage.getItem('Romantis')), name: "Romantis"}
 		]
 	}]
 });
@@ -98,22 +89,13 @@ var chart = new CanvasJS.Chart("chartContainer2", {
 		legendMarkerColor: "grey",
 		legendText: "Scene name ",
 		dataPoints: [
-			{ y: Number(localStorage.getItem('Ketakutan')), label: " Ketakutan"},
 			{ y: Number(localStorage.getItem('Perkelahian')), label: "Perkelahian",},
 			{ y: Number(localStorage.getItem('Lucu')), label: "Lucu" },
 			{ y: Number(localStorage.getItem('Bahagia')), label: "Bahagia" },
 			{ y: Number(localStorage.getItem('Menggombal')), label: "Menggombal" },
-			{ y: Number(localStorage.getItem('Sedih')), label: "Sedih" },
-			{ y: Number(localStorage.getItem('Lebay')), label: "Lebay"},
-			{ y: Number(localStorage.getItem('Tragedy')), label: "Tragedy"},
-			{ y: Number(localStorage.getItem('Kaget')), label: "Kaget" },
 			{ y: Number(localStorage.getItem('Berfikir')), label: "Berfikir" },
-			{ y: Number(localStorage.getItem('game')), label: "game" },
-			{ y: Number(localStorage.getItem('Belajar')), label: "Belajar" },
-			{ y: Number(localStorage.getItem('menyerang')), label: "menyerang" },
 			{ y: Number(localStorage.getItem('Fantasy')), label: "Fantasy"},
 			{ y: Number(localStorage.getItem('Romantis')), label: "Romantis"},
-			{ y: Number(localStorage.getItem('Lainnya')), label: "Lainnya"}
 		]
 	}]
 });
@@ -146,6 +128,7 @@ chart.render();
 
   
 <script src="https://kit.fontawesome.com/12c63ced89.js" crossorigin="anonymous"></script>    
+
 </head>
 <body class="fluid"><main id="wrapper">
 <header id="header">
@@ -686,21 +669,11 @@ Artist
 <div class="copyright">
     <h1 id="Scene17"></h1> 
     <p>Tekan CTRL + click mouse ( ke link gambar) untuk membuka gambar di halaman baru</p>
-    <button class="buttontabel" onclick="show_table1()">Ketakutan</button>
     <button class="buttontabel" onclick="show_table2()">Perkelahian</button>
     <button class="buttontabel" onclick="show_table3()">Lucu</button>
     <button class="buttontabel" onclick="show_table4()">Bahagia</button>
     <button class="buttontabel" onclick="show_table5()">Menggombal</button>
-    <button class="buttontabel" onclick="show_table6()">Sedih</button>
-    <button class="buttontabel" onclick="show_table7()">Lebay</button>
-    <button class="buttontabel" onclick="show_table8()">Tragedy</button>
-    <button class="buttontabel" onclick="show_table9()">Kaget</button>
-    <button class="buttontabel" onclick="show_table10()">Berfikir</button>
-    <button class="buttontabel" onclick="show_table11()">game</button>
-    <button class="buttontabel" onclick="show_table12()">Belajar </button>
-    <button class="buttontabel" onclick="show_table13()">menyerang</button>
     <button class="buttontabel" onclick="show_table14()">Fantasy</button>
-    <button class="buttontabel" onclick="show_table15()">Lainnya</button>
     <button class="buttontabel" onclick="show_table16()">Romantis</button>
     
 <div class="tableSpot">
@@ -731,7 +704,6 @@ Artist
         $('html, body').animate({scrollTop: '+=250px'}, 300);
     });
 </script>
-<script async="" id="dsq-count-scr" src="Tower%20of%20God%20Manga_files/count.js" type="text/javascript"></script>
 
 <div style="display: none;"></div><iframe style="display: none;" __idm_frm__="2147483665"></iframe>
 
@@ -788,6 +760,8 @@ ArrRomantis=[],
 ArrTotal=[];
          //Membaca dn mengambil data dari file headline.txt
         $.getJSON('MageAndDemonQueen_Labeling_result.json',function(data){
+
+            
 
             //Mengambil Line dari tiap judul
             var headline_data = '';
