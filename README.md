@@ -25,7 +25,7 @@ Proses :<br />
                         hasil scraping terdapat pada file komik/(nama Webtoon)/(episode)/(nama file img).<br />
                         misal : https://github.com/INFT/INFTWebToon.github.io/tree/master/komik/Arma/Arma-episode%201<br />
                           
-2. B (Hasil Labeling) : -<br />
+2. B (Hasil Labeling) : https://github.com/INFT/INFTWebToon.github.io/tree/master/B%20(Hasil%20Labeling)<br />
 3. Proses Visualisasi / Persentasi (Web Aplikasi) karena berbeda pada tiap-tiap html.maka css dan js terdapat pada masing-masing html.<br />
    Home Page:<br />
       https://inft.github.io/INFTWebToon.github.io/INFTWebtoon.html<br />
