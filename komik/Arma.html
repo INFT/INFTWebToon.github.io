@@ -454,6 +454,9 @@ Artist
         ArrTotal=[];
          //Membaca dn mengambil data
         $.getJSON('Arma_result.json',function(data){
+		
+		localStorage.clear();
+		
             var headline_data = '';
             var i = 0;
             $.each(data, function(key, value) {
