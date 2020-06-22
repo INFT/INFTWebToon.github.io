@@ -31,7 +31,34 @@ Proses :<br />
       https://inft.github.io/INFTWebToon.github.io/INFTWebtoon.html<br />
    List Chapter Webtoon:<br />
       Misal: https://inft.github.io/INFTWebToon.github.io/komik/MageAndDemonQueen.html<br />
-      Webtoon lain seperti :Flawless, Pasutri Gaje, S.I.D dll.<br />
+      Webtoon lain seperti :Noblesse	,
+ Dracko Diary	,
+  The Secret of Angels	,
+ LOOKISM	,
+Girls of the Wild	,
+House Daddy	,
+Ghost Teller	,
+Super Secret	,
+Orange Marmalade	,
+ Mage & Demon Queen	,
+ Deor	,
+Lalin’s Curse	,
+Switched Girls	,
+Flawless	,
+ Dead Days	,
+The Red Book	,
+  Cooking Comically	,
+ Hooky	,
+Chocho Latte	,
+Pasutri Gaje	,
+Watermelon	,
+ Arma	,
+ Shadow	,
+The Gamer	,
+Trickster	,
+Purple Hyacinth	,
+S.I.D.<br />
+
    Membaca Webtoon per chapter:<br />
       https://inft.github.io/INFTWebToon.github.io/komik/MageAndDemonQueen/MageAndDemonQueen%20episode%201.html<br />
       
