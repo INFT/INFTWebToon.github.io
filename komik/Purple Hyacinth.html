@@ -72,8 +72,7 @@ var chart = new CanvasJS.Chart("chartContainer", {
 			{ y: Number(localStorage.getItem('Belajar')), name: "Belajar" },
 			{ y: Number(localStorage.getItem('menyerang')), name: "menyerang" },
 			{ y: Number(localStorage.getItem('Fantasy')), name: "Fantasy"},
-			{ y: Number(localStorage.getItem('Romantis')), name: "Romantis"},
-			{ y: Number(localStorage.getItem('Lainnya')), name: "Lainnya"}
+			{ y: Number(localStorage.getItem('Romantis')), name: "Romantis"}
 		]
 	}]
 });
@@ -112,8 +111,7 @@ var chart = new CanvasJS.Chart("chartContainer2", {
 			{ y: Number(localStorage.getItem('Belajar')), label: "Belajar" },
 			{ y: Number(localStorage.getItem('menyerang')), label: "menyerang" },
 			{ y: Number(localStorage.getItem('Fantasy')), label: "Fantasy"},
-			{ y: Number(localStorage.getItem('Romantis')), label: "Romantis"},
-			{ y: Number(localStorage.getItem('Lainnya')), label: "Lainnya"}
+			{ y: Number(localStorage.getItem('Romantis')), label: "Romantis"}
 		]
 	}]
 });
@@ -442,7 +440,7 @@ Author
 Artist
 <a href="../INFTWebtoon.htmlcast/5160" ><small>Slave In Utero</small></a>
 
-</span>
+</span> 
 </div>
 </article>
 </div>
@@ -700,7 +698,6 @@ Artist
     <button class="buttontabel" onclick="show_table12()">Belajar </button>
     <button class="buttontabel" onclick="show_table13()">menyerang</button>
     <button class="buttontabel" onclick="show_table14()">Fantasy</button>
-    <button class="buttontabel" onclick="show_table15()">Lainnya</button>
     <button class="buttontabel" onclick="show_table16()">Romantis</button>
     
 <div class="tableSpot">
@@ -749,7 +746,7 @@ Artist
 <script>
 
     $(document).ready(function(){
-
+// localStorage.clear();
         var scene=0;
         var 
 Ketakutan=0,
@@ -900,7 +897,7 @@ ArrTotal=[];
             // document.getElementById("Scene14").innerHTML =" Fantasy\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Fantasy;
             // document.getElementById("Scene15").innerHTML =" Romantis\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + Romantis;
             // //document.getElementById("Scene16").innerHTML =" Lainnya\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " +  retrievedObject);
-            document.getElementById("Scene17").innerHTML =" Total data yang dilabeling \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + i;
+            document.getElementById("Scene17").innerHTML =" Total data yang dilabeling \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + (i - Lainnya);
             
             localStorage.setItem('Ketakutan', Ketakutan);
             localStorage.setItem('Perkelahian', Perkelahian);
@@ -918,7 +915,7 @@ ArrTotal=[];
             localStorage.setItem('Fantasy', Fantasy);
             localStorage.setItem('Romantis', Romantis);
             localStorage.setItem('Lainnya', Lainnya); 
-            localStorage.setItem('Total', i);
+            localStorage.setItem('Total', i-Lainnya);
 
 
             localStorage.setItem('ArrKetakutan'     , JSON.stringify(ArrKetakutan)); 
