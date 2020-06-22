@@ -93,18 +93,17 @@ var chart = new CanvasJS.Chart("chartContainer2", {
 		legendMarkerColor: "grey",
 		legendText: "Scene name ",
 		dataPoints: [
-            { y: Number(localStorage.getItem('Romantis')), name: "Romantis"},
-			{ y: Number(localStorage.getItem('Lucu')), name: "Lucu" },
-			{ y: Number(localStorage.getItem('Perkelahian')), name: "Perkelahian",},
-            { y: Number(localStorage.getItem('Takut')), name: " Takut"},
-			{ y: Number(localStorage.getItem('Bahagia')), name: "Bahagia" },
-			{ y: Number(localStorage.getItem('Sedih')), name: "Sedih" },	
-			{ y: Number(localStorage.getItem('Bingung')), name: "Bingung"},
-			{ y: Number(localStorage.getItem('Drama')), name: "Drama" },
-			{ y: Number(localStorage.getItem('Fantasi')), name: "Fantasi"},
-            { y: Number(localStorage.getItem('Kaget')), name: "Kaget" },
-			{ y: Number(localStorage.getItem('Marah')), name: "Marah"},
-			{ y: Number(localStorage.getItem('Lainnya')), name: "Lainnya"}
+            { y: Number(localStorage.getItem('Romantis')), label: "Romantis"},
+            { y: Number(localStorage.getItem('Lucu')), label: "Lucu" },
+			{ y: Number(localStorage.getItem('Perkelahian')), label: "Perkelahian",},
+            { y: Number(localStorage.getItem('Takut')), label: " Takut"},
+			{ y: Number(localStorage.getItem('Bahagia')), label: "Bahagia" },
+			{ y: Number(localStorage.getItem('Sedih')), label: "Sedih" },
+			{ y: Number(localStorage.getItem('Bingung')), label: "Bingung"},
+			{ y: Number(localStorage.getItem('Drama')), label: "Drama" },
+			{ y: Number(localStorage.getItem('Kaget')), label: "Kaget" },
+            { y: Number(localStorage.getItem('Marah')), label: "Marah"},
+			{ y: Number(localStorage.getItem('Lainnya')), label: "Lainnya"}
 		]
 	}]
 });
@@ -125,7 +124,7 @@ chart.render();
        </script>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1, shrink-to-fit=no">
-<title>Pasutri Gaje</title>
+<title>Watermelon</title>
 <meta name="description" content="All details about Watermelon manga. Free chapters of Watermelon Manga.">
 <meta name="keywords" content="Watermelon, Watermelon manga, Watermelon chapter, Watermelon manga online, read Watermelon manga online">
 <meta http-equiv="robots" content="index,follow">
@@ -275,19 +274,19 @@ Artist
 <div class="tabular-content">
 <div class="episodes-list">
 <div class="ui list">
-<!--            list link per Episode            -->
 <div class="item season_start">
 <table class="ui basic unstackable table">
 <tbody>
 <tr>
 <td class="collapsing table-episode-check">
-<div class="ui checkbox ordi mark-read " data-manga-id="7631" data-chapter-id="428475" onlyusers="">
-<input type="checkbox" disabled="disabled" tabindex="0" class="hidden">
+<div class="ui checkbox ordi mark-read " data-manga-id="7631" data-chapter-id="434550" onlyusers="">
+ <input type="checkbox" disabled="disabled" tabindex="0" class="hidden">
 <label></label>
 </div>
 </td>
+
 <td id="table-episodes-title" class="table-episodes-title">
-    <h6 class="truncate"><a href="Watermelon\Watermelon-prologue.html" >Prologue </a></h6></td>
+    <h6 class="truncate"><a href="Watermelon\Watermelon-prologue.html" >PROLOGUE </a></h6></td>
 </tr>
 </tbody>
 </table>
@@ -370,6 +369,7 @@ Artist
 <h1>Data Labeling</h1>
 <div class="chartbox">
     <div class="split left" id="chartContainer" style="height: 370px; width: 500px;" ></div>
+
     <div class="split right" id="chartContainer2" style="height: 370px; width: 500px;" ></div>
 </div>
 <div class="copyright">
@@ -388,8 +388,8 @@ Artist
     <button class="buttontabel" onclick="show_table11()">Marah</button>
     <button class="buttontabel" onclick="show_table12()">Lainnya</button>
     
-    <div class="tableSpot">
-        <table class="tablecontent"></table>
+<div class="tableSpot">
+      <table class="tablecontent"></table>
 </div>  
 </div>
 </div>
@@ -422,6 +422,7 @@ Artist
 
 
 <p id="demo"></p>
+<div id="chartContainer" style="height: 370px; width: 100%;" ></div>
 
 <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 
@@ -480,10 +481,10 @@ Artist
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrLucu.push(ss);}
 
-                if(value.completions[0].result[0].value.choices=="Perkelahiam") {
-                    Perkelahiam++; 
+                if(value.completions[0].result[0].value.choices=="Perkelahian") {
+                    Perkelahian++; 
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrPerkelahiam.push(ss);}
+                    ArrPerkelahian.push(ss);}
 
                 if(value.completions[0].result[0].value.choices=="Takut") {
                     Takut++;
@@ -510,22 +511,22 @@ Artist
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrDrama.push(ss);}
 
-                if(value.completions[0].result[0].value.choices=="Fantasi"){
+                if(value.completions[0].result[0].value.choices=="Fantasi") {
                     Fantasi++;
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrFantasi.push(ss);}
 
-                if(value.completions[0].result[0].value.choices=="Kaget"){
+                if(value.completions[0].result[0].value.choices=="Kaget")  {
                     Kaget++;
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrKaget.push(ss);}
-
-                if(value.completions[0].result[0].value.choices=="Marah"){
+                
+                if(value.completions[0].result[0].value.choices=="Marah")  {
                     Marah++;
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrMarah.push(ss);}
 
-                if(value.completions[0].result[0].value.choices=="Lainnya"){
+                if(value.completions[0].result[0].value.choices=="Lainnya")   {
                     Lainnya++;
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrLainnya.push(ss);}
@@ -769,6 +770,10 @@ document.getElementById('table').style.visibility = "visible";
 function hideTable(){
 document.getElementById('table').style.visibility = "hidden";
 }
+
+
+
+
 
 </script>
 </html>
