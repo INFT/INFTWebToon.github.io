@@ -1,0 +1,1852 @@
+[
+  {
+    "completions": [
+      {
+        "id": 1,
+        "lead_time": 7.247,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "AS4eT_6nMF",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN/0.jpg"
+    },
+    "id": 0
+  },
+  {
+    "completions": [
+      {
+        "id": 1001,
+        "lead_time": 23.384,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "fMFUvCiKvb",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//1.jpg"
+    },
+    "id": 1
+  },
+  {
+    "completions": [
+      {
+        "id": 2001,
+        "lead_time": 4.067,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "BkRVx5jDIN",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//2.jpg"
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "id": 3001,
+        "lead_time": 6.244,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "LLKZYZKI1y",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Action"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//3.jpg"
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "id": 4001,
+        "lead_time": 3.386,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "in41CtTgG0",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//4.jpg"
+    },
+    "id": 4
+  },
+  {
+    "completions": [
+      {
+        "id": 5001,
+        "lead_time": 2.84,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "zpScBGyBMk",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Action"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//5.jpg"
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "id": 6001,
+        "lead_time": 5.165,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "vCYF_-sRlq",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//6.jpg"
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "id": 7001,
+        "lead_time": 3.51,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "1N_1Jep1z9",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//7.jpg"
+    },
+    "id": 7
+  },
+  {
+    "completions": [
+      {
+        "id": 8001,
+        "lead_time": 5.928,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "pfawLLpfOY",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//8.jpg"
+    },
+    "id": 8
+  },
+  {
+    "completions": [
+      {
+        "id": 9001,
+        "lead_time": 4.578,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "wtR9Hlqoj4",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//9.jpg"
+    },
+    "id": 9
+  },
+  {
+    "completions": [
+      {
+        "id": 10001,
+        "lead_time": 4.827,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "Za2ntqQo1A",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//10.jpg"
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "id": 11001,
+        "lead_time": 5.206,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "jJ4YMv4r_7",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//11.jpg"
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "id": 12001,
+        "lead_time": 5.298,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "czRDzQ5IFC",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//12.jpg"
+    },
+    "id": 12
+  },
+  {
+    "completions": [
+      {
+        "id": 13001,
+        "lead_time": 4.496,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "phufKxZztl",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//13.jpg"
+    },
+    "id": 13
+  },
+  {
+    "completions": [
+      {
+        "id": 14001,
+        "lead_time": 5.491,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "PY9IzTA-b0",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//14.jpg"
+    },
+    "id": 14
+  },
+  {
+    "completions": [
+      {
+        "id": 15001,
+        "lead_time": 10.881,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "6jOqWf8cL_",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//15.jpg"
+    },
+    "id": 15
+  },
+  {
+    "completions": [
+      {
+        "id": 16001,
+        "lead_time": 13.804,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "6-bXpL5wN4",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//16.jpg"
+    },
+    "id": 16
+  },
+  {
+    "completions": [
+      {
+        "id": 17001,
+        "lead_time": 5.19,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "KGLEFwkLDe",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//17.jpg"
+    },
+    "id": 17
+  },
+  {
+    "completions": [
+      {
+        "id": 18001,
+        "lead_time": 13.148,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "MIUk5U-8zW",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//18.jpg"
+    },
+    "id": 18
+  },
+  {
+    "completions": [
+      {
+        "id": 19001,
+        "lead_time": 421.096,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "H6i6sbxH3a",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//19.jpg"
+    },
+    "id": 19
+  },
+  {
+    "completions": [
+      {
+        "id": 20001,
+        "lead_time": 6.886,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "2IugdupbAS",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//20.jpg"
+    },
+    "id": 20
+  },
+  {
+    "completions": [
+      {
+        "id": 21001,
+        "lead_time": 6.402,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "7WwsFhx7Lv",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//21.jpg"
+    },
+    "id": 21
+  },
+  {
+    "completions": [
+      {
+        "id": 22001,
+        "lead_time": 7.052,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "WobdFdWqmg",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//22.jpg"
+    },
+    "id": 22
+  },
+  {
+    "completions": [
+      {
+        "id": 23001,
+        "lead_time": 6.464,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "vV4VS9MokG",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//23.jpg"
+    },
+    "id": 23
+  },
+  {
+    "completions": [
+      {
+        "id": 24001,
+        "lead_time": 7.768,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "0MLFH0ifXB",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//24.jpg"
+    },
+    "id": 24
+  },
+  {
+    "completions": [
+      {
+        "id": 25001,
+        "lead_time": 4.93,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "TeedGhbrMt",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%201%20-%20AWALAN//25.jpg"
+    },
+    "id": 25
+  },
+  {
+    "completions": [
+      {
+        "id": 26001,
+        "lead_time": 4.14,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "Zg43G8XGMr",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/0.jpg"
+    },
+    "id": 26
+  },
+  {
+    "completions": [
+      {
+        "id": 27001,
+        "lead_time": 2.847,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "G1qGtR67Vo",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/1.jpg"
+    },
+    "id": 27
+  },
+  {
+    "completions": [
+      {
+        "id": 28001,
+        "lead_time": 7.999,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "H-Y9b_wfxU",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/2.jpg"
+    },
+    "id": 28
+  },
+  {
+    "completions": [
+      {
+        "id": 29001,
+        "lead_time": 432.169,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "MuUWLOkXLC",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/3.jpg"
+    },
+    "id": 29
+  },
+  {
+    "completions": [
+      {
+        "id": 30001,
+        "lead_time": 4.98,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "SXsmBzCLwn",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/4.jpg"
+    },
+    "id": 30
+  },
+  {
+    "completions": [
+      {
+        "id": 31001,
+        "lead_time": 101.954,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "kgNN2urqKk",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/5.jpg"
+    },
+    "id": 31
+  },
+  {
+    "completions": [
+      {
+        "id": 32001,
+        "lead_time": 10.864,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "w37X31kSew",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/6.jpg"
+    },
+    "id": 32
+  },
+  {
+    "completions": [
+      {
+        "id": 33001,
+        "lead_time": 4.974,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "ywSfFab4UO",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/7.jpg"
+    },
+    "id": 33
+  },
+  {
+    "completions": [
+      {
+        "id": 34001,
+        "lead_time": 10.09,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "765PR5Cbvk",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/8.jpg"
+    },
+    "id": 34
+  },
+  {
+    "completions": [
+      {
+        "id": 35001,
+        "lead_time": 9.18,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "tchQnw3Qr4",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/9.jpg"
+    },
+    "id": 35
+  },
+  {
+    "completions": [
+      {
+        "id": 36001,
+        "lead_time": 4.755,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "Qk2Wcq3a7D",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/10.jpg"
+    },
+    "id": 36
+  },
+  {
+    "completions": [
+      {
+        "id": 37001,
+        "lead_time": 4.241,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "mwXodeZja_",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/11.jpg"
+    },
+    "id": 37
+  },
+  {
+    "completions": [
+      {
+        "id": 38001,
+        "lead_time": 4.602,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "Sg5jMh7pY0",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/12.jpg"
+    },
+    "id": 38
+  },
+  {
+    "completions": [
+      {
+        "id": 39001,
+        "lead_time": 4.792,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "PAGZdNUBGF",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/13.jpg"
+    },
+    "id": 39
+  },
+  {
+    "completions": [
+      {
+        "id": 40001,
+        "lead_time": 5.692,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "fJs_KFT5d8",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/14.jpg"
+    },
+    "id": 40
+  },
+  {
+    "completions": [
+      {
+        "id": 41001,
+        "lead_time": 7.666,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "jlhqHHCcYf",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/15.jpg"
+    },
+    "id": 41
+  },
+  {
+    "completions": [
+      {
+        "id": 42001,
+        "lead_time": 5.047,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "JiPFYZthZ3",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/16.jpg"
+    },
+    "id": 42
+  },
+  {
+    "completions": [
+      {
+        "id": 43001,
+        "lead_time": 7.482,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "sywpIuVC3N",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/17.jpg"
+    },
+    "id": 43
+  },
+  {
+    "completions": [
+      {
+        "id": 44001,
+        "lead_time": 7.748,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "FFFzbInZGS",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/18.jpg"
+    },
+    "id": 44
+  },
+  {
+    "completions": [
+      {
+        "id": 45001,
+        "lead_time": 6.901,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "lzGhkQDzcP",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/19.jpg"
+    },
+    "id": 45
+  },
+  {
+    "completions": [
+      {
+        "id": 46001,
+        "lead_time": 5.478,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "ygZJMAX2W6",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/20.jpg"
+    },
+    "id": 46
+  },
+  {
+    "completions": [
+      {
+        "id": 47001,
+        "lead_time": 5.642,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "u0YU8Hi1u6",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/21.jpg"
+    },
+    "id": 47
+  },
+  {
+    "completions": [
+      {
+        "id": 48001,
+        "lead_time": 4.336,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "Sh0DYashLK",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Action"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/22.jpg"
+    },
+    "id": 48
+  },
+  {
+    "completions": [
+      {
+        "id": 49001,
+        "lead_time": 2.86,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "VAdEPpuINj",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%202%20-%20BESAN/23.jpg"
+    },
+    "id": 49
+  },
+  {
+    "completions": [
+      {
+        "id": 50001,
+        "lead_time": 4.542,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "y9arUPv-g_",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Action"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/0.jpg"
+    },
+    "id": 50
+  },
+  {
+    "completions": [
+      {
+        "id": 51001,
+        "lead_time": 14.203,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "df_iXnp09a",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Action"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/1.jpg"
+    },
+    "id": 51
+  },
+  {
+    "completions": [
+      {
+        "id": 52001,
+        "lead_time": 3.319,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "l-i1BzuNih",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/2.jpg"
+    },
+    "id": 52
+  },
+  {
+    "completions": [
+      {
+        "id": 53001,
+        "lead_time": 6.253,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "TghSleZow3",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/3.jpg"
+    },
+    "id": 53
+  },
+  {
+    "completions": [
+      {
+        "id": 54001,
+        "lead_time": 5.819,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "tOpqtg2R3y",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/4.jpg"
+    },
+    "id": 54
+  },
+  {
+    "completions": [
+      {
+        "id": 55001,
+        "lead_time": 5.117,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "BnUu2B0S7S",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/5.jpg"
+    },
+    "id": 55
+  },
+  {
+    "completions": [
+      {
+        "id": 56001,
+        "lead_time": 4.202,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "zME5rHjmXY",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/6.jpg"
+    },
+    "id": 56
+  },
+  {
+    "completions": [
+      {
+        "id": 57001,
+        "lead_time": 5.78,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "2W8n5LXBxz",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/7.jpg"
+    },
+    "id": 57
+  },
+  {
+    "completions": [
+      {
+        "id": 58001,
+        "lead_time": 5.173,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "aOGH2EYCvb",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/8.jpg"
+    },
+    "id": 58
+  },
+  {
+    "completions": [
+      {
+        "id": 59001,
+        "lead_time": 6.495,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "IDOt3K-8zK",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/9.jpg"
+    },
+    "id": 59
+  },
+  {
+    "completions": [
+      {
+        "id": 60001,
+        "lead_time": 6.544,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "mPo8m0Elbb",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/10.jpg"
+    },
+    "id": 60
+  },
+  {
+    "completions": [
+      {
+        "id": 61001,
+        "lead_time": 5.382,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "lti0465l_a",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/11.jpg"
+    },
+    "id": 61
+  },
+  {
+    "completions": [
+      {
+        "id": 62001,
+        "lead_time": 4.861,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "lp9uOZ-qNt",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/12.jpg"
+    },
+    "id": 62
+  },
+  {
+    "completions": [
+      {
+        "id": 63001,
+        "lead_time": 4.94,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "YNmlvx4dLM",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/13.jpg"
+    },
+    "id": 63
+  },
+  {
+    "completions": [
+      {
+        "id": 64001,
+        "lead_time": 7.562,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "a-y_EJyngJ",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/14.jpg"
+    },
+    "id": 64
+  },
+  {
+    "completions": [
+      {
+        "id": 65001,
+        "lead_time": 6.261,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "TVrjdEf--N",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/15.jpg"
+    },
+    "id": 65
+  },
+  {
+    "completions": [
+      {
+        "id": 66001,
+        "lead_time": 5.914,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "LAioaupWRx",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/16.jpg"
+    },
+    "id": 66
+  },
+  {
+    "completions": [
+      {
+        "id": 67001,
+        "lead_time": 4.206,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "Cxp_v3h8NO",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/17.jpg"
+    },
+    "id": 67
+  },
+  {
+    "completions": [
+      {
+        "id": 68001,
+        "lead_time": 5.834,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "oXXmKbFRup",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/18.jpg"
+    },
+    "id": 68
+  },
+  {
+    "completions": [
+      {
+        "id": 69001,
+        "lead_time": 5.424,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "mI0zN1IQX1",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/19.jpg"
+    },
+    "id": 69
+  },
+  {
+    "completions": [
+      {
+        "id": 70001,
+        "lead_time": 6.112,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "zKVZB0CqJn",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/20.jpg"
+    },
+    "id": 70
+  },
+  {
+    "completions": [
+      {
+        "id": 71001,
+        "lead_time": 6.132,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "105ZG0K-oR",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/21.jpg"
+    },
+    "id": 71
+  },
+  {
+    "completions": [
+      {
+        "id": 72001,
+        "lead_time": 6.23,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "Z5ThUHzsx-",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/22.jpg"
+    },
+    "id": 72
+  },
+  {
+    "completions": [
+      {
+        "id": 73001,
+        "lead_time": 3.202,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "blO8xtS6SQ",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Pasutri%20Gaje/(SEASON%202)%20EP.%203%20-%20NGIDAM/23.jpg"
+    },
+    "id": 73
+  }
+]

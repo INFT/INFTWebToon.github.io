@@ -1,0 +1,8515 @@
+[
+  {
+    "completions": [
+      {
+        "id": 1,
+        "lead_time": 5.09,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "nRRf4VbdoI",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/0.jpg"
+    },
+    "id": 0
+  },
+  {
+    "completions": [
+      {
+        "id": 1001,
+        "lead_time": 3.298,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xymP9LSFZO",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/1.jpg"
+    },
+    "id": 1
+  },
+  {
+    "completions": [
+      {
+        "id": 10001,
+        "lead_time": 4.512,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Q_CNfYkWJF",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tragedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/10.jpg"
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "id": 100001,
+        "lead_time": 13.449,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fi5c6-wcCd",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/100.jpg"
+    },
+    "id": 100
+  },
+  {
+    "completions": [
+      {
+        "id": 101001,
+        "lead_time": 77.135,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "WkppjAMR2I",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/101.jpg"
+    },
+    "id": 101
+  },
+  {
+    "completions": [
+      {
+        "id": 102001,
+        "lead_time": 43.96,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_BY6a8bq75",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/102.jpg"
+    },
+    "id": 102
+  },
+  {
+    "completions": [
+      {
+        "id": 103001,
+        "lead_time": 7.134,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "OWsXjU1lhQ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/103.jpg"
+    },
+    "id": 103
+  },
+  {
+    "completions": [
+      {
+        "id": 104001,
+        "lead_time": 24.119,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "kN-WiPUZ1i",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/104.jpg"
+    },
+    "id": 104
+  },
+  {
+    "completions": [
+      {
+        "id": 105001,
+        "lead_time": 6.69,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "DsP57Q90vR",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/105.jpg"
+    },
+    "id": 105
+  },
+  {
+    "completions": [
+      {
+        "id": 106001,
+        "lead_time": 4.216,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "IFeWDzSDzn",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/106.jpg"
+    },
+    "id": 106
+  },
+  {
+    "completions": [
+      {
+        "id": 107001,
+        "lead_time": 11.669,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "GkA43_vhVb",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/107.jpg"
+    },
+    "id": 107
+  },
+  {
+    "completions": [
+      {
+        "id": 108001,
+        "lead_time": 12.165,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "VwNULBAJbv",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tragedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/108.jpg"
+    },
+    "id": 108
+  },
+  {
+    "completions": [
+      {
+        "id": 109001,
+        "lead_time": 8.276,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fFXBhSANZp",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/109.jpg"
+    },
+    "id": 109
+  },
+  {
+    "completions": [
+      {
+        "id": 11001,
+        "lead_time": 9.599,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "7m_cV5oKtY",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tragedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/11.jpg"
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "id": 110001,
+        "lead_time": 3.046,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "uQ-4dLS_U4",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/110.jpg"
+    },
+    "id": 110
+  },
+  {
+    "completions": [
+      {
+        "id": 111001,
+        "lead_time": 9.056,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "mq9xWr3VUe",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/111.jpg"
+    },
+    "id": 111
+  },
+  {
+    "completions": [
+      {
+        "id": 112001,
+        "lead_time": 4.215,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "HcdWCewU_K",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/112.jpg"
+    },
+    "id": 112
+  },
+  {
+    "completions": [
+      {
+        "id": 113001,
+        "lead_time": 8.231,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "cSOQTxachs",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/113.jpg"
+    },
+    "id": 113
+  },
+  {
+    "completions": [
+      {
+        "id": 114001,
+        "lead_time": 4.875,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "TCJ72dT6tM",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/114.jpg"
+    },
+    "id": 114
+  },
+  {
+    "completions": [
+      {
+        "id": 115001,
+        "lead_time": 5.077,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "DMoAyMzcHC",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/115.jpg"
+    },
+    "id": 115
+  },
+  {
+    "completions": [
+      {
+        "id": 116001,
+        "lead_time": 7.29,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "8NhLkHw8Ua",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/116.jpg"
+    },
+    "id": 116
+  },
+  {
+    "completions": [
+      {
+        "id": 117001,
+        "lead_time": 9.929,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "N8ar29qZbQ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/117.jpg"
+    },
+    "id": 117
+  },
+  {
+    "completions": [
+      {
+        "id": 118001,
+        "lead_time": 10.622,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "EiNup-FTUx",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/118.jpg"
+    },
+    "id": 118
+  },
+  {
+    "completions": [
+      {
+        "id": 119001,
+        "lead_time": 11.279,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "AKDXlZHjVA",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/119.jpg"
+    },
+    "id": 119
+  },
+  {
+    "completions": [
+      {
+        "id": 12001,
+        "lead_time": 3.806,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "s8xbDqBUEh",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/12.jpg"
+    },
+    "id": 12
+  },
+  {
+    "completions": [
+      {
+        "id": 120001,
+        "lead_time": 8.104,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ZhbTmWmLn_",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/120.jpg"
+    },
+    "id": 120
+  },
+  {
+    "completions": [
+      {
+        "id": 121001,
+        "lead_time": 3.901,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "nmBxdxLsq1",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/121.jpg"
+    },
+    "id": 121
+  },
+  {
+    "completions": [
+      {
+        "id": 122001,
+        "lead_time": 4.112,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "dncXGi2mYk",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/122.jpg"
+    },
+    "id": 122
+  },
+  {
+    "completions": [
+      {
+        "id": 123001,
+        "lead_time": 5.286,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "IUU4_tXGSU",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/123.jpg"
+    },
+    "id": 123
+  },
+  {
+    "completions": [
+      {
+        "id": 124001,
+        "lead_time": 10.817,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "MuFob3uCRY",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/124.jpg"
+    },
+    "id": 124
+  },
+  {
+    "completions": [
+      {
+        "id": 125001,
+        "lead_time": 3.577,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Hh8fVfHBje",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/125.jpg"
+    },
+    "id": 125
+  },
+  {
+    "completions": [
+      {
+        "id": 126001,
+        "lead_time": 4.319,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "OqJhPuWiFb",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/126.jpg"
+    },
+    "id": 126
+  },
+  {
+    "completions": [
+      {
+        "id": 127001,
+        "lead_time": 8.752,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Dqx6uNvAa1",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/127.jpg"
+    },
+    "id": 127
+  },
+  {
+    "completions": [
+      {
+        "id": 128001,
+        "lead_time": 25.229,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "pyIvtt7DXT",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/128.jpg"
+    },
+    "id": 128
+  },
+  {
+    "completions": [
+      {
+        "id": 129001,
+        "lead_time": 7.014,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "h6L8Qq3-Pv",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/129.jpg"
+    },
+    "id": 129
+  },
+  {
+    "completions": [
+      {
+        "id": 13001,
+        "lead_time": 10.021,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "-bJQBsLDih",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/13.jpg"
+    },
+    "id": 13
+  },
+  {
+    "completions": [
+      {
+        "id": 130001,
+        "lead_time": 4.488,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "6QeZLM-XvS",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/130.jpg"
+    },
+    "id": 130
+  },
+  {
+    "completions": [
+      {
+        "id": 131001,
+        "lead_time": 7.734,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "OWWzh-CLdj",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/131.jpg"
+    },
+    "id": 131
+  },
+  {
+    "completions": [
+      {
+        "id": 132001,
+        "lead_time": 16.697,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "LQ5dRJsaZ8",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/132.jpg"
+    },
+    "id": 132
+  },
+  {
+    "completions": [
+      {
+        "id": 133001,
+        "lead_time": 4.325,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Isx8LA71Nc",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/133.jpg"
+    },
+    "id": 133
+  },
+  {
+    "completions": [
+      {
+        "id": 134001,
+        "lead_time": 2.968,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "seO7VCV9nI",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/134.jpg"
+    },
+    "id": 134
+  },
+  {
+    "completions": [
+      {
+        "id": 135001,
+        "lead_time": 10.391,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "BLb3DGeFP6",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/135.jpg"
+    },
+    "id": 135
+  },
+  {
+    "completions": [
+      {
+        "id": 136001,
+        "lead_time": 6.699,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "zskEUeLfzZ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tragedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/136.jpg"
+    },
+    "id": 136
+  },
+  {
+    "completions": [
+      {
+        "id": 137001,
+        "lead_time": 4.473,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "lePw4TBHl_",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/137.jpg"
+    },
+    "id": 137
+  },
+  {
+    "completions": [
+      {
+        "id": 138001,
+        "lead_time": 15.357,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "sVl4kSaN6V",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/138.jpg"
+    },
+    "id": 138
+  },
+  {
+    "completions": [
+      {
+        "id": 139001,
+        "lead_time": 11.289,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "QYv3VVcPQg",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/139.jpg"
+    },
+    "id": 139
+  },
+  {
+    "completions": [
+      {
+        "id": 14001,
+        "lead_time": 5.603,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "UQoM29fiup",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/14.jpg"
+    },
+    "id": 14
+  },
+  {
+    "completions": [
+      {
+        "id": 140001,
+        "lead_time": 8.523,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "z7h4VyNrKA",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tragedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/140.jpg"
+    },
+    "id": 140
+  },
+  {
+    "completions": [
+      {
+        "id": 141001,
+        "lead_time": 6.355,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "OdkXcFX5Zj",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tragedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/141.jpg"
+    },
+    "id": 141
+  },
+  {
+    "completions": [
+      {
+        "id": 142001,
+        "lead_time": 5.114,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "89PW1HdNoN",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/142.jpg"
+    },
+    "id": 142
+  },
+  {
+    "completions": [
+      {
+        "id": 143001,
+        "lead_time": 3.225,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "vX8P2KnI8n",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tragedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/143.jpg"
+    },
+    "id": 143
+  },
+  {
+    "completions": [
+      {
+        "id": 144001,
+        "lead_time": 4.461,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Px2qqZD3eM",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tragedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/144.jpg"
+    },
+    "id": 144
+  },
+  {
+    "completions": [
+      {
+        "id": 145001,
+        "lead_time": 9.887,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "yT-3-m9BUy",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/145.jpg"
+    },
+    "id": 145
+  },
+  {
+    "completions": [
+      {
+        "id": 146001,
+        "lead_time": 6.055,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Zze6HXWsSD",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tragedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/146.jpg"
+    },
+    "id": 146
+  },
+  {
+    "completions": [
+      {
+        "id": 147001,
+        "lead_time": 10.965,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xzOR9pTs3X",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tragedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/147.jpg"
+    },
+    "id": 147
+  },
+  {
+    "completions": [
+      {
+        "id": 148001,
+        "lead_time": 5.95,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "kxTmj6jmuB",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/148.jpg"
+    },
+    "id": 148
+  },
+  {
+    "completions": [
+      {
+        "id": 149001,
+        "lead_time": 3.959,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "88HCD43wBz",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/149.jpg"
+    },
+    "id": 149
+  },
+  {
+    "completions": [
+      {
+        "id": 15001,
+        "lead_time": 6.926,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "mxcfHVtEfs",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/15.jpg"
+    },
+    "id": 15
+  },
+  {
+    "completions": [
+      {
+        "id": 150001,
+        "lead_time": 12.727,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "gbLfdnfrwv",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/150.jpg"
+    },
+    "id": 150
+  },
+  {
+    "completions": [
+      {
+        "id": 151001,
+        "lead_time": 6.129,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "f1vHZNx80i",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/151.jpg"
+    },
+    "id": 151
+  },
+  {
+    "completions": [
+      {
+        "id": 152001,
+        "lead_time": 5.879,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "esElTaeCV5",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/152.jpg"
+    },
+    "id": 152
+  },
+  {
+    "completions": [
+      {
+        "id": 153001,
+        "lead_time": 3.243,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "K7CnFC-XPR",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/153.jpg"
+    },
+    "id": 153
+  },
+  {
+    "completions": [
+      {
+        "id": 154001,
+        "lead_time": 5.537,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qHIYa37nYL",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/154.jpg"
+    },
+    "id": 154
+  },
+  {
+    "completions": [
+      {
+        "id": 155001,
+        "lead_time": 5.776,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "cqBfJYk2xy",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/155.jpg"
+    },
+    "id": 155
+  },
+  {
+    "completions": [
+      {
+        "id": 156001,
+        "lead_time": 4.2,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "TgduQuAFLi",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/156.jpg"
+    },
+    "id": 156
+  },
+  {
+    "completions": [
+      {
+        "id": 157001,
+        "lead_time": 4.189,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "SGDxvLl9Gp",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/157.jpg"
+    },
+    "id": 157
+  },
+  {
+    "completions": [
+      {
+        "id": 158001,
+        "lead_time": 8.518,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4UgPFyfCFa",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/158.jpg"
+    },
+    "id": 158
+  },
+  {
+    "completions": [
+      {
+        "id": 159001,
+        "lead_time": 4.121,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "7Si3VfzMN4",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/159.jpg"
+    },
+    "id": 159
+  },
+  {
+    "completions": [
+      {
+        "id": 16001,
+        "lead_time": 8.592,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "IdWlutYNVG",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/16.jpg"
+    },
+    "id": 16
+  },
+  {
+    "completions": [
+      {
+        "id": 160001,
+        "lead_time": 2.943,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "LieZhU2uiw",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/160.jpg"
+    },
+    "id": 160
+  },
+  {
+    "completions": [
+      {
+        "id": 161001,
+        "lead_time": 3.158,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xQQ62YrFtg",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/161.jpg"
+    },
+    "id": 161
+  },
+  {
+    "completions": [
+      {
+        "id": 162001,
+        "lead_time": 13.884,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "nSo8msEteH",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/162.jpg"
+    },
+    "id": 162
+  },
+  {
+    "completions": [
+      {
+        "id": 163001,
+        "lead_time": 7.456,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "lsYM8Rayxp",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/163.jpg"
+    },
+    "id": 163
+  },
+  {
+    "completions": [
+      {
+        "id": 164001,
+        "lead_time": 4.381,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "eLA9-_9pI3",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/164.jpg"
+    },
+    "id": 164
+  },
+  {
+    "completions": [
+      {
+        "id": 165001,
+        "lead_time": 27.193,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "BuzwyTBg9E",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Menyerang"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/165.jpg"
+    },
+    "id": 165
+  },
+  {
+    "completions": [
+      {
+        "id": 166001,
+        "lead_time": 16.074,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "zmVIk6PQKn",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Menyerang"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/166.jpg"
+    },
+    "id": 166
+  },
+  {
+    "completions": [
+      {
+        "id": 167001,
+        "lead_time": 3.38,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "IztTsCpmgy",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tragedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/167.jpg"
+    },
+    "id": 167
+  },
+  {
+    "completions": [
+      {
+        "id": 168001,
+        "lead_time": 7.575,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "vsqZcJgr4I",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/168.jpg"
+    },
+    "id": 168
+  },
+  {
+    "completions": [
+      {
+        "id": 169001,
+        "lead_time": 16.421,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "arDFZOTA5i",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/169.jpg"
+    },
+    "id": 169
+  },
+  {
+    "completions": [
+      {
+        "id": 17001,
+        "lead_time": 3.245,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "9iXOuMHsHG",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/17.jpg"
+    },
+    "id": 17
+  },
+  {
+    "completions": [
+      {
+        "id": 170001,
+        "lead_time": 23.468,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "5qXwyjtuEp",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tragedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/170.jpg"
+    },
+    "id": 170
+  },
+  {
+    "completions": [
+      {
+        "id": 171001,
+        "lead_time": 9.363,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "gE4wwmR9QC",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/171.jpg"
+    },
+    "id": 171
+  },
+  {
+    "completions": [
+      {
+        "id": 172001,
+        "lead_time": 5.605,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "b2e3YcorgQ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/172.jpg"
+    },
+    "id": 172
+  },
+  {
+    "completions": [
+      {
+        "id": 173001,
+        "lead_time": 3.59,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4KidMTZ6db",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/173.jpg"
+    },
+    "id": 173
+  },
+  {
+    "completions": [
+      {
+        "id": 174001,
+        "lead_time": 5.265,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "L-kga2ghqr",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tragedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/174.jpg"
+    },
+    "id": 174
+  },
+  {
+    "completions": [
+      {
+        "id": 175001,
+        "lead_time": 8.973,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "bzhLQuz0CN",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/175.jpg"
+    },
+    "id": 175
+  },
+  {
+    "completions": [
+      {
+        "id": 176001,
+        "lead_time": 7.047,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "LE4fns8LvP",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/176.jpg"
+    },
+    "id": 176
+  },
+  {
+    "completions": [
+      {
+        "id": 177001,
+        "lead_time": 6.201,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "1lmDoGdIP9",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/177.jpg"
+    },
+    "id": 177
+  },
+  {
+    "completions": [
+      {
+        "id": 178001,
+        "lead_time": 3.085,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "2TqKfdkH9y",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/178.jpg"
+    },
+    "id": 178
+  },
+  {
+    "completions": [
+      {
+        "id": 179001,
+        "lead_time": 2.963,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "z4p5ffv8C_",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/179.jpg"
+    },
+    "id": 179
+  },
+  {
+    "completions": [
+      {
+        "id": 18001,
+        "lead_time": 3.854,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "jD7kG6ZHPM",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/18.jpg"
+    },
+    "id": 18
+  },
+  {
+    "completions": [
+      {
+        "id": 180001,
+        "lead_time": 4.744,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "CBI6K-0zMz",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/180.jpg"
+    },
+    "id": 180
+  },
+  {
+    "completions": [
+      {
+        "id": 181001,
+        "lead_time": 12.367,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "wr49Mg5eQC",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/0.jpg"
+    },
+    "id": 181
+  },
+  {
+    "completions": [
+      {
+        "id": 182001,
+        "lead_time": 3.231,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "LmUGfXdbEC",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/1.jpg"
+    },
+    "id": 182
+  },
+  {
+    "completions": [
+      {
+        "id": 183001,
+        "lead_time": 2.728,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "5PbAmjfTig",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/2.jpg"
+    },
+    "id": 183
+  },
+  {
+    "completions": [
+      {
+        "id": 184001,
+        "lead_time": 5.03,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "XOESoGcylF",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/3.jpg"
+    },
+    "id": 184
+  },
+  {
+    "completions": [
+      {
+        "id": 185001,
+        "lead_time": 6.609,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "TCapfPXyog",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/4.jpg"
+    },
+    "id": 185
+  },
+  {
+    "completions": [
+      {
+        "id": 186001,
+        "lead_time": 5.25,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "0h1XYtkBg0",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/5.jpg"
+    },
+    "id": 186
+  },
+  {
+    "completions": [
+      {
+        "id": 187001,
+        "lead_time": 5.132,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fn0VyZZ10W",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/6.jpg"
+    },
+    "id": 187
+  },
+  {
+    "completions": [
+      {
+        "id": 188001,
+        "lead_time": 3.025,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ViNaQZW6fU",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/7.jpg"
+    },
+    "id": 188
+  },
+  {
+    "completions": [
+      {
+        "id": 189001,
+        "lead_time": 12.334,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4lug04OEXK",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tragedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/8.jpg"
+    },
+    "id": 189
+  },
+  {
+    "completions": [
+      {
+        "id": 19001,
+        "lead_time": 4.237,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "GSY0b7ujgv",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/19.jpg"
+    },
+    "id": 19
+  },
+  {
+    "completions": [
+      {
+        "id": 190001,
+        "lead_time": 3.491,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "QnXTcya9Ie",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/9.jpg"
+    },
+    "id": 190
+  },
+  {
+    "completions": [
+      {
+        "id": 191001,
+        "lead_time": 11.063,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "lmLAs8HfeI",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/10.jpg"
+    },
+    "id": 191
+  },
+  {
+    "completions": [
+      {
+        "id": 192001,
+        "lead_time": 5.542,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "aZg3OTcrgM",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Menyerang"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/11.jpg"
+    },
+    "id": 192
+  },
+  {
+    "completions": [
+      {
+        "id": 193001,
+        "lead_time": 23.923,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "IDea_vGWli",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/12.jpg"
+    },
+    "id": 193
+  },
+  {
+    "completions": [
+      {
+        "id": 194001,
+        "lead_time": 4.476,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "oxPiHY9aP2",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/13.jpg"
+    },
+    "id": 194
+  },
+  {
+    "completions": [
+      {
+        "id": 195001,
+        "lead_time": 4.059,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "PVXrz-A9rw",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/14.jpg"
+    },
+    "id": 195
+  },
+  {
+    "completions": [
+      {
+        "id": 196001,
+        "lead_time": 5.026,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "AJZi58yGSw",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/15.jpg"
+    },
+    "id": 196
+  },
+  {
+    "completions": [
+      {
+        "id": 197001,
+        "lead_time": 4.337,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "sW4Q8st1wf",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/16.jpg"
+    },
+    "id": 197
+  },
+  {
+    "completions": [
+      {
+        "id": 198001,
+        "lead_time": 3.872,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Ki4dJF7bYY",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/17.jpg"
+    },
+    "id": 198
+  },
+  {
+    "completions": [
+      {
+        "id": 199001,
+        "lead_time": 8.001,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "jfaIXG3cJz",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/18.jpg"
+    },
+    "id": 199
+  },
+  {
+    "completions": [
+      {
+        "id": 2001,
+        "lead_time": 4.792,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "jlcgEGsZJ6",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/2.jpg"
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "id": 20001,
+        "lead_time": 2.337,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "sZJu4Neo6p",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/20.jpg"
+    },
+    "id": 20
+  },
+  {
+    "completions": [
+      {
+        "id": 200001,
+        "lead_time": 2.461,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Upl-O5ibfu",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/19.jpg"
+    },
+    "id": 200
+  },
+  {
+    "completions": [
+      {
+        "id": 201001,
+        "lead_time": 3.507,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "jDOeQUmwML",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Tragedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/20.jpg"
+    },
+    "id": 201
+  },
+  {
+    "completions": [
+      {
+        "id": 202001,
+        "lead_time": 2.776,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "JIdLSUPCS9",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/21.jpg"
+    },
+    "id": 202
+  },
+  {
+    "completions": [
+      {
+        "id": 203001,
+        "lead_time": 2.942,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "BylzpDHiMV",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/22.jpg"
+    },
+    "id": 203
+  },
+  {
+    "completions": [
+      {
+        "id": 204001,
+        "lead_time": 3.943,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "RaYnTRPdy0",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/23.jpg"
+    },
+    "id": 204
+  },
+  {
+    "completions": [
+      {
+        "id": 205001,
+        "lead_time": 5.109,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "IS-NDE8M-U",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/24.jpg"
+    },
+    "id": 205
+  },
+  {
+    "completions": [
+      {
+        "id": 206001,
+        "lead_time": 25.969,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "PN5T9L7u9R",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/25.jpg"
+    },
+    "id": 206
+  },
+  {
+    "completions": [
+      {
+        "id": 207001,
+        "lead_time": 3.403,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "oAMkwWbcxA",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/26.jpg"
+    },
+    "id": 207
+  },
+  {
+    "completions": [
+      {
+        "id": 208001,
+        "lead_time": 2.601,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "UnMzsKnpUU",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/27.jpg"
+    },
+    "id": 208
+  },
+  {
+    "completions": [
+      {
+        "id": 209001,
+        "lead_time": 3.315,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "SwgxxT58IM",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/28.jpg"
+    },
+    "id": 209
+  },
+  {
+    "completions": [
+      {
+        "id": 21001,
+        "lead_time": 3.53,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "2PrwP2QKEO",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/21.jpg"
+    },
+    "id": 21
+  },
+  {
+    "completions": [
+      {
+        "id": 210001,
+        "lead_time": 2.972,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "u8HCnwMy1n",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/29.jpg"
+    },
+    "id": 210
+  },
+  {
+    "completions": [
+      {
+        "id": 211001,
+        "lead_time": 3.899,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "uENZCV38qN",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/30.jpg"
+    },
+    "id": 211
+  },
+  {
+    "completions": [
+      {
+        "id": 212001,
+        "lead_time": 12.834,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_a6XBb22cb",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/31.jpg"
+    },
+    "id": 212
+  },
+  {
+    "completions": [
+      {
+        "id": 213001,
+        "lead_time": 11.802,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "oXHUkdWMH5",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/32.jpg"
+    },
+    "id": 213
+  },
+  {
+    "completions": [
+      {
+        "id": 214001,
+        "lead_time": 3.311,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "GQGYErj3pP",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/33.jpg"
+    },
+    "id": 214
+  },
+  {
+    "completions": [
+      {
+        "id": 215001,
+        "lead_time": 3.127,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "62EvhXPtEC",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/34.jpg"
+    },
+    "id": 215
+  },
+  {
+    "completions": [
+      {
+        "id": 216001,
+        "lead_time": 5.26,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "tmMVAMApBE",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/35.jpg"
+    },
+    "id": 216
+  },
+  {
+    "completions": [
+      {
+        "id": 217001,
+        "lead_time": 215.366,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "yvtLgOIGd5",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/36.jpg"
+    },
+    "id": 217
+  },
+  {
+    "completions": [
+      {
+        "id": 218001,
+        "lead_time": 3.418,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fsqseGJz48",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/37.jpg"
+    },
+    "id": 218
+  },
+  {
+    "completions": [
+      {
+        "id": 219001,
+        "lead_time": 3.449,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "C23BdV6g7u",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/38.jpg"
+    },
+    "id": 219
+  },
+  {
+    "completions": [
+      {
+        "id": 22001,
+        "lead_time": 3.768,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "TJlyvEryAC",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/22.jpg"
+    },
+    "id": 22
+  },
+  {
+    "completions": [
+      {
+        "id": 220001,
+        "lead_time": 3.708,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4Hr7UqhUdn",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/39.jpg"
+    },
+    "id": 220
+  },
+  {
+    "completions": [
+      {
+        "id": 221001,
+        "lead_time": 4.325,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Z-D-9E3Tej",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/40.jpg"
+    },
+    "id": 221
+  },
+  {
+    "completions": [
+      {
+        "id": 222001,
+        "lead_time": 9.143,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "529xcB29d9",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/41.jpg"
+    },
+    "id": 222
+  },
+  {
+    "completions": [
+      {
+        "id": 223001,
+        "lead_time": 3.709,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "lc57scMkfh",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/42.jpg"
+    },
+    "id": 223
+  },
+  {
+    "completions": [
+      {
+        "id": 224001,
+        "lead_time": 12.48,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "XCpyngjJ_n",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Menggombal"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/43.jpg"
+    },
+    "id": 224
+  },
+  {
+    "completions": [
+      {
+        "id": 225001,
+        "lead_time": 3.935,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "VvXBSLiV5d",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/44.jpg"
+    },
+    "id": 225
+  },
+  {
+    "completions": [
+      {
+        "id": 226001,
+        "lead_time": 3.778,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xlomE_00FM",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/45.jpg"
+    },
+    "id": 226
+  },
+  {
+    "completions": [
+      {
+        "id": 227001,
+        "lead_time": 6.664,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "u5z3n18h52",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/46.jpg"
+    },
+    "id": 227
+  },
+  {
+    "completions": [
+      {
+        "id": 228001,
+        "lead_time": 8.853,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "gujuRwk8fL",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/47.jpg"
+    },
+    "id": 228
+  },
+  {
+    "completions": [
+      {
+        "id": 229001,
+        "lead_time": 25.1,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xW-p5BVv-4",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/48.jpg"
+    },
+    "id": 229
+  },
+  {
+    "completions": [
+      {
+        "id": 23001,
+        "lead_time": 3.811,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "VpmoVPNt9_",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/23.jpg"
+    },
+    "id": 23
+  },
+  {
+    "completions": [
+      {
+        "id": 230001,
+        "lead_time": 8.351,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Y_pbGd2c-Y",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/49.jpg"
+    },
+    "id": 230
+  },
+  {
+    "completions": [
+      {
+        "id": 231001,
+        "lead_time": 3.861,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "cLihfeEdvS",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/50.jpg"
+    },
+    "id": 231
+  },
+  {
+    "completions": [
+      {
+        "id": 232001,
+        "lead_time": 28.425,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "KjO2Laq5cq",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/51.jpg"
+    },
+    "id": 232
+  },
+  {
+    "completions": [
+      {
+        "id": 233001,
+        "lead_time": 5.485,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "wdCQkPlITz",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/52.jpg"
+    },
+    "id": 233
+  },
+  {
+    "completions": [
+      {
+        "id": 234001,
+        "lead_time": 7.57,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "kmOs8aYVna",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Menyerang"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/53.jpg"
+    },
+    "id": 234
+  },
+  {
+    "completions": [
+      {
+        "id": 235001,
+        "lead_time": 3.449,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fwJVeEE9f9",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/54.jpg"
+    },
+    "id": 235
+  },
+  {
+    "completions": [
+      {
+        "id": 236001,
+        "lead_time": 5.154,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "7O63aovo0i",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/55.jpg"
+    },
+    "id": 236
+  },
+  {
+    "completions": [
+      {
+        "id": 237001,
+        "lead_time": 3.406,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "0Aw0yQhM7t",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/56.jpg"
+    },
+    "id": 237
+  },
+  {
+    "completions": [
+      {
+        "id": 238001,
+        "lead_time": 4.909,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ndTD2woud2",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/57.jpg"
+    },
+    "id": 238
+  },
+  {
+    "completions": [
+      {
+        "id": 239001,
+        "lead_time": 6.976,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "sjXimpVf4O",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/58.jpg"
+    },
+    "id": 239
+  },
+  {
+    "completions": [
+      {
+        "id": 24001,
+        "lead_time": 10.961,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "p3kxEv6vA7",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Menyerang"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/24.jpg"
+    },
+    "id": 24
+  },
+  {
+    "completions": [
+      {
+        "id": 240001,
+        "lead_time": 3.635,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "9Beu_ukC0x",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/59.jpg"
+    },
+    "id": 240
+  },
+  {
+    "completions": [
+      {
+        "id": 241001,
+        "lead_time": 5.5,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "9oYUuD5E2H",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/60.jpg"
+    },
+    "id": 241
+  },
+  {
+    "completions": [
+      {
+        "id": 242001,
+        "lead_time": 302.291,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "NKDgMclvaY",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/61.jpg"
+    },
+    "id": 242
+  },
+  {
+    "completions": [
+      {
+        "id": 243001,
+        "lead_time": 12.412,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "FQBh8Ybtbl",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/62.jpg"
+    },
+    "id": 243
+  },
+  {
+    "completions": [
+      {
+        "id": 244001,
+        "lead_time": 4.251,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "twL8RU8fO9",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/63.jpg"
+    },
+    "id": 244
+  },
+  {
+    "completions": [
+      {
+        "id": 245001,
+        "lead_time": 3.829,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "AJ2ud10D9I",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/64.jpg"
+    },
+    "id": 245
+  },
+  {
+    "completions": [
+      {
+        "id": 246001,
+        "lead_time": 16.491,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "NsiLFiyKx3",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/65.jpg"
+    },
+    "id": 246
+  },
+  {
+    "completions": [
+      {
+        "id": 247001,
+        "lead_time": 3.862,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "zc5NWeqP9Z",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/66.jpg"
+    },
+    "id": 247
+  },
+  {
+    "completions": [
+      {
+        "id": 248001,
+        "lead_time": 7.862,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "D_-LlI05sg",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/67.jpg"
+    },
+    "id": 248
+  },
+  {
+    "completions": [
+      {
+        "id": 249001,
+        "lead_time": 8.674,
+        "result": []
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/68.jpg"
+    },
+    "id": 249
+  },
+  {
+    "completions": [
+      {
+        "id": 25001,
+        "lead_time": 6.575,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "5LoA9UBvFs",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/25.jpg"
+    },
+    "id": 25
+  },
+  {
+    "completions": [
+      {
+        "id": 250001,
+        "lead_time": 8.214,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "0t3OUIqb28",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/69.jpg"
+    },
+    "id": 250
+  },
+  {
+    "completions": [
+      {
+        "id": 251001,
+        "lead_time": 18.942,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "CCmP4Pgm_e",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/70.jpg"
+    },
+    "id": 251
+  },
+  {
+    "completions": [
+      {
+        "id": 252001,
+        "lead_time": 3.517,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "MamPmy_vJ8",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/71.jpg"
+    },
+    "id": 252
+  },
+  {
+    "completions": [
+      {
+        "id": 253001,
+        "lead_time": 9.243,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "AXJO0kDAiT",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/72.jpg"
+    },
+    "id": 253
+  },
+  {
+    "completions": [
+      {
+        "id": 254001,
+        "lead_time": 6.771,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "J2i1H0hT7D",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/73.jpg"
+    },
+    "id": 254
+  },
+  {
+    "completions": [
+      {
+        "id": 255001,
+        "lead_time": 19.227,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4sfV4ATN_6",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/74.jpg"
+    },
+    "id": 255
+  },
+  {
+    "completions": [
+      {
+        "id": 256001,
+        "lead_time": 5.567,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "7U6XZe0kzt",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/75.jpg"
+    },
+    "id": 256
+  },
+  {
+    "completions": [
+      {
+        "id": 257001,
+        "lead_time": 9.26,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "LaD80rgzHt",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/76.jpg"
+    },
+    "id": 257
+  },
+  {
+    "completions": [
+      {
+        "id": 258001,
+        "lead_time": 3.035,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ebmSTYsYOQ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/77.jpg"
+    },
+    "id": 258
+  },
+  {
+    "completions": [
+      {
+        "id": 259001,
+        "lead_time": 5.512,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "zwesZpFx5y",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/78.jpg"
+    },
+    "id": 259
+  },
+  {
+    "completions": [
+      {
+        "id": 26001,
+        "lead_time": 7.824,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "oQjRJPAFY9",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/26.jpg"
+    },
+    "id": 26
+  },
+  {
+    "completions": [
+      {
+        "id": 260001,
+        "lead_time": 3.223,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "8WW5KXnIUl",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/79.jpg"
+    },
+    "id": 260
+  },
+  {
+    "completions": [
+      {
+        "id": 261001,
+        "lead_time": 12.248,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "bWSIsdLJLd",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/80.jpg"
+    },
+    "id": 261
+  },
+  {
+    "completions": [
+      {
+        "id": 262001,
+        "lead_time": 7.479,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "3eruA3ZuVQ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/81.jpg"
+    },
+    "id": 262
+  },
+  {
+    "completions": [
+      {
+        "id": 263001,
+        "lead_time": 7.335,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "wFzP4h61VQ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/82.jpg"
+    },
+    "id": 263
+  },
+  {
+    "completions": [
+      {
+        "id": 264001,
+        "lead_time": 4.544,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "rET03wL5mb",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/83.jpg"
+    },
+    "id": 264
+  },
+  {
+    "completions": [
+      {
+        "id": 265001,
+        "lead_time": 17.789,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "981hBGs4rH",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/84.jpg"
+    },
+    "id": 265
+  },
+  {
+    "completions": [
+      {
+        "id": 266001,
+        "lead_time": 13.215,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "jvQMWk2JGO",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/85.jpg"
+    },
+    "id": 266
+  },
+  {
+    "completions": [
+      {
+        "id": 267001,
+        "lead_time": 93.225,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Hv7c0t8dUb",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/86.jpg"
+    },
+    "id": 267
+  },
+  {
+    "completions": [
+      {
+        "id": 268001,
+        "lead_time": 5.808,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "HM9u66EJHP",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/87.jpg"
+    },
+    "id": 268
+  },
+  {
+    "completions": [
+      {
+        "id": 269001,
+        "lead_time": 2.848,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "omzrz1cidl",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/88.jpg"
+    },
+    "id": 269
+  },
+  {
+    "completions": [
+      {
+        "id": 27001,
+        "lead_time": 4.271,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "I2ZeB0a99M",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/27.jpg"
+    },
+    "id": 27
+  },
+  {
+    "completions": [
+      {
+        "id": 270001,
+        "lead_time": 3.944,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Hx2kPUxpFm",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/89.jpg"
+    },
+    "id": 270
+  },
+  {
+    "completions": [
+      {
+        "id": 271001,
+        "lead_time": 5.421,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "VrCb3PI8iN",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/90.jpg"
+    },
+    "id": 271
+  },
+  {
+    "completions": [
+      {
+        "id": 272001,
+        "lead_time": 3.177,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "M2HCQtklpt",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/91.jpg"
+    },
+    "id": 272
+  },
+  {
+    "completions": [
+      {
+        "id": 273001,
+        "lead_time": 5.72,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "GhgAg1g_aa",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/92.jpg"
+    },
+    "id": 273
+  },
+  {
+    "completions": [
+      {
+        "id": 274001,
+        "lead_time": 4.701,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "eVS-h1ZnyX",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/93.jpg"
+    },
+    "id": 274
+  },
+  {
+    "completions": [
+      {
+        "id": 275001,
+        "lead_time": 17.178,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "pDJJRA16ZG",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/94.jpg"
+    },
+    "id": 275
+  },
+  {
+    "completions": [
+      {
+        "id": 276001,
+        "lead_time": 7.413,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "mh0yvv44Am",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/95.jpg"
+    },
+    "id": 276
+  },
+  {
+    "completions": [
+      {
+        "id": 277001,
+        "lead_time": 10.955,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "wmuK35PYrX",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/96.jpg"
+    },
+    "id": 277
+  },
+  {
+    "completions": [
+      {
+        "id": 278001,
+        "lead_time": 3.363,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "HbEAilPHxp",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/97.jpg"
+    },
+    "id": 278
+  },
+  {
+    "completions": [
+      {
+        "id": 279001,
+        "lead_time": 4.221,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "17ca0cXrhl",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/98.jpg"
+    },
+    "id": 279
+  },
+  {
+    "completions": [
+      {
+        "id": 28001,
+        "lead_time": 4.009,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "SRZMdpLL9L",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/28.jpg"
+    },
+    "id": 28
+  },
+  {
+    "completions": [
+      {
+        "id": 280001,
+        "lead_time": 3.009,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "piSGreQelv",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/99.jpg"
+    },
+    "id": 280
+  },
+  {
+    "completions": [
+      {
+        "id": 281001,
+        "lead_time": 12.867,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "WTGP3k_FzG",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/100.jpg"
+    },
+    "id": 281
+  },
+  {
+    "completions": [
+      {
+        "id": 282001,
+        "lead_time": 3.132,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ZevQS1TTSe",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/101.jpg"
+    },
+    "id": 282
+  },
+  {
+    "completions": [
+      {
+        "id": 283001,
+        "lead_time": 14.424,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "pq-eGKHMlK",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/102.jpg"
+    },
+    "id": 283
+  },
+  {
+    "completions": [
+      {
+        "id": 284001,
+        "lead_time": 7.136,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "SpbeSmvGcy",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/103.jpg"
+    },
+    "id": 284
+  },
+  {
+    "completions": [
+      {
+        "id": 285001,
+        "lead_time": 7.583,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "YO9y77-jNj",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/104.jpg"
+    },
+    "id": 285
+  },
+  {
+    "completions": [
+      {
+        "id": 286001,
+        "lead_time": 7.872,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "1xCgUvgJ4k",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/105.jpg"
+    },
+    "id": 286
+  },
+  {
+    "completions": [
+      {
+        "id": 287001,
+        "lead_time": 3.032,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "HEPGRxaE4Y",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/106.jpg"
+    },
+    "id": 287
+  },
+  {
+    "completions": [
+      {
+        "id": 288001,
+        "lead_time": 4.091,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "LscHRrvEai",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/107.jpg"
+    },
+    "id": 288
+  },
+  {
+    "completions": [
+      {
+        "id": 289001,
+        "lead_time": 2.947,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "2nCQllvDuD",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/108.jpg"
+    },
+    "id": 289
+  },
+  {
+    "completions": [
+      {
+        "id": 29001,
+        "lead_time": 6.231,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Zh5fptOtKK",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/29.jpg"
+    },
+    "id": 29
+  },
+  {
+    "completions": [
+      {
+        "id": 290001,
+        "lead_time": 1820.129,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "yY0oiEfD09",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/109.jpg"
+    },
+    "id": 290
+  },
+  {
+    "completions": [
+      {
+        "id": 291001,
+        "lead_time": 5.449,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "OOxXfSLpAL",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/110.jpg"
+    },
+    "id": 291
+  },
+  {
+    "completions": [
+      {
+        "id": 292001,
+        "lead_time": 3.145,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Xv0C7-8fcr",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/111.jpg"
+    },
+    "id": 292
+  },
+  {
+    "completions": [
+      {
+        "id": 293001,
+        "lead_time": 4.796,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "PtM3pS1yzf",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/112.jpg"
+    },
+    "id": 293
+  },
+  {
+    "completions": [
+      {
+        "id": 294001,
+        "lead_time": 26.431,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4MMJY-zHMh",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/113.jpg"
+    },
+    "id": 294
+  },
+  {
+    "completions": [
+      {
+        "id": 295001,
+        "lead_time": 3.169,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ZaObQGJHY6",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/114.jpg"
+    },
+    "id": 295
+  },
+  {
+    "completions": [
+      {
+        "id": 296001,
+        "lead_time": 6.692,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "daXFEKXmwL",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/115.jpg"
+    },
+    "id": 296
+  },
+  {
+    "completions": [
+      {
+        "id": 297001,
+        "lead_time": 4.513,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Eo4g4lZAPO",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/116.jpg"
+    },
+    "id": 297
+  },
+  {
+    "completions": [
+      {
+        "id": 298001,
+        "lead_time": 5.547,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qF-dnO7Fa-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/117.jpg"
+    },
+    "id": 298
+  },
+  {
+    "completions": [
+      {
+        "id": 299001,
+        "lead_time": 3.475,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Yacr--kSDj",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/118.jpg"
+    },
+    "id": 299
+  },
+  {
+    "completions": [
+      {
+        "id": 3001,
+        "lead_time": 4.338,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4R5YO37fR1",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/3.jpg"
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "id": 30001,
+        "lead_time": 3.499,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "jsyY8KG0NH",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/30.jpg"
+    },
+    "id": 30
+  },
+  {
+    "completions": [
+      {
+        "id": 300001,
+        "lead_time": 7.238,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "KTuS0QhaLO",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/119.jpg"
+    },
+    "id": 300
+  },
+  {
+    "completions": [
+      {
+        "id": 301001,
+        "lead_time": 4.038,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "R2rolIzBoW",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/120.jpg"
+    },
+    "id": 301
+  },
+  {
+    "completions": [
+      {
+        "id": 302001,
+        "lead_time": 3.345,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fHk5LE87bY",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/121.jpg"
+    },
+    "id": 302
+  },
+  {
+    "completions": [
+      {
+        "id": 303001,
+        "lead_time": 3.561,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Po3ffHWN9p",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/122.jpg"
+    },
+    "id": 303
+  },
+  {
+    "completions": [
+      {
+        "id": 304001,
+        "lead_time": 3.565,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Nk7j-9Sbb_",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/123.jpg"
+    },
+    "id": 304
+  },
+  {
+    "completions": [
+      {
+        "id": 305001,
+        "lead_time": 33.323,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "r8sVtAVyzz",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/124.jpg"
+    },
+    "id": 305
+  },
+  {
+    "completions": [
+      {
+        "id": 306001,
+        "lead_time": 6.566,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "bFLgwX5hSF",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/125.jpg"
+    },
+    "id": 306
+  },
+  {
+    "completions": [
+      {
+        "id": 307001,
+        "lead_time": 4.054,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_WHNlpSbcx",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/126.jpg"
+    },
+    "id": 307
+  },
+  {
+    "completions": [
+      {
+        "id": 308001,
+        "lead_time": 4.766,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "l_jgE_fbSA",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/127.jpg"
+    },
+    "id": 308
+  },
+  {
+    "completions": [
+      {
+        "id": 309001,
+        "lead_time": 3.852,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4jhNEWt22c",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/128.jpg"
+    },
+    "id": 309
+  },
+  {
+    "completions": [
+      {
+        "id": 31001,
+        "lead_time": 4.794,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "KwKWN1GVF-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/31.jpg"
+    },
+    "id": 31
+  },
+  {
+    "completions": [
+      {
+        "id": 310001,
+        "lead_time": 6.622,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "CZdRKLR321",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/129.jpg"
+    },
+    "id": 310
+  },
+  {
+    "completions": [
+      {
+        "id": 311001,
+        "lead_time": 10.977,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xqg3BjjTb7",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/130.jpg"
+    },
+    "id": 311
+  },
+  {
+    "completions": [
+      {
+        "id": 312001,
+        "lead_time": 8.127,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_akf9AsZMC",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/131.jpg"
+    },
+    "id": 312
+  },
+  {
+    "completions": [
+      {
+        "id": 313001,
+        "lead_time": 5.157,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "n9LVZx7kFG",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/132.jpg"
+    },
+    "id": 313
+  },
+  {
+    "completions": [
+      {
+        "id": 314001,
+        "lead_time": 4.224,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "hx9JkEVHuF",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/133.jpg"
+    },
+    "id": 314
+  },
+  {
+    "completions": [
+      {
+        "id": 315001,
+        "lead_time": 3.714,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "O2S5XfeQIf",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/134.jpg"
+    },
+    "id": 315
+  },
+  {
+    "completions": [
+      {
+        "id": 316001,
+        "lead_time": 3.181,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "hH9DLlVHGl",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/135.jpg"
+    },
+    "id": 316
+  },
+  {
+    "completions": [
+      {
+        "id": 317001,
+        "lead_time": 5.104,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "6GsuM6aelb",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/136.jpg"
+    },
+    "id": 317
+  },
+  {
+    "completions": [
+      {
+        "id": 318001,
+        "lead_time": 6.586,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Nl8q0nCfEg",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/137.jpg"
+    },
+    "id": 318
+  },
+  {
+    "completions": [
+      {
+        "id": 319001,
+        "lead_time": 3.244,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Cc6L-Vqfp8",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/138.jpg"
+    },
+    "id": 319
+  },
+  {
+    "completions": [
+      {
+        "id": 32001,
+        "lead_time": 7.525,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "hDpfVNBS67",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/32.jpg"
+    },
+    "id": 32
+  },
+  {
+    "completions": [
+      {
+        "id": 320001,
+        "lead_time": 4.344,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "uzj64gGCHa",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/139.jpg"
+    },
+    "id": 320
+  },
+  {
+    "completions": [
+      {
+        "id": 321001,
+        "lead_time": 3.74,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "7e4cFpjgVk",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/140.jpg"
+    },
+    "id": 321
+  },
+  {
+    "completions": [
+      {
+        "id": 322001,
+        "lead_time": 3.873,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "UjuGW5iDrS",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/141.jpg"
+    },
+    "id": 322
+  },
+  {
+    "completions": [
+      {
+        "id": 323001,
+        "lead_time": 14.222,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "SUF1puDQsD",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/142.jpg"
+    },
+    "id": 323
+  },
+  {
+    "completions": [
+      {
+        "id": 324001,
+        "lead_time": 15.419,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "5fP3Xwq04-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/143.jpg"
+    },
+    "id": 324
+  },
+  {
+    "completions": [
+      {
+        "id": 325001,
+        "lead_time": 10.747,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Wbyr-__nHo",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/144.jpg"
+    },
+    "id": 325
+  },
+  {
+    "completions": [
+      {
+        "id": 326001,
+        "lead_time": 5.848,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "WqKvnPSN--",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/145.jpg"
+    },
+    "id": 326
+  },
+  {
+    "completions": [
+      {
+        "id": 327001,
+        "lead_time": 8.714,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "0RDLco-Fuj",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/146.jpg"
+    },
+    "id": 327
+  },
+  {
+    "completions": [
+      {
+        "id": 328001,
+        "lead_time": 12.692,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "RVdl8Ecj6A",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/147.jpg"
+    },
+    "id": 328
+  },
+  {
+    "completions": [
+      {
+        "id": 329001,
+        "lead_time": 7.082,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "HAsmKa3goj",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/148.jpg"
+    },
+    "id": 329
+  },
+  {
+    "completions": [
+      {
+        "id": 33001,
+        "lead_time": 22.859,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "m1dIkGAqP-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/33.jpg"
+    },
+    "id": 33
+  },
+  {
+    "completions": [
+      {
+        "id": 330001,
+        "lead_time": 5.026,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "tk6tFAkfL7",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/149.jpg"
+    },
+    "id": 330
+  },
+  {
+    "completions": [
+      {
+        "id": 331001,
+        "lead_time": 4.46,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "b9k2_fLyeH",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/150.jpg"
+    },
+    "id": 331
+  },
+  {
+    "completions": [
+      {
+        "id": 332001,
+        "lead_time": 3.612,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Bcg4C5A_yj",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/151.jpg"
+    },
+    "id": 332
+  },
+  {
+    "completions": [
+      {
+        "id": 333001,
+        "lead_time": 5.461,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "msWzWSxtpb",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/152.jpg"
+    },
+    "id": 333
+  },
+  {
+    "completions": [
+      {
+        "id": 334001,
+        "lead_time": 10.268,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "HcTyjGw2V3",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/153.jpg"
+    },
+    "id": 334
+  },
+  {
+    "completions": [
+      {
+        "id": 335001,
+        "lead_time": 6.48,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "SCWARnvs8j",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/154.jpg"
+    },
+    "id": 335
+  },
+  {
+    "completions": [
+      {
+        "id": 336001,
+        "lead_time": 5.254,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "MvspbluGqH",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/155.jpg"
+    },
+    "id": 336
+  },
+  {
+    "completions": [
+      {
+        "id": 337001,
+        "lead_time": 3.987,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "5VCdyKC1mY",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/156.jpg"
+    },
+    "id": 337
+  },
+  {
+    "completions": [
+      {
+        "id": 338001,
+        "lead_time": 3.663,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "UXpzTPvWu2",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/157.jpg"
+    },
+    "id": 338
+  },
+  {
+    "completions": [
+      {
+        "id": 339001,
+        "lead_time": 15.867,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "TxYx4o7UhU",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/158.jpg"
+    },
+    "id": 339
+  },
+  {
+    "completions": [
+      {
+        "id": 34001,
+        "lead_time": 8.764,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "T-X74iNleM",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/34.jpg"
+    },
+    "id": 34
+  },
+  {
+    "completions": [
+      {
+        "id": 340001,
+        "lead_time": 4.023,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "C5ERWifKlJ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 1 - Lovely Lady/159.jpg"
+    },
+    "id": 340
+  },
+  {
+    "completions": [
+      {
+        "id": 35001,
+        "lead_time": 25.681,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "C7InJbrF9P",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/35.jpg"
+    },
+    "id": 35
+  },
+  {
+    "completions": [
+      {
+        "id": 36001,
+        "lead_time": 5.632,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "miLZK-Dvlq",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/36.jpg"
+    },
+    "id": 36
+  },
+  {
+    "completions": [
+      {
+        "id": 37001,
+        "lead_time": 2.837,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "77x6rDIcEa",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/37.jpg"
+    },
+    "id": 37
+  },
+  {
+    "completions": [
+      {
+        "id": 38001,
+        "lead_time": 7.902,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "87aD4_F76P",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/38.jpg"
+    },
+    "id": 38
+  },
+  {
+    "completions": [
+      {
+        "id": 39001,
+        "lead_time": 5.616,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xxV2GV7NMP",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/39.jpg"
+    },
+    "id": 39
+  },
+  {
+    "completions": [
+      {
+        "id": 4001,
+        "lead_time": 10.31,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "lUXALw4JTM",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/4.jpg"
+    },
+    "id": 4
+  },
+  {
+    "completions": [
+      {
+        "id": 40001,
+        "lead_time": 7.934,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "JTXc1p2LmS",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/40.jpg"
+    },
+    "id": 40
+  },
+  {
+    "completions": [
+      {
+        "id": 41001,
+        "lead_time": 9.104,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "5iGCPCwdWq",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/41.jpg"
+    },
+    "id": 41
+  },
+  {
+    "completions": [
+      {
+        "id": 42001,
+        "lead_time": 10.175,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "O0NODzA4Pb",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/42.jpg"
+    },
+    "id": 42
+  },
+  {
+    "completions": [
+      {
+        "id": 43001,
+        "lead_time": 3.143,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "O11HECoBWc",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/43.jpg"
+    },
+    "id": 43
+  },
+  {
+    "completions": [
+      {
+        "id": 44001,
+        "lead_time": 5.283,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Vx069BgbLo",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/44.jpg"
+    },
+    "id": 44
+  },
+  {
+    "completions": [
+      {
+        "id": 45001,
+        "lead_time": 7.431,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4O_PwrpppT",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/45.jpg"
+    },
+    "id": 45
+  },
+  {
+    "completions": [
+      {
+        "id": 46001,
+        "lead_time": 23.713,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ECywUjjX4Q",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Menyerang"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/46.jpg"
+    },
+    "id": 46
+  },
+  {
+    "completions": [
+      {
+        "id": 47001,
+        "lead_time": 7.157,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "b_OCAbIzmV",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/47.jpg"
+    },
+    "id": 47
+  },
+  {
+    "completions": [
+      {
+        "id": 48001,
+        "lead_time": 3.711,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "3hs3jsVVUJ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/48.jpg"
+    },
+    "id": 48
+  },
+  {
+    "completions": [
+      {
+        "id": 49001,
+        "lead_time": 6.483,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "G2r1ICy_jq",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Menyerang"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/49.jpg"
+    },
+    "id": 49
+  },
+  {
+    "completions": [
+      {
+        "id": 5001,
+        "lead_time": 2.69,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "EKIC1lXCNl",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/5.jpg"
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "id": 50001,
+        "lead_time": 3.411,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "sgSt3hDb8Q",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/50.jpg"
+    },
+    "id": 50
+  },
+  {
+    "completions": [
+      {
+        "id": 51001,
+        "lead_time": 5.256,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "bLM64t7KGh",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/51.jpg"
+    },
+    "id": 51
+  },
+  {
+    "completions": [
+      {
+        "id": 52001,
+        "lead_time": 5.507,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "w4Mxrnd58k",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/52.jpg"
+    },
+    "id": 52
+  },
+  {
+    "completions": [
+      {
+        "id": 53001,
+        "lead_time": 3.59,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "uILSwyeHRk",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/53.jpg"
+    },
+    "id": 53
+  },
+  {
+    "completions": [
+      {
+        "id": 54001,
+        "lead_time": 6.915,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "EcXcoZSRcb",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/54.jpg"
+    },
+    "id": 54
+  },
+  {
+    "completions": [
+      {
+        "id": 55001,
+        "lead_time": 4.217,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Rg0sXN9VCt",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/55.jpg"
+    },
+    "id": 55
+  },
+  {
+    "completions": [
+      {
+        "id": 56001,
+        "lead_time": 9.151,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "tL_NWG_8n6",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Menyerang"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/56.jpg"
+    },
+    "id": 56
+  },
+  {
+    "completions": [
+      {
+        "id": 57001,
+        "lead_time": 2.834,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "30DONifW0-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/57.jpg"
+    },
+    "id": 57
+  },
+  {
+    "completions": [
+      {
+        "id": 58001,
+        "lead_time": 8.639,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xIBl_QyBDn",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/58.jpg"
+    },
+    "id": 58
+  },
+  {
+    "completions": [
+      {
+        "id": 59001,
+        "lead_time": 3.474,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "eJwtliiQCo",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/59.jpg"
+    },
+    "id": 59
+  },
+  {
+    "completions": [
+      {
+        "id": 6001,
+        "lead_time": 8.916,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "JsKZgpPUrE",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/6.jpg"
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "id": 60001,
+        "lead_time": 3.827,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "22iKb1onON",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/60.jpg"
+    },
+    "id": 60
+  },
+  {
+    "completions": [
+      {
+        "id": 61001,
+        "lead_time": 5.442,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fxe07G7EeG",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/61.jpg"
+    },
+    "id": 61
+  },
+  {
+    "completions": [
+      {
+        "id": 62001,
+        "lead_time": 29.285,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "5w6R-DkBG9",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/62.jpg"
+    },
+    "id": 62
+  },
+  {
+    "completions": [
+      {
+        "id": 63001,
+        "lead_time": 9.465,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qBPJmBrEXE",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/63.jpg"
+    },
+    "id": 63
+  },
+  {
+    "completions": [
+      {
+        "id": 64001,
+        "lead_time": 3.958,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "pXZhaBbYPe",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/64.jpg"
+    },
+    "id": 64
+  },
+  {
+    "completions": [
+      {
+        "id": 65001,
+        "lead_time": 4.565,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "SZytJVAfOX",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/65.jpg"
+    },
+    "id": 65
+  },
+  {
+    "completions": [
+      {
+        "id": 66001,
+        "lead_time": 5.241,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "0UNyhMmPq_",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/66.jpg"
+    },
+    "id": 66
+  },
+  {
+    "completions": [
+      {
+        "id": 67001,
+        "lead_time": 4.894,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "svY_a3ikyo",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Menyerang"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/67.jpg"
+    },
+    "id": 67
+  },
+  {
+    "completions": [
+      {
+        "id": 68001,
+        "lead_time": 9.14,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "uBZtvu0mdM",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/68.jpg"
+    },
+    "id": 68
+  },
+  {
+    "completions": [
+      {
+        "id": 69001,
+        "lead_time": 7.74,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ObixkB7BJS",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/69.jpg"
+    },
+    "id": 69
+  },
+  {
+    "completions": [
+      {
+        "id": 7001,
+        "lead_time": 2.783,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ohw2P6GJ5z",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/7.jpg"
+    },
+    "id": 7
+  },
+  {
+    "completions": [
+      {
+        "id": 70001,
+        "lead_time": 8.074,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "M2K66wQhum",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/70.jpg"
+    },
+    "id": 70
+  },
+  {
+    "completions": [
+      {
+        "id": 71001,
+        "lead_time": 5.921,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "N_xWmREyUr",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/71.jpg"
+    },
+    "id": 71
+  },
+  {
+    "completions": [
+      {
+        "id": 72001,
+        "lead_time": 5.581,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "w03x39CJOm",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/72.jpg"
+    },
+    "id": 72
+  },
+  {
+    "completions": [
+      {
+        "id": 73001,
+        "lead_time": 4.02,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Q2zMFUyql0",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/73.jpg"
+    },
+    "id": 73
+  },
+  {
+    "completions": [
+      {
+        "id": 74001,
+        "lead_time": 9.154,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_cn0lMTDKn",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/74.jpg"
+    },
+    "id": 74
+  },
+  {
+    "completions": [
+      {
+        "id": 75001,
+        "lead_time": 9.599,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4A5VJtifTu",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/75.jpg"
+    },
+    "id": 75
+  },
+  {
+    "completions": [
+      {
+        "id": 76001,
+        "lead_time": 6.588,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "3BcftydN2z",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/76.jpg"
+    },
+    "id": 76
+  },
+  {
+    "completions": [
+      {
+        "id": 77001,
+        "lead_time": 6.305,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "f29adeGoZy",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/77.jpg"
+    },
+    "id": 77
+  },
+  {
+    "completions": [
+      {
+        "id": 78001,
+        "lead_time": 3.999,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "CUfstj5aVt",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/78.jpg"
+    },
+    "id": 78
+  },
+  {
+    "completions": [
+      {
+        "id": 79001,
+        "lead_time": 4.562,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "LPv7ZOTK08",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/79.jpg"
+    },
+    "id": 79
+  },
+  {
+    "completions": [
+      {
+        "id": 8001,
+        "lead_time": 2.612,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ecKvoXEr9W",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/8.jpg"
+    },
+    "id": 8
+  },
+  {
+    "completions": [
+      {
+        "id": 80001,
+        "lead_time": 13.269,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "L3FAGvuu91",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/80.jpg"
+    },
+    "id": 80
+  },
+  {
+    "completions": [
+      {
+        "id": 81001,
+        "lead_time": 8.974,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Wv_Jeml8N3",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Menyerang"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/81.jpg"
+    },
+    "id": 81
+  },
+  {
+    "completions": [
+      {
+        "id": 82001,
+        "lead_time": 3.26,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "EAmJ68B9fz",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/82.jpg"
+    },
+    "id": 82
+  },
+  {
+    "completions": [
+      {
+        "id": 83001,
+        "lead_time": 8.195,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "up2a5jf9y7",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/83.jpg"
+    },
+    "id": 83
+  },
+  {
+    "completions": [
+      {
+        "id": 84001,
+        "lead_time": 16.572,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "CEM7nkkGaL",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/84.jpg"
+    },
+    "id": 84
+  },
+  {
+    "completions": [
+      {
+        "id": 85001,
+        "lead_time": 7.749,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "O6FlPtY0qf",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/85.jpg"
+    },
+    "id": 85
+  },
+  {
+    "completions": [
+      {
+        "id": 86001,
+        "lead_time": 15.117,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "yYzQfqcvPj",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/86.jpg"
+    },
+    "id": 86
+  },
+  {
+    "completions": [
+      {
+        "id": 87001,
+        "lead_time": 4.193,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "bzmrXzubSM",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/87.jpg"
+    },
+    "id": 87
+  },
+  {
+    "completions": [
+      {
+        "id": 88001,
+        "lead_time": 6.662,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "TitsT-nKov",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/88.jpg"
+    },
+    "id": 88
+  },
+  {
+    "completions": [
+      {
+        "id": 89001,
+        "lead_time": 6.076,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ZjOFreLvmJ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/89.jpg"
+    },
+    "id": 89
+  },
+  {
+    "completions": [
+      {
+        "id": 9001,
+        "lead_time": 3.097,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "9cI1Y9KGBr",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/9.jpg"
+    },
+    "id": 9
+  },
+  {
+    "completions": [
+      {
+        "id": 90001,
+        "lead_time": 3.386,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Bmd1CBflEF",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/90.jpg"
+    },
+    "id": 90
+  },
+  {
+    "completions": [
+      {
+        "id": 91001,
+        "lead_time": 48.597,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "N0xw7fg4ri",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/91.jpg"
+    },
+    "id": 91
+  },
+  {
+    "completions": [
+      {
+        "id": 92001,
+        "lead_time": 4.208,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "dVFA-v7cO5",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/92.jpg"
+    },
+    "id": 92
+  },
+  {
+    "completions": [
+      {
+        "id": 93001,
+        "lead_time": 2.408,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "gx8orzoJ3x",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/93.jpg"
+    },
+    "id": 93
+  },
+  {
+    "completions": [
+      {
+        "id": 94001,
+        "lead_time": 9.228,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "uUbYzrU-hv",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/94.jpg"
+    },
+    "id": 94
+  },
+  {
+    "completions": [
+      {
+        "id": 95001,
+        "lead_time": 2.91,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "686BDvMGt3",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/95.jpg"
+    },
+    "id": 95
+  },
+  {
+    "completions": [
+      {
+        "id": 96001,
+        "lead_time": 6.47,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xDxNFGhVsA",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/96.jpg"
+    },
+    "id": 96
+  },
+  {
+    "completions": [
+      {
+        "id": 97001,
+        "lead_time": 24.945,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "x4Vh5HbYNP",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/97.jpg"
+    },
+    "id": 97
+  },
+  {
+    "completions": [
+      {
+        "id": 98001,
+        "lead_time": 9.227,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "0Z3beOfamY",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/98.jpg"
+    },
+    "id": 98
+  },
+  {
+    "completions": [
+      {
+        "id": 99001,
+        "lead_time": 11.66,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "mYkYDNHDTc",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Purple Hyacinth/Ep. 0 - Prologue/99.jpg"
+    },
+    "id": 99
+  }
+]

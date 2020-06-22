@@ -1,0 +1,2402 @@
+[
+  {
+    "completions": [
+      {
+        "id": 1,
+        "lead_time": 10.757,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "lkRWRt10S7",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/0.jpg"
+    },
+    "id": 0
+  },
+  {
+    "completions": [
+      {
+        "id": 1001,
+        "lead_time": 87.658,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "tmURhGq8sU",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/1.jpg"
+    },
+    "id": 1
+  },
+  {
+    "completions": [
+      {
+        "id": 2001,
+        "lead_time": 6.002,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "JTqAq-DY3_",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/2.jpg"
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "id": 3001,
+        "lead_time": 5.459,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "YesJdb2p23",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/3.jpg"
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "id": 4001,
+        "lead_time": 7.42,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "63Tt1B28zn",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/4.jpg"
+    },
+    "id": 4
+  },
+  {
+    "completions": [
+      {
+        "id": 5001,
+        "lead_time": 5.21,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "4TKYrCXFWL",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/5.jpg"
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "id": 6001,
+        "lead_time": 3.459,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "enoLurPCV7",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/6.jpg"
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "id": 7001,
+        "lead_time": 4.106,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "nb0Ql1dGTG",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/7.jpg"
+    },
+    "id": 7
+  },
+  {
+    "completions": [
+      {
+        "id": 8001,
+        "lead_time": 5.888,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "-SW4MNONmy",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/8.jpg"
+    },
+    "id": 8
+  },
+  {
+    "completions": [
+      {
+        "id": 9001,
+        "lead_time": 43.146,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "m6QxQXcn6Z",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/9.jpg"
+    },
+    "id": 9
+  },
+  {
+    "completions": [
+      {
+        "id": 10001,
+        "lead_time": 7.811,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "DddDQuMme9",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/10.jpg"
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "id": 11001,
+        "lead_time": 5.991,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "4x-PeCOkiZ",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/11.jpg"
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "id": 12001,
+        "lead_time": 5.825,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "zrAmX4zdcp",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/12.jpg"
+    },
+    "id": 12
+  },
+  {
+    "completions": [
+      {
+        "id": 13001,
+        "lead_time": 7.474,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "izqP8MawJZ",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/13.jpg"
+    },
+    "id": 13
+  },
+  {
+    "completions": [
+      {
+        "id": 14001,
+        "lead_time": 58.935,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "Q_5oenYYFa",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/14.jpg"
+    },
+    "id": 14
+  },
+  {
+    "completions": [
+      {
+        "id": 15001,
+        "lead_time": 64.211,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "WCmQXo0lMV",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/15.jpg"
+    },
+    "id": 15
+  },
+  {
+    "completions": [
+      {
+        "id": 16001,
+        "lead_time": 6.888,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "VVLyUh_YGF",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/16.jpg"
+    },
+    "id": 16
+  },
+  {
+    "completions": [
+      {
+        "id": 17001,
+        "lead_time": 8.856,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "AvF1rKs_Uu",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/17.jpg"
+    },
+    "id": 17
+  },
+  {
+    "completions": [
+      {
+        "id": 18001,
+        "lead_time": 5.561,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "tk25eTH1sA",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/18.jpg"
+    },
+    "id": 18
+  },
+  {
+    "completions": [
+      {
+        "id": 19001,
+        "lead_time": 6.635,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "GhNTyQN--Q",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/19.jpg"
+    },
+    "id": 19
+  },
+  {
+    "completions": [
+      {
+        "id": 20001,
+        "lead_time": 5.074,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "gEX30svaz5",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/20.jpg"
+    },
+    "id": 20
+  },
+  {
+    "completions": [
+      {
+        "id": 21001,
+        "lead_time": 5.971,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "9I8W8nRWrS",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/21.jpg"
+    },
+    "id": 21
+  },
+  {
+    "completions": [
+      {
+        "id": 22001,
+        "lead_time": 13.436,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "NFb4-CbkgG",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/22.jpg"
+    },
+    "id": 22
+  },
+  {
+    "completions": [
+      {
+        "id": 23001,
+        "lead_time": 5.334,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "LwJWzUfNiD",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/23.jpg"
+    },
+    "id": 23
+  },
+  {
+    "completions": [
+      {
+        "id": 24001,
+        "lead_time": 3.695,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "X0yWIw_jYc",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/24.jpg"
+    },
+    "id": 24
+  },
+  {
+    "completions": [
+      {
+        "id": 25001,
+        "lead_time": 6.569,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "zzIrbUeMmZ",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/25.jpg"
+    },
+    "id": 25
+  },
+  {
+    "completions": [
+      {
+        "id": 26001,
+        "lead_time": 5.57,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "JrqLgUXPgv",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/26.jpg"
+    },
+    "id": 26
+  },
+  {
+    "completions": [
+      {
+        "id": 27001,
+        "lead_time": 5.168,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "kkjVXthTm9",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/27.jpg"
+    },
+    "id": 27
+  },
+  {
+    "completions": [
+      {
+        "id": 28001,
+        "lead_time": 11.015,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "6ZqK_7o0CV",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/28.jpg"
+    },
+    "id": 28
+  },
+  {
+    "completions": [
+      {
+        "id": 29001,
+        "lead_time": 4.908,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "nw1XWxJM1u",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/29.jpg"
+    },
+    "id": 29
+  },
+  {
+    "completions": [
+      {
+        "id": 30001,
+        "lead_time": 4.874,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "WTIIzfq2EN",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/30.jpg"
+    },
+    "id": 30
+  },
+  {
+    "completions": [
+      {
+        "id": 31001,
+        "lead_time": 4.46,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "imYDV3OrvM",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/31.jpg"
+    },
+    "id": 31
+  },
+  {
+    "completions": [
+      {
+        "id": 32001,
+        "lead_time": 20.714,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "vRWKwBIqF5",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/32.jpg"
+    },
+    "id": 32
+  },
+  {
+    "completions": [
+      {
+        "id": 33001,
+        "lead_time": 8,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "Ij-HqApH4-",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/33.jpg"
+    },
+    "id": 33
+  },
+  {
+    "completions": [
+      {
+        "id": 34001,
+        "lead_time": 6.036,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "BKPiceB1DD",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/34.jpg"
+    },
+    "id": 34
+  },
+  {
+    "completions": [
+      {
+        "id": 35001,
+        "lead_time": 10.048,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "m8MhMBm1CK",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/35.jpg"
+    },
+    "id": 35
+  },
+  {
+    "completions": [
+      {
+        "id": 36001,
+        "lead_time": 7.754,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "RIvb0fyZKi",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/36.jpg"
+    },
+    "id": 36
+  },
+  {
+    "completions": [
+      {
+        "id": 37001,
+        "lead_time": 4.899,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "2kJKP_PMQZ",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/37.jpg"
+    },
+    "id": 37
+  },
+  {
+    "completions": [
+      {
+        "id": 38001,
+        "lead_time": 7.715,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "hTtpe1_fuK",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.01%20-%20Di%20Hari%20Kematianku/38.jpg"
+    },
+    "id": 38
+  },
+  {
+    "completions": [
+      {
+        "id": 39001,
+        "lead_time": 9.914,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "7CHf2iZluc",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/0.jpg"
+    },
+    "id": 39
+  },
+  {
+    "completions": [
+      {
+        "id": 40001,
+        "lead_time": 4.983,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "VgtO0owCcQ",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/1.jpg"
+    },
+    "id": 40
+  },
+  {
+    "completions": [
+      {
+        "id": 41001,
+        "lead_time": 8.288,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "9JOChJHsq2",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/2.jpg"
+    },
+    "id": 41
+  },
+  {
+    "completions": [
+      {
+        "id": 42001,
+        "lead_time": 6.033,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "o9_17dNRVx",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/3.jpg"
+    },
+    "id": 42
+  },
+  {
+    "completions": [
+      {
+        "id": 43001,
+        "lead_time": 4.817,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "pRSyVnWIIe",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/4.jpg"
+    },
+    "id": 43
+  },
+  {
+    "completions": [
+      {
+        "id": 44001,
+        "lead_time": 6.324,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "Wkq8d0nZaT",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/5.jpg"
+    },
+    "id": 44
+  },
+  {
+    "completions": [
+      {
+        "id": 45001,
+        "lead_time": 4.359,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "Ac1IkHWihI",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/6.jpg"
+    },
+    "id": 45
+  },
+  {
+    "completions": [
+      {
+        "id": 46001,
+        "lead_time": 6.404,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "mU7sm2p69p",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/7.jpg"
+    },
+    "id": 46
+  },
+  {
+    "completions": [
+      {
+        "id": 47001,
+        "lead_time": 4.909,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "5FqEC0J2ny",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/8.jpg"
+    },
+    "id": 47
+  },
+  {
+    "completions": [
+      {
+        "id": 48001,
+        "lead_time": 5.537,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "eBr0h1QIlw",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/9.jpg"
+    },
+    "id": 48
+  },
+  {
+    "completions": [
+      {
+        "id": 49001,
+        "lead_time": 9.724,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "eZoAfWEgBH",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/10.jpg"
+    },
+    "id": 49
+  },
+  {
+    "completions": [
+      {
+        "id": 50001,
+        "lead_time": 17.502,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "wURscbmnTH",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/11.jpg"
+    },
+    "id": 50
+  },
+  {
+    "completions": [
+      {
+        "id": 51001,
+        "lead_time": 7.129,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "xJB_xrNzGf",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/12.jpg"
+    },
+    "id": 51
+  },
+  {
+    "completions": [
+      {
+        "id": 52001,
+        "lead_time": 8.404,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "EQGdDCrgwI",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/13.jpg"
+    },
+    "id": 52
+  },
+  {
+    "completions": [
+      {
+        "id": 53001,
+        "lead_time": 2.652,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "H0_09t2U7h",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/14.jpg"
+    },
+    "id": 53
+  },
+  {
+    "completions": [
+      {
+        "id": 54001,
+        "lead_time": 8.316,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "End-nu2E9k",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/15.jpg"
+    },
+    "id": 54
+  },
+  {
+    "completions": [
+      {
+        "id": 55001,
+        "lead_time": 5.315,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "ChjSEVhp0g",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/16.jpg"
+    },
+    "id": 55
+  },
+  {
+    "completions": [
+      {
+        "id": 56001,
+        "lead_time": 9.057,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "26pKAczA7k",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Action"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/17.jpg"
+    },
+    "id": 56
+  },
+  {
+    "completions": [
+      {
+        "id": 57001,
+        "lead_time": 3.762,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "jqfYnEwOKO",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Action"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/18.jpg"
+    },
+    "id": 57
+  },
+  {
+    "completions": [
+      {
+        "id": 58001,
+        "lead_time": 6.012,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "bK5z9Tio63",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/19.jpg"
+    },
+    "id": 58
+  },
+  {
+    "completions": [
+      {
+        "id": 59001,
+        "lead_time": 7.043,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "_rqLFsE9rg",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/20.jpg"
+    },
+    "id": 59
+  },
+  {
+    "completions": [
+      {
+        "id": 60001,
+        "lead_time": 7.368,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "F-1KJkaF4q",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/21.jpg"
+    },
+    "id": 60
+  },
+  {
+    "completions": [
+      {
+        "id": 61001,
+        "lead_time": 6.019,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "leEnEIxbi7",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/22.jpg"
+    },
+    "id": 61
+  },
+  {
+    "completions": [
+      {
+        "id": 62001,
+        "lead_time": 10.037,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "c6OpmcIzyw",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/23.jpg"
+    },
+    "id": 62
+  },
+  {
+    "completions": [
+      {
+        "id": 63001,
+        "lead_time": 6.084,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "QkG1bXaH05",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/24.jpg"
+    },
+    "id": 63
+  },
+  {
+    "completions": [
+      {
+        "id": 64001,
+        "lead_time": 4.746,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "iMS-DyZKaK",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/25.jpg"
+    },
+    "id": 64
+  },
+  {
+    "completions": [
+      {
+        "id": 65001,
+        "lead_time": 3.779,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "umoZCtzHPB",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/26.jpg"
+    },
+    "id": 65
+  },
+  {
+    "completions": [
+      {
+        "id": 66001,
+        "lead_time": 6.451,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "faV4hsqXAi",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/27.jpg"
+    },
+    "id": 66
+  },
+  {
+    "completions": [
+      {
+        "id": 67001,
+        "lead_time": 7.273,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "K8OTXVMHyg",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/28.jpg"
+    },
+    "id": 67
+  },
+  {
+    "completions": [
+      {
+        "id": 68001,
+        "lead_time": 3.528,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "tYL4ocqV2z",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.02%20-%20Kalian%20Sudah%20Dengar%20Belum/29.jpg"
+    },
+    "id": 68
+  },
+  {
+    "completions": [
+      {
+        "id": 69001,
+        "lead_time": 3.448,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "7zRDQCFIPs",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/0.jpg"
+    },
+    "id": 69
+  },
+  {
+    "completions": [
+      {
+        "id": 70001,
+        "lead_time": 4.83,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "nTezSPm6n-",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/1.jpg"
+    },
+    "id": 70
+  },
+  {
+    "completions": [
+      {
+        "id": 71001,
+        "lead_time": 6.878,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "N3bMIGlrmh",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/2.jpg"
+    },
+    "id": 71
+  },
+  {
+    "completions": [
+      {
+        "id": 72001,
+        "lead_time": 3.338,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "k4gW93sntu",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/3.jpg"
+    },
+    "id": 72
+  },
+  {
+    "completions": [
+      {
+        "id": 73001,
+        "lead_time": 4.334,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "3CnjAVV07D",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/4.jpg"
+    },
+    "id": 73
+  },
+  {
+    "completions": [
+      {
+        "id": 74001,
+        "lead_time": 9.674,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "MGoTEBLWY6",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/5.jpg"
+    },
+    "id": 74
+  },
+  {
+    "completions": [
+      {
+        "id": 75001,
+        "lead_time": 7.451,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "EE-qZmjxLk",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/6.jpg"
+    },
+    "id": 75
+  },
+  {
+    "completions": [
+      {
+        "id": 76001,
+        "lead_time": 8.955,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "nw8P1NJCwe",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/7.jpg"
+    },
+    "id": 76
+  },
+  {
+    "completions": [
+      {
+        "id": 77001,
+        "lead_time": 5.164,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "z6lDOGwfu9",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/8.jpg"
+    },
+    "id": 77
+  },
+  {
+    "completions": [
+      {
+        "id": 78001,
+        "lead_time": 8.622,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "RNGvSu6BEy",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/9.jpg"
+    },
+    "id": 78
+  },
+  {
+    "completions": [
+      {
+        "id": 79001,
+        "lead_time": 5.104,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "SCnRHmH8tY",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/10.jpg"
+    },
+    "id": 79
+  },
+  {
+    "completions": [
+      {
+        "id": 80001,
+        "lead_time": 3.165,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "CO8MlIQEhC",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/11.jpg"
+    },
+    "id": 80
+  },
+  {
+    "completions": [
+      {
+        "id": 81001,
+        "lead_time": 3.991,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "TeyowXWwJ-",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/12.jpg"
+    },
+    "id": 81
+  },
+  {
+    "completions": [
+      {
+        "id": 82001,
+        "lead_time": 6.405,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "2MkUHYWG1-",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romance"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/13.jpg"
+    },
+    "id": 82
+  },
+  {
+    "completions": [
+      {
+        "id": 83001,
+        "lead_time": 4.056,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "7yr_voSlJY",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/14.jpg"
+    },
+    "id": 83
+  },
+  {
+    "completions": [
+      {
+        "id": 84001,
+        "lead_time": 5.749,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "ffYqufM5q2",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/15.jpg"
+    },
+    "id": 84
+  },
+  {
+    "completions": [
+      {
+        "id": 85001,
+        "lead_time": 6.067,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "NSND989sda",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/16.jpg"
+    },
+    "id": 85
+  },
+  {
+    "completions": [
+      {
+        "id": 86001,
+        "lead_time": 5.215,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "gpDptxbbMr",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/17.jpg"
+    },
+    "id": 86
+  },
+  {
+    "completions": [
+      {
+        "id": 87001,
+        "lead_time": 6.565,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "crJpMtUYuV",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/18.jpg"
+    },
+    "id": 87
+  },
+  {
+    "completions": [
+      {
+        "id": 88001,
+        "lead_time": 4.813,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "ZOz8MCY8NK",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/19.jpg"
+    },
+    "id": 88
+  },
+  {
+    "completions": [
+      {
+        "id": 89001,
+        "lead_time": 3.996,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "whaJf_rRxB",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/20.jpg"
+    },
+    "id": 89
+  },
+  {
+    "completions": [
+      {
+        "id": 90001,
+        "lead_time": 4.353,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "IAbXG9r8Po",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/21.jpg"
+    },
+    "id": 90
+  },
+  {
+    "completions": [
+      {
+        "id": 91001,
+        "lead_time": 7.907,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "qU4BeDsE_a",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/22.jpg"
+    },
+    "id": 91
+  },
+  {
+    "completions": [
+      {
+        "id": 92001,
+        "lead_time": 4.596,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "op0YKnV7GI",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/23.jpg"
+    },
+    "id": 92
+  },
+  {
+    "completions": [
+      {
+        "id": 93001,
+        "lead_time": 4.008,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "c6H5twL19g",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/24.jpg"
+    },
+    "id": 93
+  },
+  {
+    "completions": [
+      {
+        "id": 94001,
+        "lead_time": 5.384,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "WLemNteFWs",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/25.jpg"
+    },
+    "id": 94
+  },
+  {
+    "completions": [
+      {
+        "id": 95001,
+        "lead_time": 3.839,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "IgNgqpO8lZ",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Switched%20Girls/Ep.03%20-%20Bisa%20Bicara%20Sebentar/26.jpg"
+    },
+    "id": 95
+  }
+]

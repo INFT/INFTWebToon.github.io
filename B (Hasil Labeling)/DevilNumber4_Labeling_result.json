@@ -1,0 +1,3590 @@
+[
+  {
+    "completions": [
+      {
+        "created_at": 1592740473,
+        "id": 10001,
+        "lead_time": 3.944,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ST8jec3aRX",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-9.jpg"
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741278,
+        "id": 100001,
+        "lead_time": 7.612,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "GIb2HzON7_",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/8.jpg"
+    },
+    "id": 100
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741284,
+        "id": 101001,
+        "lead_time": 5.701,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "A_q1qAF_Ye",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/9.jpg"
+    },
+    "id": 101
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741293,
+        "id": 102001,
+        "lead_time": 8.859,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Qmkpf0rQDd",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/10.jpg"
+    },
+    "id": 102
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741300,
+        "id": 103001,
+        "lead_time": 5.882,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "uCqs6ARThQ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/11.jpg"
+    },
+    "id": 103
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741309,
+        "id": 104001,
+        "lead_time": 8.182,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "YLez4KrYQP",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/12.jpg"
+    },
+    "id": 104
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741316,
+        "id": 105001,
+        "lead_time": 6.13,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "7zNvdlLKf9",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/13.jpg"
+    },
+    "id": 105
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741329,
+        "id": 106001,
+        "lead_time": 12.087,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "w8pfLF2SA0",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/14.jpg"
+    },
+    "id": 106
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741336,
+        "id": 107001,
+        "lead_time": 6.827,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "t5ZkMJfJ1C",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/15.jpg"
+    },
+    "id": 107
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741348,
+        "id": 108001,
+        "lead_time": 10.695,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "K5_Eeia_IO",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/16.jpg"
+    },
+    "id": 108
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741355,
+        "id": 109001,
+        "lead_time": 6.119,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "RWblM6-aqv",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/17.jpg"
+    },
+    "id": 109
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740480,
+        "id": 11001,
+        "lead_time": 6.559,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "PinbDcdQtl",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-10.jpg"
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741364,
+        "id": 110001,
+        "lead_time": 8.528,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "JEM0Iop3sR",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/18.jpg"
+    },
+    "id": 110
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741370,
+        "id": 111001,
+        "lead_time": 4.739,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "nuNxkQG6jD",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/19.jpg"
+    },
+    "id": 111
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741379,
+        "id": 112001,
+        "lead_time": 8.861,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "8X5n32N2M8",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/20.jpg"
+    },
+    "id": 112
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741385,
+        "id": 113001,
+        "lead_time": 4.881,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Nj2JDKE_W6",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/21.jpg"
+    },
+    "id": 113
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741538,
+        "id": 114001,
+        "lead_time": 4.88,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "y8IFstXM0Z",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/22.jpg"
+    },
+    "id": 114
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741547,
+        "id": 115001,
+        "lead_time": 8.698,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "NpdT6pl607",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/23.jpg"
+    },
+    "id": 115
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741552,
+        "id": 116001,
+        "lead_time": 4.03,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "5HM3Hro4-E",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/24.jpg"
+    },
+    "id": 116
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741560,
+        "id": 117001,
+        "lead_time": 7.225,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "2F5KOzgXt6",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/25.jpg"
+    },
+    "id": 117
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741574,
+        "id": 118001,
+        "lead_time": 12.408,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "irvM_pK31f",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/26.jpg"
+    },
+    "id": 118
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741583,
+        "id": 119001,
+        "lead_time": 8.622,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "WRHGtgw2Nh",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/27.jpg"
+    },
+    "id": 119
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740495,
+        "id": 12001,
+        "lead_time": 13.654,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "dV-vpdASTf",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-11.jpg"
+    },
+    "id": 12
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741592,
+        "id": 120001,
+        "lead_time": 7.941,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "L6TEJgp8Eu",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/28.jpg"
+    },
+    "id": 120
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741598,
+        "id": 121001,
+        "lead_time": 5.799,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "6ZnqJzUZiI",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/29.jpg"
+    },
+    "id": 121
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741605,
+        "id": 122001,
+        "lead_time": 5.649,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "amKlPJAqGD",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/30.jpg"
+    },
+    "id": 122
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741612,
+        "id": 123001,
+        "lead_time": 6.432,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "cKXD3e2oa8",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/31.jpg"
+    },
+    "id": 123
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741619,
+        "id": 124001,
+        "lead_time": 6.483,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "SscSWYsIca",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/32.jpg"
+    },
+    "id": 124
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741628,
+        "id": 125001,
+        "lead_time": 7.51,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "8DDH6Gy3dm",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/33.jpg"
+    },
+    "id": 125
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741636,
+        "id": 126001,
+        "lead_time": 7.19,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "-aPqfsgpCh",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/34.jpg"
+    },
+    "id": 126
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741645,
+        "id": 127001,
+        "lead_time": 8.614,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "SPiVnH1v1v",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/35.jpg"
+    },
+    "id": 127
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741655,
+        "id": 128001,
+        "lead_time": 8.346,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "e2_2mLt9Pf",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/36.jpg"
+    },
+    "id": 128
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741662,
+        "id": 129001,
+        "lead_time": 6.279,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "JIPJMqnyw1",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/37.jpg"
+    },
+    "id": 129
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740510,
+        "id": 13001,
+        "lead_time": 14.531,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "FIyW_Dv3vA",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-12.jpg"
+    },
+    "id": 13
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741667,
+        "id": 130001,
+        "lead_time": 4.498,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "-IoiUIpTOZ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/38.jpg"
+    },
+    "id": 130
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741677,
+        "id": 131001,
+        "lead_time": 9.338,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "2CpJQBy2Ri",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/39.jpg"
+    },
+    "id": 131
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741686,
+        "id": 132001,
+        "lead_time": 7.939,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "rf85VccIR8",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/40.jpg"
+    },
+    "id": 132
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741694,
+        "id": 133001,
+        "lead_time": 6.746,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "IycMlf-vVa",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/41.jpg"
+    },
+    "id": 133
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741701,
+        "id": 134001,
+        "lead_time": 6.577,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "98etDkR9R9",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/42.jpg"
+    },
+    "id": 134
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741707,
+        "id": 135001,
+        "lead_time": 4.982,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "AQ1YVUTmBk",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/43.jpg"
+    },
+    "id": 135
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741714,
+        "id": 136001,
+        "lead_time": 6.01,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "7FL4ExoXQ9",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/44.jpg"
+    },
+    "id": 136
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741720,
+        "id": 137001,
+        "lead_time": 4.885,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "6okbeXLYir",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/45.jpg"
+    },
+    "id": 137
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741725,
+        "id": 138001,
+        "lead_time": 4.365,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "B9vb2HZhj-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/46.jpg"
+    },
+    "id": 138
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741733,
+        "id": 139001,
+        "lead_time": 7.118,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "pQSTeM_uQ2",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/47.jpg"
+    },
+    "id": 139
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740517,
+        "id": 14001,
+        "lead_time": 6.775,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fwZjcfOuks",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-13.jpg"
+    },
+    "id": 14
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741740,
+        "id": 140001,
+        "lead_time": 5.59,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "McQSW3GanL",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/48.jpg"
+    },
+    "id": 140
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741747,
+        "id": 141001,
+        "lead_time": 5.97,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "f_OR0DHM4a",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/49.jpg"
+    },
+    "id": 141
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740525,
+        "id": 15001,
+        "lead_time": 7.871,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "XdRg9YlZbK",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-14.jpg"
+    },
+    "id": 15
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740534,
+        "id": 16001,
+        "lead_time": 8.065,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "9s1LqBy1ju",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-15.jpg"
+    },
+    "id": 16
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740544,
+        "id": 17001,
+        "lead_time": 10.15,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "L4ty0QHtHL",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-16.jpg"
+    },
+    "id": 17
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740552,
+        "id": 18001,
+        "lead_time": 7.487,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "yG6__JOPPs",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-17.jpg"
+    },
+    "id": 18
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740559,
+        "id": 19001,
+        "lead_time": 6.857,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qanpM8Uab1",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-18.jpg"
+    },
+    "id": 19
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740377,
+        "id": 2001,
+        "lead_time": 11.223,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "WJI8qgc_J0",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-1.jpg"
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740566,
+        "id": 20001,
+        "lead_time": 5.679,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "BlUyjlb5ix",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-19.jpg"
+    },
+    "id": 20
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740573,
+        "id": 21001,
+        "lead_time": 7.259,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "vXEe5ZgEFM",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-20.jpg"
+    },
+    "id": 21
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740583,
+        "id": 22001,
+        "lead_time": 9.492,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "XQzhLWUNKz",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-21.jpg"
+    },
+    "id": 22
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740590,
+        "id": 23001,
+        "lead_time": 6.367,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "FPYqiXyBiF",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-22.jpg"
+    },
+    "id": 23
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740601,
+        "id": 24001,
+        "lead_time": 10.267,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "MMvtBcuzZg",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-23.jpg"
+    },
+    "id": 24
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740611,
+        "id": 25001,
+        "lead_time": 9.818,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ilKfTPlsHp",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-24.jpg"
+    },
+    "id": 25
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740617,
+        "id": 26001,
+        "lead_time": 5.523,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Lngp0iVUiN",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-25.jpg"
+    },
+    "id": 26
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740627,
+        "id": 27001,
+        "lead_time": 9.576,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "I9gf5riCEQ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Marah"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-26.jpg"
+    },
+    "id": 27
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740634,
+        "id": 28001,
+        "lead_time": 6.384,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ZXeIWEDd-D",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Marah"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-27.jpg"
+    },
+    "id": 28
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740639,
+        "id": 29001,
+        "lead_time": 4.788,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "LFb-CRmdJW",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-28.jpg"
+    },
+    "id": 29
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740418,
+        "id": 3001,
+        "lead_time": 40.476,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "8fzR3ORDHQ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-2.jpg"
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740646,
+        "id": 30001,
+        "lead_time": 6.683,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "01D_sgNrrg",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-29.jpg"
+    },
+    "id": 30
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740652,
+        "id": 31001,
+        "lead_time": 5.184,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "WFwNW7IHUI",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-30.jpg"
+    },
+    "id": 31
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740661,
+        "id": 32001,
+        "lead_time": 8.447,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ehz3q2oA54",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-31.jpg"
+    },
+    "id": 32
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740669,
+        "id": 33001,
+        "lead_time": 7.654,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "AK-buNDwex",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-32.jpg"
+    },
+    "id": 33
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740682,
+        "id": 34001,
+        "lead_time": 12.418,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Q2k7oJcXhY",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-33.jpg"
+    },
+    "id": 34
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740689,
+        "id": 35001,
+        "lead_time": 6.803,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "dgN0-5PHB1",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-34.jpg"
+    },
+    "id": 35
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740697,
+        "id": 36001,
+        "lead_time": 7.193,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "GtdqucEXdc",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-35.jpg"
+    },
+    "id": 36
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740701,
+        "id": 37001,
+        "lead_time": 3.832,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "PkYGtPfz_G",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-36.jpg"
+    },
+    "id": 37
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740715,
+        "id": 38001,
+        "lead_time": 13.063,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "J_bs-6mKjx",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-37.jpg"
+    },
+    "id": 38
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740724,
+        "id": 39001,
+        "lead_time": 8.29,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "K3wVhi8D1l",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-38.jpg"
+    },
+    "id": 39
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740434,
+        "id": 4001,
+        "lead_time": 15.091,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "3eTFomW7QS",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-3.jpg"
+    },
+    "id": 4
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740730,
+        "id": 40001,
+        "lead_time": 6.151,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "7w2he2C-JH",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-39.jpg"
+    },
+    "id": 40
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740741,
+        "id": 41001,
+        "lead_time": 9.676,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "GgFZyloLVQ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-40.jpg"
+    },
+    "id": 41
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740746,
+        "id": 42001,
+        "lead_time": 4.646,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "OoRMlAUDJt",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-41.jpg"
+    },
+    "id": 42
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740751,
+        "id": 43001,
+        "lead_time": 5.062,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "DkTQPb1S2o",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-42.jpg"
+    },
+    "id": 43
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740762,
+        "id": 44001,
+        "lead_time": 9.96,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "s2dXtBHBk-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-43.jpg"
+    },
+    "id": 44
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740773,
+        "id": 45001,
+        "lead_time": 10.401,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "gdqdcgaGdm",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-44.jpg"
+    },
+    "id": 45
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740780,
+        "id": 46001,
+        "lead_time": 6.454,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "wEkvEQZStM",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-45.jpg"
+    },
+    "id": 46
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740821,
+        "id": 47001,
+        "lead_time": 39.887,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ec8eNr4hVa",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-46.jpg"
+    },
+    "id": 47
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740827,
+        "id": 48001,
+        "lead_time": 5.935,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "B_QJlmay-K",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-47.jpg"
+    },
+    "id": 48
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740877,
+        "id": 49001,
+        "lead_time": 10.186,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "nzdGcC1quB",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-48.jpg"
+    },
+    "id": 49
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740439,
+        "id": 5001,
+        "lead_time": 4.717,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "jebrl634vE",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-4.jpg"
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740885,
+        "id": 51001,
+        "lead_time": 7.616,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "CgelTzC7dP",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/1.jpg"
+    },
+    "id": 51
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740891,
+        "id": 52001,
+        "lead_time": 5.869,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ra0WUyjbWd",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/2.jpg"
+    },
+    "id": 52
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740901,
+        "id": 53001,
+        "lead_time": 9.546,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ohq-Jwgrjk",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/3.jpg"
+    },
+    "id": 53
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740912,
+        "id": 54001,
+        "lead_time": 10.189,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "36B6xZq6Qs",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/4.jpg"
+    },
+    "id": 54
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740921,
+        "id": 55001,
+        "lead_time": 8.342,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "WY9xGPKVQ9",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/5.jpg"
+    },
+    "id": 55
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740930,
+        "id": 56001,
+        "lead_time": 8.029,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "i78Dve46LS",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/6.jpg"
+    },
+    "id": 56
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740937,
+        "id": 57001,
+        "lead_time": 7.128,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fW0cmi27kY",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/7.jpg"
+    },
+    "id": 57
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740948,
+        "id": 58001,
+        "lead_time": 10.078,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "-CmFx56Gxw",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/8.jpg"
+    },
+    "id": 58
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740957,
+        "id": 59001,
+        "lead_time": 9.06,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ufH5DRFZ_e",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/9.jpg"
+    },
+    "id": 59
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740446,
+        "id": 6001,
+        "lead_time": 6.288,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "RbQyeL8CvJ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-5.jpg"
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740966,
+        "id": 60001,
+        "lead_time": 7.912,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "kJto9sUunB",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/10.jpg"
+    },
+    "id": 60
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740972,
+        "id": 61001,
+        "lead_time": 5.812,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "cAQxCyUqTU",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/11.jpg"
+    },
+    "id": 61
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740978,
+        "id": 62001,
+        "lead_time": 4.847,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "234zcSk7Db",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/12.jpg"
+    },
+    "id": 62
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740983,
+        "id": 63001,
+        "lead_time": 5.167,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "MyJPtiQCx7",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/13.jpg"
+    },
+    "id": 63
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740991,
+        "id": 64001,
+        "lead_time": 7.103,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "EFBQP1RAsY",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/14.jpg"
+    },
+    "id": 64
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741002,
+        "id": 65001,
+        "lead_time": 9.98,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "t_TY-GKH86",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/15.jpg"
+    },
+    "id": 65
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741008,
+        "id": 66001,
+        "lead_time": 6.315,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "tTi6RAwzZZ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/16.jpg"
+    },
+    "id": 66
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741015,
+        "id": 67001,
+        "lead_time": 5.708,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "o1wsK22u9c",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/17.jpg"
+    },
+    "id": 67
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741025,
+        "id": 68001,
+        "lead_time": 9.43,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "SwOc9sDlo2",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/18.jpg"
+    },
+    "id": 68
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741035,
+        "id": 69001,
+        "lead_time": 9.913,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ugUbHTe-yq",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Marah"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/19.jpg"
+    },
+    "id": 69
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740452,
+        "id": 7001,
+        "lead_time": 5.996,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "8HYI5nUN7n",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-6.jpg"
+    },
+    "id": 7
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741045,
+        "id": 70001,
+        "lead_time": 9.622,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "uQR8xRD4Wp",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/20.jpg"
+    },
+    "id": 70
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741051,
+        "id": 71001,
+        "lead_time": 5.383,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "yRzKYmlyt4",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/21.jpg"
+    },
+    "id": 71
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741057,
+        "id": 72001,
+        "lead_time": 5.313,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ayeJ2Gf5JP",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/22.jpg"
+    },
+    "id": 72
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741063,
+        "id": 73001,
+        "lead_time": 5.542,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "HK3yEShxAS",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/23.jpg"
+    },
+    "id": 73
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741070,
+        "id": 74001,
+        "lead_time": 6.232,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "nDn5wG5PkA",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/24.jpg"
+    },
+    "id": 74
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741079,
+        "id": 75001,
+        "lead_time": 8.438,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "T11haw5GFY",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/25.jpg"
+    },
+    "id": 75
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741083,
+        "id": 76001,
+        "lead_time": 3.39,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "z5b3-GvISK",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/26.jpg"
+    },
+    "id": 76
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741090,
+        "id": 77001,
+        "lead_time": 6.382,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "0pxHqMsDCN",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/27.jpg"
+    },
+    "id": 77
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741098,
+        "id": 78001,
+        "lead_time": 7.069,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xbBVxz-Bx4",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/28.jpg"
+    },
+    "id": 78
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741105,
+        "id": 79001,
+        "lead_time": 6.511,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "m-4MZyfEz0",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/29.jpg"
+    },
+    "id": 79
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740461,
+        "id": 8001,
+        "lead_time": 8.451,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "zmfo3XkAfl",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-7.jpg"
+    },
+    "id": 8
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741113,
+        "id": 80001,
+        "lead_time": 7.877,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "1vWtfzjI-m",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/30.jpg"
+    },
+    "id": 80
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741119,
+        "id": 81001,
+        "lead_time": 5.227,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "tvr5_9x5z1",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/31.jpg"
+    },
+    "id": 81
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741129,
+        "id": 82001,
+        "lead_time": 9.154,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "vL1g_rTwUU",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/32.jpg"
+    },
+    "id": 82
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741136,
+        "id": 83001,
+        "lead_time": 6.618,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "46wwPKd4lo",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/33.jpg"
+    },
+    "id": 83
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741144,
+        "id": 84001,
+        "lead_time": 6.513,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fvvnYEGRDp",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/34.jpg"
+    },
+    "id": 84
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741152,
+        "id": 85001,
+        "lead_time": 7.63,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "1nHwMhke6w",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/35.jpg"
+    },
+    "id": 85
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741162,
+        "id": 86001,
+        "lead_time": 9.774,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qlJ1-cMS1w",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/36.jpg"
+    },
+    "id": 86
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741174,
+        "id": 87001,
+        "lead_time": 11.057,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "vKHiPQ2Mw4",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/37.jpg"
+    },
+    "id": 87
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741197,
+        "id": 88001,
+        "lead_time": 21.863,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "oM8rsKdAAw",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/38.jpg"
+    },
+    "id": 88
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741202,
+        "id": 89001,
+        "lead_time": 4.25,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "lX0by31ams",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/39.jpg"
+    },
+    "id": 89
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592740469,
+        "id": 9001,
+        "lead_time": 7.496,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "gnnmOxkPsR",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%201/Devil%20Number%204%20Episode%201-8.jpg"
+    },
+    "id": 9
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741206,
+        "id": 90001,
+        "lead_time": 3.915,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Sn1LBUBooD",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/40.jpg"
+    },
+    "id": 90
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741211,
+        "id": 91001,
+        "lead_time": 4.391,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Y5QqHuK18S",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%202/41.jpg"
+    },
+    "id": 91
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741217,
+        "id": 93001,
+        "lead_time": 5.477,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "1a-4QLxicC",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/1.jpg"
+    },
+    "id": 93
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741224,
+        "id": 94001,
+        "lead_time": 5.892,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ffOMnkn-bt",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/2.jpg"
+    },
+    "id": 94
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741237,
+        "id": 95001,
+        "lead_time": 11.883,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "LY7giodnsK",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/3.jpg"
+    },
+    "id": 95
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741245,
+        "id": 96001,
+        "lead_time": 8.061,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "K-IipKnMr1",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/4.jpg"
+    },
+    "id": 96
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741253,
+        "id": 97001,
+        "lead_time": 6.611,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "JA-0O0L-p_",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/5.jpg"
+    },
+    "id": 97
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741265,
+        "id": 98001,
+        "lead_time": 11.231,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "GWTNHzOarY",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/6.jpg"
+    },
+    "id": 98
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1592741269,
+        "id": 99001,
+        "lead_time": 3.75,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "bibBlczX3x",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Devil%20Number%204/Episode%203/7.jpg"
+    },
+    "id": 99
+  }
+]
