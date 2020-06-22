@@ -1,0 +1,2502 @@
+[
+  {
+    "completions": [
+      {
+        "id": 1,
+        "lead_time": 33.081,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "M5ABfGLuKf",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-1.PNG"
+    },
+    "id": 0
+  },
+  {
+    "completions": [
+      {
+        "id": 1001,
+        "lead_time": 24.165,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "PEM4OE5I1g",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-2.PNG"
+    },
+    "id": 1
+  },
+  {
+    "completions": [
+      {
+        "id": 2001,
+        "lead_time": 16.544,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Wu4kjSA3eW",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-3.PNG"
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "id": 3001,
+        "lead_time": 13.151,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "NvfNPUUX-D",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-4.PNG"
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "id": 4001,
+        "lead_time": 14.6,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ufqiu2R9ej",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-5.PNG"
+    },
+    "id": 4
+  },
+  {
+    "completions": [
+      {
+        "id": 5001,
+        "lead_time": 6.637,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "vnab1TGkgH",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-6.PNG"
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "id": 6001,
+        "lead_time": 21.875,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "kL-EUV89mU",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-7.PNG"
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "id": 7001,
+        "lead_time": 27.083,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "1WmCVEJ6Hr",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-8.PNG"
+    },
+    "id": 7
+  },
+  {
+    "completions": [
+      {
+        "id": 8001,
+        "lead_time": 13.746,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "HSUys3qgDj",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-9.PNG"
+    },
+    "id": 8
+  },
+  {
+    "completions": [
+      {
+        "id": 9001,
+        "lead_time": 10.985,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xwbsWreQjX",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-10.PNG"
+    },
+    "id": 9
+  },
+  {
+    "completions": [
+      {
+        "id": 10001,
+        "lead_time": 14.866,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "vRjQs3Wp2L",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-11.PNG"
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "id": 11001,
+        "lead_time": 18.69,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "aLkA-t_QGy",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-12.PNG"
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "id": 12001,
+        "lead_time": 16.409,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "hJN59PBn3q",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-13.PNG"
+    },
+    "id": 12
+  },
+  {
+    "completions": [
+      {
+        "id": 13001,
+        "lead_time": 26.77,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "DG907ssRsY",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-14.PNG"
+    },
+    "id": 13
+  },
+  {
+    "completions": [
+      {
+        "id": 14001,
+        "lead_time": 20.519,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "IUCG_jChf2",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-15.PNG"
+    },
+    "id": 14
+  },
+  {
+    "completions": [
+      {
+        "id": 15001,
+        "lead_time": 15.385,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "e-M3L0_eTa",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-16.PNG"
+    },
+    "id": 15
+  },
+  {
+    "completions": [
+      {
+        "id": 16001,
+        "lead_time": 16.589,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "aFBpoDzYk8",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-17.PNG"
+    },
+    "id": 16
+  },
+  {
+    "completions": [
+      {
+        "id": 17001,
+        "lead_time": 8.217,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "MI0g--enGB",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-18.PNG"
+    },
+    "id": 17
+  },
+  {
+    "completions": [
+      {
+        "id": 18001,
+        "lead_time": 12.734,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "6I41BlxhLf",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-19.PNG"
+    },
+    "id": 18
+  },
+  {
+    "completions": [
+      {
+        "id": 19001,
+        "lead_time": 13.862,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "YVZe6Nqv3r",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-20.PNG"
+    },
+    "id": 19
+  },
+  {
+    "completions": [
+      {
+        "id": 20001,
+        "lead_time": 13.68,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "sg24GfbrKh",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-21.PNG"
+    },
+    "id": 20
+  },
+  {
+    "completions": [
+      {
+        "id": 21001,
+        "lead_time": 25.803,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "V2oZUX5F5u",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-22.PNG"
+    },
+    "id": 21
+  },
+  {
+    "completions": [
+      {
+        "id": 22001,
+        "lead_time": 16.923,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "XnKqIrLzmJ",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-23.PNG"
+    },
+    "id": 22
+  },
+  {
+    "completions": [
+      {
+        "id": 23001,
+        "lead_time": 15.863,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "S022NPZTJN",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-24.PNG"
+    },
+    "id": 23
+  },
+  {
+    "completions": [
+      {
+        "id": 24001,
+        "lead_time": 13.199,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Mb2wNt57ah",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-25.PNG"
+    },
+    "id": 24
+  },
+  {
+    "completions": [
+      {
+        "id": 25001,
+        "lead_time": 16.408,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "YXtlDgnhQt",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-26.PNG"
+    },
+    "id": 25
+  },
+  {
+    "completions": [
+      {
+        "id": 26001,
+        "lead_time": 19.52,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "87QrlpSTJa",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-27.PNG"
+    },
+    "id": 26
+  },
+  {
+    "completions": [
+      {
+        "id": 27001,
+        "lead_time": 13.453,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "S8f6z7GL3-",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-28.PNG"
+    },
+    "id": 27
+  },
+  {
+    "completions": [
+      {
+        "id": 28001,
+        "lead_time": 18.121,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "rcajbppO3n",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-29.PNG"
+    },
+    "id": 28
+  },
+  {
+    "completions": [
+      {
+        "id": 29001,
+        "lead_time": 16.412,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "6HB-p-qlfX",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-30.PNG"
+    },
+    "id": 29
+  },
+  {
+    "completions": [
+      {
+        "id": 30001,
+        "lead_time": 15.157,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "7NLitETn-s",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-31.PNG"
+    },
+    "id": 30
+  },
+  {
+    "completions": [
+      {
+        "id": 31001,
+        "lead_time": 11.068,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "bCqWF15EOt",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-32.PNG"
+    },
+    "id": 31
+  },
+  {
+    "completions": [
+      {
+        "id": 32001,
+        "lead_time": 3.459,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "SMNJVU6XnS",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%201/The%20Gamer-episode%201-33.PNG"
+    },
+    "id": 32
+  },
+  {
+    "completions": [
+      {
+        "id": 33001,
+        "lead_time": 9.272,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fNAMYIogdC",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-1.PNG"
+    },
+    "id": 33
+  },
+  {
+    "completions": [
+      {
+        "id": 34001,
+        "lead_time": 9.386,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "SjcanY4Htk",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-2.PNG"
+    },
+    "id": 34
+  },
+  {
+    "completions": [
+      {
+        "id": 35001,
+        "lead_time": 11.766,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "0S9QeEi_QX",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-3.PNG"
+    },
+    "id": 35
+  },
+  {
+    "completions": [
+      {
+        "id": 36001,
+        "lead_time": 31.202,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "-VgUisSmxh",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-4.PNG"
+    },
+    "id": 36
+  },
+  {
+    "completions": [
+      {
+        "id": 37001,
+        "lead_time": 13.577,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "DNrORrNh3e",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-5.PNG"
+    },
+    "id": 37
+  },
+  {
+    "completions": [
+      {
+        "id": 38001,
+        "lead_time": 10.953,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "WloC7aMb3C",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-6.PNG"
+    },
+    "id": 38
+  },
+  {
+    "completions": [
+      {
+        "id": 39001,
+        "lead_time": 10.747,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "X9TXI8k7ky",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-7.PNG"
+    },
+    "id": 39
+  },
+  {
+    "completions": [
+      {
+        "id": 40001,
+        "lead_time": 41.538,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_G-EQtATIk",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Takut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-8.PNG"
+    },
+    "id": 40
+  },
+  {
+    "completions": [
+      {
+        "id": 41001,
+        "lead_time": 15.136,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "FFpivlsxUZ",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-9.PNG"
+    },
+    "id": 41
+  },
+  {
+    "completions": [
+      {
+        "id": 42001,
+        "lead_time": 8.318,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "wmFf7hjEU9",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-10.PNG"
+    },
+    "id": 42
+  },
+  {
+    "completions": [
+      {
+        "id": 43001,
+        "lead_time": 15.385,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "lyIZhBIFsN",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-11.PNG"
+    },
+    "id": 43
+  },
+  {
+    "completions": [
+      {
+        "id": 44001,
+        "lead_time": 7.738,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Kkv6n8xfX3",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-12.PNG"
+    },
+    "id": 44
+  },
+  {
+    "completions": [
+      {
+        "id": 45001,
+        "lead_time": 6.966,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Ax8nnMqbEg",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-13.PNG"
+    },
+    "id": 45
+  },
+  {
+    "completions": [
+      {
+        "id": 46001,
+        "lead_time": 12.494,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "tpFPTwpo9P",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-14.PNG"
+    },
+    "id": 46
+  },
+  {
+    "completions": [
+      {
+        "id": 47001,
+        "lead_time": 9.052,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "dEwnulqgYH",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-15.PNG"
+    },
+    "id": 47
+  },
+  {
+    "completions": [
+      {
+        "id": 48001,
+        "lead_time": 11.702,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "zk1fb-0faa",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-16.PNG"
+    },
+    "id": 48
+  },
+  {
+    "completions": [
+      {
+        "id": 49001,
+        "lead_time": 9.368,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ggSU7shwj6",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-17.PNG"
+    },
+    "id": 49
+  },
+  {
+    "completions": [
+      {
+        "id": 50001,
+        "lead_time": 6.578,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "0EicrNN8pC",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-18.PNG"
+    },
+    "id": 50
+  },
+  {
+    "completions": [
+      {
+        "id": 51001,
+        "lead_time": 18.746,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "svkfjmdU2r",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-19.PNG"
+    },
+    "id": 51
+  },
+  {
+    "completions": [
+      {
+        "id": 52001,
+        "lead_time": 6.536,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "X1GlIdE-d7",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-20.PNG"
+    },
+    "id": 52
+  },
+  {
+    "completions": [
+      {
+        "id": 53001,
+        "lead_time": 72.399,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "S9WTlvgnMy",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-21.PNG"
+    },
+    "id": 53
+  },
+  {
+    "completions": [
+      {
+        "id": 54001,
+        "lead_time": 11.068,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "LV0kRzOtOE",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-22.PNG"
+    },
+    "id": 54
+  },
+  {
+    "completions": [
+      {
+        "id": 55001,
+        "lead_time": 10.867,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "pUdmgvwltW",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-23.PNG"
+    },
+    "id": 55
+  },
+  {
+    "completions": [
+      {
+        "id": 56001,
+        "lead_time": 34.67,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "u-NVgDNmYw",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-24.PNG"
+    },
+    "id": 56
+  },
+  {
+    "completions": [
+      {
+        "id": 57001,
+        "lead_time": 5.18,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "2AvUHe7tIv",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-25.PNG"
+    },
+    "id": 57
+  },
+  {
+    "completions": [
+      {
+        "id": 58001,
+        "lead_time": 6.131,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ck0uZuY5cT",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-26.PNG"
+    },
+    "id": 58
+  },
+  {
+    "completions": [
+      {
+        "id": 59001,
+        "lead_time": 5.92,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "IMlTXDOGT4",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-27.PNG"
+    },
+    "id": 59
+  },
+  {
+    "completions": [
+      {
+        "id": 60001,
+        "lead_time": 5.761,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "cT3xkfU6Sv",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-28.PNG"
+    },
+    "id": 60
+  },
+  {
+    "completions": [
+      {
+        "id": 61001,
+        "lead_time": 3.883,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "c4TY_PclFw",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%202/The%20Gamer-episode%202-29.PNG"
+    },
+    "id": 61
+  },
+  {
+    "completions": [
+      {
+        "id": 62001,
+        "lead_time": 5.96,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "uDtzSQap5y",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-1.PNG"
+    },
+    "id": 62
+  },
+  {
+    "completions": [
+      {
+        "id": 63001,
+        "lead_time": 4.922,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "FEsadZP11U",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-2.PNG"
+    },
+    "id": 63
+  },
+  {
+    "completions": [
+      {
+        "id": 64001,
+        "lead_time": 7.285,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "6lSKUSxSpb",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-3.PNG"
+    },
+    "id": 64
+  },
+  {
+    "completions": [
+      {
+        "id": 65001,
+        "lead_time": 5.506,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "zdnSzv4yzu",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-4.PNG"
+    },
+    "id": 65
+  },
+  {
+    "completions": [
+      {
+        "id": 66001,
+        "lead_time": 12.998,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "p6Q7GXNYLA",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-5.PNG"
+    },
+    "id": 66
+  },
+  {
+    "completions": [
+      {
+        "id": 67001,
+        "lead_time": 5.529,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "lko-VIN2sp",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-6.PNG"
+    },
+    "id": 67
+  },
+  {
+    "completions": [
+      {
+        "id": 68001,
+        "lead_time": 11.579,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "y3jP5rwTGW",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-7.PNG"
+    },
+    "id": 68
+  },
+  {
+    "completions": [
+      {
+        "id": 69001,
+        "lead_time": 8.665,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "2LoeOGnDYh",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Marah"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-8.PNG"
+    },
+    "id": 69
+  },
+  {
+    "completions": [
+      {
+        "id": 70001,
+        "lead_time": 8.512,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "EyG0sNDWcC",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-9.PNG"
+    },
+    "id": 70
+  },
+  {
+    "completions": [
+      {
+        "id": 71001,
+        "lead_time": 5.617,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "DAMufuNUvS",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-10.PNG"
+    },
+    "id": 71
+  },
+  {
+    "completions": [
+      {
+        "id": 72001,
+        "lead_time": 17.003,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "hN2EIFFgoI",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-11.PNG"
+    },
+    "id": 72
+  },
+  {
+    "completions": [
+      {
+        "id": 73001,
+        "lead_time": 11.917,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "zFlVv6jWkb",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-12.PNG"
+    },
+    "id": 73
+  },
+  {
+    "completions": [
+      {
+        "id": 74001,
+        "lead_time": 12.508,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "EtJ88vnBeV",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-13.PNG"
+    },
+    "id": 74
+  },
+  {
+    "completions": [
+      {
+        "id": 75001,
+        "lead_time": 44.453,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "A27wzkZgcJ",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-14.PNG"
+    },
+    "id": 75
+  },
+  {
+    "completions": [
+      {
+        "id": 76001,
+        "lead_time": 39.591,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qSoNFPg-Nd",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-15.PNG"
+    },
+    "id": 76
+  },
+  {
+    "completions": [
+      {
+        "id": 77001,
+        "lead_time": 6.715,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "pBsrApk_z-",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-16.PNG"
+    },
+    "id": 77
+  },
+  {
+    "completions": [
+      {
+        "id": 78001,
+        "lead_time": 3.705,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "MRcgMwnwDW",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-17.PNG"
+    },
+    "id": 78
+  },
+  {
+    "completions": [
+      {
+        "id": 79001,
+        "lead_time": 8.658,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_z9PTb0v6U",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Takut"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-18.PNG"
+    },
+    "id": 79
+  },
+  {
+    "completions": [
+      {
+        "id": 80001,
+        "lead_time": 5.82,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "1vVLbMFiBr",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-19.PNG"
+    },
+    "id": 80
+  },
+  {
+    "completions": [
+      {
+        "id": 81001,
+        "lead_time": 5.547,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "rYkD9GeSxs",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-20.PNG"
+    },
+    "id": 81
+  },
+  {
+    "completions": [
+      {
+        "id": 82001,
+        "lead_time": 23.767,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "5mnQh6JKVg",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-21.PNG"
+    },
+    "id": 82
+  },
+  {
+    "completions": [
+      {
+        "id": 83001,
+        "lead_time": 14.725,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "WsX2KqODCa",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-22.PNG"
+    },
+    "id": 83
+  },
+  {
+    "completions": [
+      {
+        "id": 84001,
+        "lead_time": 7.283,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "rPfS7yzZv1",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-23.PNG"
+    },
+    "id": 84
+  },
+  {
+    "completions": [
+      {
+        "id": 85001,
+        "lead_time": 28.776,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "XqhUMdYVzR",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-24.PNG"
+    },
+    "id": 85
+  },
+  {
+    "completions": [
+      {
+        "id": 86001,
+        "lead_time": 11.125,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "I5ZOn4MCST",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasi"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-25.PNG"
+    },
+    "id": 86
+  },
+  {
+    "completions": [
+      {
+        "id": 87001,
+        "lead_time": 4.881,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Tj82mHxjMc",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-26.PNG"
+    },
+    "id": 87
+  },
+  {
+    "completions": [
+      {
+        "id": 88001,
+        "lead_time": 7.679,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "TfqXkvFiUd",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-27.PNG"
+    },
+    "id": 88
+  },
+  {
+    "completions": [
+      {
+        "id": 89001,
+        "lead_time": 6.316,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "tCnOLc9T9y",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-28.PNG"
+    },
+    "id": 89
+  },
+  {
+    "completions": [
+      {
+        "id": 90001,
+        "lead_time": 9.008,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "RRok-y3GJR",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-29.PNG"
+    },
+    "id": 90
+  },
+  {
+    "completions": [
+      {
+        "id": 91001,
+        "lead_time": 30.459,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ECiHAeY_Gj",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-30.PNG"
+    },
+    "id": 91
+  },
+  {
+    "completions": [
+      {
+        "id": 92001,
+        "lead_time": 5.725,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "u6wAw0FzfP",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-31.PNG"
+    },
+    "id": 92
+  },
+  {
+    "completions": [
+      {
+        "id": 93001,
+        "lead_time": 6.941,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ozwMrvsWjo",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-32.PNG"
+    },
+    "id": 93
+  },
+  {
+    "completions": [
+      {
+        "id": 94001,
+        "lead_time": 3.633,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "jEsd8w3tl-",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-33.PNG"
+    },
+    "id": 94
+  },
+  {
+    "completions": [
+      {
+        "id": 95001,
+        "lead_time": 5.378,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "XwXHey43_W",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-34.PNG"
+    },
+    "id": 95
+  },
+  {
+    "completions": [
+      {
+        "id": 96001,
+        "lead_time": 7.16,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "L6epkWyAoo",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-35.PNG"
+    },
+    "id": 96
+  },
+  {
+    "completions": [
+      {
+        "id": 97001,
+        "lead_time": 6.947,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Z8ETN9IaFn",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-36.PNG"
+    },
+    "id": 97
+  },
+  {
+    "completions": [
+      {
+        "id": 98001,
+        "lead_time": 7.586,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "S6HJ3InQF7",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Perkelahian"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-37.PNG"
+    },
+    "id": 98
+  },
+  {
+    "completions": [
+      {
+        "id": 99001,
+        "lead_time": 3.438,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "1dPWgvovk9",
+            "to_name": "image",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Gamer/The%20Gamer-%20episode%203/The%20Gamer-%20episode%203-38.PNG"
+    },
+    "id": 99
+  }
+]
