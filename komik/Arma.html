@@ -85,7 +85,7 @@ var chart = new CanvasJS.Chart("chartContainer2", {
 		text: "Scene percentage"
 	},
 	axisY: {
-		title: "From 107 scene "
+		title: "From 76 scene "
 	},
 	data: [{        
 		type: "column",  
@@ -461,65 +461,65 @@ Artist
             var i = 0;
             $.each(data, function(key, value) {
                 i = i + 1;  
-                     var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);ArrTotal.push(ss);
-                if(value.completions[0].result[0].value.polygonlabels=="Romantis")  {
+                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);ArrTotal.push(ss);
+                if(value.completions[0].result[0].value.choices=="Romantis")  {
                     Romantis++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrRomantis.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Lucu") {
+                if(value.completions[0].result[0].value.choices=="Lucu") {
                     Lucu++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrLucu.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Perkelahian") {
+                if(value.completions[0].result[0].value.choices=="Perkelahian") {
                     Perkelahian++; 
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrPerkelahian.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Takut") {
+                if(value.completions[0].result[0].value.choices=="Takut") {
                     Takut++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrTakut.push(ss)}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Bahagia") {
+                if(value.completions[0].result[0].value.choices=="Bahagia") {
                     Bahagia++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrBahagia.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Sedih"){
+                if(value.completions[0].result[0].value.choices=="Sedih"){
                     Sedih++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrSedih.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Bingung"){
+                if(value.completions[0].result[0].value.choices=="Bingung"){
                     Bingung++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrBingung.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Drama"){
+                if(value.completions[0].result[0].value.choices=="Drama"){
                     Drama++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrDrama.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Fantasi") {
+                if(value.completions[0].result[0].value.choices=="Fantasi") {
                     Fantasi++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrFantasi.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Kaget")  {
+                if(value.completions[0].result[0].value.choices=="Kaget")  {
                     Kaget++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrKaget.push(ss);}
                 
-                if(value.completions[0].result[0].value.polygonlabels=="Marah")  {
+                if(value.completions[0].result[0].value.choices=="Marah")  {
                     Marah++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrMarah.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Lainnya")   {
+                if(value.completions[0].result[0].value.choices=="Lainnya")   {
                     Lainnya++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrLainnya.push(ss);}
 
             document.getElementById("Scene17").innerHTML =" Total data yang dilabeling \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + i;
