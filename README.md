@@ -27,11 +27,11 @@ Proses :
                           
 2. B (Hasil Labeling) : -
 3. Proses Visualisasi / Persentasi (Web Aplikasi) karena berbeda pada tiap-tiap html.maka css dan js terdapat pada masing-masing html.
-   Home Page:  
+   Home Page:\n
       https://inft.github.io/INFTWebToon.github.io/INFTWebtoon.html
-   List Chapter Webtoon:
+   List Chapter Webtoon:\n
       Misal: https://inft.github.io/INFTWebToon.github.io/komik/MageAndDemonQueen.html
       Webtoon lain seperti :Flawless, Pasutri Gaje, S.I.D dll.
-   Membaca Webtoon per chapter:
+   Membaca Webtoon per chapter:\n
       https://inft.github.io/INFTWebToon.github.io/komik/MageAndDemonQueen/MageAndDemonQueen%20episode%201.html
       
