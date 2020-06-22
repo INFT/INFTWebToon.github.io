@@ -28,6 +28,14 @@
   height: 70px;
   background: #555;
 }
+img {
+  width: 70px;
+  height: 70px;
+  background: #555;
+}
+    #id01{
+        color: :white;
+    }
 </style>
 <!--
 <style>
@@ -115,7 +123,6 @@ a
 <a href="INFTWebtoon.html" ><i class="fas fa-list"></i> list</a>
 </li>
 <li>
-<a href="    ../../INFTWebtoon.htmlmanga-list" ><i class="fas fa-list"></i> Manga List</a>
 </li>
 </ul>
 </section>
@@ -131,8 +138,173 @@ a
 <div class="ui grid mt-0 mb-0">
 <div class="dark-segment">
 <ul class="clearfix mb-0">
+<!-- 
+
+    <p>Click the button to sort the list ascending (A to Z):</p>
+    <p>Click again to sort the list descending (Z to A):</p>
+    
+    <button onclick="sortListDir()">Sort</button> -->
+    
+    <ul id="id01" style="color: white; font-size: 15px;">
+<p>A</p>
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\Arma.html">
+    <li >Arma
+    </li>
+</a>
+
+<p>C</p>
+
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\Choco Latte.html">
+    <li >Choco Latte
+    </li>
+</a> 
+
+<p>D</p>
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\Devil Number 4.html">
+    <li >Devil Number 4
+    </li>
+</a> 
+
+<p>F</p>
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\Flawless.html">
+    <li >Flawless
+    </li>
+</a>  
+
+<p>G</p>
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\Ghost Teller.html">
+    <li >Ghost Teller
+    </li>
+</a>  
+  
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\Girls of the Wild's.html">
+    <li >Girls of the Wild's
+    </li>
+</a>  
+
+<p>H</p>
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\Hooky.html">
+    <li >Hooky
+    </li>
+</a>   
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\House Daddy.html">
+    <li >House Daddy
+    </li>
+</a>   
+
+<p>K</p>
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\KOSAN 95!.html">
+    <li >KOSAN 95!
+    </li>
+</a>   
+
+<p>L</p>
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\LOOKISM.html">
+    <li >LOOKISM
+    </li>
+</a>   
+
+<p>M</p>
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\MageAndDemonQueen.html">
+    <li >MageAndDemonQueen
+    </li>
+</a>   
+
+<p>N</p>
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\Nan Yak.html">
+    <li >Nan Yak
+    </li>
+</a>   
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\Noblesse.html">
+    <li >Noblesse
+    </li>
+</a>   
+
+<p>O</p>
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\Orange Marmalade.html">
+    <li >Orange Marmalade
+    </li>
+</a>   
 
 
+<p>P</p>
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\Purple Hyacinth.html">
+    <li >Purple Hyacinth
+    </li>
+</a>   
+
+<p>S</p>
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\S.I.D.html">
+    <li >S.I.D
+    </li>
+</a>   
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\Save Me.html">
+    <li >Save Me
+    </li>
+</a>   
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\Shadow.html">
+    <li >Shadow
+    </li>
+</a>   
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\Super Secret.html">
+    <li >Super Secret
+    </li>
+</a>   
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\Switched Girls.html">
+    <li >Switched Girls
+    </li>
+</a>   
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\The Gamer.html">
+    <li >The Gamer
+    </li>
+</a>   
+
+<p>T</p>
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\The Red Book.html">
+    <li >The Red Book
+    </li>
+</a>   
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\The Secret Of Angels.html">
+    <li >The Secret Of Angels
+    </li>
+</a>   
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\Trickster.html">
+    <li >Trickster
+    </li>
+</a>   
+
+<p>W</p>
+<!-- list -------------------------------------------------------------------------------- -->
+<a href="komik\Watermelon.html">
+    <li >Watermelon
+    </li>
+</a>   
+
+    </ul>
 
 
 </ul>
@@ -218,6 +390,63 @@ a
 </script>
 <script async="" id="dsq-count-scr" src="manga\Tower of God Manga_files/count.js" type="text/javascript"></script>
 <script>
+
+
+function sortListDir() {
+  var list, i, switching, b, shouldSwitch, dir, switchcount = 0;
+  list = document.getElementById("id01");
+  switching = true;
+  // Set the sorting direction to ascending:
+  dir = "asc"; 
+  // Make a loop that will continue until no switching has been done:
+  while (switching) {
+    // start by saying: no switching is done:
+    switching = false;
+    b = list.getElementsByTagName("LI");
+    // Loop through all list-items:
+    for (i = 0; i < (b.length - 1); i++) {
+      //start by saying there should be no switching:
+      shouldSwitch = false;
+      /* check if the next item should switch place with the current item,
+      based on the sorting direction (asc or desc): */
+      if (dir == "asc") {
+        if (b[i].innerHTML.toLowerCase() > b[i + 1].innerHTML.toLowerCase()) {
+          /* if next item is alphabetically lower than current item,
+          mark as a switch and break the loop: */
+          shouldSwitch = true;
+          break;
+        }
+      } else if (dir == "desc") {
+        if (b[i].innerHTML.toLowerCase() < b[i + 1].innerHTML.toLowerCase()) {
+          /* if next item is alphabetically higher than current item,
+          mark as a switch and break the loop: */
+          shouldSwitch= true;
+          break;
+        }
+      }
+    }
+    if (shouldSwitch) {
+      /* If a switch has been marked, make the switch
+      and mark that a switch has been done: */
+      b[i].parentNode.insertBefore(b[i + 1], b[i]);
+      switching = true;
+      // Each time a switch is done, increase switchcount by 1:
+      switchcount ++;
+    } else {
+      /* If no switching has been done AND the direction is "asc",
+      set the direction to "desc" and run the while loop again. */
+      if (switchcount == 0 && dir == "asc") {
+        dir = "desc";
+        switching = true;
+      }
+    }
+  }
+}
+
+
+
+
+
     function myFunctionsearch() {
     var input, filter, ul, li, a, i, txtValue;
     input = document.getElementById("myInput");
