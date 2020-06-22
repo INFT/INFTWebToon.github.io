@@ -1,0 +1,2777 @@
+[
+  {
+    "completions": [
+      {
+        "id": 1,
+        "lead_time": 3.706,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "6Ld8ml9R3_",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/0.jpg"
+    },
+    "id": 0
+  },
+  {
+    "completions": [
+      {
+        "id": 1001,
+        "lead_time": 2.33,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "1iRle0lmTP",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/1.jpg"
+    },
+    "id": 1
+  },
+  {
+    "completions": [
+      {
+        "id": 10001,
+        "lead_time": 6.404,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xWp-8qbTX8",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengobrol"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/10.jpg"
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "id": 100001,
+        "lead_time": 8.037,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Lh4mv5mouY",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 -  Waves (2)/45.jpg"
+    },
+    "id": 100
+  },
+  {
+    "completions": [
+      {
+        "id": 101001,
+        "lead_time": 7.308,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "YMeRF8I1pL",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/46.jpg"
+    },
+    "id": 101
+  },
+  {
+    "completions": [
+      {
+        "id": 102001,
+        "lead_time": 7.27,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "i4nos1cPFl",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/47.jpg"
+    },
+    "id": 102
+  },
+  {
+    "completions": [
+      {
+        "id": 103001,
+        "lead_time": 3.536,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "2oORvBBe9d",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/48.jpg"
+    },
+    "id": 103
+  },
+  {
+    "completions": [
+      {
+        "id": 104001,
+        "lead_time": 9.495,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "r5JgK32xsU",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/49.jpg"
+    },
+    "id": 104
+  },
+  {
+    "completions": [
+      {
+        "id": 105001,
+        "lead_time": 2.313,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "DrvUQmpJR9",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/50.jpg"
+    },
+    "id": 105
+  },
+  {
+    "completions": [
+      {
+        "id": 106001,
+        "lead_time": 18.001,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "iONUNIV_ae",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/51.jpg"
+    },
+    "id": 106
+  },
+  {
+    "completions": [
+      {
+        "id": 107001,
+        "lead_time": 2.932,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "QcckdXtzYY",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/52.jpg"
+    },
+    "id": 107
+  },
+  {
+    "completions": [
+      {
+        "id": 108001,
+        "lead_time": 3.455,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "AA3xPANUJf",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/53.jpg"
+    },
+    "id": 108
+  },
+  {
+    "completions": [
+      {
+        "id": 109001,
+        "lead_time": 3.447,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qr_WpwDbZx",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/54.jpg"
+    },
+    "id": 109
+  },
+  {
+    "completions": [
+      {
+        "id": 11001,
+        "lead_time": 4.559,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Q-Tm-87yTm",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengobrol"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/11.jpg"
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "id": 110001,
+        "lead_time": 11.551,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "T-jYeazFMN",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kebingungan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/55.jpg"
+    },
+    "id": 110
+  },
+  {
+    "completions": [
+      {
+        "id": 12001,
+        "lead_time": 6.555,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ECfYKXoFVJ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/12.jpg"
+    },
+    "id": 12
+  },
+  {
+    "completions": [
+      {
+        "id": 13001,
+        "lead_time": 5.819,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "MI3pab6ql0",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/13.jpg"
+    },
+    "id": 13
+  },
+  {
+    "completions": [
+      {
+        "id": 14001,
+        "lead_time": 2.942,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "8TTGHKoPUj",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/14.jpg"
+    },
+    "id": 14
+  },
+  {
+    "completions": [
+      {
+        "id": 15001,
+        "lead_time": 2.504,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "WRSHjTCGAA",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/15.jpg"
+    },
+    "id": 15
+  },
+  {
+    "completions": [
+      {
+        "id": 16001,
+        "lead_time": 6.022,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "cwq_KkuNzC",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/16.jpg"
+    },
+    "id": 16
+  },
+  {
+    "completions": [
+      {
+        "id": 17001,
+        "lead_time": 4.429,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "shOss7411h",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/17.jpg"
+    },
+    "id": 17
+  },
+  {
+    "completions": [
+      {
+        "id": 18001,
+        "lead_time": 4.34,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "f7pSOBcT5w",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/18.jpg"
+    },
+    "id": 18
+  },
+  {
+    "completions": [
+      {
+        "id": 19001,
+        "lead_time": 6.018,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "mRSzfJ12Ck",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/19.jpg"
+    },
+    "id": 19
+  },
+  {
+    "completions": [
+      {
+        "id": 2001,
+        "lead_time": 2.777,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "cC-QNk2J2j",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/2.jpg"
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "id": 20001,
+        "lead_time": 3.829,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ryVEdmEFJa",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengobrol"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/20.jpg"
+    },
+    "id": 20
+  },
+  {
+    "completions": [
+      {
+        "id": 21001,
+        "lead_time": 9.312,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Otbt1TAu7C",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/21.jpg"
+    },
+    "id": 21
+  },
+  {
+    "completions": [
+      {
+        "id": 22001,
+        "lead_time": 4.458,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "EHP2i-ifCx",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/22.jpg"
+    },
+    "id": 22
+  },
+  {
+    "completions": [
+      {
+        "id": 23001,
+        "lead_time": 4.944,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "DBtGuEIHH5",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/23.jpg"
+    },
+    "id": 23
+  },
+  {
+    "completions": [
+      {
+        "id": 24001,
+        "lead_time": 2.647,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "X4cbN1EoPT",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/24.jpg"
+    },
+    "id": 24
+  },
+  {
+    "completions": [
+      {
+        "id": 25001,
+        "lead_time": 3.046,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "TgAoae2GAS",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengobrol"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/25.jpg"
+    },
+    "id": 25
+  },
+  {
+    "completions": [
+      {
+        "id": 26001,
+        "lead_time": 5.835,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4pUIYX6AbN",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kebingungan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/26.jpg"
+    },
+    "id": 26
+  },
+  {
+    "completions": [
+      {
+        "id": 27001,
+        "lead_time": 3.127,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "i0fs7UaMZk",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/27.jpg"
+    },
+    "id": 27
+  },
+  {
+    "completions": [
+      {
+        "id": 28001,
+        "lead_time": 32.034,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "aMRJ9uh3Ar",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/28.jpg"
+    },
+    "id": 28
+  },
+  {
+    "completions": [
+      {
+        "id": 29001,
+        "lead_time": 10.697,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_3wrYSUKuf",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/29.jpg"
+    },
+    "id": 29
+  },
+  {
+    "completions": [
+      {
+        "id": 3001,
+        "lead_time": 3.09,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "rEWCPpyOFL",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/3.jpg"
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "id": 30001,
+        "lead_time": 6.744,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "v_ropzekP8",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengobrol"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/30.jpg"
+    },
+    "id": 30
+  },
+  {
+    "completions": [
+      {
+        "id": 31001,
+        "lead_time": 3.85,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "DHwNEJ9U_6",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/31.jpg"
+    },
+    "id": 31
+  },
+  {
+    "completions": [
+      {
+        "id": 32001,
+        "lead_time": 4.941,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fyZCTuy3jI",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/32.jpg"
+    },
+    "id": 32
+  },
+  {
+    "completions": [
+      {
+        "id": 33001,
+        "lead_time": 4.548,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "jj8uID5vG_",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/33.jpg"
+    },
+    "id": 33
+  },
+  {
+    "completions": [
+      {
+        "id": 34001,
+        "lead_time": 3.561,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "V6ENYD8pyB",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/34.jpg"
+    },
+    "id": 34
+  },
+  {
+    "completions": [
+      {
+        "id": 35001,
+        "lead_time": 10.98,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "mKIkgbZVLx",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/35.jpg"
+    },
+    "id": 35
+  },
+  {
+    "completions": [
+      {
+        "id": 36001,
+        "lead_time": 5.484,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "A7jz7UBQ6r",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/36.jpg"
+    },
+    "id": 36
+  },
+  {
+    "completions": [
+      {
+        "id": 37001,
+        "lead_time": 5.76,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "oWA1EEDj-I",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/37.jpg"
+    },
+    "id": 37
+  },
+  {
+    "completions": [
+      {
+        "id": 38001,
+        "lead_time": 16.086,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "RPQ0NhhlJG",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/38.jpg"
+    },
+    "id": 38
+  },
+  {
+    "completions": [
+      {
+        "id": 39001,
+        "lead_time": 3.697,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qVQ10wfd9v",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/39.jpg"
+    },
+    "id": 39
+  },
+  {
+    "completions": [
+      {
+        "id": 4001,
+        "lead_time": 7.757,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "VFrRFHQuKk",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/4.jpg"
+    },
+    "id": 4
+  },
+  {
+    "completions": [
+      {
+        "id": 40001,
+        "lead_time": 2.65,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "XFykYwmV7z",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/40.jpg"
+    },
+    "id": 40
+  },
+  {
+    "completions": [
+      {
+        "id": 41001,
+        "lead_time": 5.513,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "75yqg0MOtI",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/41.jpg"
+    },
+    "id": 41
+  },
+  {
+    "completions": [
+      {
+        "id": 42001,
+        "lead_time": 3.278,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "P7fDLadpRH",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/42.jpg"
+    },
+    "id": 42
+  },
+  {
+    "completions": [
+      {
+        "id": 43001,
+        "lead_time": 2.925,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "TSbtAc24x1",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/43.jpg"
+    },
+    "id": 43
+  },
+  {
+    "completions": [
+      {
+        "id": 44001,
+        "lead_time": 5.799,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "WJuJaGHadV",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/44.jpg"
+    },
+    "id": 44
+  },
+  {
+    "completions": [
+      {
+        "id": 45001,
+        "lead_time": 3.768,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "NC_xbvFKPZ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/45.jpg"
+    },
+    "id": 45
+  },
+  {
+    "completions": [
+      {
+        "id": 46001,
+        "lead_time": 2.612,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "tB7bGCdpU4",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/46.jpg"
+    },
+    "id": 46
+  },
+  {
+    "completions": [
+      {
+        "id": 47001,
+        "lead_time": 2.606,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "bpCBF314ma",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/47.jpg"
+    },
+    "id": 47
+  },
+  {
+    "completions": [
+      {
+        "id": 48001,
+        "lead_time": 2.807,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "RspY_NwWXU",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/48.jpg"
+    },
+    "id": 48
+  },
+  {
+    "completions": [
+      {
+        "id": 49001,
+        "lead_time": 16.267,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "EgbY8LdHJP",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/49.jpg"
+    },
+    "id": 49
+  },
+  {
+    "completions": [
+      {
+        "id": 5001,
+        "lead_time": 8.046,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "daROdmEyZk",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/5.jpg"
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "id": 50001,
+        "lead_time": 5.665,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "44RpMhawRo",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/50.jpg"
+    },
+    "id": 50
+  },
+  {
+    "completions": [
+      {
+        "id": 51001,
+        "lead_time": 3.755,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "8lA-j8pQRW",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/51.jpg"
+    },
+    "id": 51
+  },
+  {
+    "completions": [
+      {
+        "id": 52001,
+        "lead_time": 13.644,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "M2sgx0i8Rj",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/52.jpg"
+    },
+    "id": 52
+  },
+  {
+    "completions": [
+      {
+        "id": 53001,
+        "lead_time": 2.888,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "06fmnmLxgE",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/53.jpg"
+    },
+    "id": 53
+  },
+  {
+    "completions": [
+      {
+        "id": 54001,
+        "lead_time": 5.645,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "E1ojFewCI0",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/54.jpg"
+    },
+    "id": 54
+  },
+  {
+    "completions": [
+      {
+        "id": 55001,
+        "lead_time": 5.68,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "THKbMO00X_",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/0.jpg"
+    },
+    "id": 55
+  },
+  {
+    "completions": [
+      {
+        "id": 56001,
+        "lead_time": 10.579,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "NNy0QZsU1M",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/1.jpg"
+    },
+    "id": 56
+  },
+  {
+    "completions": [
+      {
+        "id": 57001,
+        "lead_time": 3.863,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "T4IvY70ABf",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/2.jpg"
+    },
+    "id": 57
+  },
+  {
+    "completions": [
+      {
+        "id": 58001,
+        "lead_time": 4.764,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "8jaQsJpbWZ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/3.jpg"
+    },
+    "id": 58
+  },
+  {
+    "completions": [
+      {
+        "id": 59001,
+        "lead_time": 3.004,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "RCLMa7W8d3",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/4.jpg"
+    },
+    "id": 59
+  },
+  {
+    "completions": [
+      {
+        "id": 6001,
+        "lead_time": 6.454,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "hnRKIpyLnz",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/6.jpg"
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "id": 60001,
+        "lead_time": 3.01,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "KY9OBS2ubl",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/5.jpg"
+    },
+    "id": 60
+  },
+  {
+    "completions": [
+      {
+        "id": 61001,
+        "lead_time": 3.117,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "11BZI1zHQF",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/6.jpg"
+    },
+    "id": 61
+  },
+  {
+    "completions": [
+      {
+        "id": 62001,
+        "lead_time": 2.957,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "jQy43x9X-Q",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/7.jpg"
+    },
+    "id": 62
+  },
+  {
+    "completions": [
+      {
+        "id": 63001,
+        "lead_time": 7.586,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "sjwwuvw1js",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/8.jpg"
+    },
+    "id": 63
+  },
+  {
+    "completions": [
+      {
+        "id": 64001,
+        "lead_time": 6.975,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "LkvkU7rlsp",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/9.jpg"
+    },
+    "id": 64
+  },
+  {
+    "completions": [
+      {
+        "id": 65001,
+        "lead_time": 4.482,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "BbFoc6AyIu",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/10.jpg"
+    },
+    "id": 65
+  },
+  {
+    "completions": [
+      {
+        "id": 66001,
+        "lead_time": 8.293,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "9n3fbyLZnJ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/11.jpg"
+    },
+    "id": 66
+  },
+  {
+    "completions": [
+      {
+        "id": 67001,
+        "lead_time": 3.799,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "mVKiDPDN9B",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/12.jpg"
+    },
+    "id": 67
+  },
+  {
+    "completions": [
+      {
+        "id": 68001,
+        "lead_time": 8.605,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "sJnMdJF30m",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/13.jpg"
+    },
+    "id": 68
+  },
+  {
+    "completions": [
+      {
+        "id": 69001,
+        "lead_time": 4.877,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "O85wolQ7Vi",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/14.jpg"
+    },
+    "id": 69
+  },
+  {
+    "completions": [
+      {
+        "id": 7001,
+        "lead_time": 4.179,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "iuoUKaGwhm",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/7.jpg"
+    },
+    "id": 7
+  },
+  {
+    "completions": [
+      {
+        "id": 70001,
+        "lead_time": 14.403,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "z8NSb-D578",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/15.jpg"
+    },
+    "id": 70
+  },
+  {
+    "completions": [
+      {
+        "id": 71001,
+        "lead_time": 5.903,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "h0i5RGHPql",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/16.jpg"
+    },
+    "id": 71
+  },
+  {
+    "completions": [
+      {
+        "id": 72001,
+        "lead_time": 4.977,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "VI4DpgR-IX",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/17.jpg"
+    },
+    "id": 72
+  },
+  {
+    "completions": [
+      {
+        "id": 73001,
+        "lead_time": 2.545,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "gBRc2eYRkr",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/18.jpg"
+    },
+    "id": 73
+  },
+  {
+    "completions": [
+      {
+        "id": 74001,
+        "lead_time": 2.793,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "c_pzgKTsht",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Ketakutan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/19.jpg"
+    },
+    "id": 74
+  },
+  {
+    "completions": [
+      {
+        "id": 75001,
+        "lead_time": 14.605,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "yx0JybUmTn",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/20.jpg"
+    },
+    "id": 75
+  },
+  {
+    "completions": [
+      {
+        "id": 76001,
+        "lead_time": 6.307,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "rzgA2vTAQ5",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengobrol"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/21.jpg"
+    },
+    "id": 76
+  },
+  {
+    "completions": [
+      {
+        "id": 77001,
+        "lead_time": 3.419,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "hTSOZRnr3P",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "marah"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/22.jpg"
+    },
+    "id": 77
+  },
+  {
+    "completions": [
+      {
+        "id": 78001,
+        "lead_time": 5.137,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qyGln12Xjf",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/23.jpg"
+    },
+    "id": 78
+  },
+  {
+    "completions": [
+      {
+        "id": 79001,
+        "lead_time": 3.751,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Dk0p8nihuL",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/24.jpg"
+    },
+    "id": 79
+  },
+  {
+    "completions": [
+      {
+        "id": 8001,
+        "lead_time": 4.569,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "eGxkbmgDIX",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/8.jpg"
+    },
+    "id": 8
+  },
+  {
+    "completions": [
+      {
+        "id": 80001,
+        "lead_time": 8.282,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4iHbVst1b6",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "marah"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/25.jpg"
+    },
+    "id": 80
+  },
+  {
+    "completions": [
+      {
+        "id": 81001,
+        "lead_time": 8.933,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "yyDtNLemRf",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/26.jpg"
+    },
+    "id": 81
+  },
+  {
+    "completions": [
+      {
+        "id": 82001,
+        "lead_time": 6.392,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "U2OfwwEm2L",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengobrol"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/27.jpg"
+    },
+    "id": 82
+  },
+  {
+    "completions": [
+      {
+        "id": 83001,
+        "lead_time": 4.157,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_uRfaIFBfr",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengobrol"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/28.jpg"
+    },
+    "id": 83
+  },
+  {
+    "completions": [
+      {
+        "id": 84001,
+        "lead_time": 21.623,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "dVJrZxodtJ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengobrol"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/29.jpg"
+    },
+    "id": 84
+  },
+  {
+    "completions": [
+      {
+        "id": 85001,
+        "lead_time": 8.343,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "n4SsARwz-s",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengobrol"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/30.jpg"
+    },
+    "id": 85
+  },
+  {
+    "completions": [
+      {
+        "id": 86001,
+        "lead_time": 4.491,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "k9jVcTAgxk",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/31.jpg"
+    },
+    "id": 86
+  },
+  {
+    "completions": [
+      {
+        "id": 87001,
+        "lead_time": 5.202,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "vraMDGhWSz",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengobrol"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/32.jpg"
+    },
+    "id": 87
+  },
+  {
+    "completions": [
+      {
+        "id": 88001,
+        "lead_time": 13.758,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fEL7sKEndu",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengobrol"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/33.jpg"
+    },
+    "id": 88
+  },
+  {
+    "completions": [
+      {
+        "id": 89001,
+        "lead_time": 10.799,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "GBzOLBG3WF",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/34.jpg"
+    },
+    "id": 89
+  },
+  {
+    "completions": [
+      {
+        "id": 9001,
+        "lead_time": 3.336,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "XDX-21Idgs",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 1 -  Waves (1)/9.jpg"
+    },
+    "id": 9
+  },
+  {
+    "completions": [
+      {
+        "id": 90001,
+        "lead_time": 12.494,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "yWRVaOusOH",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengobrol"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/35.jpg"
+    },
+    "id": 90
+  },
+  {
+    "completions": [
+      {
+        "id": 91001,
+        "lead_time": 6.389,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "0VB7gt6_YX",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/36.jpg"
+    },
+    "id": 91
+  },
+  {
+    "completions": [
+      {
+        "id": 92001,
+        "lead_time": 4.61,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ug7s66hnrV",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/37.jpg"
+    },
+    "id": 92
+  },
+  {
+    "completions": [
+      {
+        "id": 93001,
+        "lead_time": 5.092,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "GZBR0HAUli",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/38.jpg"
+    },
+    "id": 93
+  },
+  {
+    "completions": [
+      {
+        "id": 94001,
+        "lead_time": 3.098,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "9zEsDLJ4AK",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/39.jpg"
+    },
+    "id": 94
+  },
+  {
+    "completions": [
+      {
+        "id": 95001,
+        "lead_time": 3.496,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "vv6YTkYs83",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/40.jpg"
+    },
+    "id": 95
+  },
+  {
+    "completions": [
+      {
+        "id": 96001,
+        "lead_time": 5.178,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "0kCzB12ILN",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/41.jpg"
+    },
+    "id": 96
+  },
+  {
+    "completions": [
+      {
+        "id": 97001,
+        "lead_time": 14.977,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "LE5DTQlHTI",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/42.jpg"
+    },
+    "id": 97
+  },
+  {
+    "completions": [
+      {
+        "id": 98001,
+        "lead_time": 9.386,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "I4e3sgsEAf",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "mengegangkan"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/43.jpg"
+    },
+    "id": 98
+  },
+  {
+    "completions": [
+      {
+        "id": 99001,
+        "lead_time": 3.985,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "x1Jp4iw9Py",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Berfikir"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/S.I.D/Ep. 2 - Waves (2)/44.jpg"
+    },
+    "id": 99
+  }
+]
