@@ -1,5 +1,120 @@
 <!DOCTYPE html>
-<html xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en"><head>
+<html xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en">
+<head>
+    <style>
+        .buttontabel {
+          display: inline-block;
+          padding: 5px 5px;
+          font-size: 20px;
+          cursor: pointer;
+          text-align: center;
+          text-decoration: none;
+          outline: none;
+          color: #fff;
+          background-color: #555555 ;
+          border: none;
+          border-radius: 10px;
+          box-shadow: 0 4px #999;
+        }
+        
+        .buttontabel:hover {background-color: #101010}
+        
+        .buttontabel:active {
+          background-color: #555555;
+          box-shadow: 0 5px #666;
+          transform: translateY(4px);
+        }
+        #chartContainer{
+            float: left;
+        }
+        #chartContainer2{
+            float: right;
+        }
+		#header img {
+			margin-left: 70px;
+			width: 70px;
+			height: 70px;
+			background: #555;
+			border-radius: 50%;
+        }
+        </style>
+    <script>
+        function myFunction() {
+
+var chart = new CanvasJS.Chart("chartContainer", {
+	exportEnabled: true,
+	animationEnabled: true,
+    theme: "dark1",
+	title:{
+		text: "Scene Percentage"
+	},
+	legend:{
+		cursor: "pointer",
+		itemclick: explodePie
+	},
+	data: [{
+		type: "pie",
+		showInLegend: true,
+		toolTipContent: "{name}: <strong>{y}</strong> ",
+        indexLabel: "{name} - {y}",
+		dataPoints: [
+            { y: Number(localStorage.getItem('Drama')), name: "Drama"},
+			{ y: Number(localStorage.getItem('Action')), name: "Action" },
+			{ y: Number(localStorage.getItem('Fantasy')), name: "Fantasy",},
+            { y: Number(localStorage.getItem('Romance')), name: " Romance"},
+			{ y: Number(localStorage.getItem('Creepy')), name: "Creepy" },	
+            { y: Number(localStorage.getItem('Bullying')), name: "Bullying" },	
+			{ y: Number(localStorage.getItem('SliceOfLife')), name: "SliceOfLife"},
+			{ y: Number(localStorage.getItem('Others')), name: "Others" }
+		]
+	}]
+});
+chart.render();
+}
+
+function myFunction2() {
+
+var chart = new CanvasJS.Chart("chartContainer2", {
+    animationEnabled: true,
+	theme: "dark1", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: "Scene percentage"
+	},
+	axisY: {
+		title: "From 105 scene "
+	},
+	data: [{        
+		type: "column",  
+		showInLegend: true, 
+		legendMarkerColor: "grey",
+		legendText: "Scene name ",
+		dataPoints: [
+            { y: Number(localStorage.getItem('Drama')), label: "Drama"},
+            { y: Number(localStorage.getItem('Action')), label: "Action" },
+			{ y: Number(localStorage.getItem('Fantasy')), label: "Fantasy",},
+            { y: Number(localStorage.getItem('Romance')), label: " Romance"},
+			{ y: Number(localStorage.getItem('Creepy')), label: "Creepy" },
+            { y: Number(localStorage.getItem('Bullying')), label: "Bullying" },
+			{ y: Number(localStorage.getItem('SliceOfLife')), label: "SliceOfLife"},
+			{ y: Number(localStorage.getItem('Others')), label: "Others" }
+		]
+	}]
+});
+chart.render();
+
+}
+       
+       function explodePie (e) {
+           if(typeof (e.dataSeries.dataPoints[e.dataPointIndex].exploded) === "undefined" || !e.dataSeries.dataPoints[e.dataPointIndex].exploded) {
+               e.dataSeries.dataPoints[e.dataPointIndex].exploded = true;
+           } else {
+               e.dataSeries.dataPoints[e.dataPointIndex].exploded = false;
+           }
+           e.chart.render();
+       
+       }
+       
+       </script>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1, shrink-to-fit=no">
 <title>KOSAN 95!</title>
@@ -18,9 +133,10 @@
 <body class="fluid"><main id="wrapper">
 <header id="header">
 <button class="mobile-menu-trigger"><span></span></button>
-<div id="logo">
-<a href=" ../INFTWebtoon.html" ></a>
-</div>
+<a id="logo" href="../INFTWebtoon.html"  >
+    <img src="../LogoINFTWebToon.PNG" alt="logo"  />
+<a ></a>
+</a>
 <div id="header-middle">
 <div id="search">
 <div>
@@ -53,210 +169,17 @@
     <h5 class="section-heading">MENU</h5>
     <ul class="guide-icon-menu">
     <li class="active">
-    <a href=" ../INFTWebtoon.html" ><i class="fas fa-home"></i> Home</a>
+    <a href="../INFTWebtoon.html" ><i class="fas fa-home"></i> Home</a>
     </li>
     <li>
-    <a href=" ../INFTWebtoon.htmlmanga-list" ><i class="fas fa-list"></i> Manga List</a>
+    <a href="../INFTWebtoon.htmlid/dailySchedule" ><i class="fas fa-list"></i> Manga List</a>
     </li>
 
     </ul>
     </section>
     <section class="guide-menu">
     <h5 class="section-heading">CATEGORIES</h5>
-        <!--
-        <ul class="trending-thisweek categories">
-        <li data-id="action">
-        <a href=" ../INFTWebtoon.htmlcategory/action" title="Action" >
-        <h5 class="truncate"> Action</h5>
-        </a>
-        </li>
-        <li data-id="adventure">
-        <a href=" ../INFTWebtoon.htmlcategory/adventure" title="Adventure" >
-        <h5 class="truncate"> Adventure</h5>
-        </a>
-        </li>
-        <li data-id="comedy">
-        <a href=" ../INFTWebtoon.htmlcategory/comedy" title="Comedy" >
-        <h5 class="truncate"> Comedy</h5>
-        </a>
-        </li>
-        <li data-id="doujinshi">
-        <a href=" ../INFTWebtoon.htmlcategory/doujinshi" title="Doujinshi" >
-        <h5 class="truncate"> Doujinshi</h5>
-        </a>
-        </li>
-        <li data-id="drama">
-        <a href=" ../INFTWebtoon.htmlcategory/drama" title="Drama" >
-        <h5 class="truncate"> Drama</h5>
-        </a>
-        </li>
-        <li data-id="ecchi">
-        <a href=" ../INFTWebtoon.htmlcategory/ecchi" title="Ecchi" >
-        <h5 class="truncate"> Ecchi</h5>
-        </a>
-        </li>
-        <li data-id="fantasy">
-        <a href=" ../INFTWebtoon.htmlcategory/fantasy" title="Fantasy" >
-        <h5 class="truncate"> Fantasy</h5>
-        </a>
-        </li>
-        <li data-id="gender-bender">
-        <a href=" ../INFTWebtoon.htmlcategory/gender-bender" title="Gender Bender" >
-        <h5 class="truncate"> Gender Bender</h5>
-        </a>
-        </li>
-        <li data-id="harem">
-        <a href=" ../INFTWebtoon.htmlcategory/harem" title="Harem" >
-        <h5 class="truncate"> Harem</h5>
-        </a>
-        </li>
-        <li data-id="historical">
-        <a href=" ../INFTWebtoon.htmlcategory/historical" title="Historical" >
-        <h5 class="truncate"> Historical</h5>
-        </a>
-        </li>
-        <li data-id="horror">
-        <a href=" ../INFTWebtoon.htmlcategory/horror" title="Horror" >
-        <h5 class="truncate"> Horror</h5>
-        </a>
-        </li>
-        <li data-id="josei">
-        <a href=" ../INFTWebtoon.htmlcategory/josei" title="Josei" >
-        <h5 class="truncate"> Josei</h5>
-        </a>
-        </li>
-        <li data-id="lolicon">
-        <a href=" ../INFTWebtoon.htmlcategory/lolicon" title="Lolicon" >
-        <h5 class="truncate"> Lolicon</h5>
-        </a>
-        </li>
-        <li data-id="manga">
-        <a href=" ../INFTWebtoon.htmlcategory/manga" title="Manga" >
-        <h5 class="truncate"> Manga</h5>
-        </a>
-        </li>
-        <li data-id="manhua">
-        <a href=" ../INFTWebtoon.htmlcategory/manhua" title="Manhua" >
-        <h5 class="truncate"> Manhua</h5>
-        </a>
-        </li>
-        <li data-id="manhwa">
-        <a href=" ../INFTWebtoon.htmlcategory/manhwa" title="Manhwa" >
-        <h5 class="truncate"> Manhwa</h5>
-        </a>
-        </li>
-        <li data-id="martial-arts">
-        <a href=" ../INFTWebtoon.htmlcategory/martial-arts" title="Martial Arts" >
-        <h5 class="truncate"> Martial Arts</h5>
-        </a>
-        </li>
-        <li data-id="mecha">
-        <a href=" ../INFTWebtoon.htmlcategory/mecha" title="Mecha" >
-        <h5 class="truncate"> Mecha</h5>
-        </a>
-        </li>
-        <li data-id="mystery">
-        <a href=" ../INFTWebtoon.htmlcategory/mystery" title="Mystery" >
-        <h5 class="truncate"> Mystery</h5>
-        </a>
-        </li>
-        <li data-id="none">
-        <a href=" ../INFTWebtoon.htmlcategory/none" title="None" >
-        <h5 class="truncate"> None</h5>
-        </a>
-        </li>
-        <li data-id="one-shot">
-        <a href=" ../INFTWebtoon.htmlcategory/one-shot" title="One shot" >
-        <h5 class="truncate"> One shot</h5>
-        </a>
-        </li>
-        <li data-id="psychological">
-        <a href=" ../INFTWebtoon.htmlcategory/psychological" title="Psychological" >
-        <h5 class="truncate"> Psychological</h5>
-        </a>
-        </li>
-        <li data-id="romance">
-        <a href=" ../INFTWebtoon.htmlcategory/romance" title="Romance" >
-        <h5 class="truncate"> Romance</h5>
-        </a>
-        </li>
-        <li data-id="school-life">
-        <a href=" ../INFTWebtoon.htmlcategory/school-life" title="School Life" >
-        <h5 class="truncate"> School Life</h5>
-        </a>
-        </li>
-        <li data-id="sci-fi">
-        <a href=" ../INFTWebtoon.htmlcategory/sci-fi" title="Sci fi" >
-        <h5 class="truncate"> Sci fi</h5>
-        </a>
-        </li>
-        <li data-id="seinen">
-        <a href=" ../INFTWebtoon.htmlcategory/seinen" title="Seinen" >
-        <h5 class="truncate"> Seinen</h5>
-        </a>
-        </li>
-        <li data-id="shotacon">
-        <a href=" ../INFTWebtoon.htmlcategory/shotacon" title="Shotacon" >
-        <h5 class="truncate"> Shotacon</h5>
-        </a>
-        </li>
-        <li data-id="shoujo">
-        <a href=" ../INFTWebtoon.htmlcategory/shoujo" title="Shoujo" >
-        <h5 class="truncate"> Shoujo</h5>
-        </a>
-        </li>
-        <li data-id="shoujo-ai">
-        <a href=" ../INFTWebtoon.htmlcategory/shoujo-ai" title="Shoujo Ai" >
-        <h5 class="truncate"> Shoujo Ai</h5>
-        </a>
-        </li>
-        <li data-id="shounen">
-        <a href=" ../INFTWebtoon.htmlcategory/shounen" title="Shounen" >
-        <h5 class="truncate"> Shounen</h5>
-        </a>
-        </li>
-        <li data-id="shounen-ai">
-        <a href=" ../INFTWebtoon.htmlcategory/shounen-ai" title="Shounen Ai" >
-        <h5 class="truncate"> Shounen Ai</h5>
-        </a>
-        </li>
-        <li data-id="slice-of-life">
-        <a href=" ../INFTWebtoon.htmlcategory/slice-of-life" title="Slice of Life" >
-        <h5 class="truncate"> Slice of Life</h5>
-        </a>
-        </li>
-        <li data-id="sports">
-        <a href=" ../INFTWebtoon.htmlcategory/sports" title="Sports" >
-        <h5 class="truncate"> Sports</h5>
-        </a>
-        </li>
-        <li data-id="supernatural">
-        <a href=" ../INFTWebtoon.htmlcategory/supernatural" title="Supernatural" >
-        <h5 class="truncate"> Supernatural</h5>
-        </a>
-        </li>
-        <li data-id="tragedy">
-        <a href=" ../INFTWebtoon.htmlcategory/tragedy" title="Tragedy" >
-        <h5 class="truncate"> Tragedy</h5>
-        </a>
-        </li>
-        <li data-id="uncategorized">
-        <a href=" ../INFTWebtoon.htmlcategory/uncategorized" title="Uncategorized" >
-        <h5 class="truncate"> Uncategorized</h5>
-        </a>
-        </li>
-        <li data-id="yaoi">
-        <a href=" ../INFTWebtoon.htmlcategory/yaoi" title="Yaoi" >
-        <h5 class="truncate"> Yaoi</h5>
-        </a>
-        </li>
-        <li data-id="yuri">
-        <a href=" ../INFTWebtoon.htmlcategory/yuri" title="Yuri" >
-        <h5 class="truncate"> Yuri</h5>
-        </a>
-        </li>
-        </ul>
-        -->
+
     </section>
     </div>
     </aside>
@@ -268,16 +191,14 @@
 <div data-gets="" data-type="hdr"></div>
 <div class="ui grid">
 <div class="left floated sixteen wide tablet eight wide computer column">
-<a href=" ../INFTWebtoon.htmlmanga/7631" ><h1 class="page-title">KOSAN 95!</h1></a>
+<a href="KOSAN 95!.html" ><h1 class="page-title">KOSAN 95!</h1></a>
 <div class="sub-title pt-sm">Didiwalker</div> </div>
-<div class="right aligned floated sixteen wide tablet eight wide computer column" id="series-action-buttons">
+<div class="right aligned floated sixteen wide tablet eight wide computer column" id="series-Fantasy-buttons">
 
 </div>
 </div>
 <div id="series-tabs" class="ui pointing secondary menu">
 <a class="item active" data-tab="first">SUMMARY</a>
-<a href="javascript:;" class="item" id="comments-scroll">Comments</a>
-<a class="item" id="share-dialog" data-url=" ../INFTWebtoon.htmlmanga/7631">Share</a>
 </div>
 <div class="ui tab tab-segment active" data-tab="first">
 <div class="ui items">
@@ -289,8 +210,10 @@
 <article class="series-summary">
 <div class="series-summary-wrapper">
 <h2 class="section-heading">SUMMARY</h2>
-<p id="tv-series-desc"></p><p>Salah jika menganggap Kosan 95 sebagai kos-kosan biasa. Siapapun yang mendapatkan undangan mendapatkan kamar dan biaya ditanggung oleh tuan rumah, tapi dengan harga apa? Rena gadis biasa yang akan memasuki Kosan 95 yang penuh misteri!
-    <div class="ui list">
+<p id="tv-series-desc"></p><p>Salah jika menganggap Kosan 95 sebagai kos-kosan biasa.
+        Siapapun yang mendapatkan undangan mendapatkan kamar dan biaya ditanggung oleh tuan rumah,
+        tapi dengan harga apa? Rena gadis biasa yang akan memasuki Kosan 95 yang penuh misteri!</p><p></p>
+<div class="ui list">
 <div class="item"><span class="label">Genres: Drama</span></div>
 </div>
 <div class="media-meta">
@@ -300,11 +223,11 @@
 <span id="first_episode">
 
 Author
-<a href=" ../INFTWebtoon.htmlcast/5160" ><small>Didiwalker </small></a>
+<a href="../INFTWebtoon.htmlid/drama/kosan/list?title_no=840&page=1" ><small>Didiwalker</small></a>
 </span>
 <span id="last_episode">
 Artist
-<a href=" ../INFTWebtoon.htmlcast/5160" ><small>Didiwalker</small></a>
+<a href="../INFTWebtoon.htmlid/drama/kosan/list?title_no=840&page=1" ><small>Didiwalker</small></a>
 
 </span>
 </div>
@@ -332,7 +255,7 @@ Artist
 
 </div>
 </div>
-<h4 class="sidebar-heading" id="season-episode-list-title">Chapter List</h4>
+<h4 class="sidebar-heading" id="season-episode-list-title">Episode List</h4>
 <section class="episodes-box">
 <div class="ui grid">
 <div class="sixteen wide tablet three wide computer column" id="seasons-menu">
@@ -343,104 +266,143 @@ Artist
 <div class="tabular-content">
 <div class="episodes-list">
 <div class="ui list">
-<!--            list link per chapter start           -->    
+<!--            list link per Episode            -->
 <div class="item season_start">
 <table class="ui basic unstackable table">
 <tbody>
 <tr>
 <td class="collapsing table-episode-check">
-<div class="ui checkbox ordi mark-read " data-manga-id="7631" data-chapter-id="434550" onlyusers="">
- <input type="checkbox" disabled="disabled" tabindex="0" class="hidden">
+<div class="ui checkbox ordi mark-read " data-manga-id="7631" data-chapter-id="428475" onlyusers="">
+<input type="checkbox" disabled="disabled" tabindex="0" class="hidden">
 <label></label>
 </div>
 </td>
+<td id="table-episodes-title" class="table-episodes-title">
+    <h6 class="truncate"><a href="KOSAN 95!\KOSAN 95!-episode1(Surat).html" >Episode 1 (Surat) </a></h6></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--            list link per Episode            -->
+<div class="item season_start">
+<table class="ui basic unstackable table">
+<tbody>
+<tr>
+<td class="collapsing table-episode-check">
+<div class="ui checkbox ordi mark-read " data-manga-id="7631" data-chapter-id="428475" onlyusers="">
+<input type="checkbox" disabled="disabled" tabindex="0" class="hidden">
+<label></label>
+</div>
+</td>
+<td id="table-episodes-title" class="table-episodes-title">
+    <h6 class="truncate"><a href="KOSAN 95!\KOSAN 95!-episode2(Petunjuk).html" >Episode 2 (Petunjuk) </a></h6></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--            list link per Episode            -->
+<div class="item season_start">
+<table class="ui basic unstackable table">
+<tbody>
+<tr>
+<td class="collapsing table-episode-check">
+<div class="ui checkbox ordi mark-read " data-manga-id="7631" data-chapter-id="428475" onlyusers="">
+<input type="checkbox" disabled="disabled" tabindex="0" class="hidden">
+<label></label>
+</div>
+</td>
+<td id="table-episodes-title" class="table-episodes-title">
+    <h6 class="truncate"><a href="KOSAN 95!\KOSAN 95!-episode2(Petunjuk).html" >Episode 3 (Petunjuk) </a></h6></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--            list link per Episode            -->
+<div class="item season_start">
+    <table class="ui basic unstackable table">
+    <tbody>
+    <tr>
+    <td class="collapsing table-episode-check">
+    <div class="ui checkbox ordi mark-read " data-manga-id="7631" data-chapter-id="428475" onlyusers="">
+    <input type="checkbox" disabled="disabled" tabindex="0" class="hidden">
+    <label></label>
+    </div>
+    </td>
+    <td id="table-episodes-title" class="table-episodes-title">
+        <h6 class="truncate"><a href="KOSAN 95!\KOSAN 95!-episode4(Mereka).html" >Episode 4 (Mereka) </a></h6></td>
+    </tr>
+    </tbody>
+    </table>
+    </div>
+    <!--            list link per Episode            -->
+    <div class="item season_start">
+        <table class="ui basic unstackable table">
+        <tbody>
+        <tr>
+        <td class="collapsing table-episode-check">
+        <div class="ui checkbox ordi mark-read " data-manga-id="7631" data-chapter-id="428475" onlyusers="">
+        <input type="checkbox" disabled="disabled" tabindex="0" class="hidden">
+        <label></label>
+        </div>
+        </td>
+        <td id="table-episodes-title" class="table-episodes-title">
+            <h6 class="truncate"><a href="KOSAN 95!\KOSAN 95!-episode5(Keputusan).html" >Episode 5 (Keputusan) </a></h6></td>
+        </tr>
+        </tbody>
+        </table>
+        </div>
+        <!--            list link per Episode            -->
+<div id="headline" class="tengah"></div>
+<p id="List"></p>
+<p id="Scene1"></p>
+<p id="Scene2"></p>
+<p id="Scene3"></p>
+<p id="Scene4"></p>
+<p id="Scene5"></p>
+<p id="Scene6"></p>
+<p id="Scene7"></p>
+<p id="Scene8"></p>
+<p id="Scene9"></p>
+<p id="Scene10"></p>
+<p id="Scene11"></p>
+<p id="Scene12"></p>
+<p id="Scene13"></p>
+<p id="Scene14"></p>
+<p id="Scene15"></p>
+<p id="Scene16"></p>
 
-<td id="table-episodes-title" class="table-episodes-title">
-    <h6 class="truncate"><a href="KOSAN 95!\KOSAN 95!-episode1(Surat).html" >Episode 1 </a></h6></td>
-</tr>
-</tbody>
-</table>
-</div>
-<!--            list link per chapter            -->
-<div class="item season_start">
-<table class="ui basic unstackable table">
-<tbody>
-<tr>
-<td class="collapsing table-episode-check">
-<div class="ui checkbox ordi mark-read " data-manga-id="7631" data-chapter-id="428475" onlyusers="">
-<input type="checkbox" disabled="disabled" tabindex="0" class="hidden">
-<label></label>
-</div>
-</td>
-<td id="table-episodes-title" class="table-episodes-title">
-    <h6 class="truncate"><a href="KOSAN 95!\KOSAN 95!-episode2(Petunjuk).html" >Episode 2 </a></h6></td>
-</tr>
-</tbody>
-</table>
-</div>
-<!--            list link per chapter            -->
-<div class="item season_start">
-<table class="ui basic unstackable table">
-<tbody>
-<tr>
-<td class="collapsing table-episode-check">
-<div class="ui checkbox ordi mark-read " data-manga-id="7631" data-chapter-id="428475" onlyusers="">
-<input type="checkbox" disabled="disabled" tabindex="0" class="hidden">
-<label></label>
-</div>
-</td>
-<td id="table-episodes-title" class="table-episodes-title">
-    <h6 class="truncate"><a href="KOSAN 95!\KOSAN 95!-episode3(Permintaan).html" >Episode 3 </a></h6></td>
-</tr>
-</tbody>
-</table>
-</div>
-<!--            list link per chapter            -->
-<div class="item season_start">
-<table class="ui basic unstackable table">
-<tbody>
-<tr>
-<td class="collapsing table-episode-check">
-<div class="ui checkbox ordi mark-read " data-manga-id="7631" data-chapter-id="428475" onlyusers="">
-<input type="checkbox" disabled="disabled" tabindex="0" class="hidden">
-<label></label>
-</div>
-</td>
-<td id="table-episodes-title" class="table-episodes-title">
-    <h6 class="truncate"><a href="KOSAN 95!\KOSAN 95!-episode4(Mereka).html" >Episode 4 </a></h6></td>
-</tr>
-</tbody>
-</table>
-</div>
-<!--            list link per chapter            -->
-<div class="item season_start">
-<table class="ui basic unstackable table">
-<tbody>
-<tr>
-<td class="collapsing table-episode-check">
-<div class="ui checkbox ordi mark-read " data-manga-id="7631" data-chapter-id="428475" onlyusers="">
-<input type="checkbox" disabled="disabled" tabindex="0" class="hidden">
-<label></label>
-</div>
-</td>
-<td id="table-episodes-title" class="table-episodes-title">
-    <h6 class="truncate"><a href="KOSAN 95!\KOSAN 95!-episode5(Keputusan).html" >Episode 5 </a></h6></td>
-</tr>
-</tbody>
-</table>
-</div>
-<!--            list link per chapter finish            -->
+
+
+<p id="demaa"></p>
 </section>
+<h1>Data Labeling</h1>
+<div class="chartbox">
+    <div class="split left" id="chartContainer" style="height: 370px; width: 500px;" ></div>
+    <div class="split right" id="chartContainer2" style="height: 370px; width: 500px;" ></div>
+</div>
 <div class="copyright">
-<p>Copyrights </p>
+    <h1 id="Scene17"></h1> 
+    <p>Tekan CTRL + click mouse ( ke link gambar) untuk membuka gambar di halaman baru</p>
+    <button class="buttontabel" onclick="show_table1()">Drama</button>
+    <button class="buttontabel" onclick="show_table2()">Action</button>
+    <button class="buttontabel" onclick="show_table3()">Fantasy</button>
+    <button class="buttontabel" onclick="show_table4()">Romance</button>
+    <button class="buttontabel" onclick="show_table5()">Creepy</button>
+    <button class="buttontabel" onclick="show_table5()">Bullying</button>
+    <button class="buttontabel" onclick="show_table7()">SliceOfLife</button>
+    <button class="buttontabel" onclick="show_table8()">Others</button>
+    
+<div class="tableSpot">
+      <table class="tablecontent"></table>
+</div>  
 </div>
 </div>
 </footer>
 
 </main>
-<div id="router" data-page="index" data-meth="" data-homepage=" ../INFTWebtoon.html"></div>
+<div id="router" data-page="index" data-meth="" data-homepage="../INFTWebtoon.html"></div>
 <div id="jump-up" class="mobile hidden hide"></div>
-<script id="cid0020000246670777018_" data-cfasync="false" async="" src="Tower%20of%20God%20Manga_files/emb.js" style="width: 300px;height: 400px;">{"handle":"readmorg","arch":"js","styles":{"a":"14161d","b":100,"c":"FFFFFF","d":"FFFFFF","k":"14161d","l":"14161d","m":"14161d","n":"FFFFFF","p":"10","q":"14161d","r":100,"t":0,"pos":"br","cv":1,"cvbg":"CC0000","cvw":75,"cvh":30}}</script>
+<script id="cid0020000246670777018_" data-cfasync="false" async="" src="Tower%20of%20God%20Manga_files/emb.js" style="width: 300px;height: 400px;">{"handle":"webtoons","arch":"js","styles":{"a":"14161d","b":100,"c":"FFFFFF","d":"FFFFFF","k":"14161d","l":"14161d","m":"14161d","n":"FFFFFF","p":"10","q":"14161d","r":100,"t":0,"pos":"br","cv":1,"cvbg":"CC0000","cvw":75,"cvh":30}}</script>
 <script src="Tower%20of%20God%20Manga_files/jquery_002.js" type="text/javascript"></script>
 <script src="Tower%20of%20God%20Manga_files/jquery-ui.js" type="text/javascript"></script>
 <script src="Tower%20of%20God%20Manga_files/lazyload.js" type="text/javascript"></script>
@@ -460,4 +422,286 @@ Artist
 </script>
 <script async="" id="dsq-count-scr" src="Tower%20of%20God%20Manga_files/count.js" type="text/javascript"></script>
 
-<div style="display: none;"></div><iframe style="display: none;" __idm_frm__="2147483665"></iframe></body></html>
+<div style="display: none;"></div><iframe style="display: none;" __idm_frm__="2147483665"></iframe>
+
+
+<p id="demo"></p>
+<div id="chartContainer" style="height: 370px; width: 100%;" ></div>
+
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+
+
+</body>
+
+<script src="build-table.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+<script>
+
+    $(document).ready(function(){
+
+        //localStorage.clear();
+
+        var scene=0;
+        var 
+        Drama=0,
+        Action=0,
+        Fantasy=0,
+        Romance=0,
+        Creepy=0,
+        Bullying=0,
+        SliceOfLife=0,
+        Others=0;
+        var 
+        ArrDrama=[],
+        ArrAction=[],
+        ArrFantasy=[],
+        ArrRomance=[],
+        ArrCreepy=[],
+        ArrBullying=[],
+        ArrSliceOfLife=[],
+        ArrOthers=[],
+        ArrTotal=[];
+         //Membaca dn mengambil data
+        $.getJSON('KOSAN 95!_Labeling_result.json',function(data){
+            
+            var headline_data = '';
+            var i = 0;
+            $.each(data, function(key, value) {
+                i = i + 1;  
+                var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrTotal.push(ss);
+                if(value.completions[0].result[0].value.polygonlabels=="Drama")  {
+                    Drama++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrDrama.push(ss);}
+
+                if(value.completions[0].result[0].value.polygonlabels=="Action") {
+                    Action++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrAction.push(ss);}
+
+                if(value.completions[0].result[0].value.polygonlabels=="Fantasy") {
+                    Fantasy++; 
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrFantasy.push(ss);}
+
+                if(value.completions[0].result[0].value.polygonlabels=="Romance") {
+                    Romance++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrRomance.push(ss)}
+
+                if(value.completions[0].result[0].value.polygonlabels=="Creepy") {
+                    Creepy++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrCreepy.push(ss);}
+
+                if(value.completions[0].result[0].value.polygonlabels=="Bullying"){
+                    Bullying++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrBullying.push(ss);}
+
+                if(value.completions[0].result[0].value.polygonlabels=="SliceOfLife"){
+                    SliceOfLife++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrSliceOfLife.push(ss);}
+
+                if(value.completions[0].result[0].value.polygonlabels=="Others"){
+                    Others++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrOthers.push(ss);}
+
+            document.getElementById("Scene17").innerHTML =" Total data yang dilabeling \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + i;
+
+            localStorage.setItem('Drama', Drama);
+            localStorage.setItem('Action', Action);
+            localStorage.setItem('Fantasy', Fantasy);
+            localStorage.setItem('Romance', Romance);
+            localStorage.setItem('Creepy', Creepy);
+            localStorage.setItem('Bullying', Bullying);
+            localStorage.setItem('SliceOfLife', SliceOfLife);
+            localStorage.setItem('Others', Others);
+            localStorage.setItem('Total', i);
+
+            localStorage.setItem('ArrSliceOfLife'      , JSON.stringify(ArrSliceOfLife));
+            localStorage.setItem('ArrAction'          , JSON.stringify(ArrAction));
+            localStorage.setItem('ArrFantasy'   , JSON.stringify(ArrFantasy));
+            localStorage.setItem('ArrRomance'     , JSON.stringify(ArrRomance)); 
+            localStorage.setItem('ArrCreepy'       , JSON.stringify(ArrCreepy)); 
+            localStorage.setItem('ArrBullying'         , JSON.stringify(ArrBullying));  
+            localStorage.setItem('ArrSliceOfLife'       , JSON.stringify(ArrSliceOfLife));   
+            localStorage.setItem('ArrOthers'      , JSON.stringify(ArrOthers)); 
+            localStorage.setItem('ArrTotal'         , JSON.stringify(ArrTotal)); 
+            });
+            $('#headline').append(headline_data);
+           
+        });
+        myFunction();
+        myFunction2();
+    });
+
+
+//CHEKKED----------------------------------------------------------------------------------------------------
+    $(document).ready(function(){
+
+        var userMenu = $('.header-user-dropdown .header-user-menu');
+
+        userMenu.on('touchend', function(e){
+
+            userMenu.addClass('show');
+
+            e.preventDefault();
+            e.stopPropagation();
+
+        });
+
+        // This code makes the user dropdown work on mobile devices
+
+        $(document).on('touchend', function(e){
+
+            // If the page is touched anywhere outside the user menu, close it
+            userMenu.removeClass('show');
+
+        });
+
+    });
+
+
+
+
+//CHEKKED----------------------------------------------------------------------------------------------------
+function Scene(sScene, simg) {
+  this.Scene = sScene;
+  this.img = simg;
+}
+
+
+//CHEKKED----------------------------------------------------------------------------------------------------
+function show_table1(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrDrama'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+function show_table2(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrAction'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+function show_table3(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrFantasy'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+function show_table4(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrRomance'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+function show_table5(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrCreepy'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+function show_table6(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrBullying'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+function show_table7(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrSliceOfLife'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+function show_table8(TableChoice){
+    Geeks();
+    resotre();
+    var retrievedObject =[];
+ retrievedObject= JSON.parse(localStorage.getItem('ArrOthers'));
+let table = document.querySelector(".tablecontent");
+let data = Object.keys(retrievedObject[0]);
+generateTableHead(table, data);
+generateTable(table, retrievedObject);
+}
+
+//CHEKKED----------------------------------------------------------------------------------------------------
+function generateTableHead(table, data) {
+  let thead = table.createTHead();
+  let row = thead.insertRow();
+  for (let key of data) {
+    let th = document.createElement("th");
+    let text = document.createTextNode(key);
+    th.appendChild(text);
+
+    row.appendChild(th);
+  }
+}
+//CHEKKED----------------------------------------------------------------------------------------------------
+function generateTable(table, data) {
+  for (let element of data) {
+    let row = table.insertRow();
+    for (key in element) {
+
+      
+      let cell = row.insertCell();
+      let a =document.createElement("a");
+
+      let text = document.createTextNode(element[key]);
+      let link = document.createTextNode(element[key]);
+      a.appendChild(text);
+      a.href=element[key];
+      cell.appendChild(a);
+
+    }
+  }
+}
+function Geeks() { 
+            $('.tablecontent').detach(); 
+        } 
+function resotre(){
+
+            $( '<table class="tablecontent"></table>"' ).prependTo( $( ".tableSpot" ) );
+        }
+        function showTable(){
+document.getElementById('table').style.visibility = "visible";
+}
+function hideTable(){
+document.getElementById('table').style.visibility = "hidden";
+}
+
+</script>
+</html>
