@@ -1,0 +1,1926 @@
+[
+  {
+    "completions": [
+      {
+        "created_at": 1593179559,
+        "id": 221001,
+        "lead_time": 27.832,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "21gH_erlC1",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-2.jpg"
+    },
+    "id": 221
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593179653,
+        "id": 222001,
+        "lead_time": 93.369,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "03QJf5lEGL",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-3.jpg"
+    },
+    "id": 222
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593179662,
+        "id": 223001,
+        "lead_time": 9.472,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "PvEidfF1MW",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-4.jpg"
+    },
+    "id": 223
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593179672,
+        "id": 224001,
+        "lead_time": 9.338,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "KpC-288TH2",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-5.jpg"
+    },
+    "id": 224
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593179688,
+        "id": 225001,
+        "lead_time": 14.904,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ruJf1PB_BV",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-6.jpg"
+    },
+    "id": 225
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593179737,
+        "id": 226001,
+        "lead_time": 48.786,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "3eAMnv4RVA",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-7.jpg"
+    },
+    "id": 226
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593179747,
+        "id": 227001,
+        "lead_time": 9.32,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "nn-MCVyThW",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-8.jpg"
+    },
+    "id": 227
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593180938,
+        "id": 228001,
+        "lead_time": 1190.66,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "mYQRfqSEN7",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-9.jpg"
+    },
+    "id": 228
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593180945,
+        "id": 229001,
+        "lead_time": 6.499,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "v6c1NGegOk",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-10.jpg"
+    },
+    "id": 229
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593180953,
+        "id": 230001,
+        "lead_time": 7.465,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "JAGYID3Tr-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-11.jpg"
+    },
+    "id": 230
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593180963,
+        "id": 231001,
+        "lead_time": 9.191,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "K-XFBYfcnb",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-12.jpg"
+    },
+    "id": 231
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593180969,
+        "id": 232001,
+        "lead_time": 6.411,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_r_ppNHUjC",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-13.jpg"
+    },
+    "id": 232
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593180975,
+        "id": 233001,
+        "lead_time": 5.176,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "0jFXoKHM0j",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-14.jpg"
+    },
+    "id": 233
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593180981,
+        "id": 234001,
+        "lead_time": 5.588,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "lkgHtzyphk",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-15.jpg"
+    },
+    "id": 234
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593180987,
+        "id": 235001,
+        "lead_time": 4.967,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "sTNiDUdv5L",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-16.jpg"
+    },
+    "id": 235
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593180994,
+        "id": 236001,
+        "lead_time": 6.705,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xBS2niAplK",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-17.jpg"
+    },
+    "id": 236
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181000,
+        "id": 237001,
+        "lead_time": 5.537,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "OeVtPHpc3l",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-18.jpg"
+    },
+    "id": 237
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181005,
+        "id": 238001,
+        "lead_time": 5.266,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "R6IJcZETNg",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-19.jpg"
+    },
+    "id": 238
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181011,
+        "id": 239001,
+        "lead_time": 4.811,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "rQZ43f6VfE",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-20.jpg"
+    },
+    "id": 239
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181017,
+        "id": 240001,
+        "lead_time": 5.431,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Gj1x4Z_SOs",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-21.jpg"
+    },
+    "id": 240
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181022,
+        "id": 241001,
+        "lead_time": 4.696,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "zICdSp91qf",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-19.jpg"
+    },
+    "id": 241
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181030,
+        "id": 242001,
+        "lead_time": 8.175,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "yMIRI1qEoB",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-20.jpg"
+    },
+    "id": 242
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181036,
+        "id": 243001,
+        "lead_time": 5.49,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xUH-_PljeU",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%201/Choco%20Latte%20-%20Episode%201-21.jpg"
+    },
+    "id": 243
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181044,
+        "id": 244001,
+        "lead_time": 7.339,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "br7zszhTSo",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-1.jpg"
+    },
+    "id": 244
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181050,
+        "id": 245001,
+        "lead_time": 4.997,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "yDQu8CogS9",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-2.jpg"
+    },
+    "id": 245
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181055,
+        "id": 246001,
+        "lead_time": 4.997,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "L67C3IIvHD",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-3.jpg"
+    },
+    "id": 246
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181060,
+        "id": 247001,
+        "lead_time": 4.71,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "aEVao2q3tg",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-4.jpg"
+    },
+    "id": 247
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181066,
+        "id": 248001,
+        "lead_time": 5.545,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Q8Uj-C8zTh",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-5.jpg"
+    },
+    "id": 248
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181072,
+        "id": 249001,
+        "lead_time": 5.398,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "3rG0pRraT3",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-6.jpg"
+    },
+    "id": 249
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181078,
+        "id": 250001,
+        "lead_time": 5.472,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Ih8xiMpk_E",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-7.jpg"
+    },
+    "id": 250
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181083,
+        "id": 251001,
+        "lead_time": 4.802,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4i_yJB8mPh",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-8.jpg"
+    },
+    "id": 251
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181090,
+        "id": 252001,
+        "lead_time": 6.521,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "RyMrdIXq86",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-9.jpg"
+    },
+    "id": 252
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181097,
+        "id": 253001,
+        "lead_time": 6.706,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "k0vUnaG3yh",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Sedih"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-10.jpg"
+    },
+    "id": 253
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181103,
+        "id": 254001,
+        "lead_time": 5.508,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fw8BznNC8r",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-11.jpg"
+    },
+    "id": 254
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181109,
+        "id": 255001,
+        "lead_time": 4.894,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "izGZGjv2j6",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-12.jpg"
+    },
+    "id": 255
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181114,
+        "id": 256001,
+        "lead_time": 5.061,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "phosITWH2V",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-13.jpg"
+    },
+    "id": 256
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181123,
+        "id": 257001,
+        "lead_time": 7.749,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qpS1Cr_mZf",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bahagia"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-14.jpg"
+    },
+    "id": 257
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181128,
+        "id": 258001,
+        "lead_time": 4.451,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "9TBn5NuUoJ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-15.jpg"
+    },
+    "id": 258
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181133,
+        "id": 259001,
+        "lead_time": 5.082,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "uP_1ENkuun",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-16.jpg"
+    },
+    "id": 259
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181138,
+        "id": 260001,
+        "lead_time": 4.244,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ApoOva28ap",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-17.jpg"
+    },
+    "id": 260
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181146,
+        "id": 261001,
+        "lead_time": 7.23,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "3RyWe7BBuj",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-18.jpg"
+    },
+    "id": 261
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181152,
+        "id": 262001,
+        "lead_time": 5.741,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "zRogxH94GH",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-19.jpg"
+    },
+    "id": 262
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181159,
+        "id": 263001,
+        "lead_time": 6.627,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "kOeLUWNLV5",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-20.jpg"
+    },
+    "id": 263
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181164,
+        "id": 264001,
+        "lead_time": 4.82,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "K0Gzic-LWP",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-21.jpg"
+    },
+    "id": 264
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181169,
+        "id": 265001,
+        "lead_time": 4.341,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "nFo0D0j33k",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-19.jpg"
+    },
+    "id": 265
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181174,
+        "id": 266001,
+        "lead_time": 4.308,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "oB3CYykrK8",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-20.jpg"
+    },
+    "id": 266
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181178,
+        "id": 267001,
+        "lead_time": 3.429,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Frpev4eh9J",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-21.jpg"
+    },
+    "id": 267
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181185,
+        "id": 268001,
+        "lead_time": 6.178,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "zXxPYDZwgJ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-22.jpg"
+    },
+    "id": 268
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181190,
+        "id": 269001,
+        "lead_time": 4.563,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "BSEXWAfJJ7",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-23.jpg"
+    },
+    "id": 269
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181195,
+        "id": 270001,
+        "lead_time": 5.195,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "FVA5dWCbHF",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%202/Choco%20Latte%20-%20Episode%202-24.jpg"
+    },
+    "id": 270
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181201,
+        "id": 271001,
+        "lead_time": 4.596,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fy4_mFgpL7",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-1.jpg"
+    },
+    "id": 271
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181205,
+        "id": 272001,
+        "lead_time": 3.784,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "JCn1YaZRnV",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-2.jpg"
+    },
+    "id": 272
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181211,
+        "id": 273001,
+        "lead_time": 5.718,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "cwtkh-ckOE",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-3.jpg"
+    },
+    "id": 273
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181217,
+        "id": 274001,
+        "lead_time": 5.774,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "PyI5V0530J",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lucu"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-4.jpg"
+    },
+    "id": 274
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181225,
+        "id": 275001,
+        "lead_time": 6.673,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_73J49YJtH",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-5.jpg"
+    },
+    "id": 275
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181231,
+        "id": 276001,
+        "lead_time": 5.721,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "BiAxdCw5zQ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-6.jpg"
+    },
+    "id": 276
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181240,
+        "id": 277001,
+        "lead_time": 8.537,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qHLFiFa1TJ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-7.jpg"
+    },
+    "id": 277
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181245,
+        "id": 278001,
+        "lead_time": 4.553,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "WHeuRZudUF",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-8.jpg"
+    },
+    "id": 278
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181250,
+        "id": 279001,
+        "lead_time": 4.407,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "CYa1G4r7Hp",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-9.jpg"
+    },
+    "id": 279
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181257,
+        "id": 280001,
+        "lead_time": 6.455,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "knuaIXM_Sz",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-10.jpg"
+    },
+    "id": 280
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181265,
+        "id": 281001,
+        "lead_time": 7.204,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Ldt_uDRHAZ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-11.jpg"
+    },
+    "id": 281
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181269,
+        "id": 282001,
+        "lead_time": 4.348,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "OVCorr6Te7",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-12.jpg"
+    },
+    "id": 282
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181276,
+        "id": 283001,
+        "lead_time": 5.684,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ptPnNoX2rV",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-13.jpg"
+    },
+    "id": 283
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181282,
+        "id": 284001,
+        "lead_time": 5.502,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Z_Y8A_CXUc",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-14.jpg"
+    },
+    "id": 284
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181287,
+        "id": 285001,
+        "lead_time": 4.997,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "FNZYlI4gur",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-15.jpg"
+    },
+    "id": 285
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181295,
+        "id": 286001,
+        "lead_time": 7.081,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ADFCPMUAtE",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-16.jpg"
+    },
+    "id": 286
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181300,
+        "id": 287001,
+        "lead_time": 4.592,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "FOdi02P7C-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-17.jpg"
+    },
+    "id": 287
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181306,
+        "id": 288001,
+        "lead_time": 4.825,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "vfxQtPbllj",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-18.jpg"
+    },
+    "id": 288
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181310,
+        "id": 289001,
+        "lead_time": 3.961,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "9G3c6Lk5m8",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-19.jpg"
+    },
+    "id": 289
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181316,
+        "id": 290001,
+        "lead_time": 5.184,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Mn9x97gjRu",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-20.jpg"
+    },
+    "id": 290
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181322,
+        "id": 291001,
+        "lead_time": 5.02,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "TRUvnINOIV",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-21.jpg"
+    },
+    "id": 291
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181326,
+        "id": 292001,
+        "lead_time": 3.686,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "LTxm2OSETs",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-19.jpg"
+    },
+    "id": 292
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181331,
+        "id": 293001,
+        "lead_time": 4.781,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "nGuzZM5ZZJ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-20.jpg"
+    },
+    "id": 293
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593181337,
+        "id": 294001,
+        "lead_time": 4.774,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "BzWc-GP1Ne",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Romantis"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Choco%20Latte/Choco%20Latte%20-%20Episode%203/Choco%20Latte%20-%20Episode%203-21.jpg"
+    },
+    "id": 294
+  }
+]

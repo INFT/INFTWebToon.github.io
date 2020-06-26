@@ -1,0 +1,1484 @@
+[
+  {
+    "completions": [
+      {
+        "created_at": 1593187370,
+        "id": 221001,
+        "lead_time": 4402.273,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "FzlTlvsDZP",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%200/0.jpg"
+    },
+    "id": 221
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187374,
+        "id": 222001,
+        "lead_time": 4.096,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "3g6FRJbTTz",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%200/1.jpg"
+    },
+    "id": 222
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187381,
+        "id": 223001,
+        "lead_time": 7.126,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "6aja0CL68t",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%200/2.jpg"
+    },
+    "id": 223
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187388,
+        "id": 224001,
+        "lead_time": 6.428,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4XboaYEjY1",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%200/3.jpg"
+    },
+    "id": 224
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187393,
+        "id": 225001,
+        "lead_time": 4.776,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "bLHshWiW8P",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%200/4.jpg"
+    },
+    "id": 225
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187397,
+        "id": 226001,
+        "lead_time": 3.843,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "u8gBYE_YCd",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%200/5.jpg"
+    },
+    "id": 226
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187402,
+        "id": 227001,
+        "lead_time": 3.703,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "vuzMlchYO3",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%200/6.jpg"
+    },
+    "id": 227
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187527,
+        "id": 228001,
+        "lead_time": 124.52,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "a1xK-EN376",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%200/7.jpg"
+    },
+    "id": 228
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187531,
+        "id": 235001,
+        "lead_time": 4.338,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "lnIRqEK0o_",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%201/6.jpg"
+    },
+    "id": 235
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187537,
+        "id": 236001,
+        "lead_time": 5.152,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "N3PAED0V-I",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%201/7.jpg"
+    },
+    "id": 236
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187543,
+        "id": 237001,
+        "lead_time": 5.789,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "zk3wQ4z6Hw",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%201/8.jpg"
+    },
+    "id": 237
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187551,
+        "id": 238001,
+        "lead_time": 7.278,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "F6HKZJt09l",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%201/9.jpg"
+    },
+    "id": 238
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187559,
+        "id": 239001,
+        "lead_time": 7.322,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Pkf2r-WYHC",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%201/10.jpg"
+    },
+    "id": 239
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187564,
+        "id": 240001,
+        "lead_time": 4.946,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "7T_tyH4PIP",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%201/11.jpg"
+    },
+    "id": 240
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187570,
+        "id": 241001,
+        "lead_time": 5.701,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "8iQGYAuOL1",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%201/12.jpg"
+    },
+    "id": 241
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187596,
+        "id": 242001,
+        "lead_time": 24.813,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "wKfbsIl2w9",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%201/13.jpg"
+    },
+    "id": 242
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187604,
+        "id": 243001,
+        "lead_time": 7.992,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "kv7Ht8L1AY",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%201/14.jpg"
+    },
+    "id": 243
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187656,
+        "id": 244001,
+        "lead_time": 51.22,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "iGvw_VOyaU",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%201/15.jpg"
+    },
+    "id": 244
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187664,
+        "id": 245001,
+        "lead_time": 7.684,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_6VqH79dkT",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%201/16.jpg"
+    },
+    "id": 245
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187671,
+        "id": 252001,
+        "lead_time": 6.1,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "XCJxq6YyAw",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%202/6.jpg"
+    },
+    "id": 252
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187676,
+        "id": 253001,
+        "lead_time": 5.175,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "eVyPpO-6sv",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%202/7.jpg"
+    },
+    "id": 253
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187685,
+        "id": 254001,
+        "lead_time": 8.171,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ECnAyGzTcd",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%202/8.jpg"
+    },
+    "id": 254
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187691,
+        "id": 255001,
+        "lead_time": 5.904,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "bP7DRoI_uV",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%202/9.jpg"
+    },
+    "id": 255
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187698,
+        "id": 256001,
+        "lead_time": 6.087,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "eKJbjD9hqL",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%202/10.jpg"
+    },
+    "id": 256
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187705,
+        "id": 257001,
+        "lead_time": 7.253,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "GIlMir6WOO",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%202/11.jpg"
+    },
+    "id": 257
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187715,
+        "id": 258001,
+        "lead_time": 8.6,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "y1Bd2DkNSg",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%202/12.jpg"
+    },
+    "id": 258
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187722,
+        "id": 259001,
+        "lead_time": 6.513,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fxVm1VaVrj",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%202/13.jpg"
+    },
+    "id": 259
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187731,
+        "id": 260001,
+        "lead_time": 8.836,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "prlcobktJK",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%202/14.jpg"
+    },
+    "id": 260
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187736,
+        "id": 261001,
+        "lead_time": 4.727,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "0bPRiEXtQI",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%202/15.jpg"
+    },
+    "id": 261
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187741,
+        "id": 262001,
+        "lead_time": 4.63,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "OBVc3_GYzQ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%202/16.jpg"
+    },
+    "id": 262
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187746,
+        "id": 263001,
+        "lead_time": 4.708,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Aftd88njth",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%202/17.jpg"
+    },
+    "id": 263
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187752,
+        "id": 264001,
+        "lead_time": 5.246,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "JaV8NlhtV-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%202/18.jpg"
+    },
+    "id": 264
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593187757,
+        "id": 265001,
+        "lead_time": 4.274,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "5Na6OZctuC",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%202/19.jpg"
+    },
+    "id": 265
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188013,
+        "id": 266001,
+        "lead_time": 255.577,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "sPHWze3Fl0",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%202/20.jpg"
+    },
+    "id": 266
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188019,
+        "id": 273001,
+        "lead_time": 5.178,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "cr1dWfFtL8",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%203/6.jpg"
+    },
+    "id": 273
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188025,
+        "id": 274001,
+        "lead_time": 6.274,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "b6k0NQqmdL",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%203/7.jpg"
+    },
+    "id": 274
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188033,
+        "id": 275001,
+        "lead_time": 6.979,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "kiXP6X_DuU",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%203/8.jpg"
+    },
+    "id": 275
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188037,
+        "id": 276001,
+        "lead_time": 3.825,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "EGNIVUJl3x",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%203/9.jpg"
+    },
+    "id": 276
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188042,
+        "id": 277001,
+        "lead_time": 4.754,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "DwMfKlC_2j",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%203/10.jpg"
+    },
+    "id": 277
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188048,
+        "id": 278001,
+        "lead_time": 5.08,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "QmdKppil8O",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%203/11.jpg"
+    },
+    "id": 278
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188053,
+        "id": 279001,
+        "lead_time": 4.595,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xOFsftMC9i",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%203/12.jpg"
+    },
+    "id": 279
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188059,
+        "id": 280001,
+        "lead_time": 5.155,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "N03NbgFVxo",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%203/13.jpg"
+    },
+    "id": 280
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188064,
+        "id": 281001,
+        "lead_time": 4.764,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "LHmHc0yJYb",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%203/14.jpg"
+    },
+    "id": 281
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188069,
+        "id": 282001,
+        "lead_time": 4.737,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "PIBUgYs_On",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%203/15.jpg"
+    },
+    "id": 282
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188075,
+        "id": 283001,
+        "lead_time": 5.239,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "HJJOsEFXsT",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%203/16.jpg"
+    },
+    "id": 283
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188081,
+        "id": 284001,
+        "lead_time": 5.094,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "g9q2f5JFQT",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%203/17.jpg"
+    },
+    "id": 284
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188311,
+        "id": 285001,
+        "lead_time": 229.204,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "9EYduk8KEE",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%203/18.jpg"
+    },
+    "id": 285
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188318,
+        "id": 291001,
+        "lead_time": 6.83,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "BxXH4APrd7",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Kaget"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%204/5.jpg"
+    },
+    "id": 291
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188326,
+        "id": 292001,
+        "lead_time": 7.462,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "E9ydg03n-3",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Bingung"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%204/6.jpg"
+    },
+    "id": 292
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188331,
+        "id": 293001,
+        "lead_time": 4.376,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "nLsICtilws",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%204/7.jpg"
+    },
+    "id": 293
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188336,
+        "id": 294001,
+        "lead_time": 4.756,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "BcjLYDrgfL",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%204/8.jpg"
+    },
+    "id": 294
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188347,
+        "id": 295001,
+        "lead_time": 10.592,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "6qnuRpEtfW",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%204/9.jpg"
+    },
+    "id": 295
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188352,
+        "id": 296001,
+        "lead_time": 4.097,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "EKRXZJN5jt",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%204/10.jpg"
+    },
+    "id": 296
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188357,
+        "id": 297001,
+        "lead_time": 4.196,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "UcpvnYdw9U",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%204/11.jpg"
+    },
+    "id": 297
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188361,
+        "id": 298001,
+        "lead_time": 4.069,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4Ks3zBrwTA",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%204/12.jpg"
+    },
+    "id": 298
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188366,
+        "id": 299001,
+        "lead_time": 4.687,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "NKMYfxCOMU",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%204/13.jpg"
+    },
+    "id": 299
+  },
+  {
+    "completions": [
+      {
+        "created_at": 1593188403,
+        "id": 300001,
+        "lead_time": 35.689,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "8OqfzmuNw2",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Lainnya"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/The%20Red%20Book/Ep.%204/14.jpg"
+    },
+    "id": 300
+  }
+]
