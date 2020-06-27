@@ -402,18 +402,6 @@ Artist
 </main>
 <div id="router" data-page="index" data-meth="" data-homepage="../INFTWebtoon.html"></div>
 <div id="jump-up" class="mobile hidden hide"></div>
-<script id="cid0020000246670777018_" data-cfasync="false" async="" src="Tower%20of%20God%20Manga_files/emb.js" style="width: 300px;height: 400px;">{"handle":"webtoons","arch":"js","styles":{"a":"14161d","b":100,"c":"FFFFFF","d":"FFFFFF","k":"14161d","l":"14161d","m":"14161d","n":"FFFFFF","p":"10","q":"14161d","r":100,"t":0,"pos":"br","cv":1,"cvbg":"CC0000","cvw":75,"cvh":30}}</script>
-<script src="Tower%20of%20God%20Manga_files/jquery_002.js" type="text/javascript"></script>
-<script src="Tower%20of%20God%20Manga_files/jquery-ui.js" type="text/javascript"></script>
-<script src="Tower%20of%20God%20Manga_files/lazyload.js" type="text/javascript"></script>
-<script src="Tower%20of%20God%20Manga_files/navigo.js" type="text/javascript"></script>
-<script src="Tower%20of%20God%20Manga_files/semantic.js" type="text/javascript"></script>
-<script src="Tower%20of%20God%20Manga_files/emojionearea.js" type="text/javascript"></script>
-<script src="Tower%20of%20God%20Manga_files/owl.js" type="text/javascript"></script>
-<script src="Tower%20of%20God%20Manga_files/sweetalert.js" type="text/javascript"></script>
-<script src="Tower%20of%20God%20Manga_files/humane.js" type="text/javascript"></script>
-<script src="Tower%20of%20God%20Manga_files/jquery.js" type="text/javascript"></script>
-<script src="Tower%20of%20God%20Manga_files/app.js" type="text/javascript"></script>
 <script type="text/javascript">
 
     $( ".ch-image-container .lazy-wide" ).on( "click", function() {
@@ -464,80 +452,88 @@ Artist
         ArrTotal=[];
          //Membaca dn mengambil data
         $.getJSON('KOSAN 95!_Labeling_result.json',function(data){
-            
+            //Mengambil Line dari tiap judul
             var headline_data = '';
-            var i = 0;
+            //Membuat header tabel
+            var i = 1;
+            headline_data="<table border='1'><tr><td>No</td><td>Judul Headline</td><td>choices</td>";
             $.each(data, function(key, value) {
+
+                headline_data += '<tr>';
+                headline_data += '<td>'+ i + '</td>';
+                headline_data += '<td>'+value.completions[0].result[0].value.choices+'</td>'
+                headline_data += '<td>'+value.data.image_url+'</td>'
+                headline_data += '</tr>';
                 i = i + 1;  
-                var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrTotal.push(ss);
-                if(value.completions[0].result[0].value.polygonlabels=="Drama")  {
-                    Drama++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrDrama.push(ss);}
+            //     var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+            //         ArrTotal.push(ss);
+            //     if(value.completions[0].result[0].value.polygonlabels=="Drama")  {
+            //         Drama++;
+            //         var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+            //         ArrDrama.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Action") {
-                    Action++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrAction.push(ss);}
+            //     if(value.completions[0].result[0].value.polygonlabels=="Action") {
+            //         Action++;
+            //         var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+            //         ArrAction.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Fantasy") {
-                    Fantasy++; 
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrFantasy.push(ss);}
+            //     if(value.completions[0].result[0].value.polygonlabels=="Fantasy") {
+            //         Fantasy++; 
+            //         var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+            //         ArrFantasy.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Romance") {
-                    Romance++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrRomance.push(ss)}
+            //     if(value.completions[0].result[0].value.polygonlabels=="Romance") {
+            //         Romance++;
+            //         var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+            //         ArrRomance.push(ss)}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Creepy") {
-                    Creepy++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrCreepy.push(ss);}
+            //     if(value.completions[0].result[0].value.polygonlabels=="Creepy") {
+            //         Creepy++;
+            //         var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+            //         ArrCreepy.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Bullying"){
-                    Bullying++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrBullying.push(ss);}
+            //     if(value.completions[0].result[0].value.polygonlabels=="Bullying"){
+            //         Bullying++;
+            //         var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+            //         ArrBullying.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="SliceOfLife"){
-                    SliceOfLife++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrSliceOfLife.push(ss);}
+            //     if(value.completions[0].result[0].value.polygonlabels=="SliceOfLife"){
+            //         SliceOfLife++;
+            //         var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+            //         ArrSliceOfLife.push(ss);}
 
-                if(value.completions[0].result[0].value.polygonlabels=="Others"){
-                    Others++;
-                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-                    ArrOthers.push(ss);}
+            //     if(value.completions[0].result[0].value.polygonlabels=="Others"){
+            //         Others++;
+            //         var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+            //         ArrOthers.push(ss);}
 
-            document.getElementById("Scene17").innerHTML =" Total data yang dilabeling \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + i;
+            // document.getElementById("Scene17").innerHTML =" Total data yang dilabeling \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + i;
 
-            localStorage.setItem('Drama', Drama);
-            localStorage.setItem('Action', Action);
-            localStorage.setItem('Fantasy', Fantasy);
-            localStorage.setItem('Romance', Romance);
-            localStorage.setItem('Creepy', Creepy);
-            localStorage.setItem('Bullying', Bullying);
-            localStorage.setItem('SliceOfLife', SliceOfLife);
-            localStorage.setItem('Others', Others);
-            localStorage.setItem('Total', i);
+            // localStorage.setItem('Drama', Drama);
+            // localStorage.setItem('Action', Action);
+            // localStorage.setItem('Fantasy', Fantasy);
+            // localStorage.setItem('Romance', Romance);
+            // localStorage.setItem('Creepy', Creepy);
+            // localStorage.setItem('Bullying', Bullying);
+            // localStorage.setItem('SliceOfLife', SliceOfLife);
+            // localStorage.setItem('Others', Others);
+            // localStorage.setItem('Total', i);
 
-            localStorage.setItem('ArrSliceOfLife'      , JSON.stringify(ArrSliceOfLife));
-            localStorage.setItem('ArrAction'          , JSON.stringify(ArrAction));
-            localStorage.setItem('ArrFantasy'   , JSON.stringify(ArrFantasy));
-            localStorage.setItem('ArrRomance'     , JSON.stringify(ArrRomance)); 
-            localStorage.setItem('ArrCreepy'       , JSON.stringify(ArrCreepy)); 
-            localStorage.setItem('ArrBullying'         , JSON.stringify(ArrBullying));  
-            localStorage.setItem('ArrSliceOfLife'       , JSON.stringify(ArrSliceOfLife));   
-            localStorage.setItem('ArrOthers'      , JSON.stringify(ArrOthers)); 
-            localStorage.setItem('ArrTotal'         , JSON.stringify(ArrTotal)); 
+            // localStorage.setItem('ArrSliceOfLife'      , JSON.stringify(ArrSliceOfLife));
+            // localStorage.setItem('ArrAction'          , JSON.stringify(ArrAction));
+            // localStorage.setItem('ArrFantasy'   , JSON.stringify(ArrFantasy));
+            // localStorage.setItem('ArrRomance'     , JSON.stringify(ArrRomance)); 
+            // localStorage.setItem('ArrCreepy'       , JSON.stringify(ArrCreepy)); 
+            // localStorage.setItem('ArrBullying'         , JSON.stringify(ArrBullying));  
+            // localStorage.setItem('ArrSliceOfLife'       , JSON.stringify(ArrSliceOfLife));   
+            // localStorage.setItem('ArrOthers'      , JSON.stringify(ArrOthers)); 
+            // localStorage.setItem('ArrTotal'         , JSON.stringify(ArrTotal)); 
             });
             $('#headline').append(headline_data);
            
         });
-        myFunction();
-        myFunction2();
+        // myFunction();
+        // myFunction2();
     });
 
 
