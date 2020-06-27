@@ -877,13 +877,8 @@
   {
     "completions": [
       {
-        "id": 35001,
-        "result": [],
-        "skipped": true
-      },
-      {
         "id": 35002,
-        "lead_time": 22.143,
+        "lead_time": 71.667,
         "result": [
           {
             "from_name": "choice",
@@ -892,7 +887,7 @@
             "type": "choices",
             "value": {
               "choices": [
-                "Others"
+                "Drama"
               ]
             }
           }
@@ -1208,8 +1203,20 @@
     "completions": [
       {
         "id": 48001,
-        "result": [],
-        "skipped": true
+        "lead_time": 30.676,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "W8pdSLdCA_",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
       }
     ],
     "data": {
