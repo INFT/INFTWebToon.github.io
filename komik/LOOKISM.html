@@ -449,11 +449,6 @@ Artist
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrAction.push(ss);}
 
-                if(value.completions[0].result[0].value.choices=="Fantasy") {
-                    Fantasy++;
-                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrFantasy.push(ss)}
-
                 if(value.completions[0].result[0].value.choices=="SliceOfLife") {
                     SliceOfLife++;
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
