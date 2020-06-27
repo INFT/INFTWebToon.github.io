@@ -214,7 +214,7 @@ chart.render();
 <h2 class="section-heading">SUMMARY</h2>
 <p id="tv-series-desc"></p><p>Cowok ini punya 2 wujud! Pilih yang mana ya..?</p><p></p>
 <div class="ui list">
-<div class="item"><span class="label">Genres: Drama</span></div>
+<div class="item"><span class="label">Genres: Drama, Action</span></div>
 </div>
 <div class="media-meta">
  
@@ -448,11 +448,6 @@ Artist
                     Action++; 
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrAction.push(ss);}
-
-                if(value.completions[0].result[0].value.choices=="Fantasy") {
-                    Fantasy++;
-                    var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
-                    ArrFantasy.push(ss)}
 
                 if(value.completions[0].result[0].value.choices=="SliceOfLife") {
                     SliceOfLife++;
