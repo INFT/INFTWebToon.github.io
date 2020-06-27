@@ -352,12 +352,12 @@ Artist
     <button class="buttontabel" onclick="show_table1()">Romance</button>
     <button class="buttontabel" onclick="show_table2()">Comedy</button>
     <button class="buttontabel" onclick="show_table3()">Action</button>
-    <button class="buttontabel" onclick="show_table5()">SliceOfLife</button>
-    <button class="buttontabel" onclick="show_table7()">Drama</button>
-    <button class="buttontabel" onclick="show_table7()">Fantasy</button>
+    <button class="buttontabel" onclick="show_table4()">SliceOfLife</button>
+    <button class="buttontabel" onclick="show_table5()">Drama</button>
+    <button class="buttontabel" onclick="show_table6()">Fantasy</button>
     <button class="buttontabel" onclick="show_table7()">Creepy</button>
-    <button class="buttontabel" onclick="show_table7()">Bullying</button>
-    <button class="buttontabel" onclick="show_table8()">Others</button>
+    <button class="buttontabel" onclick="show_table8()">Bullying</button>
+    <button class="buttontabel" onclick="show_table9()">Others</button>
     <div class="tableSpot">
         <table class="tablecontent"></table>
 </div>  
@@ -404,7 +404,7 @@ Artist
 <script>
 
     $(document).ready(function(){
-	localStorage.clear();
+	//localStorage.clear();
         var scene=0;
         var 
         Romance=0,
@@ -499,7 +499,7 @@ Artist
 
             localStorage.setItem('ArrRomance'      , JSON.stringify(ArrRomance));
             localStorage.setItem('ArrComedy'          , JSON.stringify(ArrComedy));
-            localStorage.setItem('ArrAction'   , JSON.stringify(ArrAction));
+            localStorage.setItem('ArrAction'      , JSON.stringify(ArrAction));
             localStorage.setItem('ArrSliceOfLife'       , JSON.stringify(ArrSliceOfLife));
             localStorage.setItem('ArrDrama'       , JSON.stringify(ArrDrama));
             localStorage.setItem('ArrFantasy'     , JSON.stringify(ArrFantasy));
@@ -582,7 +582,7 @@ let data = Object.keys(retrievedObject[0]);
 generateTableHead(table, data);
 generateTable(table, retrievedObject);
 }
-function show_table5(TableChoice){
+function show_table4(TableChoice){
     Geeks();
     resotre();
     var retrievedObject =[];
@@ -592,7 +592,7 @@ let data = Object.keys(retrievedObject[0]);
 generateTableHead(table, data);
 generateTable(table, retrievedObject);
 }
-function show_table7(TableChoice){
+function show_table5(TableChoice){
     Geeks();
     resotre();
     var retrievedObject =[];
@@ -602,7 +602,7 @@ let data = Object.keys(retrievedObject[0]);
 generateTableHead(table, data);
 generateTable(table, retrievedObject);
 }
-function show_table4(TableChoice){
+function show_table6(TableChoice){
     Geeks();
     resotre();
     var retrievedObject =[];
@@ -612,7 +612,7 @@ let data = Object.keys(retrievedObject[0]);
 generateTableHead(table, data);
 generateTable(table, retrievedObject);
 }
-function show_table4(TableChoice){
+function show_table7(TableChoice){
     Geeks();
     resotre();
     var retrievedObject =[];
@@ -622,7 +622,7 @@ let data = Object.keys(retrievedObject[0]);
 generateTableHead(table, data);
 generateTable(table, retrievedObject);
 }
-function show_table4(TableChoice){
+function show_table8(TableChoice){
     Geeks();
     resotre();
     var retrievedObject =[];
@@ -632,7 +632,7 @@ let data = Object.keys(retrievedObject[0]);
 generateTableHead(table, data);
 generateTable(table, retrievedObject);
 }
-function show_table8(TableChoice){
+function show_table9(TableChoice){
     Geeks();
     resotre();
     var retrievedObject =[];
