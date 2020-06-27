@@ -459,75 +459,75 @@ Artist
             headline_data="<table border='1'><tr><td>No</td><td>Judul Headline</td><td>choices</td>";
             $.each(data, function(key, value) {
 
-                headline_data += '<tr>';
-                headline_data += '<td>'+ i + '</td>';
-                headline_data += '<td>'+value.completions[0].result[0].value.choices+'</td>'
-                headline_data += '<td>'+value.data.image_url+'</td>'
-                headline_data += '</tr>';
+                // headline_data += '<tr>';
+                // headline_data += '<td>'+ i + '</td>';
+                // headline_data += '<td>'+value.completions[0].result[0].value.choices+'</td>'
+                // headline_data += '<td>'+value.data.image_url+'</td>'
+                // headline_data += '</tr>';
                 i = i + 1;  
-            //     var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-            //         ArrTotal.push(ss);
-            //     if(value.completions[0].result[0].value.polygonlabels=="Drama")  {
-            //         Drama++;
-            //         var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-            //         ArrDrama.push(ss);}
+                var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrTotal.push(ss);
+                if(value.completions[0].result[0].value.polygonlabels=="Drama")  {
+                    Drama++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrDrama.push(ss);}
 
-            //     if(value.completions[0].result[0].value.polygonlabels=="Action") {
-            //         Action++;
-            //         var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-            //         ArrAction.push(ss);}
+                if(value.completions[0].result[0].value.polygonlabels=="Action") {
+                    Action++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrAction.push(ss);}
 
-            //     if(value.completions[0].result[0].value.polygonlabels=="Fantasy") {
-            //         Fantasy++; 
-            //         var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-            //         ArrFantasy.push(ss);}
+                if(value.completions[0].result[0].value.polygonlabels=="Fantasy") {
+                    Fantasy++; 
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrFantasy.push(ss);}
 
-            //     if(value.completions[0].result[0].value.polygonlabels=="Romance") {
-            //         Romance++;
-            //         var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-            //         ArrRomance.push(ss)}
+                if(value.completions[0].result[0].value.polygonlabels=="Romance") {
+                    Romance++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrRomance.push(ss)}
 
-            //     if(value.completions[0].result[0].value.polygonlabels=="Creepy") {
-            //         Creepy++;
-            //         var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-            //         ArrCreepy.push(ss);}
+                if(value.completions[0].result[0].value.polygonlabels=="Creepy") {
+                    Creepy++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrCreepy.push(ss);}
 
-            //     if(value.completions[0].result[0].value.polygonlabels=="Bullying"){
-            //         Bullying++;
-            //         var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-            //         ArrBullying.push(ss);}
+                if(value.completions[0].result[0].value.polygonlabels=="Bullying"){
+                    Bullying++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrBullying.push(ss);}
 
-            //     if(value.completions[0].result[0].value.polygonlabels=="SliceOfLife"){
-            //         SliceOfLife++;
-            //         var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-            //         ArrSliceOfLife.push(ss);}
+                if(value.completions[0].result[0].value.polygonlabels=="SliceOfLife"){
+                    SliceOfLife++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrSliceOfLife.push(ss);}
 
-            //     if(value.completions[0].result[0].value.polygonlabels=="Others"){
-            //         Others++;
-            //         var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
-            //         ArrOthers.push(ss);}
+                if(value.completions[0].result[0].value.polygonlabels=="Others"){
+                    Others++;
+                    var ss = new Scene(value.completions[0].result[0].value.polygonlabels,value.data.image_url);
+                    ArrOthers.push(ss);}
 
-            // document.getElementById("Scene17").innerHTML =" Total data yang dilabeling \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + i;
+            document.getElementById("Scene17").innerHTML =" Total data yang dilabeling \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + i;
 
-            // localStorage.setItem('Drama', Drama);
-            // localStorage.setItem('Action', Action);
-            // localStorage.setItem('Fantasy', Fantasy);
-            // localStorage.setItem('Romance', Romance);
-            // localStorage.setItem('Creepy', Creepy);
-            // localStorage.setItem('Bullying', Bullying);
-            // localStorage.setItem('SliceOfLife', SliceOfLife);
-            // localStorage.setItem('Others', Others);
-            // localStorage.setItem('Total', i);
+            localStorage.setItem('Drama', Drama);
+            localStorage.setItem('Action', Action);
+            localStorage.setItem('Fantasy', Fantasy);
+            localStorage.setItem('Romance', Romance);
+            localStorage.setItem('Creepy', Creepy);
+            localStorage.setItem('Bullying', Bullying);
+            localStorage.setItem('SliceOfLife', SliceOfLife);
+            localStorage.setItem('Others', Others);
+            localStorage.setItem('Total', i);
 
-            // localStorage.setItem('ArrSliceOfLife'      , JSON.stringify(ArrSliceOfLife));
-            // localStorage.setItem('ArrAction'          , JSON.stringify(ArrAction));
-            // localStorage.setItem('ArrFantasy'   , JSON.stringify(ArrFantasy));
-            // localStorage.setItem('ArrRomance'     , JSON.stringify(ArrRomance)); 
-            // localStorage.setItem('ArrCreepy'       , JSON.stringify(ArrCreepy)); 
-            // localStorage.setItem('ArrBullying'         , JSON.stringify(ArrBullying));  
-            // localStorage.setItem('ArrSliceOfLife'       , JSON.stringify(ArrSliceOfLife));   
-            // localStorage.setItem('ArrOthers'      , JSON.stringify(ArrOthers)); 
-            // localStorage.setItem('ArrTotal'         , JSON.stringify(ArrTotal)); 
+            localStorage.setItem('ArrSliceOfLife'      , JSON.stringify(ArrSliceOfLife));
+            localStorage.setItem('ArrAction'          , JSON.stringify(ArrAction));
+            localStorage.setItem('ArrFantasy'   , JSON.stringify(ArrFantasy));
+            localStorage.setItem('ArrRomance'     , JSON.stringify(ArrRomance)); 
+            localStorage.setItem('ArrCreepy'       , JSON.stringify(ArrCreepy)); 
+            localStorage.setItem('ArrBullying'         , JSON.stringify(ArrBullying));  
+            localStorage.setItem('ArrSliceOfLife'       , JSON.stringify(ArrSliceOfLife));   
+            localStorage.setItem('ArrOthers'      , JSON.stringify(ArrOthers)); 
+            localStorage.setItem('ArrTotal'         , JSON.stringify(ArrTotal)); 
             });
             $('#headline').append(headline_data);
            
