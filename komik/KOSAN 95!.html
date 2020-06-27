@@ -78,10 +78,11 @@ var chart = new CanvasJS.Chart("chartContainer2", {
     animationEnabled: true,
 	theme: "dark1", // "light1", "light2", "dark1", "dark2"
 	title:{
-		text: "Scene percentage"
+		text: "Scene Percentage"
 	},
-	axisY: {
-		title: "From 105 scene "
+	legend:{
+		cursor: "pointer",
+		itemclick: explodePie
 	},
 	data: [{        
 		type: "column",  
@@ -428,7 +429,7 @@ Artist
 
     $(document).ready(function(){
 
-        //localStorage.clear();
+        localStorage.clear();
 
         var scene=0;
         var 
