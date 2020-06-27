@@ -1,0 +1,2627 @@
+[
+  {
+    "completions": [
+      {
+        "id": 1,
+        "lead_time": 6.772,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "EWQW6N3Mz8",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-1.jpg"
+    },
+    "id": 0
+  },
+  {
+    "completions": [
+      {
+        "id": 1001,
+        "lead_time": 22.564,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "6YV8Hwa7E1",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-2.jpg"
+    },
+    "id": 1
+  },
+  {
+    "completions": [
+      {
+        "id": 2001,
+        "lead_time": 16.528,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "l8S4Z0J5ZO",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-3.jpg"
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "id": 3001,
+        "lead_time": 4.765,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "POg9WJICxC",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-4.jpg"
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "id": 4001,
+        "lead_time": 11.823,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ZaSWKgv44Q",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-5.jpg"
+    },
+    "id": 4
+  },
+  {
+    "completions": [
+      {
+        "id": 5001,
+        "lead_time": 4.826,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "QP48DCS7Gp",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-6.jpg"
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "id": 6001,
+        "lead_time": 7.742,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qkomq4T5kf",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-7.jpg"
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "id": 7001,
+        "lead_time": 7.203,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qPMJ352lTw",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-8.jpg"
+    },
+    "id": 7
+  },
+  {
+    "completions": [
+      {
+        "id": 8001,
+        "lead_time": 5.117,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Ed7rb-TV7i",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-9.jpg"
+    },
+    "id": 8
+  },
+  {
+    "completions": [
+      {
+        "id": 9001,
+        "lead_time": 8.837,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "QWn5aPG0SH",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-10.jpg"
+    },
+    "id": 9
+  },
+  {
+    "completions": [
+      {
+        "id": 10001,
+        "lead_time": 8.31,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "5IIQ5I_na4",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-11.jpg"
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "id": 11001,
+        "lead_time": 6.668,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "7HJ-ovBeI5",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-12.jpg"
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "id": 12001,
+        "lead_time": 9.839,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "IKOaSZtD2-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-13.jpg"
+    },
+    "id": 12
+  },
+  {
+    "completions": [
+      {
+        "id": 13001,
+        "lead_time": 6.877,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fNWyMPYkk_",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-14.jpg"
+    },
+    "id": 13
+  },
+  {
+    "completions": [
+      {
+        "id": 14001,
+        "lead_time": 6.578,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "7HzNYYEUVp",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-15.jpg"
+    },
+    "id": 14
+  },
+  {
+    "completions": [
+      {
+        "id": 15001,
+        "lead_time": 5.3,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "isQt0pExZW",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-16.jpg"
+    },
+    "id": 15
+  },
+  {
+    "completions": [
+      {
+        "id": 16001,
+        "lead_time": 15.535,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "9sPLSZNPYJ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-17.jpg"
+    },
+    "id": 16
+  },
+  {
+    "completions": [
+      {
+        "id": 17001,
+        "lead_time": 4.932,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "e1jKqauRm-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-18.jpg"
+    },
+    "id": 17
+  },
+  {
+    "completions": [
+      {
+        "id": 18001,
+        "lead_time": 5.165,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "-L_zfcu5oW",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-19.jpg"
+    },
+    "id": 18
+  },
+  {
+    "completions": [
+      {
+        "id": 19001,
+        "lead_time": 6.381,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "DC6cCptS0H",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-20.jpg"
+    },
+    "id": 19
+  },
+  {
+    "completions": [
+      {
+        "id": 20001,
+        "lead_time": 6.261,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_3LjrXHAWE",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%201-SURAT/KOSAN%2095!-episode%201-21.jpg"
+    },
+    "id": 20
+  },
+  {
+    "completions": [
+      {
+        "id": 21001,
+        "lead_time": 8.805,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "FNJeqZlp20",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-1.jpg"
+    },
+    "id": 21
+  },
+  {
+    "completions": [
+      {
+        "id": 22001,
+        "lead_time": 4.595,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "PbbUQjH0eL",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-2.jpg"
+    },
+    "id": 22
+  },
+  {
+    "completions": [
+      {
+        "id": 23001,
+        "lead_time": 6.679,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Bo6bnwUuEx",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-3.jpg"
+    },
+    "id": 23
+  },
+  {
+    "completions": [
+      {
+        "id": 24001,
+        "lead_time": 7.269,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "-YZttFeu_W",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-4.jpg"
+    },
+    "id": 24
+  },
+  {
+    "completions": [
+      {
+        "id": 25001,
+        "lead_time": 4.827,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "QG8nuQFzIR",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-5.jpg"
+    },
+    "id": 25
+  },
+  {
+    "completions": [
+      {
+        "id": 26001,
+        "lead_time": 13.6,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "DS6D9s8D2x",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-6.jpg"
+    },
+    "id": 26
+  },
+  {
+    "completions": [
+      {
+        "id": 27001,
+        "lead_time": 6.173,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "RDJlO2ydQR",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-7.jpg"
+    },
+    "id": 27
+  },
+  {
+    "completions": [
+      {
+        "id": 28001,
+        "lead_time": 5.505,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "KLFriGbcoH",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-8.jpg"
+    },
+    "id": 28
+  },
+  {
+    "completions": [
+      {
+        "id": 29001,
+        "lead_time": 9.832,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "brZIJOZlui",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-9.jpg"
+    },
+    "id": 29
+  },
+  {
+    "completions": [
+      {
+        "id": 30001,
+        "lead_time": 13.981,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "aY2jCDygNF",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-10.jpg"
+    },
+    "id": 30
+  },
+  {
+    "completions": [
+      {
+        "id": 31001,
+        "lead_time": 6.602,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "8f2zTZ31s6",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-11.jpg"
+    },
+    "id": 31
+  },
+  {
+    "completions": [
+      {
+        "id": 32001,
+        "lead_time": 7.141,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "nITmgRd-jZ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-12.jpg"
+    },
+    "id": 32
+  },
+  {
+    "completions": [
+      {
+        "id": 33001,
+        "lead_time": 5.306,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "YfxYSDCnuq",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-13.jpg"
+    },
+    "id": 33
+  },
+  {
+    "completions": [
+      {
+        "id": 34001,
+        "lead_time": 5.004,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4Et-SDc-1K",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-14.jpg"
+    },
+    "id": 34
+  },
+  {
+    "completions": [
+      {
+        "id": 35001,
+        "lead_time": 4.771,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "nMuBv8WyZZ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-15.jpg"
+    },
+    "id": 35
+  },
+  {
+    "completions": [
+      {
+        "id": 36001,
+        "lead_time": 5.828,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "iMeLIKoa9u",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-16.jpg"
+    },
+    "id": 36
+  },
+  {
+    "completions": [
+      {
+        "id": 37001,
+        "lead_time": 7.15,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "jRuTcySrq2",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-17.jpg"
+    },
+    "id": 37
+  },
+  {
+    "completions": [
+      {
+        "id": 38001,
+        "lead_time": 5.885,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "up9h5p32LR",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-18.jpg"
+    },
+    "id": 38
+  },
+  {
+    "completions": [
+      {
+        "id": 39001,
+        "lead_time": 5.292,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "kDCg_AsDlI",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-19.jpg"
+    },
+    "id": 39
+  },
+  {
+    "completions": [
+      {
+        "id": 40001,
+        "lead_time": 4.889,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "btnhEWPGHP",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-20.jpg"
+    },
+    "id": 40
+  },
+  {
+    "completions": [
+      {
+        "id": 41001,
+        "lead_time": 4.817,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "KmxxSKsgFa",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%202-PETUNJUK/KOSAN%2095!-episode%202-21.jpg"
+    },
+    "id": 41
+  },
+  {
+    "completions": [
+      {
+        "id": 42001,
+        "lead_time": 4.271,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "60cAZHRu-R",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-1.jpg"
+    },
+    "id": 42
+  },
+  {
+    "completions": [
+      {
+        "id": 43001,
+        "lead_time": 6.634,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "CH8twh9LeM",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-2.jpg"
+    },
+    "id": 43
+  },
+  {
+    "completions": [
+      {
+        "id": 44001,
+        "lead_time": 12.234,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "aIi0VoZMoA",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-3.jpg"
+    },
+    "id": 44
+  },
+  {
+    "completions": [
+      {
+        "id": 45001,
+        "lead_time": 5.296,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "hrTNw6cM7j",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-4.jpg"
+    },
+    "id": 45
+  },
+  {
+    "completions": [
+      {
+        "id": 46001,
+        "lead_time": 5.597,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "M-7uKzta1A",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-5.jpg"
+    },
+    "id": 46
+  },
+  {
+    "completions": [
+      {
+        "id": 47001,
+        "lead_time": 6.916,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "kAQdgZ6-gh",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-6.jpg"
+    },
+    "id": 47
+  },
+  {
+    "completions": [
+      {
+        "id": 48001,
+        "lead_time": 6.581,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Jbc7RHGHsq",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-7.jpg"
+    },
+    "id": 48
+  },
+  {
+    "completions": [
+      {
+        "id": 49001,
+        "lead_time": 6.027,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "B-WbVMywO7",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-8.jpg"
+    },
+    "id": 49
+  },
+  {
+    "completions": [
+      {
+        "id": 50001,
+        "lead_time": 12.119,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "LfpWtx9bCQ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-9.jpg"
+    },
+    "id": 50
+  },
+  {
+    "completions": [
+      {
+        "id": 51001,
+        "lead_time": 5.429,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "OvKYVaWFX5",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-10.jpg"
+    },
+    "id": 51
+  },
+  {
+    "completions": [
+      {
+        "id": 52001,
+        "lead_time": 6.338,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "GXygtD-l7A",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-11.jpg"
+    },
+    "id": 52
+  },
+  {
+    "completions": [
+      {
+        "id": 53001,
+        "lead_time": 7.708,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "CMKYeADGIm",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-12.jpg"
+    },
+    "id": 53
+  },
+  {
+    "completions": [
+      {
+        "id": 54001,
+        "lead_time": 5.72,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "01LJAE_4XC",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-13.jpg"
+    },
+    "id": 54
+  },
+  {
+    "completions": [
+      {
+        "id": 55001,
+        "lead_time": 5.771,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "no3Ztb4LJD",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-14.jpg"
+    },
+    "id": 55
+  },
+  {
+    "completions": [
+      {
+        "id": 56001,
+        "lead_time": 21.294,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "rL9WfrKGcN",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-15.jpg"
+    },
+    "id": 56
+  },
+  {
+    "completions": [
+      {
+        "id": 57001,
+        "lead_time": 5.971,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "6G2a1O8Nx1",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-16.jpg"
+    },
+    "id": 57
+  },
+  {
+    "completions": [
+      {
+        "id": 58001,
+        "lead_time": 5.083,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "RXrgcBNXu3",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-17.jpg"
+    },
+    "id": 58
+  },
+  {
+    "completions": [
+      {
+        "id": 59001,
+        "lead_time": 5.522,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "PlWqz1Dp7g",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-18.jpg"
+    },
+    "id": 59
+  },
+  {
+    "completions": [
+      {
+        "id": 60001,
+        "lead_time": 5.941,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "3pJ7GvxHKo",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-19.jpg"
+    },
+    "id": 60
+  },
+  {
+    "completions": [
+      {
+        "id": 61001,
+        "lead_time": 6.669,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "SuxTO4pDLP",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-20.jpg"
+    },
+    "id": 61
+  },
+  {
+    "completions": [
+      {
+        "id": 62001,
+        "lead_time": 5.913,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "HHhbPSPd7U",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%203-PERMINTAAN/KOSAN%2095!-episode%203-21.jpg"
+    },
+    "id": 62
+  },
+  {
+    "completions": [
+      {
+        "id": 63001,
+        "lead_time": 3.455,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "bFCIoZOsU5",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-1.jpg"
+    },
+    "id": 63
+  },
+  {
+    "completions": [
+      {
+        "id": 64001,
+        "lead_time": 5.452,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "JNA5McGyy0",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-2.jpg"
+    },
+    "id": 64
+  },
+  {
+    "completions": [
+      {
+        "id": 65001,
+        "lead_time": 10.196,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "noRxbHEy5z",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-3.jpg"
+    },
+    "id": 65
+  },
+  {
+    "completions": [
+      {
+        "id": 66001,
+        "lead_time": 11.067,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "TYRkS8g0IJ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-4.jpg"
+    },
+    "id": 66
+  },
+  {
+    "completions": [
+      {
+        "id": 67001,
+        "lead_time": 6.055,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "JV5LgTQhZl",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-5.jpg"
+    },
+    "id": 67
+  },
+  {
+    "completions": [
+      {
+        "id": 68001,
+        "lead_time": 5.601,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ux1Xu_y6j4",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-6.jpg"
+    },
+    "id": 68
+  },
+  {
+    "completions": [
+      {
+        "id": 69001,
+        "lead_time": 5.015,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "7g6-_wunLH",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-7.jpg"
+    },
+    "id": 69
+  },
+  {
+    "completions": [
+      {
+        "id": 70001,
+        "lead_time": 4.324,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "yhDuhV09ow",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-8.jpg"
+    },
+    "id": 70
+  },
+  {
+    "completions": [
+      {
+        "id": 71001,
+        "lead_time": 6.609,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "hHJLUpgR1w",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Action"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-9.jpg"
+    },
+    "id": 71
+  },
+  {
+    "completions": [
+      {
+        "id": 72001,
+        "lead_time": 10.217,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "6FF9ArdhhR",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-10.jpg"
+    },
+    "id": 72
+  },
+  {
+    "completions": [
+      {
+        "id": 73001,
+        "lead_time": 4.012,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "UN5ki7fa1c",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Action"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-11.jpg"
+    },
+    "id": 73
+  },
+  {
+    "completions": [
+      {
+        "id": 74001,
+        "lead_time": 4.285,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "PvdJndMqFp",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Action"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-12.jpg"
+    },
+    "id": 74
+  },
+  {
+    "completions": [
+      {
+        "id": 75001,
+        "lead_time": 5.196,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "GG34pGvC0c",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-13.jpg"
+    },
+    "id": 75
+  },
+  {
+    "completions": [
+      {
+        "id": 76001,
+        "lead_time": 5.965,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "o-cOdUT0lK",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Action"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-14.jpg"
+    },
+    "id": 76
+  },
+  {
+    "completions": [
+      {
+        "id": 77001,
+        "lead_time": 4.642,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "lR_c1r30Ko",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Action"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-15.jpg"
+    },
+    "id": 77
+  },
+  {
+    "completions": [
+      {
+        "id": 78001,
+        "lead_time": 4.131,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "q3w8yEesuD",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Action"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-16.jpg"
+    },
+    "id": 78
+  },
+  {
+    "completions": [
+      {
+        "id": 79001,
+        "lead_time": 4.291,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "YyPR7xqFio",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Action"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-17.jpg"
+    },
+    "id": 79
+  },
+  {
+    "completions": [
+      {
+        "id": 80001,
+        "lead_time": 4.625,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xvszdJleFc",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Action"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-18.jpg"
+    },
+    "id": 80
+  },
+  {
+    "completions": [
+      {
+        "id": 81001,
+        "lead_time": 3.836,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xS-LsDe9ue",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Action"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-19.jpg"
+    },
+    "id": 81
+  },
+  {
+    "completions": [
+      {
+        "id": 82001,
+        "lead_time": 7.243,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "-zSlqApBK7",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-20.jpg"
+    },
+    "id": 82
+  },
+  {
+    "completions": [
+      {
+        "id": 83001,
+        "lead_time": 4.388,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "pQXztvdsoT",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%204-MEREKA/KOSAN%2095!-episode%204-21.jpg"
+    },
+    "id": 83
+  },
+  {
+    "completions": [
+      {
+        "id": 84001,
+        "lead_time": 7.457,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ESLxzbc9W7",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-1.jpg"
+    },
+    "id": 84
+  },
+  {
+    "completions": [
+      {
+        "id": 85001,
+        "lead_time": 4.4,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "dg6YoOpFMj",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-2.jpg"
+    },
+    "id": 85
+  },
+  {
+    "completions": [
+      {
+        "id": 86001,
+        "lead_time": 10.614,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "RSGES33TvJ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-3.jpg"
+    },
+    "id": 86
+  },
+  {
+    "completions": [
+      {
+        "id": 87001,
+        "lead_time": 6.534,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "pPAfS1GWjH",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-4.jpg"
+    },
+    "id": 87
+  },
+  {
+    "completions": [
+      {
+        "id": 88001,
+        "lead_time": 19.472,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4MWbeiBm10",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-5.jpg"
+    },
+    "id": 88
+  },
+  {
+    "completions": [
+      {
+        "id": 89001,
+        "lead_time": 238.001,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "wDMnGilufy",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-6.jpg"
+    },
+    "id": 89
+  },
+  {
+    "completions": [
+      {
+        "id": 90001,
+        "lead_time": 7.015,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "CZU1lBita0",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-7.jpg"
+    },
+    "id": 90
+  },
+  {
+    "completions": [
+      {
+        "id": 91001,
+        "lead_time": 5.322,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "2H-n-_ud2t",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-8.jpg"
+    },
+    "id": 91
+  },
+  {
+    "completions": [
+      {
+        "id": 92001,
+        "lead_time": 7.135,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "OvRbZ1XJtZ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-9.jpg"
+    },
+    "id": 92
+  },
+  {
+    "completions": [
+      {
+        "id": 93001,
+        "lead_time": 4.757,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "oroxm0BjAX",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-10.jpg"
+    },
+    "id": 93
+  },
+  {
+    "completions": [
+      {
+        "id": 94001,
+        "lead_time": 5.11,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "TZoCTIWuxL",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-11.jpg"
+    },
+    "id": 94
+  },
+  {
+    "completions": [
+      {
+        "id": 95001,
+        "lead_time": 19.499,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "id1JneO7Kc",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-12.jpg"
+    },
+    "id": 95
+  },
+  {
+    "completions": [
+      {
+        "id": 96001,
+        "lead_time": 13.635,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "QRtWAFWLNw",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-13.jpg"
+    },
+    "id": 96
+  },
+  {
+    "completions": [
+      {
+        "id": 97001,
+        "lead_time": 5.828,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "eeHwwM3va3",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-14.jpg"
+    },
+    "id": 97
+  },
+  {
+    "completions": [
+      {
+        "id": 98001,
+        "lead_time": 5.262,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qyZ94D1Mqt",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-15.jpg"
+    },
+    "id": 98
+  },
+  {
+    "completions": [
+      {
+        "id": 99001,
+        "lead_time": 15.457,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "LLKUBwFoO9",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-16.jpg"
+    },
+    "id": 99
+  },
+  {
+    "completions": [
+      {
+        "id": 100001,
+        "lead_time": 5.891,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "IKYojjiESu",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-17.jpg"
+    },
+    "id": 100
+  },
+  {
+    "completions": [
+      {
+        "id": 101001,
+        "lead_time": 25.709,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "6msWE5B-GG",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOfLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-18.jpg"
+    },
+    "id": 101
+  },
+  {
+    "completions": [
+      {
+        "id": 102001,
+        "lead_time": 10.337,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "-XxZ_7qnAF",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-19.jpg"
+    },
+    "id": 102
+  },
+  {
+    "completions": [
+      {
+        "id": 103001,
+        "lead_time": 7.427,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "r3H7YgEKAL",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Drama"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-20.jpg"
+    },
+    "id": 103
+  },
+  {
+    "completions": [
+      {
+        "id": 104001,
+        "lead_time": 3.752,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "FZKAwk86PQ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Others"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/KOSAN%2095!/KOSAN%2095!-episode%205-KEPUTUSAN/KOSAN%2095!-episode%205-21.jpg"
+    },
+    "id": 104
+  }
+]
