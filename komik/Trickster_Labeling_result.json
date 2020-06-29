@@ -1,0 +1,4577 @@
+[
+  {
+    "completions": [
+      {
+        "id": 1,
+        "lead_time": 2.663,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Jo-Z3Cqhwt",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/0.jpg"
+    },
+    "id": 0
+  },
+  {
+    "completions": [
+      {
+        "id": 1001,
+        "lead_time": 5.956,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "L23qUQjPzM",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/1.jpg"
+    },
+    "id": 1
+  },
+  {
+    "completions": [
+      {
+        "id": 10001,
+        "lead_time": 95.446,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "osX1ym6NGO",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/10.jpg"
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "id": 100001,
+        "lead_time": 17.967,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "kXjY4hmuKp",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/1.jpg"
+    },
+    "id": 100
+  },
+  {
+    "completions": [
+      {
+        "id": 101001,
+        "lead_time": 36.526,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "yWNkKQhU90",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/2.jpg"
+    },
+    "id": 101
+  },
+  {
+    "completions": [
+      {
+        "id": 102001,
+        "lead_time": 5.041,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Q08B13_bZt",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/3.jpg"
+    },
+    "id": 102
+  },
+  {
+    "completions": [
+      {
+        "id": 103001,
+        "lead_time": 3.228,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "yE3bafDfEm",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/4.jpg"
+    },
+    "id": 103
+  },
+  {
+    "completions": [
+      {
+        "id": 104001,
+        "lead_time": 2.794,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "XHygQ0gxO0",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/5.jpg"
+    },
+    "id": 104
+  },
+  {
+    "completions": [
+      {
+        "id": 105001,
+        "lead_time": 134.793,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "gX4JgvtxCP",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/6.jpg"
+    },
+    "id": 105
+  },
+  {
+    "completions": [
+      {
+        "id": 106001,
+        "lead_time": 3.028,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "OovxEPOf4h",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/7.jpg"
+    },
+    "id": 106
+  },
+  {
+    "completions": [
+      {
+        "id": 107001,
+        "lead_time": 335.148,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "3j6qYZP-I9",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/8.jpg"
+    },
+    "id": 107
+  },
+  {
+    "completions": [
+      {
+        "id": 108001,
+        "lead_time": 6.527,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "RGT8AeMpJa",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/9.jpg"
+    },
+    "id": 108
+  },
+  {
+    "completions": [
+      {
+        "id": 109001,
+        "lead_time": 1.781,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "iE-KpRWXt6",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/10.jpg"
+    },
+    "id": 109
+  },
+  {
+    "completions": [
+      {
+        "id": 11001,
+        "lead_time": 3.716,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "SgM8TVFQ-2",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/11.jpg"
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "id": 110001,
+        "lead_time": 4.631,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ckV3swxz73",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/11.jpg"
+    },
+    "id": 110
+  },
+  {
+    "completions": [
+      {
+        "id": 111001,
+        "lead_time": 7.276,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "2RWVeVJduK",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/12.jpg"
+    },
+    "id": 111
+  },
+  {
+    "completions": [
+      {
+        "id": 112001,
+        "lead_time": 2.676,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "6yK9l6lGlg",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/13.jpg"
+    },
+    "id": 112
+  },
+  {
+    "completions": [
+      {
+        "id": 113001,
+        "lead_time": 7.636,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "6P-cbmbL7F",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/14.jpg"
+    },
+    "id": 113
+  },
+  {
+    "completions": [
+      {
+        "id": 114001,
+        "lead_time": 8.517,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "3ZFI1er_hz",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/15.jpg"
+    },
+    "id": 114
+  },
+  {
+    "completions": [
+      {
+        "id": 115001,
+        "lead_time": 14.787,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "RoRJo8oAAr",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/16.jpg"
+    },
+    "id": 115
+  },
+  {
+    "completions": [
+      {
+        "id": 116001,
+        "lead_time": 9.904,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "6Fad7meKMd",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/17.jpg"
+    },
+    "id": 116
+  },
+  {
+    "completions": [
+      {
+        "id": 117001,
+        "lead_time": 2.92,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "YiYaBRaPkD",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/18.jpg"
+    },
+    "id": 117
+  },
+  {
+    "completions": [
+      {
+        "id": 118001,
+        "lead_time": 4.242,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "WnIGQVugPG",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/19.jpg"
+    },
+    "id": 118
+  },
+  {
+    "completions": [
+      {
+        "id": 119001,
+        "lead_time": 149.716,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ZcyZYOJDDF",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/20.jpg"
+    },
+    "id": 119
+  },
+  {
+    "completions": [
+      {
+        "id": 12001,
+        "lead_time": 5.086,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "62ZzdPBSeX",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/12.jpg"
+    },
+    "id": 12
+  },
+  {
+    "completions": [
+      {
+        "id": 120001,
+        "lead_time": 19.711,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "i7JYaEYHdk",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/21.jpg"
+    },
+    "id": 120
+  },
+  {
+    "completions": [
+      {
+        "id": 121001,
+        "lead_time": 6.338,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "V3qmNReySO",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/22.jpg"
+    },
+    "id": 121
+  },
+  {
+    "completions": [
+      {
+        "id": 122001,
+        "lead_time": 2.606,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "wch5fUBYOe",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/23.jpg"
+    },
+    "id": 122
+  },
+  {
+    "completions": [
+      {
+        "id": 123001,
+        "lead_time": 30.627,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "DXVGo8_oqa",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/24.jpg"
+    },
+    "id": 123
+  },
+  {
+    "completions": [
+      {
+        "id": 124001,
+        "lead_time": 459.42,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "oew9hccZZM",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/25.jpg"
+    },
+    "id": 124
+  },
+  {
+    "completions": [
+      {
+        "id": 125001,
+        "lead_time": 3.37,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "V7gjAleA97",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/26.jpg"
+    },
+    "id": 125
+  },
+  {
+    "completions": [
+      {
+        "id": 126001,
+        "lead_time": 6.13,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "dzjsR7KyTH",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/27.jpg"
+    },
+    "id": 126
+  },
+  {
+    "completions": [
+      {
+        "id": 127001,
+        "lead_time": 18.522,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "5VHMK-maHe",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/28.jpg"
+    },
+    "id": 127
+  },
+  {
+    "completions": [
+      {
+        "id": 128001,
+        "lead_time": 7.594,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fvKbCE-SFm",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/29.jpg"
+    },
+    "id": 128
+  },
+  {
+    "completions": [
+      {
+        "id": 129001,
+        "lead_time": 7.39,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "15JSL8qcx4",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/30.jpg"
+    },
+    "id": 129
+  },
+  {
+    "completions": [
+      {
+        "id": 13001,
+        "lead_time": 10.96,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "tJ7vwp073x",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/13.jpg"
+    },
+    "id": 13
+  },
+  {
+    "completions": [
+      {
+        "id": 130001,
+        "lead_time": 18.019,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "6-52OHUTLc",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/31.jpg"
+    },
+    "id": 130
+  },
+  {
+    "completions": [
+      {
+        "id": 131001,
+        "lead_time": 4.802,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "b3TNfv6ynY",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/32.jpg"
+    },
+    "id": 131
+  },
+  {
+    "completions": [
+      {
+        "id": 132001,
+        "lead_time": 2.876,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "cxNknP3jb5",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/33.jpg"
+    },
+    "id": 132
+  },
+  {
+    "completions": [
+      {
+        "id": 133001,
+        "lead_time": 7.604,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qqkM2pP-Yv",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/34.jpg"
+    },
+    "id": 133
+  },
+  {
+    "completions": [
+      {
+        "id": 134001,
+        "lead_time": 9.255,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "9xz3C2K-pW",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/35.jpg"
+    },
+    "id": 134
+  },
+  {
+    "completions": [
+      {
+        "id": 135001,
+        "lead_time": 3.739,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "RPSzKWcd5z",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/36.jpg"
+    },
+    "id": 135
+  },
+  {
+    "completions": [
+      {
+        "id": 136001,
+        "lead_time": 5.945,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "-ZAW1nXbyx",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/0.jpg"
+    },
+    "id": 136
+  },
+  {
+    "completions": [
+      {
+        "id": 137001,
+        "lead_time": 9.997,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "wTLKPH7shg",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/1.jpg"
+    },
+    "id": 137
+  },
+  {
+    "completions": [
+      {
+        "id": 138001,
+        "lead_time": 76.023,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "nZH-4r9MJC",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/2.jpg"
+    },
+    "id": 138
+  },
+  {
+    "completions": [
+      {
+        "id": 139001,
+        "lead_time": 5.54,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ZV9hidvbM3",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/3.jpg"
+    },
+    "id": 139
+  },
+  {
+    "completions": [
+      {
+        "id": 14001,
+        "lead_time": 4.952,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "zjwh9q_mwk",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/14.jpg"
+    },
+    "id": 14
+  },
+  {
+    "completions": [
+      {
+        "id": 140001,
+        "lead_time": 164.95,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "IBvR6WEwwv",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/4.jpg"
+    },
+    "id": 140
+  },
+  {
+    "completions": [
+      {
+        "id": 141001,
+        "lead_time": 8.741,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "nCtGQMuYe1",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Thriller"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/5.jpg"
+    },
+    "id": 141
+  },
+  {
+    "completions": [
+      {
+        "id": 142001,
+        "lead_time": 374.045,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "9W88dGCmaT",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/6.jpg"
+    },
+    "id": 142
+  },
+  {
+    "completions": [
+      {
+        "id": 143001,
+        "lead_time": 3.339,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "VBx38Oa7u7",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/7.jpg"
+    },
+    "id": 143
+  },
+  {
+    "completions": [
+      {
+        "id": 144001,
+        "lead_time": 6.041,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "txkhsWRrT6",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Thriller"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/8.jpg"
+    },
+    "id": 144
+  },
+  {
+    "completions": [
+      {
+        "id": 145001,
+        "lead_time": 4.676,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "cSOKOAZYWD",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/9.jpg"
+    },
+    "id": 145
+  },
+  {
+    "completions": [
+      {
+        "id": 146001,
+        "lead_time": 6.875,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "sXrY3xukat",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/10.jpg"
+    },
+    "id": 146
+  },
+  {
+    "completions": [
+      {
+        "id": 147001,
+        "lead_time": 4.092,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "BUftXxguUU",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/11.jpg"
+    },
+    "id": 147
+  },
+  {
+    "completions": [
+      {
+        "id": 148001,
+        "lead_time": 2.618,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "22gjfqs0iN",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/12.jpg"
+    },
+    "id": 148
+  },
+  {
+    "completions": [
+      {
+        "id": 149001,
+        "lead_time": 3.728,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qU8pEmGknb",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/13.jpg"
+    },
+    "id": 149
+  },
+  {
+    "completions": [
+      {
+        "id": 15001,
+        "lead_time": 3.042,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "HoD_Drv-Gr",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/15.jpg"
+    },
+    "id": 15
+  },
+  {
+    "completions": [
+      {
+        "id": 150001,
+        "lead_time": 12.131,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "35keb4RsHw",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/14.jpg"
+    },
+    "id": 150
+  },
+  {
+    "completions": [
+      {
+        "id": 151001,
+        "lead_time": 6.249,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "3uY2tL4wyG",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/15.jpg"
+    },
+    "id": 151
+  },
+  {
+    "completions": [
+      {
+        "id": 152001,
+        "lead_time": 10.869,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "K2-P0MApa5",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/16.jpg"
+    },
+    "id": 152
+  },
+  {
+    "completions": [
+      {
+        "id": 153001,
+        "lead_time": 109.346,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "uC8m_unI8a",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/17.jpg"
+    },
+    "id": 153
+  },
+  {
+    "completions": [
+      {
+        "id": 154001,
+        "lead_time": 15.533,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "8T90kZLluk",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/18.jpg"
+    },
+    "id": 154
+  },
+  {
+    "completions": [
+      {
+        "id": 155001,
+        "lead_time": 8.013,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "5ppaTeL7V0",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/19.jpg"
+    },
+    "id": 155
+  },
+  {
+    "completions": [
+      {
+        "id": 156001,
+        "lead_time": 11.748,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "awOvzZcsak",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/20.jpg"
+    },
+    "id": 156
+  },
+  {
+    "completions": [
+      {
+        "id": 157001,
+        "lead_time": 12.215,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "tJ9RGrPQIV",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/21.jpg"
+    },
+    "id": 157
+  },
+  {
+    "completions": [
+      {
+        "id": 158001,
+        "lead_time": 69.21,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "c9qqpuxBLF",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/22.jpg"
+    },
+    "id": 158
+  },
+  {
+    "completions": [
+      {
+        "id": 159001,
+        "lead_time": 8.843,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "cSz2ckQbq_",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/23.jpg"
+    },
+    "id": 159
+  },
+  {
+    "completions": [
+      {
+        "id": 16001,
+        "lead_time": 53.552,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "byot5Ec5On",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/16.jpg"
+    },
+    "id": 16
+  },
+  {
+    "completions": [
+      {
+        "id": 160001,
+        "lead_time": 2.694,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "PEhahN-wLx",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/24.jpg"
+    },
+    "id": 160
+  },
+  {
+    "completions": [
+      {
+        "id": 161001,
+        "lead_time": 5.667,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qmJVMk5yTD",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/25.jpg"
+    },
+    "id": 161
+  },
+  {
+    "completions": [
+      {
+        "id": 162001,
+        "lead_time": 9.005,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "r-4KqLmSSF",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/26.jpg"
+    },
+    "id": 162
+  },
+  {
+    "completions": [
+      {
+        "id": 163001,
+        "lead_time": 6.711,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "EFNQxdfJLW",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/27.jpg"
+    },
+    "id": 163
+  },
+  {
+    "completions": [
+      {
+        "id": 164001,
+        "lead_time": 2.982,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ueQwET4DiS",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/28.jpg"
+    },
+    "id": 164
+  },
+  {
+    "completions": [
+      {
+        "id": 165001,
+        "lead_time": 13.054,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "oq9VO2YqOM",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/29.jpg"
+    },
+    "id": 165
+  },
+  {
+    "completions": [
+      {
+        "id": 166001,
+        "lead_time": 8.221,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "esKGmDtj7F",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/30.jpg"
+    },
+    "id": 166
+  },
+  {
+    "completions": [
+      {
+        "id": 167001,
+        "lead_time": 14.552,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "39CPibII-5",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/31.jpg"
+    },
+    "id": 167
+  },
+  {
+    "completions": [
+      {
+        "id": 168001,
+        "lead_time": 3.439,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "2XsDWhE0e-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/32.jpg"
+    },
+    "id": 168
+  },
+  {
+    "completions": [
+      {
+        "id": 169001,
+        "lead_time": 5.884,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "u7nRSvLihZ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/33.jpg"
+    },
+    "id": 169
+  },
+  {
+    "completions": [
+      {
+        "id": 17001,
+        "lead_time": 3.739,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "i1GwIf33hL",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/17.jpg"
+    },
+    "id": 17
+  },
+  {
+    "completions": [
+      {
+        "id": 170001,
+        "lead_time": 6.54,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "t5msJlUlZf",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/34.jpg"
+    },
+    "id": 170
+  },
+  {
+    "completions": [
+      {
+        "id": 171001,
+        "lead_time": 2.957,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "bV1T-LsdrJ",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/35.jpg"
+    },
+    "id": 171
+  },
+  {
+    "completions": [
+      {
+        "id": 172001,
+        "lead_time": 4.07,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fm2kFEzEGu",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/36.jpg"
+    },
+    "id": 172
+  },
+  {
+    "completions": [
+      {
+        "id": 173001,
+        "lead_time": 4.803,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "AtU7H_MXBA",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/37.jpg"
+    },
+    "id": 173
+  },
+  {
+    "completions": [
+      {
+        "id": 174001,
+        "lead_time": 2.987,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "cgQ1mh5lQG",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/38.jpg"
+    },
+    "id": 174
+  },
+  {
+    "completions": [
+      {
+        "id": 175001,
+        "lead_time": 8.55,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "YaUdUJ7qKt",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/39.jpg"
+    },
+    "id": 175
+  },
+  {
+    "completions": [
+      {
+        "id": 176001,
+        "lead_time": 3.879,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "aa4xugLQWW",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/40.jpg"
+    },
+    "id": 176
+  },
+  {
+    "completions": [
+      {
+        "id": 177001,
+        "lead_time": 9.388,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "po8_WUG3W-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/41.jpg"
+    },
+    "id": 177
+  },
+  {
+    "completions": [
+      {
+        "id": 178001,
+        "lead_time": 4.342,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "pI46CBypq5",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/42.jpg"
+    },
+    "id": 178
+  },
+  {
+    "completions": [
+      {
+        "id": 179001,
+        "lead_time": 8.315,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "8Hj0Q0oQkw",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/43.jpg"
+    },
+    "id": 179
+  },
+  {
+    "completions": [
+      {
+        "id": 18001,
+        "lead_time": 5.89,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "u1G76nRsJF",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/18.jpg"
+    },
+    "id": 18
+  },
+  {
+    "completions": [
+      {
+        "id": 180001,
+        "lead_time": 3.893,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "d6fNf79q8P",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/44.jpg"
+    },
+    "id": 180
+  },
+  {
+    "completions": [
+      {
+        "id": 181001,
+        "lead_time": 11.928,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ZWZjUW3y7U",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/45.jpg"
+    },
+    "id": 181
+  },
+  {
+    "completions": [
+      {
+        "id": 182001,
+        "lead_time": 4.564,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "W_hepKZERl",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 5 - KETAHUAN/46.jpg"
+    },
+    "id": 182
+  },
+  {
+    "completions": [
+      {
+        "id": 19001,
+        "lead_time": 2.442,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "tsUgs85vYj",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/19.jpg"
+    },
+    "id": 19
+  },
+  {
+    "completions": [
+      {
+        "id": 2001,
+        "lead_time": 75.121,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_0EATMEpgg",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/2.jpg"
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "id": 20001,
+        "lead_time": 273.961,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "gIaapii3_z",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/20.jpg"
+    },
+    "id": 20
+  },
+  {
+    "completions": [
+      {
+        "id": 21001,
+        "lead_time": 9.79,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Kowzugl49-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/21.jpg"
+    },
+    "id": 21
+  },
+  {
+    "completions": [
+      {
+        "id": 22001,
+        "lead_time": 2.346,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "sTVBTUjGZI",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/22.jpg"
+    },
+    "id": 22
+  },
+  {
+    "completions": [
+      {
+        "id": 23001,
+        "lead_time": 3.138,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "tx9rDK0fA6",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/23.jpg"
+    },
+    "id": 23
+  },
+  {
+    "completions": [
+      {
+        "id": 24001,
+        "lead_time": 9.772,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "-UwPJwIMgn",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/24.jpg"
+    },
+    "id": 24
+  },
+  {
+    "completions": [
+      {
+        "id": 25001,
+        "lead_time": 10.398,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "wF6EWdl1RA",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/25.jpg"
+    },
+    "id": 25
+  },
+  {
+    "completions": [
+      {
+        "id": 26001,
+        "lead_time": 4.595,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4rggP2fQwg",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/0.jpg"
+    },
+    "id": 26
+  },
+  {
+    "completions": [
+      {
+        "id": 27001,
+        "lead_time": 2.598,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "VAIMftn3J3",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/1.jpg"
+    },
+    "id": 27
+  },
+  {
+    "completions": [
+      {
+        "id": 28001,
+        "lead_time": 5.548,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "KfLDFfVWIV",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/2.jpg"
+    },
+    "id": 28
+  },
+  {
+    "completions": [
+      {
+        "id": 29001,
+        "lead_time": 5.178,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "El3cKkMIQ_",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/3.jpg"
+    },
+    "id": 29
+  },
+  {
+    "completions": [
+      {
+        "id": 3001,
+        "lead_time": 13.674,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "AIDyITHQH_",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/3.jpg"
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "id": 30001,
+        "lead_time": 3.722,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "DqVXB8V-Hn",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/4.jpg"
+    },
+    "id": 30
+  },
+  {
+    "completions": [
+      {
+        "id": 31001,
+        "lead_time": 6.067,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ipHD-Tj1aX",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/5.jpg"
+    },
+    "id": 31
+  },
+  {
+    "completions": [
+      {
+        "id": 32001,
+        "lead_time": 7.461,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ZtQXVHNUU2",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/6.jpg"
+    },
+    "id": 32
+  },
+  {
+    "completions": [
+      {
+        "id": 33001,
+        "lead_time": 2.437,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "PBhqyHgOjK",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/7.jpg"
+    },
+    "id": 33
+  },
+  {
+    "completions": [
+      {
+        "id": 34001,
+        "lead_time": 234.45,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "AaKdbzHrwk",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/8.jpg"
+    },
+    "id": 34
+  },
+  {
+    "completions": [
+      {
+        "id": 35001,
+        "lead_time": 5.897,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "aOXNS-VN0j",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/9.jpg"
+    },
+    "id": 35
+  },
+  {
+    "completions": [
+      {
+        "id": 36001,
+        "lead_time": 3.747,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "tCgpTfFspP",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/10.jpg"
+    },
+    "id": 36
+  },
+  {
+    "completions": [
+      {
+        "id": 37001,
+        "lead_time": 6.587,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Fl6Tt6r2LY",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/11.jpg"
+    },
+    "id": 37
+  },
+  {
+    "completions": [
+      {
+        "id": 38001,
+        "lead_time": 120.25,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "VpZ0mtiqDC",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/12.jpg"
+    },
+    "id": 38
+  },
+  {
+    "completions": [
+      {
+        "id": 39001,
+        "lead_time": 3.586,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "pWZ0WQxGzi",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/13.jpg"
+    },
+    "id": 39
+  },
+  {
+    "completions": [
+      {
+        "id": 4001,
+        "lead_time": 11.934,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "TuheaJoRKN",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/4.jpg"
+    },
+    "id": 4
+  },
+  {
+    "completions": [
+      {
+        "id": 40001,
+        "lead_time": 28.568,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "EfRuGgMDju",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/14.jpg"
+    },
+    "id": 40
+  },
+  {
+    "completions": [
+      {
+        "id": 41001,
+        "lead_time": 2.893,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "5mXsuRVTUY",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/15.jpg"
+    },
+    "id": 41
+  },
+  {
+    "completions": [
+      {
+        "id": 42001,
+        "lead_time": 7.38,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "adKbjIoaWB",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/16.jpg"
+    },
+    "id": 42
+  },
+  {
+    "completions": [
+      {
+        "id": 43001,
+        "lead_time": 17.095,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "JFpW-yO4EC",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/17.jpg"
+    },
+    "id": 43
+  },
+  {
+    "completions": [
+      {
+        "id": 44001,
+        "lead_time": 3.234,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "80-xFPBk3-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/18.jpg"
+    },
+    "id": 44
+  },
+  {
+    "completions": [
+      {
+        "id": 45001,
+        "lead_time": 7.19,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "bttkwCv8H5",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/19.jpg"
+    },
+    "id": 45
+  },
+  {
+    "completions": [
+      {
+        "id": 46001,
+        "lead_time": 8.366,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "5QVwl45xrI",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/20.jpg"
+    },
+    "id": 46
+  },
+  {
+    "completions": [
+      {
+        "id": 47001,
+        "lead_time": 7.736,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "rfb7C0rBDo",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/21.jpg"
+    },
+    "id": 47
+  },
+  {
+    "completions": [
+      {
+        "id": 48001,
+        "lead_time": 44.234,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "CIxrIVai-n",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/22.jpg"
+    },
+    "id": 48
+  },
+  {
+    "completions": [
+      {
+        "id": 49001,
+        "lead_time": 351.969,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "1MNUw765ZS",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/23.jpg"
+    },
+    "id": 49
+  },
+  {
+    "completions": [
+      {
+        "id": 5001,
+        "lead_time": 213.499,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "GQYuTsF7p-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/5.jpg"
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "id": 50001,
+        "lead_time": 3.252,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "rJqQ5_Ucu6",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/24.jpg"
+    },
+    "id": 50
+  },
+  {
+    "completions": [
+      {
+        "id": 51001,
+        "lead_time": 129.963,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "cYh9Hbq0HU",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/25.jpg"
+    },
+    "id": 51
+  },
+  {
+    "completions": [
+      {
+        "id": 52001,
+        "lead_time": 10.383,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "wryfw-bR4i",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/26.jpg"
+    },
+    "id": 52
+  },
+  {
+    "completions": [
+      {
+        "id": 53001,
+        "lead_time": 15.303,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_V-cPh8mpW",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/27.jpg"
+    },
+    "id": 53
+  },
+  {
+    "completions": [
+      {
+        "id": 54001,
+        "lead_time": 4.99,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "PEwRYDCLW9",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/28.jpg"
+    },
+    "id": 54
+  },
+  {
+    "completions": [
+      {
+        "id": 55001,
+        "lead_time": 5.458,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "E7hXE36ky6",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/29.jpg"
+    },
+    "id": 55
+  },
+  {
+    "completions": [
+      {
+        "id": 56001,
+        "lead_time": 10.94,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ApOk_jNTSa",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/30.jpg"
+    },
+    "id": 56
+  },
+  {
+    "completions": [
+      {
+        "id": 57001,
+        "lead_time": 8.962,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "L5TkkWq2MR",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/31.jpg"
+    },
+    "id": 57
+  },
+  {
+    "completions": [
+      {
+        "id": 58001,
+        "lead_time": 12.1,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fnQT_MTaKt",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/32.jpg"
+    },
+    "id": 58
+  },
+  {
+    "completions": [
+      {
+        "id": 59001,
+        "lead_time": 7.528,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_GD26dJrMC",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/33.jpg"
+    },
+    "id": 59
+  },
+  {
+    "completions": [
+      {
+        "id": 6001,
+        "lead_time": 4.454,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "BCPBjx_Egy",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/6.jpg"
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "id": 60001,
+        "lead_time": 4.924,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "A-gTuA3cye",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/34.jpg"
+    },
+    "id": 60
+  },
+  {
+    "completions": [
+      {
+        "id": 61001,
+        "lead_time": 13.893,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "PhrOQ2hqZ-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/35.jpg"
+    },
+    "id": 61
+  },
+  {
+    "completions": [
+      {
+        "id": 62001,
+        "lead_time": 15.301,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "KlFzoCb80q",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/36.jpg"
+    },
+    "id": 62
+  },
+  {
+    "completions": [
+      {
+        "id": 63001,
+        "lead_time": 3.749,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "caWYsNNP2Z",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/37.jpg"
+    },
+    "id": 63
+  },
+  {
+    "completions": [
+      {
+        "id": 64001,
+        "lead_time": 4.748,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "9_5x6RrW6D",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/38.jpg"
+    },
+    "id": 64
+  },
+  {
+    "completions": [
+      {
+        "id": 65001,
+        "lead_time": 58.424,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "LY61J95Sa2",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/39.jpg"
+    },
+    "id": 65
+  },
+  {
+    "completions": [
+      {
+        "id": 66001,
+        "lead_time": 3.854,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "spqs2Pw31e",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/40.jpg"
+    },
+    "id": 66
+  },
+  {
+    "completions": [
+      {
+        "id": 67001,
+        "lead_time": 3.873,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "NzJnxArC13",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/41.jpg"
+    },
+    "id": 67
+  },
+  {
+    "completions": [
+      {
+        "id": 68001,
+        "lead_time": 71.911,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "q1cdjrdwbv",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/42.jpg"
+    },
+    "id": 68
+  },
+  {
+    "completions": [
+      {
+        "id": 69001,
+        "lead_time": 2.08,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "9tWRlWMCUn",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/43.jpg"
+    },
+    "id": 69
+  },
+  {
+    "completions": [
+      {
+        "id": 7001,
+        "lead_time": 3.365,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "aqx5QmwRot",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/7.jpg"
+    },
+    "id": 7
+  },
+  {
+    "completions": [
+      {
+        "id": 70001,
+        "lead_time": 3.784,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Ej75e83kLf",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 2 - DIA DATANG/44.jpg"
+    },
+    "id": 70
+  },
+  {
+    "completions": [
+      {
+        "id": 71001,
+        "lead_time": 2.514,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "3pvjMDTxVd",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/0.jpg"
+    },
+    "id": 71
+  },
+  {
+    "completions": [
+      {
+        "id": 72001,
+        "lead_time": 6.757,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "VaS_IM9tSG",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/1.jpg"
+    },
+    "id": 72
+  },
+  {
+    "completions": [
+      {
+        "id": 73001,
+        "lead_time": 76.69,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "m7ct_QCNSF",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/2.jpg"
+    },
+    "id": 73
+  },
+  {
+    "completions": [
+      {
+        "id": 74001,
+        "lead_time": 2.139,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "989Qs75TC-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/3.jpg"
+    },
+    "id": 74
+  },
+  {
+    "completions": [
+      {
+        "id": 75001,
+        "lead_time": 3.602,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "7rgDBE4l4p",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/4.jpg"
+    },
+    "id": 75
+  },
+  {
+    "completions": [
+      {
+        "id": 76001,
+        "lead_time": 5.646,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "L25JT_x4K3",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/5.jpg"
+    },
+    "id": 76
+  },
+  {
+    "completions": [
+      {
+        "id": 77001,
+        "lead_time": 2.595,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_hMuuVdK2a",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/6.jpg"
+    },
+    "id": 77
+  },
+  {
+    "completions": [
+      {
+        "id": 78001,
+        "lead_time": 5.642,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "5yBSdF1y2l",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/7.jpg"
+    },
+    "id": 78
+  },
+  {
+    "completions": [
+      {
+        "id": 79001,
+        "lead_time": 5.979,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "DvR9k7vPq7",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/8.jpg"
+    },
+    "id": 79
+  },
+  {
+    "completions": [
+      {
+        "id": 8001,
+        "lead_time": 5.531,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "hxRZWYQ6ep",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/8.jpg"
+    },
+    "id": 8
+  },
+  {
+    "completions": [
+      {
+        "id": 80001,
+        "lead_time": 8.739,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "BmFEvKGyoE",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/9.jpg"
+    },
+    "id": 80
+  },
+  {
+    "completions": [
+      {
+        "id": 81001,
+        "lead_time": 6.989,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "fZYHuPpqy6",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/10.jpg"
+    },
+    "id": 81
+  },
+  {
+    "completions": [
+      {
+        "id": 82001,
+        "lead_time": 3.029,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "WkHlzKI2E8",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/11.jpg"
+    },
+    "id": 82
+  },
+  {
+    "completions": [
+      {
+        "id": 83001,
+        "lead_time": 41.997,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "e_b8nCLBC5",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/12.jpg"
+    },
+    "id": 83
+  },
+  {
+    "completions": [
+      {
+        "id": 84001,
+        "lead_time": 4.195,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "mNYoxduUP_",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/13.jpg"
+    },
+    "id": 84
+  },
+  {
+    "completions": [
+      {
+        "id": 85001,
+        "lead_time": 5.368,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ajC9I5ji_j",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/14.jpg"
+    },
+    "id": 85
+  },
+  {
+    "completions": [
+      {
+        "id": 86001,
+        "lead_time": 32.819,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xwnwiR2L_z",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/15.jpg"
+    },
+    "id": 86
+  },
+  {
+    "completions": [
+      {
+        "id": 87001,
+        "lead_time": 6.813,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "MN8f7BVJ4w",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/16.jpg"
+    },
+    "id": 87
+  },
+  {
+    "completions": [
+      {
+        "id": 88001,
+        "lead_time": 4389.414,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "hVaHvb9fAh",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/17.jpg"
+    },
+    "id": 88
+  },
+  {
+    "completions": [
+      {
+        "id": 89001,
+        "lead_time": 1.849,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Wn3Zwgj5wO",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/18.jpg"
+    },
+    "id": 89
+  },
+  {
+    "completions": [
+      {
+        "id": 9001,
+        "lead_time": 7.075,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "KsaJZfL0dE",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 1 - MURID BARU/9.jpg"
+    },
+    "id": 9
+  },
+  {
+    "completions": [
+      {
+        "id": 90001,
+        "lead_time": 91.289,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "s2OPtCQnGT",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/19.jpg"
+    },
+    "id": 90
+  },
+  {
+    "completions": [
+      {
+        "id": 91001,
+        "lead_time": 6.673,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "s-1FcxNz8u",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/20.jpg"
+    },
+    "id": 91
+  },
+  {
+    "completions": [
+      {
+        "id": 92001,
+        "lead_time": 79.964,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "rJdpFWlbge",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/21.jpg"
+    },
+    "id": 92
+  },
+  {
+    "completions": [
+      {
+        "id": 93001,
+        "lead_time": 5.306,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "NUDeWqwCgS",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/22.jpg"
+    },
+    "id": 93
+  },
+  {
+    "completions": [
+      {
+        "id": 94001,
+        "lead_time": 4.095,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "pIRTkpHdrE",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/23.jpg"
+    },
+    "id": 94
+  },
+  {
+    "completions": [
+      {
+        "id": 95001,
+        "lead_time": 6.567,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "mJI9SVKpff",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/24.jpg"
+    },
+    "id": 95
+  },
+  {
+    "completions": [
+      {
+        "id": 96001,
+        "lead_time": 7.207,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "0-ssCkwYIe",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Mysteri"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/25.jpg"
+    },
+    "id": 96
+  },
+  {
+    "completions": [
+      {
+        "id": 97001,
+        "lead_time": 10.903,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ZAVh0oATZN",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/26.jpg"
+    },
+    "id": 97
+  },
+  {
+    "completions": [
+      {
+        "id": 98001,
+        "lead_time": 11.088,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "IkNxNIEsNd",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 3 - HOBIKU ADALAH MENYONTEK/27.jpg"
+    },
+    "id": 98
+  },
+  {
+    "completions": [
+      {
+        "id": 99001,
+        "lead_time": 7.239,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "rRfUc7xmsv",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Trickster/EP. 4 - ULANGAN HARIAN/0.jpg"
+    },
+    "id": 99
+  }
+]
