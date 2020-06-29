@@ -1179,7 +1179,9 @@ function generateTable(table, data) {
       let text = document.createTextNode(element[key]);
       let link = document.createTextNode(element[key]);
       a.appendChild(text);
-      a.href=element[key];
+      if(key=="img"){
+        a.href=element[key];
+    }
       cell.appendChild(a);
 
     }
