@@ -8,7 +8,7 @@
           {
             "from_name": "choice",
             "id": "Tubsl64i1O",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -20,7 +20,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/0.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/0.jpg"
     },
     "id": 0
   },
@@ -33,7 +33,7 @@
           {
             "from_name": "choice",
             "id": "SnNChG1L6b",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -45,7 +45,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/1.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/1.jpg"
     },
     "id": 1
   },
@@ -58,7 +58,7 @@
           {
             "from_name": "choice",
             "id": "IC0I_cLa2w",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -70,7 +70,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/2.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/2.jpg"
     },
     "id": 2
   },
@@ -83,7 +83,7 @@
           {
             "from_name": "choice",
             "id": "zeU_Gs6URX",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -95,7 +95,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/3.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/3.jpg"
     },
     "id": 3
   },
@@ -108,7 +108,7 @@
           {
             "from_name": "choice",
             "id": "wA2qaqs0pN",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -120,7 +120,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/4.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/4.jpg"
     },
     "id": 4
   },
@@ -133,7 +133,7 @@
           {
             "from_name": "choice",
             "id": "G187lrWhJk",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -145,7 +145,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/5.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/5.jpg"
     },
     "id": 5
   },
@@ -158,7 +158,7 @@
           {
             "from_name": "choice",
             "id": "D1m52OSMnM",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -170,7 +170,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/6.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/6.jpg"
     },
     "id": 6
   },
@@ -183,7 +183,7 @@
           {
             "from_name": "choice",
             "id": "dFGkiO2C1e",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -195,7 +195,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/7.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/7.jpg"
     },
     "id": 7
   },
@@ -208,7 +208,7 @@
           {
             "from_name": "choice",
             "id": "1q1tj7nNzZ",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -220,7 +220,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/8.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/8.jpg"
     },
     "id": 8
   },
@@ -233,7 +233,7 @@
           {
             "from_name": "choice",
             "id": "RR9jvVuX1Z",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -245,7 +245,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/9.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/9.jpg"
     },
     "id": 9
   },
@@ -258,7 +258,7 @@
           {
             "from_name": "choice",
             "id": "qPRRZE8pkB",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -270,7 +270,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/10.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/10.jpg"
     },
     "id": 10
   },
@@ -283,7 +283,7 @@
           {
             "from_name": "choice",
             "id": "EKZU4s4y-r",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -295,7 +295,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/11.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/11.jpg"
     },
     "id": 11
   },
@@ -308,7 +308,7 @@
           {
             "from_name": "choice",
             "id": "gyJkW602rt",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -320,7 +320,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/12.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/12.jpg"
     },
     "id": 12
   },
@@ -333,7 +333,7 @@
           {
             "from_name": "choice",
             "id": "9ArQJPRT5m",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -345,7 +345,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/13.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/13.jpg"
     },
     "id": 13
   },
@@ -358,7 +358,7 @@
           {
             "from_name": "choice",
             "id": "hWmYwt3C2W",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -370,7 +370,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/14.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/14.jpg"
     },
     "id": 14
   },
@@ -383,7 +383,7 @@
           {
             "from_name": "choice",
             "id": "YXG1DRvrWa",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -395,7 +395,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/15.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/15.jpg"
     },
     "id": 15
   },
@@ -408,7 +408,7 @@
           {
             "from_name": "choice",
             "id": "mr4mRPxBPl",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -420,7 +420,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/16.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/16.jpg"
     },
     "id": 16
   },
@@ -433,7 +433,7 @@
           {
             "from_name": "choice",
             "id": "RL6QlTQD6e",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -445,7 +445,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/17.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/17.jpg"
     },
     "id": 17
   },
@@ -458,7 +458,7 @@
           {
             "from_name": "choice",
             "id": "V-1g9h503y",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -470,7 +470,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/18.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/18.jpg"
     },
     "id": 18
   },
@@ -483,7 +483,7 @@
           {
             "from_name": "choice",
             "id": "RBBWyQj1l5",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -495,7 +495,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/19.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/19.jpg"
     },
     "id": 19
   },
@@ -508,7 +508,7 @@
           {
             "from_name": "choice",
             "id": "bRlMhOVEkI",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -520,7 +520,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/20.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/20.jpg"
     },
     "id": 20
   },
@@ -533,7 +533,7 @@
           {
             "from_name": "choice",
             "id": "8A4dWOJSdf",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -545,7 +545,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/21.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/21.jpg"
     },
     "id": 21
   },
@@ -558,7 +558,7 @@
           {
             "from_name": "choice",
             "id": "-V8t6RoDdO",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -570,7 +570,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/22.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/22.jpg"
     },
     "id": 22
   },
@@ -583,7 +583,7 @@
           {
             "from_name": "choice",
             "id": "tIPcNX0Jgb",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -595,7 +595,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/23.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/23.jpg"
     },
     "id": 23
   },
@@ -608,7 +608,7 @@
           {
             "from_name": "choice",
             "id": "JqMW-oFqkA",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -620,7 +620,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/24.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/24.jpg"
     },
     "id": 24
   },
@@ -633,7 +633,7 @@
           {
             "from_name": "choice",
             "id": "XCwwxKaTx6",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -645,7 +645,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/25.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/25.jpg"
     },
     "id": 25
   },
@@ -658,7 +658,7 @@
           {
             "from_name": "choice",
             "id": "NkyO2-BKoy",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -670,7 +670,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/26.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/26.jpg"
     },
     "id": 26
   },
@@ -683,7 +683,7 @@
           {
             "from_name": "choice",
             "id": "s0dCvFPy9c",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -695,7 +695,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/27.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/27.jpg"
     },
     "id": 27
   },
@@ -708,7 +708,7 @@
           {
             "from_name": "choice",
             "id": "pLwv5aECg4",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -720,7 +720,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/28.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/28.jpg"
     },
     "id": 28
   },
@@ -733,7 +733,7 @@
           {
             "from_name": "choice",
             "id": "QWcu_-EV14",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -745,7 +745,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/29.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/29.jpg"
     },
     "id": 29
   },
@@ -758,7 +758,7 @@
           {
             "from_name": "choice",
             "id": "oLU9l9dX8X",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -770,7 +770,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/30.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/30.jpg"
     },
     "id": 30
   },
@@ -783,7 +783,7 @@
           {
             "from_name": "choice",
             "id": "tROwq0ghNV",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -795,7 +795,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/31.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/31.jpg"
     },
     "id": 31
   },
@@ -808,7 +808,7 @@
           {
             "from_name": "choice",
             "id": "PjmFM1zRpv",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -820,7 +820,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/32.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/32.jpg"
     },
     "id": 32
   },
@@ -833,7 +833,7 @@
           {
             "from_name": "choice",
             "id": "rbLZSOH1tK",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -845,7 +845,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/33.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/33.jpg"
     },
     "id": 33
   },
@@ -858,7 +858,7 @@
           {
             "from_name": "choice",
             "id": "tFYGEC5Lun",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -870,7 +870,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/34.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/34.jpg"
     },
     "id": 34
   },
@@ -883,7 +883,7 @@
           {
             "from_name": "choice",
             "id": "7ZGeSnBWM9",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -895,7 +895,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/35.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/35.jpg"
     },
     "id": 35
   },
@@ -908,7 +908,7 @@
           {
             "from_name": "choice",
             "id": "5TrNAJaWzu",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -920,7 +920,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/36.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/36.jpg"
     },
     "id": 36
   },
@@ -933,7 +933,7 @@
           {
             "from_name": "choice",
             "id": "WG3L-n3_av",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -945,7 +945,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/37.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/37.jpg"
     },
     "id": 37
   },
@@ -958,7 +958,7 @@
           {
             "from_name": "choice",
             "id": "gSNEJjRorP",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -970,7 +970,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/38.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/38.jpg"
     },
     "id": 38
   },
@@ -983,7 +983,7 @@
           {
             "from_name": "choice",
             "id": "gEv1jt0uaz",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -995,7 +995,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/39.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/39.jpg"
     },
     "id": 39
   },
@@ -1008,7 +1008,7 @@
           {
             "from_name": "choice",
             "id": "AONieUtwk-",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1020,7 +1020,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/40.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/40.jpg"
     },
     "id": 40
   },
@@ -1033,7 +1033,7 @@
           {
             "from_name": "choice",
             "id": "JyOhBYh-6O",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1045,7 +1045,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/41.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/41.jpg"
     },
     "id": 41
   },
@@ -1058,7 +1058,7 @@
           {
             "from_name": "choice",
             "id": "hjD_zoc1_Z",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1070,7 +1070,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/42.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/42.jpg"
     },
     "id": 42
   },
@@ -1083,7 +1083,7 @@
           {
             "from_name": "choice",
             "id": "C7SnGU6hzH",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1095,7 +1095,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/43.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/43.jpg"
     },
     "id": 43
   },
@@ -1108,7 +1108,7 @@
           {
             "from_name": "choice",
             "id": "v48ol-P3HF",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1120,7 +1120,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/44.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/44.jpg"
     },
     "id": 44
   },
@@ -1133,7 +1133,7 @@
           {
             "from_name": "choice",
             "id": "faIcCqm8a5",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1145,7 +1145,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/45.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/45.jpg"
     },
     "id": 45
   },
@@ -1158,7 +1158,7 @@
           {
             "from_name": "choice",
             "id": "fiUkkP2Twh",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1170,7 +1170,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/46.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/46.jpg"
     },
     "id": 46
   },
@@ -1183,7 +1183,7 @@
           {
             "from_name": "choice",
             "id": "3bAFQEQMds",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1195,7 +1195,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/47.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/47.jpg"
     },
     "id": 47
   },
@@ -1208,7 +1208,7 @@
           {
             "from_name": "choice",
             "id": "6TjKu8waOX",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1220,7 +1220,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/48.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/48.jpg"
     },
     "id": 48
   },
@@ -1233,7 +1233,7 @@
           {
             "from_name": "choice",
             "id": "YgkXTFD2Q0",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1245,7 +1245,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/49.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/49.jpg"
     },
     "id": 49
   },
@@ -1258,7 +1258,7 @@
           {
             "from_name": "choice",
             "id": "NzdKkvLlFu",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1270,7 +1270,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/50.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/50.jpg"
     },
     "id": 50
   },
@@ -1283,7 +1283,7 @@
           {
             "from_name": "choice",
             "id": "-CyNN1-BAS",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1295,7 +1295,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/51.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/51.jpg"
     },
     "id": 51
   },
@@ -1308,7 +1308,7 @@
           {
             "from_name": "choice",
             "id": "RD38tQqc-h",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1320,7 +1320,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/52.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/52.jpg"
     },
     "id": 52
   },
@@ -1333,7 +1333,7 @@
           {
             "from_name": "choice",
             "id": "9tQwWtmvM7",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1345,7 +1345,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/53.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/53.jpg"
     },
     "id": 53
   },
@@ -1358,7 +1358,7 @@
           {
             "from_name": "choice",
             "id": "mMnePC9z29",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1370,7 +1370,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/54.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/54.jpg"
     },
     "id": 54
   },
@@ -1383,7 +1383,7 @@
           {
             "from_name": "choice",
             "id": "br4HV2i6Bb",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1395,7 +1395,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/55.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/55.jpg"
     },
     "id": 55
   },
@@ -1408,7 +1408,7 @@
           {
             "from_name": "choice",
             "id": "eZ2VVuMR1V",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1420,7 +1420,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/56.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/56.jpg"
     },
     "id": 56
   },
@@ -1433,7 +1433,7 @@
           {
             "from_name": "choice",
             "id": "l-LKOYiQ5z",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1445,7 +1445,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/57.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/57.jpg"
     },
     "id": 57
   },
@@ -1458,7 +1458,7 @@
           {
             "from_name": "choice",
             "id": "HSEXHb1YR4",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1470,7 +1470,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/58.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/58.jpg"
     },
     "id": 58
   },
@@ -1483,7 +1483,7 @@
           {
             "from_name": "choice",
             "id": "_oV8v7JM6k",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1495,7 +1495,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/59.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/59.jpg"
     },
     "id": 59
   },
@@ -1508,7 +1508,7 @@
           {
             "from_name": "choice",
             "id": "eneTH710ha",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1520,7 +1520,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/60.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/60.jpg"
     },
     "id": 60
   },
@@ -1533,7 +1533,7 @@
           {
             "from_name": "choice",
             "id": "YXaMn3rtFd",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1545,7 +1545,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/61.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.1/61.jpg"
     },
     "id": 61
   },
@@ -1558,7 +1558,7 @@
           {
             "from_name": "choice",
             "id": "qot5KheFLT",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1570,7 +1570,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/0.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/0.jpg"
     },
     "id": 62
   },
@@ -1583,7 +1583,7 @@
           {
             "from_name": "choice",
             "id": "QgVa8qE9nR",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1595,7 +1595,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/1.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/1.jpg"
     },
     "id": 63
   },
@@ -1608,7 +1608,7 @@
           {
             "from_name": "choice",
             "id": "DrsRLdWEbI",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1620,7 +1620,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/2.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/2.jpg"
     },
     "id": 64
   },
@@ -1633,7 +1633,7 @@
           {
             "from_name": "choice",
             "id": "fm-TbpZQA0",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1645,7 +1645,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/3.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/3.jpg"
     },
     "id": 65
   },
@@ -1658,7 +1658,7 @@
           {
             "from_name": "choice",
             "id": "Crh_h9LT2D",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1670,7 +1670,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/4.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/4.jpg"
     },
     "id": 66
   },
@@ -1683,7 +1683,7 @@
           {
             "from_name": "choice",
             "id": "e6IQucMptp",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1695,7 +1695,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/5.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/5.jpg"
     },
     "id": 67
   },
@@ -1708,7 +1708,7 @@
           {
             "from_name": "choice",
             "id": "KVOaIniAkI",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1720,7 +1720,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/6.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/6.jpg"
     },
     "id": 68
   },
@@ -1733,7 +1733,7 @@
           {
             "from_name": "choice",
             "id": "NX_AvLsXku",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1745,7 +1745,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/7.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/7.jpg"
     },
     "id": 69
   },
@@ -1758,7 +1758,7 @@
           {
             "from_name": "choice",
             "id": "YLytAKBQjR",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1770,7 +1770,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/8.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/8.jpg"
     },
     "id": 70
   },
@@ -1783,7 +1783,7 @@
           {
             "from_name": "choice",
             "id": "Nj81tKNZz9",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1795,7 +1795,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/9.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/9.jpg"
     },
     "id": 71
   },
@@ -1808,7 +1808,7 @@
           {
             "from_name": "choice",
             "id": "zXhmgVbFZg",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1820,7 +1820,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/10.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/10.jpg"
     },
     "id": 72
   },
@@ -1833,7 +1833,7 @@
           {
             "from_name": "choice",
             "id": "-WVAmp3fwf",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1845,7 +1845,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/11.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/11.jpg"
     },
     "id": 73
   },
@@ -1858,7 +1858,7 @@
           {
             "from_name": "choice",
             "id": "l4Ge0570u9",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1870,7 +1870,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/12.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/12.jpg"
     },
     "id": 74
   },
@@ -1883,7 +1883,7 @@
           {
             "from_name": "choice",
             "id": "z4FPMga24q",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1895,7 +1895,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/13.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/13.jpg"
     },
     "id": 75
   },
@@ -1908,7 +1908,7 @@
           {
             "from_name": "choice",
             "id": "JmPWpt9REv",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1920,7 +1920,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/14.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/14.jpg"
     },
     "id": 76
   },
@@ -1933,7 +1933,7 @@
           {
             "from_name": "choice",
             "id": "PBKVCMyApt",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1945,7 +1945,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/15.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/15.jpg"
     },
     "id": 77
   },
@@ -1958,7 +1958,7 @@
           {
             "from_name": "choice",
             "id": "cCZiSeAMaL",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1970,7 +1970,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/16.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/16.jpg"
     },
     "id": 78
   },
@@ -1983,7 +1983,7 @@
           {
             "from_name": "choice",
             "id": "ys7Ca_uc18",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1995,7 +1995,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/17.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/17.jpg"
     },
     "id": 79
   },
@@ -2008,7 +2008,7 @@
           {
             "from_name": "choice",
             "id": "HbCGLvKXaO",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2020,7 +2020,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/18.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/18.jpg"
     },
     "id": 80
   },
@@ -2033,7 +2033,7 @@
           {
             "from_name": "choice",
             "id": "TnSpmY0B9w",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2045,7 +2045,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/19.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/19.jpg"
     },
     "id": 81
   },
@@ -2058,7 +2058,7 @@
           {
             "from_name": "choice",
             "id": "uaxV8H-N9E",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2070,7 +2070,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/20.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/20.jpg"
     },
     "id": 82
   },
@@ -2083,7 +2083,7 @@
           {
             "from_name": "choice",
             "id": "GICv_tpKMG",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2095,7 +2095,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/21.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/21.jpg"
     },
     "id": 83
   },
@@ -2108,7 +2108,7 @@
           {
             "from_name": "choice",
             "id": "yki0u_iKJ0",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2120,7 +2120,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/22.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/22.jpg"
     },
     "id": 84
   },
@@ -2133,7 +2133,7 @@
           {
             "from_name": "choice",
             "id": "EISgRM416o",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2145,7 +2145,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/23.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/23.jpg"
     },
     "id": 85
   },
@@ -2158,7 +2158,7 @@
           {
             "from_name": "choice",
             "id": "Qrpq25sxdV",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2170,7 +2170,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/24.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/24.jpg"
     },
     "id": 86
   },
@@ -2183,7 +2183,7 @@
           {
             "from_name": "choice",
             "id": "hBREJRaFra",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2195,7 +2195,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/25.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/25.jpg"
     },
     "id": 87
   },
@@ -2208,7 +2208,7 @@
           {
             "from_name": "choice",
             "id": "-sG-xDpawU",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2220,7 +2220,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/26.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/26.jpg"
     },
     "id": 88
   },
@@ -2233,7 +2233,7 @@
           {
             "from_name": "choice",
             "id": "cbvk5uIsbV",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2245,7 +2245,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/27.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/27.jpg"
     },
     "id": 89
   },
@@ -2258,7 +2258,7 @@
           {
             "from_name": "choice",
             "id": "szlLivFQuS",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2270,7 +2270,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/28.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/28.jpg"
     },
     "id": 90
   },
@@ -2283,7 +2283,7 @@
           {
             "from_name": "choice",
             "id": "JjmdChaviV",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2295,7 +2295,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/29.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/29.jpg"
     },
     "id": 91
   },
@@ -2308,7 +2308,7 @@
           {
             "from_name": "choice",
             "id": "M2zU2iNLfL",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2320,7 +2320,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/30.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/30.jpg"
     },
     "id": 92
   },
@@ -2333,7 +2333,7 @@
           {
             "from_name": "choice",
             "id": "hCCvSxHX8Y",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2345,7 +2345,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/31.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/31.jpg"
     },
     "id": 93
   },
@@ -2358,7 +2358,7 @@
           {
             "from_name": "choice",
             "id": "5T6hYwn2lJ",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2370,7 +2370,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/32.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/32.jpg"
     },
     "id": 94
   },
@@ -2383,7 +2383,7 @@
           {
             "from_name": "choice",
             "id": "k6FMJZ1uOs",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2395,7 +2395,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/33.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/33.jpg"
     },
     "id": 95
   },
@@ -2408,7 +2408,7 @@
           {
             "from_name": "choice",
             "id": "NIx_ewx31O",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2420,7 +2420,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/34.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/34.jpg"
     },
     "id": 96
   },
@@ -2433,7 +2433,7 @@
           {
             "from_name": "choice",
             "id": "CGjWxFPzKM",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2445,7 +2445,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/35.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/35.jpg"
     },
     "id": 97
   },
@@ -2458,7 +2458,7 @@
           {
             "from_name": "choice",
             "id": "ULqQd5ZJ1r",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2470,7 +2470,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/36.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/36.jpg"
     },
     "id": 98
   },
@@ -2483,7 +2483,7 @@
           {
             "from_name": "choice",
             "id": "dQC0TOPFNL",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2495,7 +2495,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/37.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/37.jpg"
     },
     "id": 99
   },
@@ -2508,7 +2508,7 @@
           {
             "from_name": "choice",
             "id": "O6WPi-Yj10",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2520,7 +2520,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/38.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/38.jpg"
     },
     "id": 100
   },
@@ -2533,7 +2533,7 @@
           {
             "from_name": "choice",
             "id": "CRGgrWl_d0",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2545,7 +2545,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/39.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/39.jpg"
     },
     "id": 101
   },
@@ -2558,7 +2558,7 @@
           {
             "from_name": "choice",
             "id": "ODr1BIKxM6",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2570,7 +2570,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/40.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/40.jpg"
     },
     "id": 102
   },
@@ -2583,7 +2583,7 @@
           {
             "from_name": "choice",
             "id": "3nO2t0mVEP",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2595,7 +2595,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/41.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/41.jpg"
     },
     "id": 103
   },
@@ -2608,7 +2608,7 @@
           {
             "from_name": "choice",
             "id": "3hkyu0ka0l",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2620,7 +2620,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/42.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/42.jpg"
     },
     "id": 104
   },
@@ -2633,7 +2633,7 @@
           {
             "from_name": "choice",
             "id": "DqK0omJvU6",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2645,7 +2645,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/43.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.2/43.jpg"
     },
     "id": 105
   },
@@ -2658,7 +2658,7 @@
           {
             "from_name": "choice",
             "id": "G2KEX6Xcu6",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2670,7 +2670,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/0.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/0.jpg"
     },
     "id": 106
   },
@@ -2683,7 +2683,7 @@
           {
             "from_name": "choice",
             "id": "23ETWz_zpv",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2695,7 +2695,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/1.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/1.jpg"
     },
     "id": 107
   },
@@ -2708,7 +2708,7 @@
           {
             "from_name": "choice",
             "id": "lCdBjaKp4g",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2720,7 +2720,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/2.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/2.jpg"
     },
     "id": 108
   },
@@ -2733,7 +2733,7 @@
           {
             "from_name": "choice",
             "id": "zXoU7z5aBb",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2745,7 +2745,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/3.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/3.jpg"
     },
     "id": 109
   },
@@ -2758,7 +2758,7 @@
           {
             "from_name": "choice",
             "id": "TR0SiiO5Zu",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2770,7 +2770,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/4.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/4.jpg"
     },
     "id": 110
   },
@@ -2783,7 +2783,7 @@
           {
             "from_name": "choice",
             "id": "DJYcYvn59B",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2795,7 +2795,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/5.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/5.jpg"
     },
     "id": 111
   },
@@ -2808,7 +2808,7 @@
           {
             "from_name": "choice",
             "id": "QTl8QlM_Ki",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2820,7 +2820,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/6.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/6.jpg"
     },
     "id": 112
   },
@@ -2833,7 +2833,7 @@
           {
             "from_name": "choice",
             "id": "0kj8h29y-C",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2845,7 +2845,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/7.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/7.jpg"
     },
     "id": 113
   },
@@ -2858,7 +2858,7 @@
           {
             "from_name": "choice",
             "id": "yjtKp1Fbn_",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2870,7 +2870,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/8.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/8.jpg"
     },
     "id": 114
   },
@@ -2883,7 +2883,7 @@
           {
             "from_name": "choice",
             "id": "imZbVpuiue",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2895,7 +2895,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/9.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/9.jpg"
     },
     "id": 115
   },
@@ -2908,7 +2908,7 @@
           {
             "from_name": "choice",
             "id": "1bkwg5-Hjg",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2920,7 +2920,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/10.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/10.jpg"
     },
     "id": 116
   },
@@ -2933,7 +2933,7 @@
           {
             "from_name": "choice",
             "id": "CLJYjc-5Un",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2945,7 +2945,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/11.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/11.jpg"
     },
     "id": 117
   },
@@ -2958,7 +2958,7 @@
           {
             "from_name": "choice",
             "id": "Z-6Wd63AQp",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2970,7 +2970,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/12.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/12.jpg"
     },
     "id": 118
   },
@@ -2983,7 +2983,7 @@
           {
             "from_name": "choice",
             "id": "CstPxY0Jy5",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2995,7 +2995,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/13.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/13.jpg"
     },
     "id": 119
   },
@@ -3008,7 +3008,7 @@
           {
             "from_name": "choice",
             "id": "SJx2L7SSG1",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3020,7 +3020,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/14.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/14.jpg"
     },
     "id": 120
   },
@@ -3033,7 +3033,7 @@
           {
             "from_name": "choice",
             "id": "Qs5ZCoVtoW",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3045,7 +3045,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/15.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/15.jpg"
     },
     "id": 121
   },
@@ -3058,7 +3058,7 @@
           {
             "from_name": "choice",
             "id": "ZNmIEndNYI",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3070,7 +3070,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/16.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/16.jpg"
     },
     "id": 122
   },
@@ -3083,7 +3083,7 @@
           {
             "from_name": "choice",
             "id": "Ww4XemyRsS",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3095,7 +3095,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/17.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/17.jpg"
     },
     "id": 123
   },
@@ -3108,7 +3108,7 @@
           {
             "from_name": "choice",
             "id": "PzsFp8Uf0F",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3120,7 +3120,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/18.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/18.jpg"
     },
     "id": 124
   },
@@ -3133,7 +3133,7 @@
           {
             "from_name": "choice",
             "id": "e96Wi3_cxV",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3145,7 +3145,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/19.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/19.jpg"
     },
     "id": 125
   },
@@ -3158,7 +3158,7 @@
           {
             "from_name": "choice",
             "id": "StSMCP1LG2",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3170,7 +3170,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/20.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/20.jpg"
     },
     "id": 126
   },
@@ -3183,7 +3183,7 @@
           {
             "from_name": "choice",
             "id": "yT7N7mECg7",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3195,7 +3195,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/21.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/21.jpg"
     },
     "id": 127
   },
@@ -3208,7 +3208,7 @@
           {
             "from_name": "choice",
             "id": "yCQ0c6h1Fc",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3220,7 +3220,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/22.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/22.jpg"
     },
     "id": 128
   },
@@ -3233,7 +3233,7 @@
           {
             "from_name": "choice",
             "id": "hUI7vigvgL",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3245,7 +3245,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/23.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/23.jpg"
     },
     "id": 129
   },
@@ -3258,7 +3258,7 @@
           {
             "from_name": "choice",
             "id": "cWbKJDgKia",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3270,7 +3270,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/24.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/24.jpg"
     },
     "id": 130
   },
@@ -3283,7 +3283,7 @@
           {
             "from_name": "choice",
             "id": "UBrybaK4nu",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3295,7 +3295,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/25.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/25.jpg"
     },
     "id": 131
   },
@@ -3308,7 +3308,7 @@
           {
             "from_name": "choice",
             "id": "t9JX9GXwJK",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3320,7 +3320,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/26.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/26.jpg"
     },
     "id": 132
   },
@@ -3333,7 +3333,7 @@
           {
             "from_name": "choice",
             "id": "mbpYxqpL2B",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3345,7 +3345,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/27.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/27.jpg"
     },
     "id": 133
   },
@@ -3358,7 +3358,7 @@
           {
             "from_name": "choice",
             "id": "3IiyisKQhK",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3370,7 +3370,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/28.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/28.jpg"
     },
     "id": 134
   },
@@ -3383,7 +3383,7 @@
           {
             "from_name": "choice",
             "id": "Gn1QOC3JSv",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3395,7 +3395,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/29.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/29.jpg"
     },
     "id": 135
   },
@@ -3408,7 +3408,7 @@
           {
             "from_name": "choice",
             "id": "dr1XY6T2CT",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3420,7 +3420,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/30.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/30.jpg"
     },
     "id": 136
   },
@@ -3433,7 +3433,7 @@
           {
             "from_name": "choice",
             "id": "UKYedvw_S6",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3445,7 +3445,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/31.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/31.jpg"
     },
     "id": 137
   },
@@ -3458,7 +3458,7 @@
           {
             "from_name": "choice",
             "id": "4Cg5-66ugz",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3470,7 +3470,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/32.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/32.jpg"
     },
     "id": 138
   },
@@ -3483,7 +3483,7 @@
           {
             "from_name": "choice",
             "id": "l0cUF9KGNC",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3495,7 +3495,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/33.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/33.jpg"
     },
     "id": 139
   },
@@ -3508,7 +3508,7 @@
           {
             "from_name": "choice",
             "id": "RfE_VfCDSo",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3520,7 +3520,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/34.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/34.jpg"
     },
     "id": 140
   },
@@ -3533,7 +3533,7 @@
           {
             "from_name": "choice",
             "id": "chAv-EfA53",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3545,7 +3545,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/35.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/35.jpg"
     },
     "id": 141
   },
@@ -3558,7 +3558,7 @@
           {
             "from_name": "choice",
             "id": "Ix4qCXm4xI",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3570,7 +3570,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/36.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/36.jpg"
     },
     "id": 142
   },
@@ -3583,7 +3583,7 @@
           {
             "from_name": "choice",
             "id": "3XSXdWnCAI",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3595,7 +3595,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/37.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/37.jpg"
     },
     "id": 143
   },
@@ -3608,7 +3608,7 @@
           {
             "from_name": "choice",
             "id": "qPelorD0Rf",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3620,7 +3620,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/38.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/38.jpg"
     },
     "id": 144
   },
@@ -3633,7 +3633,7 @@
           {
             "from_name": "choice",
             "id": "rkJ35y1nMs",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3645,7 +3645,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/39.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/39.jpg"
     },
     "id": 145
   },
@@ -3658,7 +3658,7 @@
           {
             "from_name": "choice",
             "id": "WgRVjtj0g1",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3670,7 +3670,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/40.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/40.jpg"
     },
     "id": 146
   },
@@ -3683,7 +3683,7 @@
           {
             "from_name": "choice",
             "id": "dnSqJrDxAM",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3695,7 +3695,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/41.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/41.jpg"
     },
     "id": 147
   },
@@ -3708,7 +3708,7 @@
           {
             "from_name": "choice",
             "id": "HfDNVfLLwH",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3720,7 +3720,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/42.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/42.jpg"
     },
     "id": 148
   },
@@ -3733,7 +3733,7 @@
           {
             "from_name": "choice",
             "id": "BMxRIORC2u",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3745,7 +3745,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/43.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/43.jpg"
     },
     "id": 149
   },
@@ -3758,7 +3758,7 @@
           {
             "from_name": "choice",
             "id": "1XJx21grZy",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3770,7 +3770,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/44.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/44.jpg"
     },
     "id": 150
   },
@@ -3783,7 +3783,7 @@
           {
             "from_name": "choice",
             "id": "V5u2AZ6e_G",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3795,7 +3795,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/45.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.3/45.jpg"
     },
     "id": 151
   },
@@ -3808,7 +3808,7 @@
           {
             "from_name": "choice",
             "id": "a1bgLF6JCZ",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3820,7 +3820,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/0.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/0.jpg"
     },
     "id": 152
   },
@@ -3833,7 +3833,7 @@
           {
             "from_name": "choice",
             "id": "XzzDw5oEUS",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3845,7 +3845,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/1.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/1.jpg"
     },
     "id": 153
   },
@@ -3858,7 +3858,7 @@
           {
             "from_name": "choice",
             "id": "nWgMvaoqef",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3870,7 +3870,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/2.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/2.jpg"
     },
     "id": 154
   },
@@ -3883,7 +3883,7 @@
           {
             "from_name": "choice",
             "id": "ofLSqz6LAI",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3895,7 +3895,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/3.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/3.jpg"
     },
     "id": 155
   },
@@ -3908,7 +3908,7 @@
           {
             "from_name": "choice",
             "id": "ySB3RrSUnr",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3920,7 +3920,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/4.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/4.jpg"
     },
     "id": 156
   },
@@ -3933,7 +3933,7 @@
           {
             "from_name": "choice",
             "id": "5YGPkLJqvN",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3945,7 +3945,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/5.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/5.jpg"
     },
     "id": 157
   },
@@ -3958,7 +3958,7 @@
           {
             "from_name": "choice",
             "id": "REwrPpJSQn",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3970,7 +3970,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/6.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/6.jpg"
     },
     "id": 158
   },
@@ -3983,7 +3983,7 @@
           {
             "from_name": "choice",
             "id": "Lhlrn6VxZA",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -3995,7 +3995,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/7.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/7.jpg"
     },
     "id": 159
   },
@@ -4008,7 +4008,7 @@
           {
             "from_name": "choice",
             "id": "Vf5kZflv9I",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4020,7 +4020,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/8.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/8.jpg"
     },
     "id": 160
   },
@@ -4033,7 +4033,7 @@
           {
             "from_name": "choice",
             "id": "6soopFIzbm",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4045,7 +4045,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/9.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/9.jpg"
     },
     "id": 161
   },
@@ -4058,7 +4058,7 @@
           {
             "from_name": "choice",
             "id": "7eEX0TeN7N",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4070,7 +4070,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/10.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/10.jpg"
     },
     "id": 162
   },
@@ -4083,7 +4083,7 @@
           {
             "from_name": "choice",
             "id": "veALoQx4V_",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4095,7 +4095,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/11.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/11.jpg"
     },
     "id": 163
   },
@@ -4108,7 +4108,7 @@
           {
             "from_name": "choice",
             "id": "ANyHP6hFQe",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4120,7 +4120,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/12.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/12.jpg"
     },
     "id": 164
   },
@@ -4133,7 +4133,7 @@
           {
             "from_name": "choice",
             "id": "TjKE8nyNlf",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4145,7 +4145,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/13.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/13.jpg"
     },
     "id": 165
   },
@@ -4158,7 +4158,7 @@
           {
             "from_name": "choice",
             "id": "MX_cImuMaB",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4170,7 +4170,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/14.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/14.jpg"
     },
     "id": 166
   },
@@ -4183,7 +4183,7 @@
           {
             "from_name": "choice",
             "id": "gE5vsB5ESK",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4195,7 +4195,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/15.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/15.jpg"
     },
     "id": 167
   },
@@ -4208,7 +4208,7 @@
           {
             "from_name": "choice",
             "id": "icHBPvNUIi",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4220,7 +4220,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/16.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/16.jpg"
     },
     "id": 168
   },
@@ -4233,7 +4233,7 @@
           {
             "from_name": "choice",
             "id": "N22tmwc35D",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4245,7 +4245,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/17.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/17.jpg"
     },
     "id": 169
   },
@@ -4258,7 +4258,7 @@
           {
             "from_name": "choice",
             "id": "DeE8b5HTG4",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4270,7 +4270,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/18.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/18.jpg"
     },
     "id": 170
   },
@@ -4283,7 +4283,7 @@
           {
             "from_name": "choice",
             "id": "uJII7Q7TCX",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4295,7 +4295,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/19.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/19.jpg"
     },
     "id": 171
   },
@@ -4308,7 +4308,7 @@
           {
             "from_name": "choice",
             "id": "v_gUbj-dVG",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4320,7 +4320,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/20.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/20.jpg"
     },
     "id": 172
   },
@@ -4333,7 +4333,7 @@
           {
             "from_name": "choice",
             "id": "UkiLGIWEMZ",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4345,7 +4345,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/21.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/21.jpg"
     },
     "id": 173
   },
@@ -4358,7 +4358,7 @@
           {
             "from_name": "choice",
             "id": "MakoPLuOsq",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4370,7 +4370,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/22.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/22.jpg"
     },
     "id": 174
   },
@@ -4383,7 +4383,7 @@
           {
             "from_name": "choice",
             "id": "Kq9e8vJG1B",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4395,7 +4395,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/23.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/23.jpg"
     },
     "id": 175
   },
@@ -4408,7 +4408,7 @@
           {
             "from_name": "choice",
             "id": "t8zmsy2Ye4",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4420,7 +4420,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/24.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/24.jpg"
     },
     "id": 176
   },
@@ -4433,7 +4433,7 @@
           {
             "from_name": "choice",
             "id": "jSbjqqIDhd",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4445,7 +4445,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/25.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/25.jpg"
     },
     "id": 177
   },
@@ -4458,7 +4458,7 @@
           {
             "from_name": "choice",
             "id": "9knp1I3Sp7",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4470,7 +4470,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/26.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/26.jpg"
     },
     "id": 178
   },
@@ -4483,7 +4483,7 @@
           {
             "from_name": "choice",
             "id": "JbGMlJ5_3P",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4495,7 +4495,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/27.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/27.jpg"
     },
     "id": 179
   },
@@ -4508,7 +4508,7 @@
           {
             "from_name": "choice",
             "id": "P9qfeVEZIi",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4520,7 +4520,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/28.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/28.jpg"
     },
     "id": 180
   },
@@ -4533,7 +4533,7 @@
           {
             "from_name": "choice",
             "id": "Tj6L0HcxuQ",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4545,7 +4545,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/29.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/29.jpg"
     },
     "id": 181
   },
@@ -4558,7 +4558,7 @@
           {
             "from_name": "choice",
             "id": "YX0hs3wZSh",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4570,7 +4570,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/30.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/30.jpg"
     },
     "id": 182
   },
@@ -4583,7 +4583,7 @@
           {
             "from_name": "choice",
             "id": "kKKypHL8Vy",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4595,7 +4595,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/31.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/31.jpg"
     },
     "id": 183
   },
@@ -4608,7 +4608,7 @@
           {
             "from_name": "choice",
             "id": "vtMnyaIAtT",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4620,7 +4620,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/32.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/32.jpg"
     },
     "id": 184
   },
@@ -4633,7 +4633,7 @@
           {
             "from_name": "choice",
             "id": "tp6LceN2QG",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4645,7 +4645,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/33.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/33.jpg"
     },
     "id": 185
   },
@@ -4658,7 +4658,7 @@
           {
             "from_name": "choice",
             "id": "2hLEWupL-E",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4670,7 +4670,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/34.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/34.jpg"
     },
     "id": 186
   },
@@ -4683,7 +4683,7 @@
           {
             "from_name": "choice",
             "id": "WALmWXrl6L",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4695,7 +4695,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/35.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/35.jpg"
     },
     "id": 187
   },
@@ -4708,7 +4708,7 @@
           {
             "from_name": "choice",
             "id": "M_--jALWDT",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4720,7 +4720,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/36.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/36.jpg"
     },
     "id": 188
   },
@@ -4733,7 +4733,7 @@
           {
             "from_name": "choice",
             "id": "HUHYadKSaq",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4745,7 +4745,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/37.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/37.jpg"
     },
     "id": 189
   },
@@ -4758,7 +4758,7 @@
           {
             "from_name": "choice",
             "id": "n303Esv1ko",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4770,7 +4770,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/38.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/38.jpg"
     },
     "id": 190
   },
@@ -4783,7 +4783,7 @@
           {
             "from_name": "choice",
             "id": "lRROkGJcI_",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4795,7 +4795,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/39.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/39.jpg"
     },
     "id": 191
   },
@@ -4808,7 +4808,7 @@
           {
             "from_name": "choice",
             "id": "f624SacKNB",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4820,7 +4820,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/40.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/40.jpg"
     },
     "id": 192
   },
@@ -4833,7 +4833,7 @@
           {
             "from_name": "choice",
             "id": "BeexSmqtYj",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4845,7 +4845,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/41.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/41.jpg"
     },
     "id": 193
   },
@@ -4858,7 +4858,7 @@
           {
             "from_name": "choice",
             "id": "kNU-lvHhQX",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4870,7 +4870,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/42.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/42.jpg"
     },
     "id": 194
   },
@@ -4883,7 +4883,7 @@
           {
             "from_name": "choice",
             "id": "_GDPBH_XM9",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4895,7 +4895,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/43.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/43.jpg"
     },
     "id": 195
   },
@@ -4908,7 +4908,7 @@
           {
             "from_name": "choice",
             "id": "Kpada_v52q",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4920,7 +4920,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/44.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/44.jpg"
     },
     "id": 196
   },
@@ -4933,7 +4933,7 @@
           {
             "from_name": "choice",
             "id": "tSuA0a2fmz",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4945,7 +4945,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/45.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/45.jpg"
     },
     "id": 197
   },
@@ -4958,7 +4958,7 @@
           {
             "from_name": "choice",
             "id": "pmyZr6mDif",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4970,7 +4970,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/46.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/46.jpg"
     },
     "id": 198
   },
@@ -4983,7 +4983,7 @@
           {
             "from_name": "choice",
             "id": "IyApl6-G-M",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -4995,7 +4995,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/47.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/47.jpg"
     },
     "id": 199
   },
@@ -5008,7 +5008,7 @@
           {
             "from_name": "choice",
             "id": "10TWYSiM4N",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -5020,7 +5020,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/48.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/48.jpg"
     },
     "id": 200
   },
@@ -5033,7 +5033,7 @@
           {
             "from_name": "choice",
             "id": "AiJBigQvqz",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -5045,7 +5045,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/49.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/49.jpg"
     },
     "id": 201
   },
@@ -5058,7 +5058,7 @@
           {
             "from_name": "choice",
             "id": "vWFtAVu0a9",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -5070,7 +5070,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/50.jpg"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Shadow/Ep.4/50.jpg"
     },
     "id": 202
   }
