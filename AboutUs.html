@@ -1,0 +1,210 @@
+<!doctype html>
+<html>
+
+	<head>
+<style>
+
+.aboutuss{
+	text-align: center;
+	margin-top: 200px;
+	font-size: 60px;
+	margin-right: 300px;
+	font-family:'handwriting'
+
+	
+
+}
+
+.kiri{
+    float: left;
+    margin-left: 250px;
+}
+
+.kanan{
+    float:right;
+    margin-right: 250px;
+}
+.kotak{
+    border-style: solid;
+    border-color: #9AD3D5;
+    border-width: 10px;
+}
+body{
+	background-color: #9AD3D5;
+}
+</style>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Header</title>
+
+<link rel="stylesheet" href="demo.css">
+<link rel="stylesheet" href="header.css">
+<link href='http://fonts.googleapis.com/css?family=Cookie' rel='stylesheet' type='text/css'>
+
+
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<!-- Theme used for syntax highlighting of code -->
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+	<header class="header-user-dropdown">
+
+		<div class="header-limiter">
+			<h1><a href="../index.html">INFT<span>lyrics</span></a></h1>
+	
+			<nav >
+			  <a class="alatmus" href="../index.html">Beranda</a>
+			  <a class="alatmus" href="../new album\New_album.html">New Release</a>
+			  <a class="alatmus" href="../list_\list_lirik.html">List Lirik</a>
+			  <a class="alatmus" href="../About us\AboutUS.html">About Us</a>
+			  <a class="alatmus" href="#">Contact Us</a>
+			  <a class="alatmus" href="../artikel\artikel.html">Artikel</a>
+			  <a class="alatmus" href="../FAQ.html">FAQ</a>
+	
+			</nav>
+	
+	
+			<div class="header-user-menu">
+				<img src="logo.png" alt="User Image"/>
+	
+				<ul>
+					<li><a href="#">Settings</a></li>
+					<li><a href="#" class="highlight">Logout</a></li>
+				</ul>
+			</div>
+	
+		</div>
+	
+	</header>
+	<p class="aboutuss">About Us</p>
+		<div class="reveal">
+			<div class="slides">
+                
+                <div class="kiri">
+
+             
+                <section>
+					</br>
+					<img class="foto" src="Aull.jpg" width= 200 >
+					
+					<p>Aulia Rahmi</p>
+					<p>Mendengarkan musik, menonton film, travelling</p>
+					<p>SMAN 1 Lembang</p>
+					<p>Jadi boss dan keliling dunia</p>
+				</section></br></br></br></br>
+				<section>
+					</br>
+					<img class="foto" src="Fachri muhammad.jpg" width= 200>
+					
+					<p>Fachri Muhammad Bandang Haq</p>
+				
+					<p>Bermain game online</p>
+				
+					<p>SMAN 1 Rancaekek</p>
+		
+					<p>Bekerja sebagai seorang programmer di jepang</p>
+				</section></br></br></br></br>
+				<section">
+					</br>
+					<img class="foto" src="Meta.jpg" width= 200>
+				
+					<p>Meta Arda Nabila</p>
+				
+					<p>Sketch</p>
+				
+					<p>MAN 2 Cianjur</p>
+			
+					<p>Orang yang bermanfaat</p>
+					
+                </section>
+              
+            </div>
+        
+            <div class="kanan">
+
+            </br></br></br></br></br></br></br></br></br>
+				<section id="2">
+					</br>
+					<img class="foto" src="Putriii.jpg" width= 200>
+					
+					<p>Putri Syalwa Abdullah</p>
+				
+					<p>Mendengarkan musik dan membaca komik</p>
+				
+					<p>SMAN 3 Sukabumi</p>
+				
+					<p>Good leader and Good boss</p>
+					
+				</section></br></br></br></br></br></br></br></br>
+				<section id="1">
+					</br>
+					<img class="foto" src="qin.jpg" width= 200>
+					
+					<p>Qinthara Andari Saffanah</p>
+				
+					<p>Mendengarkan musik dan menggambar</p>
+					
+					<p>SMA 3 Bandung</p>
+				
+					<p>Jadi orang sukses dan keliling dunia</p>
+                </section>
+            </br></br></br></br></br></br></br></br>
+				<section id="2">
+					</br>
+					<img class="foto" src="shintaaa.jpg" width= 200>
+					
+					<p>Shinta Nurkaafi</p>
+					
+					<p>Memasak</p>
+				
+					<p>SMA Xaverius 1 Palembang</p>
+				
+					<p>Dosen</p>
+					
+                </section>
+            </div>
+
+			</div>
+		</div>
+		<script>
+
+			$(document).ready(function(){
+		
+				var userMenu = $('.header-user-dropdown .header-user-menu');
+		
+				userMenu.on('touchend', function(e){
+		
+					userMenu.addClass('show');
+		
+					e.preventDefault();
+					e.stopPropagation();
+		
+				});
+		
+				// This code makes the user dropdown work on mobile devices
+		
+				$(document).on('touchend', function(e){
+		
+					// If the page is touched anywhere outside the user menu, close it
+					userMenu.removeClass('show');
+		
+				});
+		
+			});
+		
+		</script>
+	</body>
+</html>
