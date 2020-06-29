@@ -125,7 +125,7 @@ chart.render();
        </script>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1, shrink-to-fit=no">
-<title>Pasutri Gaje</title>
+<title>Watermelon</title>
 <meta name="description" content="All details about Watermelon manga. Free chapters of Watermelon Manga.">
 <meta name="keywords" content="Watermelon, Watermelon manga, Watermelon chapter, Watermelon manga online, read Watermelon manga online">
 <meta http-equiv="robots" content="index,follow">
@@ -530,7 +530,7 @@ Artist
                     var ss = new Scene(value.completions[0].result[0].value.choices,value.data.image_url);
                     ArrLainnya.push(ss);}
 
-            document.getElementById("Scene17").innerHTML =" Total data yang dilabeling \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + i;
+            document.getElementById("Scene17").innerHTML =" Total data yang dilabeling \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0= " + ArrBahagia[0];
 
             localStorage.setItem('Romantis', Romantis);
             localStorage.setItem('Lucu', Lucu);
@@ -750,7 +750,9 @@ function generateTable(table, data) {
       let text = document.createTextNode(element[key]);
       let link = document.createTextNode(element[key]);
       a.appendChild(text);
-      a.href=element[key];
+      if(key=="img"){
+        a.href=element[key];
+    }
       cell.appendChild(a);
 
     }

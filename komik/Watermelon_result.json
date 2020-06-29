@@ -8,7 +8,7 @@
           {
             "from_name": "choice",
             "id": "jj6BuLUWo4",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -20,7 +20,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-1.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-1.PNG"
     },
     "id": 0
   },
@@ -33,7 +33,7 @@
           {
             "from_name": "choice",
             "id": "JtKszEZmUX",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -45,7 +45,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-2.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-2.PNG"
     },
     "id": 1
   },
@@ -58,7 +58,7 @@
           {
             "from_name": "choice",
             "id": "Dwofh2uX0t",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -70,7 +70,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-3.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-3.PNG"
     },
     "id": 2
   },
@@ -83,7 +83,7 @@
           {
             "from_name": "choice",
             "id": "rJ0RirTVy8",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -95,7 +95,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-4.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-4.PNG"
     },
     "id": 3
   },
@@ -108,7 +108,7 @@
           {
             "from_name": "choice",
             "id": "5rjRcRchtD",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -120,7 +120,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-5.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-5.PNG"
     },
     "id": 4
   },
@@ -133,7 +133,7 @@
           {
             "from_name": "choice",
             "id": "f-F_QXmFh9",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -145,7 +145,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-6.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-6.PNG"
     },
     "id": 5
   },
@@ -158,7 +158,7 @@
           {
             "from_name": "choice",
             "id": "fB-4suBuVh",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -170,7 +170,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-7.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-7.PNG"
     },
     "id": 6
   },
@@ -183,7 +183,7 @@
           {
             "from_name": "choice",
             "id": "DpSa7LU6QA",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -195,7 +195,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-8.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-8.PNG"
     },
     "id": 7
   },
@@ -208,7 +208,7 @@
           {
             "from_name": "choice",
             "id": "o5mVRtxvaN",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -220,7 +220,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-9.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-9.PNG"
     },
     "id": 8
   },
@@ -233,7 +233,7 @@
           {
             "from_name": "choice",
             "id": "hQQhcc0-pL",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -245,7 +245,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-10.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-10.PNG"
     },
     "id": 9
   },
@@ -258,7 +258,7 @@
           {
             "from_name": "choice",
             "id": "mlq6pPwV48",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -270,7 +270,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-11.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-11.PNG"
     },
     "id": 10
   },
@@ -283,7 +283,7 @@
           {
             "from_name": "choice",
             "id": "AD3K6WqqCJ",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -295,7 +295,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-12.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-12.PNG"
     },
     "id": 11
   },
@@ -308,7 +308,7 @@
           {
             "from_name": "choice",
             "id": "b5hTBehYYt",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -320,7 +320,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-13.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-13.PNG"
     },
     "id": 12
   },
@@ -333,7 +333,7 @@
           {
             "from_name": "choice",
             "id": "mno1SbeWHo",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -345,7 +345,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-14.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-14.PNG"
     },
     "id": 13
   },
@@ -358,7 +358,7 @@
           {
             "from_name": "choice",
             "id": "btVxC99zph",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -370,7 +370,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-15.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-15.PNG"
     },
     "id": 14
   },
@@ -383,7 +383,7 @@
           {
             "from_name": "choice",
             "id": "TC89mNWod6",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -395,7 +395,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-16.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-16.PNG"
     },
     "id": 15
   },
@@ -408,7 +408,7 @@
           {
             "from_name": "choice",
             "id": "cSIIk7cUNE",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -420,7 +420,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-17.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-17.PNG"
     },
     "id": 16
   },
@@ -433,7 +433,7 @@
           {
             "from_name": "choice",
             "id": "7kk3oiIhIK",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -445,7 +445,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-18.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-18.PNG"
     },
     "id": 17
   },
@@ -458,7 +458,7 @@
           {
             "from_name": "choice",
             "id": "UyyIoOQ_Xn",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -470,7 +470,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-19.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-19.PNG"
     },
     "id": 18
   },
@@ -483,7 +483,7 @@
           {
             "from_name": "choice",
             "id": "rtiTj3eKy-",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -495,7 +495,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-20.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-20.PNG"
     },
     "id": 19
   },
@@ -508,7 +508,7 @@
           {
             "from_name": "choice",
             "id": "flDfIg2yfh",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -520,7 +520,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-21.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-prologue/Watermelon-prologue-21.PNG"
     },
     "id": 20
   },
@@ -533,7 +533,7 @@
           {
             "from_name": "choice",
             "id": "PM0I9Mli5K",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -545,7 +545,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-1.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-1.PNG"
     },
     "id": 21
   },
@@ -558,7 +558,7 @@
           {
             "from_name": "choice",
             "id": "XDMV8gSYB1",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -570,7 +570,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-2.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-2.PNG"
     },
     "id": 22
   },
@@ -583,7 +583,7 @@
           {
             "from_name": "choice",
             "id": "y44o3hiNob",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -595,7 +595,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-3.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-3.PNG"
     },
     "id": 23
   },
@@ -608,7 +608,7 @@
           {
             "from_name": "choice",
             "id": "Io3kXLL_5G",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -620,7 +620,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-4.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-4.PNG"
     },
     "id": 24
   },
@@ -633,7 +633,7 @@
           {
             "from_name": "choice",
             "id": "ZzizodbuL3",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -645,7 +645,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-5.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-5.PNG"
     },
     "id": 25
   },
@@ -658,7 +658,7 @@
           {
             "from_name": "choice",
             "id": "YUeWm9RE_h",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -670,7 +670,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-6.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-6.PNG"
     },
     "id": 26
   },
@@ -683,7 +683,7 @@
           {
             "from_name": "choice",
             "id": "avZSzGw6vQ",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -695,7 +695,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-7.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-7.PNG"
     },
     "id": 27
   },
@@ -708,7 +708,7 @@
           {
             "from_name": "choice",
             "id": "QO64xIQc6R",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -720,7 +720,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-8.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-8.PNG"
     },
     "id": 28
   },
@@ -733,7 +733,7 @@
           {
             "from_name": "choice",
             "id": "WzPTjCuND5",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -745,7 +745,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-9.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-9.PNG"
     },
     "id": 29
   },
@@ -758,7 +758,7 @@
           {
             "from_name": "choice",
             "id": "efqoZqV1XE",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -770,7 +770,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-10.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-10.PNG"
     },
     "id": 30
   },
@@ -783,7 +783,7 @@
           {
             "from_name": "choice",
             "id": "Ooe9XNhJLD",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -795,7 +795,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-11.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-11.PNG"
     },
     "id": 31
   },
@@ -808,7 +808,7 @@
           {
             "from_name": "choice",
             "id": "UJcSx54czl",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -820,7 +820,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-12.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-12.PNG"
     },
     "id": 32
   },
@@ -833,7 +833,7 @@
           {
             "from_name": "choice",
             "id": "ijGOPGbMRO",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -845,7 +845,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-13.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-13.PNG"
     },
     "id": 33
   },
@@ -858,7 +858,7 @@
           {
             "from_name": "choice",
             "id": "PsRy5ng-oV",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -870,7 +870,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-14.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-14.PNG"
     },
     "id": 34
   },
@@ -883,7 +883,7 @@
           {
             "from_name": "choice",
             "id": "lzV0DHWFgg",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -895,7 +895,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-15.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-15.PNG"
     },
     "id": 35
   },
@@ -908,7 +908,7 @@
           {
             "from_name": "choice",
             "id": "LIkdkbz2iQ",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -920,7 +920,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-16.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%201/Watermelon-episode%201-16.PNG"
     },
     "id": 36
   },
@@ -933,7 +933,7 @@
           {
             "from_name": "choice",
             "id": "I7M98eSmmn",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -945,7 +945,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-1.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-1.PNG"
     },
     "id": 37
   },
@@ -958,7 +958,7 @@
           {
             "from_name": "choice",
             "id": "kCmsxLPThe",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -970,7 +970,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-2.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-2.PNG"
     },
     "id": 38
   },
@@ -983,7 +983,7 @@
           {
             "from_name": "choice",
             "id": "pPo0vtnBon",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -995,7 +995,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-3.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-3.PNG"
     },
     "id": 39
   },
@@ -1008,7 +1008,7 @@
           {
             "from_name": "choice",
             "id": "BdnCJmJj6n",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1020,7 +1020,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-4.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-4.PNG"
     },
     "id": 40
   },
@@ -1033,7 +1033,7 @@
           {
             "from_name": "choice",
             "id": "Pzzetceg5D",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1045,7 +1045,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-5.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-5.PNG"
     },
     "id": 41
   },
@@ -1058,7 +1058,7 @@
           {
             "from_name": "choice",
             "id": "I_2YziM3Fg",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1070,7 +1070,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-6.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-6.PNG"
     },
     "id": 42
   },
@@ -1083,7 +1083,7 @@
           {
             "from_name": "choice",
             "id": "neqMqmgaTD",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1095,7 +1095,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-7.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-7.PNG"
     },
     "id": 43
   },
@@ -1108,7 +1108,7 @@
           {
             "from_name": "choice",
             "id": "Kd9Yf0lO75",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1120,7 +1120,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-8.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-8.PNG"
     },
     "id": 44
   },
@@ -1133,7 +1133,7 @@
           {
             "from_name": "choice",
             "id": "kBo_llT10f",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1145,7 +1145,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-9.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-9.PNG"
     },
     "id": 45
   },
@@ -1158,7 +1158,7 @@
           {
             "from_name": "choice",
             "id": "9HPJv4imIc",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1170,7 +1170,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-10.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-10.PNG"
     },
     "id": 46
   },
@@ -1183,7 +1183,7 @@
           {
             "from_name": "choice",
             "id": "SrLcNvGMsK",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1195,7 +1195,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-11.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-11.PNG"
     },
     "id": 47
   },
@@ -1208,7 +1208,7 @@
           {
             "from_name": "choice",
             "id": "dGY_RKz2kw",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1220,7 +1220,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-12.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-12.PNG"
     },
     "id": 48
   },
@@ -1233,7 +1233,7 @@
           {
             "from_name": "choice",
             "id": "k6ToVPMQF-",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1245,7 +1245,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-13.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-13.PNG"
     },
     "id": 49
   },
@@ -1258,7 +1258,7 @@
           {
             "from_name": "choice",
             "id": "Kola41HxdV",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1270,7 +1270,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-14.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-14.PNG"
     },
     "id": 50
   },
@@ -1283,7 +1283,7 @@
           {
             "from_name": "choice",
             "id": "puMrh6RPa8",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1295,7 +1295,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-15.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-15.PNG"
     },
     "id": 51
   },
@@ -1308,7 +1308,7 @@
           {
             "from_name": "choice",
             "id": "DcXlIibP32",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1320,7 +1320,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-16.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-16.PNG"
     },
     "id": 52
   },
@@ -1333,7 +1333,7 @@
           {
             "from_name": "choice",
             "id": "5PBHKQBqUB",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1345,7 +1345,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-17.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-17.PNG"
     },
     "id": 53
   },
@@ -1358,7 +1358,7 @@
           {
             "from_name": "choice",
             "id": "loxz98JZk6",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1370,7 +1370,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-18.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-18.PNG"
     },
     "id": 54
   },
@@ -1383,7 +1383,7 @@
           {
             "from_name": "choice",
             "id": "MegB5wemi-",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1395,7 +1395,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-19.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-19.PNG"
     },
     "id": 55
   },
@@ -1408,7 +1408,7 @@
           {
             "from_name": "choice",
             "id": "WXVHRKFUrz",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1420,7 +1420,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-20.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-20.PNG"
     },
     "id": 56
   },
@@ -1433,7 +1433,7 @@
           {
             "from_name": "choice",
             "id": "066cnsa5Pb",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1445,7 +1445,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-21.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-21.PNG"
     },
     "id": 57
   },
@@ -1458,7 +1458,7 @@
           {
             "from_name": "choice",
             "id": "e67wejbk7B",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1470,7 +1470,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-22.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-22.PNG"
     },
     "id": 58
   },
@@ -1483,7 +1483,7 @@
           {
             "from_name": "choice",
             "id": "xbmPzmGwky",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1495,7 +1495,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-23.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%202/Watermelon-episode%202-23.PNG"
     },
     "id": 59
   },
@@ -1508,7 +1508,7 @@
           {
             "from_name": "choice",
             "id": "ehBY_5gL3H",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1520,7 +1520,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-1.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-1.PNG"
     },
     "id": 60
   },
@@ -1533,7 +1533,7 @@
           {
             "from_name": "choice",
             "id": "1hYRbSTTm6",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1545,7 +1545,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-2.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-2.PNG"
     },
     "id": 61
   },
@@ -1558,7 +1558,7 @@
           {
             "from_name": "choice",
             "id": "RAv2LR8_YJ",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1570,7 +1570,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-3.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-3.PNG"
     },
     "id": 62
   },
@@ -1583,7 +1583,7 @@
           {
             "from_name": "choice",
             "id": "SRQS3IpY03",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1595,7 +1595,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-4.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-4.PNG"
     },
     "id": 63
   },
@@ -1608,7 +1608,7 @@
           {
             "from_name": "choice",
             "id": "wo-3G9qgaQ",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1620,7 +1620,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-5.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-5.PNG"
     },
     "id": 64
   },
@@ -1633,7 +1633,7 @@
           {
             "from_name": "choice",
             "id": "grs_eJB_Vo",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1645,7 +1645,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-6.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-6.PNG"
     },
     "id": 65
   },
@@ -1658,7 +1658,7 @@
           {
             "from_name": "choice",
             "id": "QZtbA74o9j",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1670,7 +1670,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-7.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-7.PNG"
     },
     "id": 66
   },
@@ -1683,7 +1683,7 @@
           {
             "from_name": "choice",
             "id": "_BBm_xFlE7",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1695,7 +1695,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-8.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-8.PNG"
     },
     "id": 67
   },
@@ -1708,7 +1708,7 @@
           {
             "from_name": "choice",
             "id": "pHdd2ufby7",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1720,7 +1720,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-9.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-9.PNG"
     },
     "id": 68
   },
@@ -1733,7 +1733,7 @@
           {
             "from_name": "choice",
             "id": "5zKJ4szv_b",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1745,7 +1745,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-10.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-10.PNG"
     },
     "id": 69
   },
@@ -1758,7 +1758,7 @@
           {
             "from_name": "choice",
             "id": "66kgcfSVLe",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1770,7 +1770,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-11.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-11.PNG"
     },
     "id": 70
   },
@@ -1783,7 +1783,7 @@
           {
             "from_name": "choice",
             "id": "cJXbQm6h7l",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1795,7 +1795,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-12.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-12.PNG"
     },
     "id": 71
   },
@@ -1808,7 +1808,7 @@
           {
             "from_name": "choice",
             "id": "7i6wu9kz6U",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1820,7 +1820,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-13.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-13.PNG"
     },
     "id": 72
   },
@@ -1833,7 +1833,7 @@
           {
             "from_name": "choice",
             "id": "rwhxSOF-8s",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1845,7 +1845,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-14.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-14.PNG"
     },
     "id": 73
   },
@@ -1858,7 +1858,7 @@
           {
             "from_name": "choice",
             "id": "l0JMD5e-P7",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1870,7 +1870,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-15.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-15.PNG"
     },
     "id": 74
   },
@@ -1883,7 +1883,7 @@
           {
             "from_name": "choice",
             "id": "XbrD6bb0Em",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1895,7 +1895,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-16.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-16.PNG"
     },
     "id": 75
   },
@@ -1908,7 +1908,7 @@
           {
             "from_name": "choice",
             "id": "wY4rTuQOR9",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1920,7 +1920,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-17.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-17.PNG"
     },
     "id": 76
   },
@@ -1933,7 +1933,7 @@
           {
             "from_name": "choice",
             "id": "yM3A8_w5oT",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1945,7 +1945,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-18.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-18.PNG"
     },
     "id": 77
   },
@@ -1958,7 +1958,7 @@
           {
             "from_name": "choice",
             "id": "IZlid3OnSj",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1970,7 +1970,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-19.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-19.PNG"
     },
     "id": 78
   },
@@ -1983,7 +1983,7 @@
           {
             "from_name": "choice",
             "id": "wWz3ut9a1P",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -1995,7 +1995,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-20.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-20.PNG"
     },
     "id": 79
   },
@@ -2008,7 +2008,7 @@
           {
             "from_name": "choice",
             "id": "S15hPD-FFA",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2020,7 +2020,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-21.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-21.PNG"
     },
     "id": 80
   },
@@ -2033,7 +2033,7 @@
           {
             "from_name": "choice",
             "id": "Tg2Xatynyo",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2045,7 +2045,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-22.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-22.PNG"
     },
     "id": 81
   },
@@ -2058,7 +2058,7 @@
           {
             "from_name": "choice",
             "id": "XIpyNdlL6v",
-            "to_name": "image",
+            "to_name": "image_url",
             "type": "choices",
             "value": {
               "choices": [
@@ -2070,7 +2070,7 @@
       }
     ],
     "data": {
-      "image": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-23.PNG"
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Watermelon/Watermelon-episode%203/Watermelon-episode%203-23.PNG"
     },
     "id": 82
   }
