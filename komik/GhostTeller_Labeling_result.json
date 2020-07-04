@@ -1,0 +1,1315 @@
+[
+  {
+    "completions": [
+      {
+        "id": 1,
+        "lead_time": 3.763,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "eFj6Hu2DCP",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-0.png"
+    },
+    "id": 0
+  },
+  {
+    "completions": [
+      {
+        "id": 1001,
+        "lead_time": 5.254,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "ViqfXL7WJM",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-1.png"
+    },
+    "id": 1
+  },
+  {
+    "completions": [
+      {
+        "id": 10001,
+        "lead_time": 9.639,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "DDAC2TZ__P",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-10.png"
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "id": 11001,
+        "lead_time": 5.059,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "4ZJYV1XDos",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-11.png"
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "id": 12001,
+        "lead_time": 2.363,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "OG3wDB6mCI",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-12.png"
+    },
+    "id": 12
+  },
+  {
+    "completions": [
+      {
+        "id": 13001,
+        "lead_time": 9.732,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "gag2yNlFMl",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-13.png"
+    },
+    "id": 13
+  },
+  {
+    "completions": [
+      {
+        "id": 14001,
+        "lead_time": 3.922,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "2Mx9q-G-yF",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-14.png"
+    },
+    "id": 14
+  },
+  {
+    "completions": [
+      {
+        "id": 15001,
+        "lead_time": 5.232,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "hyj1maXuD1",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-15.png"
+    },
+    "id": 15
+  },
+  {
+    "completions": [
+      {
+        "id": 16001,
+        "lead_time": 5.888,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "-S0aInMc3m",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-16.png"
+    },
+    "id": 16
+  },
+  {
+    "completions": [
+      {
+        "id": 17001,
+        "lead_time": 4.935,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "zSfn2cBQs-",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-17.png"
+    },
+    "id": 17
+  },
+  {
+    "completions": [
+      {
+        "id": 18001,
+        "lead_time": 4.142,
+        "result": []
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-18.png"
+    },
+    "id": 18
+  },
+  {
+    "completions": [
+      {
+        "id": 19001,
+        "lead_time": 14.169,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "HmdVX4U8I6",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-19.png"
+    },
+    "id": 19
+  },
+  {
+    "completions": [
+      {
+        "id": 2001,
+        "lead_time": 2.609,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "utcFBBOIvh",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-2.png"
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "id": 20001,
+        "lead_time": 6.379,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "aQsAUKpyHm",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-20.png"
+    },
+    "id": 20
+  },
+  {
+    "completions": [
+      {
+        "id": 21001,
+        "lead_time": 5.09,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "m8ktcm9mFk",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-21.png"
+    },
+    "id": 21
+  },
+  {
+    "completions": [
+      {
+        "id": 22001,
+        "lead_time": 6.164,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "TQrRpv9NNR",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-22.png"
+    },
+    "id": 22
+  },
+  {
+    "completions": [
+      {
+        "id": 23001,
+        "lead_time": 24.675,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "GXFlumD8ys",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-23.png"
+    },
+    "id": 23
+  },
+  {
+    "completions": [
+      {
+        "id": 24001,
+        "lead_time": 4.029,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "SmCSP8OS_C",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-24.png"
+    },
+    "id": 24
+  },
+  {
+    "completions": [
+      {
+        "id": 25001,
+        "lead_time": 5.402,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "qKfgmN28cw",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-25.png"
+    },
+    "id": 25
+  },
+  {
+    "completions": [
+      {
+        "id": 26001,
+        "lead_time": 26.009,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "gJAQhUi2WB",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-26.png"
+    },
+    "id": 26
+  },
+  {
+    "completions": [
+      {
+        "id": 27001,
+        "lead_time": 4.175,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "o7dmvh_LqE",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-27.png"
+    },
+    "id": 27
+  },
+  {
+    "completions": [
+      {
+        "id": 28001,
+        "lead_time": 4.486,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "AEtLTcP25z",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-28.png"
+    },
+    "id": 28
+  },
+  {
+    "completions": [
+      {
+        "id": 29001,
+        "lead_time": 12.543,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "673j1obJvb",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-29.png"
+    },
+    "id": 29
+  },
+  {
+    "completions": [
+      {
+        "id": 3001,
+        "lead_time": 5.461,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "QunnHOrqwY",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-3.png"
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "id": 30001,
+        "lead_time": 24.802,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "giX4F_fnsN",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-30.png"
+    },
+    "id": 30
+  },
+  {
+    "completions": [
+      {
+        "id": 31001,
+        "lead_time": 18.001,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Av7_SDKupl",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-31.png"
+    },
+    "id": 31
+  },
+  {
+    "completions": [
+      {
+        "id": 32001,
+        "lead_time": 13.105,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Hbms7jNSsI",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-32.png"
+    },
+    "id": 32
+  },
+  {
+    "completions": [
+      {
+        "id": 33001,
+        "lead_time": 3.732,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "zW3ODJJRwN",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-33.png"
+    },
+    "id": 33
+  },
+  {
+    "completions": [
+      {
+        "id": 34001,
+        "lead_time": 3.448,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Q1oMctrXIo",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-34.png"
+    },
+    "id": 34
+  },
+  {
+    "completions": [
+      {
+        "id": 35001,
+        "lead_time": 23.489,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "_cC5tOM8Ck",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-35.png"
+    },
+    "id": 35
+  },
+  {
+    "completions": [
+      {
+        "id": 36001,
+        "lead_time": 5.266,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "AXhJOHTiF5",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-36.png"
+    },
+    "id": 36
+  },
+  {
+    "completions": [
+      {
+        "id": 37001,
+        "lead_time": 11.262,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "WMm_rbbxJ3",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-37.png"
+    },
+    "id": 37
+  },
+  {
+    "completions": [
+      {
+        "id": 38001,
+        "lead_time": 3.377,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "pGKpR3C8Kn",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-38.png"
+    },
+    "id": 38
+  },
+  {
+    "completions": [
+      {
+        "id": 39001,
+        "lead_time": 7.316,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "oWciRjQIOz",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-39.png"
+    },
+    "id": 39
+  },
+  {
+    "completions": [
+      {
+        "id": 4001,
+        "lead_time": 3.572,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "lRWwAiTn-c",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-4.png"
+    },
+    "id": 4
+  },
+  {
+    "completions": [
+      {
+        "id": 40001,
+        "lead_time": 5.849,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "OCqGBPhBaU",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-40.png"
+    },
+    "id": 40
+  },
+  {
+    "completions": [
+      {
+        "id": 41001,
+        "lead_time": 3.725,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "BklgBESEsg",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Fantasy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-41.png"
+    },
+    "id": 41
+  },
+  {
+    "completions": [
+      {
+        "id": 42001,
+        "lead_time": 5.991,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "jJY5D8vR9Q",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-42.png"
+    },
+    "id": 42
+  },
+  {
+    "completions": [
+      {
+        "id": 43001,
+        "lead_time": 3.483,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "t48bT3wZBq",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-43.png"
+    },
+    "id": 43
+  },
+  {
+    "completions": [
+      {
+        "id": 44001,
+        "lead_time": 2.536,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "Xv0Qqc7c9k",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-44.png"
+    },
+    "id": 44
+  },
+  {
+    "completions": [
+      {
+        "id": 45001,
+        "lead_time": 6.429,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "S8iSIMkXcv",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-45.png"
+    },
+    "id": 45
+  },
+  {
+    "completions": [
+      {
+        "id": 46001,
+        "lead_time": 13.764,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "lPMmeOTJM1",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-46.png"
+    },
+    "id": 46
+  },
+  {
+    "completions": [
+      {
+        "id": 47001,
+        "lead_time": 7.101,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "YDWJrfy3Ri",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-47.png"
+    },
+    "id": 47
+  },
+  {
+    "completions": [
+      {
+        "id": 48001,
+        "lead_time": 4.651,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "xLQ4GwPBjH",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-48.png"
+    },
+    "id": 48
+  },
+  {
+    "completions": [
+      {
+        "id": 49001,
+        "lead_time": 4.057,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "c01-4_LMv2",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-49.png"
+    },
+    "id": 49
+  },
+  {
+    "completions": [
+      {
+        "id": 5001,
+        "lead_time": 6.023,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "pRl05SbJDb",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-5.png"
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "id": 50001,
+        "lead_time": 6.875,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "YFP1T00bC8",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-50.png"
+    },
+    "id": 50
+  },
+  {
+    "completions": [
+      {
+        "id": 51001,
+        "lead_time": 2.88,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "rSrNbFORqs",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Horror"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-51.png"
+    },
+    "id": 51
+  },
+  {
+    "completions": [
+      {
+        "id": 52001,
+        "lead_time": 6.164,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "duE_ruDtNj",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-52.png"
+    },
+    "id": 52
+  },
+  {
+    "completions": [
+      {
+        "id": 6001,
+        "lead_time": 5.773,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "rYC03ij0mN",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "Comedy"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-6.png"
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "id": 7001,
+        "lead_time": 6.499,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "PnUjcJQDz8",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-7.png"
+    },
+    "id": 7
+  },
+  {
+    "completions": [
+      {
+        "id": 8001,
+        "lead_time": 2.633,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "OXmU6XotL6",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-8.png"
+    },
+    "id": 8
+  },
+  {
+    "completions": [
+      {
+        "id": 9001,
+        "lead_time": 7.261,
+        "result": [
+          {
+            "from_name": "choice",
+            "id": "pk2wHFLzAu",
+            "to_name": "img",
+            "type": "choices",
+            "value": {
+              "choices": [
+                "SliceOFLife"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "image_url": "https://inft.github.io/INFTWebToon.github.io/komik/Ghost Teller/eps 01/Ghost Teller-Episode01-9.png"
+    },
+    "id": 9
+  }
+]
