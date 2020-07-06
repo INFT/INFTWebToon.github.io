@@ -37,6 +37,9 @@
 			background: #555;
 			border-radius: 50%;
         }
+        table, th, td {
+          border: 1px solid grey;
+        }
         table {
         margin-left: auto; 
         margin-right: auto;
@@ -403,6 +406,7 @@ Artist
     <button class="buttontabel" onclick="show_table8()">Others</button>
     
 <div class="tableSpot">
+        <h2 class="JudulKategori"></h2>
       <table class="tablecontent"></table>
 </div>  
 </div>
@@ -585,6 +589,8 @@ function Scene(sScene, simg) {
 function show_table1(TableChoice){
     Geeks();
     resotre();
+    let ax = document.getElementsByClassName("JudulKategori");
+    ax[0].innerHTML = "Kategori Scene Drama" ;
     var retrievedObject =[];
  retrievedObject= JSON.parse(localStorage.getItem('ArrDrama'));
 let table = document.querySelector(".tablecontent");
@@ -595,6 +601,8 @@ generateTable(table, retrievedObject);
 function show_table2(TableChoice){
     Geeks();
     resotre();
+    let ax = document.getElementsByClassName("JudulKategori");
+    ax[0].innerHTML = "Kategori Scene Action" ;
     var retrievedObject =[];
  retrievedObject= JSON.parse(localStorage.getItem('ArrAction'));
 let table = document.querySelector(".tablecontent");
@@ -605,6 +613,8 @@ generateTable(table, retrievedObject);
 function show_table3(TableChoice){
     Geeks();
     resotre();
+    let ax = document.getElementsByClassName("JudulKategori");
+    ax[0].innerHTML = "Kategori Scene Fantasy" ;
     var retrievedObject =[];
  retrievedObject= JSON.parse(localStorage.getItem('ArrFantasy'));
 let table = document.querySelector(".tablecontent");
@@ -615,6 +625,8 @@ generateTable(table, retrievedObject);
 function show_table4(TableChoice){
     Geeks();
     resotre();
+    let ax = document.getElementsByClassName("JudulKategori");
+    ax[0].innerHTML = "Kategori Scene Romance" ;
     var retrievedObject =[];
  retrievedObject= JSON.parse(localStorage.getItem('ArrRomance'));
 let table = document.querySelector(".tablecontent");
@@ -625,6 +637,8 @@ generateTable(table, retrievedObject);
 function show_table5(TableChoice){
     Geeks();
     resotre();
+    let ax = document.getElementsByClassName("JudulKategori");
+    ax[0].innerHTML = "Kategori Scene Creepy" ;
     var retrievedObject =[];
  retrievedObject= JSON.parse(localStorage.getItem('ArrCreepy'));
 let table = document.querySelector(".tablecontent");
@@ -635,6 +649,8 @@ generateTable(table, retrievedObject);
 function show_table6(TableChoice){
     Geeks();
     resotre();
+    let ax = document.getElementsByClassName("JudulKategori");
+    ax[0].innerHTML = "Kategori Scene Bullying" ;
     var retrievedObject =[];
  retrievedObject= JSON.parse(localStorage.getItem('ArrBullying'));
 let table = document.querySelector(".tablecontent");
@@ -645,6 +661,8 @@ generateTable(table, retrievedObject);
 function show_table7(TableChoice){
     Geeks();
     resotre();
+    let ax = document.getElementsByClassName("JudulKategori");
+    ax[0].innerHTML = "Kategori Scene Slice of Life" ;
     var retrievedObject =[];
  retrievedObject= JSON.parse(localStorage.getItem('ArrSliceOfLife'));
 let table = document.querySelector(".tablecontent");
@@ -655,6 +673,8 @@ generateTable(table, retrievedObject);
 function show_table8(TableChoice){
     Geeks();
     resotre();
+    let ax = document.getElementsByClassName("JudulKategori");
+    ax[0].innerHTML = "Kategori Scene Others" ;
     var retrievedObject =[];
  retrievedObject= JSON.parse(localStorage.getItem('ArrOthers'));
 let table = document.querySelector(".tablecontent");
@@ -714,11 +734,13 @@ function generateTable(table, data) {
   }
 }
 function Geeks() { 
-            $('.tablecontent').detach(); 
+            $('.tablecontent').detach();
+            $('.JudulKategori').detach(); 
         } 
 function resotre(){
 
             $( '<table class="tablecontent"></table>"' ).prependTo( $( ".tableSpot" ) );
+            $( '<h2 class="JudulKategori"> </h2>"' ).prependTo( $( ".tableSpot" ) );
         }
         function showTable(){
 document.getElementById('table').style.visibility = "visible";
