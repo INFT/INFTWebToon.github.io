@@ -53,10 +53,10 @@ var chart = new CanvasJS.Chart("chartContainer", {
 		itemclick: explodePie
 	},
 	data: [{
-		type: "pie",
-		showInLegend: true,
-		toolTipContent: "{name}: <strong>{y}</strong> ",
-        indexLabel: "{name} - {y}",
+        type: "pie",
+			indexLabel: "#percent%",
+			percentFormatString: "#0.##",
+			toolTipContent: "{name} : {y} (#percent%)",
 		dataPoints: [
 			{ y: Number(localStorage.getItem('Ketakutan')), name: " Ketakutan"},
 			{ y: Number(localStorage.getItem('Lucu')), name: "Lucu" },
