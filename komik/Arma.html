@@ -721,18 +721,34 @@ generateTable(table, retrievedObject);
 function generateTableHead(table, data) {
   let thead = table.createTHead();
   let row = thead.insertRow();
+  let th = document.createElement("th");
+  let textsh = document.createTextNode("No.");
+  th.appendChild(textsh);
+    row.appendChild(th);
+    let i=1;
+    
   for (let key of data) {
+
     let th = document.createElement("th");
     let text = document.createTextNode(key);
-    th.appendChild(text);
 
+    th.appendChild(text);
     row.appendChild(th);
+     i++;
   }
 }
 //CHEKKED----------------------------------------------------------------------------------------------------
 function generateTable(table, data) {
+  let counter=1;
   for (let element of data) {
     let row = table.insertRow();
+    
+    let TextNomer = document.createTextNode(counter);
+    let cellsNomer = row.insertCell();
+    cellsNomer.appendChild(TextNomer);
+    counter++;
+    
+    // a.appendChild(asd);
     for (key in element) {
 
       
@@ -741,6 +757,7 @@ function generateTable(table, data) {
 
       let text = document.createTextNode(element[key]);
       let link = document.createTextNode(element[key]);
+
       a.appendChild(text);
       if(key=="img"){
         a.href=element[key];
