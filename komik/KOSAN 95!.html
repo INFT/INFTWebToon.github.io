@@ -683,7 +683,6 @@ generateTableHead(table, data);
 generateTable(table, retrievedObject);
 }
 
-//CHEKKED----------------------------------------------------------------------------------------------------
 function generateTableHead(table, data) {
   let thead = table.createTHead();
   let row = thead.insertRow();
@@ -697,10 +696,13 @@ function generateTableHead(table, data) {
 
     let th = document.createElement("th");
     let text = document.createTextNode(key);
-
+    if(key=="img"){
+        text = document.createTextNode("Link Gambar");
+    }
+    if(key!="Scene"){
     th.appendChild(text);
     row.appendChild(th);
-     i++;
+    }
   }
 }
 //CHEKKED----------------------------------------------------------------------------------------------------
@@ -717,20 +719,24 @@ function generateTable(table, data) {
     // a.appendChild(asd);
     for (key in element) {
 
-      
+        if(key!="Scene"){
       let cell = row.insertCell();
       let a =document.createElement("a");
 
       let text = document.createTextNode(element[key]);
       let link = document.createTextNode(element[key]);
 
-      a.appendChild(text);
-      if(key=="img"){
-        a.href=element[key];
-    }
-      cell.appendChild(a);
+      
+        
+            a.appendChild(text);
+            if(key=="img"){
+                a.href=element[key];
+            }
+            cell.appendChild(a);
 
-    }
+        }
+
+        }
   }
 }
 function Geeks() { 
