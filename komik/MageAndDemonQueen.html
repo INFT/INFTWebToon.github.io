@@ -44,6 +44,7 @@
         margin-left: auto; 
         margin-right: auto;
         }
+        }
         </style>
     <script>
         function myFunction() {
@@ -665,7 +666,7 @@ Artist
 <p id="Scene13"></p>
 <p id="Scene14"></p>
 <p id="Scene15"></p>
-<p id="Scene16"></p>
+<p class="Scene16"></p>
 
 
 
@@ -687,8 +688,9 @@ Artist
     <button class="buttontabel" onclick="show_table5()">Menggombal</button>
     <button class="buttontabel" onclick="show_table14()">Fantasy</button>
     <button class="buttontabel" onclick="show_table16()">Romantis</button>
-    
+
 <div class="tableSpot">
+    <h2 class="JudulKategori"></h2>
       <table class="tablecontent"></table>
 </div>  
 </div>
@@ -984,6 +986,7 @@ generateTableHead(table, data);
 generateTable(table, retrievedObject);
 }
 function show_table1(TableChoice){
+    
     Geeks();
     resotre();
     var retrievedObject =[];
@@ -994,8 +997,13 @@ generateTableHead(table, data);
 generateTable(table, retrievedObject);
 }
 function show_table2(TableChoice){
+
     Geeks();
     resotre();
+
+    let ax = document.getElementsByClassName("JudulKategori");
+    ax[0].innerHTML = "Kategori Scene Perkelahian" ;
+
     var retrievedObject =[];
  retrievedObject= JSON.parse(localStorage.getItem('ArrPerkelahian'));
 let table = document.querySelector(".tablecontent");
@@ -1006,16 +1014,25 @@ generateTable(table, retrievedObject);
 function show_table3(TableChoice){
     Geeks();
     resotre();
+
+    let ax = document.getElementsByClassName("JudulKategori");
+    ax[0].innerHTML = "Kategori Scene Lucu" ;
     var retrievedObject =[];
+ 
  retrievedObject= JSON.parse(localStorage.getItem('ArrLucu'));
 let table = document.querySelector(".tablecontent");
 let data = Object.keys(retrievedObject[0]);
 generateTableHead(table, data);
 generateTable(table, retrievedObject);
+
 }
 function show_table4(TableChoice){
     Geeks();
     resotre();
+
+    let ax = document.getElementsByClassName("JudulKategori");
+    ax[0].innerHTML = "Kategori Scene Bahagia" ;
+
     var retrievedObject =[];
  retrievedObject= JSON.parse(localStorage.getItem('ArrBahagia'));
 let table = document.querySelector(".tablecontent");
@@ -1026,6 +1043,11 @@ generateTable(table, retrievedObject);
 function show_table5(TableChoice){
     Geeks();
     resotre();
+
+    let ax = document.getElementsByClassName("JudulKategori");
+    ax[0].innerHTML = "Kategori Scene Menggombal" ;
+
+
     var retrievedObject =[];
  retrievedObject= JSON.parse(localStorage.getItem('ArrMenggombal'));
 let table = document.querySelector(".tablecontent");
@@ -1116,6 +1138,10 @@ generateTable(table, retrievedObject);
 function show_table14(TableChoice){
     Geeks();
     resotre();
+
+    let ax = document.getElementsByClassName("JudulKategori");
+    ax[0].innerHTML = "Kategori Scene Fantasy" ;
+
     var retrievedObject =[];
  retrievedObject= JSON.parse(localStorage.getItem('ArrFantasy'));
 let table = document.querySelector(".tablecontent");
@@ -1136,6 +1162,10 @@ generateTable(table, retrievedObject);
 function show_table16(TableChoice){
     Geeks();
     resotre();
+
+    let ax = document.getElementsByClassName("JudulKategori");
+    ax[0].innerHTML = "Kategori Scene Romantis" ;
+
     var retrievedObject =[];
  retrievedObject= JSON.parse(localStorage.getItem('ArrRomantis'));
 let table = document.querySelector(".tablecontent");
@@ -1158,10 +1188,13 @@ function generateTableHead(table, data) {
 
     let th = document.createElement("th");
     let text = document.createTextNode(key);
-
+    if(key=="img"){
+        text = document.createTextNode("Link Gambar");
+    }
+    if(key!="Scene"){
     th.appendChild(text);
     row.appendChild(th);
-     i++;
+    }
   }
 }
 //CHEKKED----------------------------------------------------------------------------------------------------
@@ -1178,29 +1211,37 @@ function generateTable(table, data) {
     // a.appendChild(asd);
     for (key in element) {
 
-      
+        if(key!="Scene"){
       let cell = row.insertCell();
       let a =document.createElement("a");
 
       let text = document.createTextNode(element[key]);
       let link = document.createTextNode(element[key]);
 
-      a.appendChild(text);
-      if(key=="img"){
-        a.href=element[key];
-    }
-      cell.appendChild(a);
+      
+        
+            a.appendChild(text);
+            if(key=="img"){
+                a.href=element[key];
+            }
+            cell.appendChild(a);
 
-    }
+        }
+
+        }
   }
 }
 function Geeks() { 
             $('.tablecontent').detach(); 
+            $('.JudulKategori').detach(); 
+            
         } 
 function resotre(){
 
             $( '<table class="tablecontent"></table>"' ).prependTo( $( ".tableSpot" ) );
+            $( '<h2 class="JudulKategori"> </h2>"' ).prependTo( $( ".tableSpot" ) );
         }
+
         function showTable(){
 document.getElementById('table').style.visibility = "visible";
 }
