@@ -38,12 +38,12 @@
         border-radius: 50%;
         }
         table, th, td {
-  border: 1px solid grey;
-}
-table {
-  margin-left: auto; 
-  margin-right: auto;
-}
+          border: 1px solid grey;
+        }
+        table {
+        margin-left: auto; 
+        margin-right: auto;
+        }
         </style>
     <script>
         function myFunction() {
@@ -67,7 +67,7 @@ var chart = new CanvasJS.Chart("chartContainer", {
         type: "pie",
 			indexLabel: "#percent%",
 			percentFormatString: "#0.##",
-			toolTipContent: "{y} (#percent%)",
+			toolTipContent: "{name} : {y} (#percent%)",
 		dataPoints: [
 			{ y: Number(localStorage.getItem('Perkelahian')), name: "Perkelahian",},
 			{ y: Number(localStorage.getItem('Lucu')), name: "Lucu" },
